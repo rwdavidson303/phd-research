@@ -1,0 +1,58 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: "From Lowest Price to Highest Public Value"
+theme: ananke
+
+params:
+  author: "Richard Davidson"
+  description: "PhD Research - University of Denver, Daniels College of Business"
+  favicon: ""
+  site_logo: ""
+  text_color: ""
+  background_color_class: "bg-dark-blue"
+  body_classes: "avenir bg-nearest-white"
+  post_content_classes: "avenir bg-nearest-white"
+  featured_image: ""
+  recent_posts_number: 10
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Research Overview"
+      url: "/research/"
+      weight: 2
+    - name: "Literature"
+      url: "/literature/"
+      weight: 3
+    - name: "Federal Data"
+      url: "/data/"
+      weight: 4
+    - name: "Global Practices"
+      url: "/global/"
+      weight: 5
+    - name: "Key People"
+      url: "/people/"
+      weight: 6
+    - name: "Articles Feed"
+      url: "/articles/"
+      weight: 7
+    - name: "About"
+      url: "/about/"
+      weight: 8
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+
+taxonomies:
+  tag: tags
+  category: categories
+
+pagination:
+  pagerSize: 20

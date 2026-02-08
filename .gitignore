@@ -1,0 +1,36 @@
+# Data files (too large for git)
+data/raw/
+data/processed/
+data/usaspending/*.zip
+data/usaspending/*.csv
+data/fpds/*.zip
+data/fpds/*.csv
+
+# Database files
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Hugo build output
+website/public/
+website/resources/
+
+# Logs
+automation/logs/
+
+# Environment
+.env
+*.key
