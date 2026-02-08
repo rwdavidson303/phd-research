@@ -19,6 +19,28 @@ SITE_CONTENT = PROJECT / "website" / "content"
 ARTICLES_DB = PROJECT / "research" / "articles" / "articles.db"
 
 
+def _article_link(title, doi, url):
+    """Return a markdown link for the article title.
+
+    Prefers DOI link (https://doi.org/...) when available,
+    falls back to the OpenAlex/source URL.
+    """
+    display = title or "Untitled"
+    if doi:
+        # Some DOIs in the DB are already full URLs
+        if doi.startswith("http"):
+            href = doi
+        else:
+            href = f"https://doi.org/{doi}"
+    elif url:
+        href = url
+    else:
+        return display  # no link available
+    # Escape pipes in title so markdown tables don't break
+    display = display.replace("|", "–")
+    return f"[{display}]({href})"
+
+
 def generate_articles_page():
     """Generate the articles feed page from the database."""
     if not ARTICLES_DB.exists():
@@ -31,35 +53,15 @@ def generate_articles_page():
     c.execute("SELECT COUNT(*) FROM articles")
     total = c.fetchone()[0]
 
-    # Get procurement-relevant articles sorted by citations
+    # Get ALL articles ordered newest to oldest (by year, then citations as tiebreaker)
     c.execute("""
-        SELECT title, authors, year, journal, citation_count, doi, abstract
+        SELECT title, authors, year, journal, citation_count, doi, url
         FROM articles
-        WHERE title LIKE '%procurement%'
-           OR title LIKE '%bid protest%'
-           OR title LIKE '%source selection%'
-           OR title LIKE '%LPTA%'
-           OR title LIKE '%best value%'
-           OR title LIKE '%public value%'
-           OR title LIKE '%auction%'
-           OR title LIKE '%transaction cost%'
-           OR title LIKE '%renegotiation%'
-           OR title LIKE '%government contract%'
-           OR title LIKE '%competitive bidding%'
-           OR title LIKE '%solicitation%'
-        ORDER BY citation_count DESC
-        LIMIT 50
+        ORDER BY year DESC, citation_count DESC
     """)
-    relevant = c.fetchall()
+    all_articles = c.fetchall()
 
-    # Get recent additions
-    c.execute("""
-        SELECT title, authors, year, journal, citation_count
-        FROM articles
-        ORDER BY date_found DESC
-        LIMIT 20
-    """)
-    recent = c.fetchall()
+    conn.close()
 
     # Build the page
     page = f"""---
@@ -72,39 +74,22 @@ weight: 6
 
 **{total} total articles** in the database | Last updated: {datetime.now().strftime('%B %d, %Y')}
 
-Articles are discovered automatically each morning through searches of OpenAlex and Semantic Scholar.
+Articles are discovered automatically each morning through searches of OpenAlex and Semantic Scholar. Click any title to read the original article.
 
 ---
 
-## Top Procurement-Relevant Articles
-
-Ranked by citation count. These are the most influential papers related to the dissertation.
+## All Articles — Newest First
 
 | # | Article | Authors | Year | Journal | Citations |
 |---|---------|---------|------|---------|-----------|
 """
-    for i, (title, authors, year, journal, cites, doi, abstract) in enumerate(relevant, 1):
-        # Truncate long fields for table readability
+    for i, (title, authors, year, journal, cites, doi, url) in enumerate(all_articles, 1):
+        # Build linked title, truncated for table readability
         short_title = (title[:70] + "...") if title and len(title) > 70 else (title or "")
+        linked_title = _article_link(short_title, doi, url)
         short_authors = (authors[:40] + "...") if authors and len(authors) > 40 else (authors or "")
         short_journal = (journal[:30] + "...") if journal and len(journal) > 30 else (journal or "")
-        page += f"| {i} | {short_title} | {short_authors} | {year or ''} | {short_journal} | {cites or 0:,} |\n"
-
-    page += f"""
-
----
-
-## 20 Most Recently Discovered
-
-| Article | Authors | Year | Citations |
-|---------|---------|------|-----------|
-"""
-    for title, authors, year, journal, cites in recent:
-        short_title = (title[:80] + "...") if title and len(title) > 80 else (title or "")
-        short_authors = (authors[:40] + "...") if authors and len(authors) > 40 else (authors or "")
-        page += f"| {short_title} | {short_authors} | {year or ''} | {cites or 0:,} |\n"
-
-    conn.close()
+        page += f"| {i} | {linked_title} | {short_authors} | {year or ''} | {short_journal} | {cites or 0:,} |\n"
 
     output = SITE_CONTENT / "articles" / "_index.md"
     output.write_text(page)
