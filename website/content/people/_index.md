@@ -16,47 +16,19 @@ weight: 5
 
 This document profiles the 25 individuals who have most significantly shaped the theory, law, policy, and practice of government procurement in the United States and internationally. These individuals were selected based on their scholarly contributions, policy influence, institutional leadership, and relevance to the dissertation's central thesis: that procurement should be evaluated on the basis of public value, not merely lowest price.
 
-The profiles are organized into four categories:
+The profiles are organized into four categories, ranked within each by importance and experience in the RFP field:
 1. **Academics and Scholars** (Entries 1--13)
 2. **Government and Policy Leaders** (Entries 14--19)
 3. **Legal Practitioners and Thought Leaders** (Entries 20--22)
 4. **International Scholars and Experts** (Entries 23--25)
 
+A combined [Overall Ranking](#overall-ranking-by-rfp-importance) across all categories appears at the end of this page.
+
 ---
 
 ## Academics and Scholars
 
-### 1. Steven L. Schooner
-
-**Current Title:** Nash & Cibinic Professor of Government Procurement Law, George Washington University Law School
-
-Steven L. Schooner is one of the most prominent scholars in U.S. government procurement law. Before joining GW Law in 1998, he served as the Associate Administrator for Procurement Law and Legislation at the Office of Federal Procurement Policy (OFPP) in the Office of Management and Budget, and as a trial and appellate attorney in the Commercial Litigation Branch of the U.S. Department of Justice. Professor Schooner's research spans federal procurement law, defense acquisition, sustainable procurement, comparative procurement systems, and public service ethics. He is perhaps best known for articulating the fundamental objectives of a government procurement system -- competition, integrity, transparency, efficiency, customer satisfaction, and best value -- in his widely cited 2002 article "Desiderata." He previously served as Senior Associate Dean for Academic Affairs at GW Law (2006--2008 and 2023--2025) and received the 2024 Jacob Burns Award for Extraordinary Service. He serves as faculty adviser to the ABA's *Public Contract Law Journal* and on the advisory boards of the Procurement Round Table and *The Government Contractor*.
-
-**Key Publications:**
-- "Desiderata: Objectives for a System of Government Contract Law" (2002)
-- *The Government Contracts Reference Book* (with Nash, O'Brien-DeBakey, & Edwards)
-- Extensive scholarship on sustainable procurement and defense acquisition reform
-
-**Relevance to Dissertation:** Schooner's "Desiderata" framework provides a normative foundation for evaluating procurement systems against public value objectives. His work on "best value" as a system objective directly supports the dissertation's central argument.
-
----
-
-### 2. Christopher R. Yukins
-
-**Current Title:** Lynn David Research Professor in Government Procurement Law, George Washington University Law School; Of Counsel, Arnold & Porter LLP
-
-Christopher R. Yukins is a leading authority on comparative and international procurement law. He holds a dual role as both a professor in GW Law's Government Procurement Law Program -- the oldest and most distinguished program of its kind, founded in 1960 -- and as of counsel to the global law firm Arnold & Porter. His scholarship bridges U.S. federal procurement law, European Union procurement directives, anti-corruption strategies, and procurement reform in developing countries. Professor Yukins regularly advises and lectures for organizations including the World Bank, the U.S. Department of Commerce, the International Anti-Corruption Academy (Vienna), the University of Turin, the University of Paris-Nanterre, Stockholm University, and Stellenbosch University (South Africa). He co-authored the fourth edition of *Formation of Government Contracts* with Cibinic and Nash, making him one of the stewards of the most important treatise series in government contracts. He has led studies commissioned by the Administrative Conference of the United States (ACUS) on procurement reform.
-
-**Key Publications:**
-- *Formation of Government Contracts* (4th ed., 2011, with Cibinic & Nash)
-- *Joint Public Procurement and Innovation: Lessons Across Borders* (co-edited with Racca, 2019)
-- *Integrity and Efficiency in Sustainable Public Contracts* (co-edited with Racca, 2014)
-
-**Relevance to Dissertation:** Yukins's comparative scholarship illuminates how different legal regimes approach the price-versus-value tradeoff. His work on joint procurement and innovation demonstrates how procurement design can optimize for outcomes beyond cost.
-
----
-
-### 3. Steven Kelman
+### 1. Steven Kelman
 
 **Current Title:** Weatherhead Professor of Public Management, Harvard Kennedy School of Government
 
@@ -69,9 +41,11 @@ Steven Kelman is the scholar most directly responsible for the intellectual foun
 
 **Relevance to Dissertation:** Kelman's work provides the primary historical and intellectual context for the shift from lowest-price to best-value procurement. His OFPP tenure represents the most important practical implementation of value-based procurement reform in U.S. history.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-kelman-a3237b143) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KelmanSteve) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/profile/10833584-steve-kelman) [![Website](https://img.shields.io/badge/Harvard_Scholars-A51C30?style=flat-square&logo=google-scholar&logoColor=white)](https://skelman.scholars.harvard.edu/)
+
 ---
 
-### 4. Ralph C. Nash, Jr.
+### 2. Ralph C. Nash, Jr.
 
 **Current Title:** Professor Emeritus of Law, George Washington University Law School
 
@@ -87,7 +61,73 @@ Ralph C. Nash, Jr. is, alongside John Cibinic, Jr., the founding figure of gover
 
 ---
 
-### 5. Khi V. Thai
+### 3. Steven L. Schooner
+
+**Current Title:** Nash & Cibinic Professor of Government Procurement Law, George Washington University Law School
+
+Steven L. Schooner is one of the most prominent scholars in U.S. government procurement law. Before joining GW Law in 1998, he served as the Associate Administrator for Procurement Law and Legislation at the Office of Federal Procurement Policy (OFPP) in the Office of Management and Budget, and as a trial and appellate attorney in the Commercial Litigation Branch of the U.S. Department of Justice. Professor Schooner's research spans federal procurement law, defense acquisition, sustainable procurement, comparative procurement systems, and public service ethics. He is perhaps best known for articulating the fundamental objectives of a government procurement system -- competition, integrity, transparency, efficiency, customer satisfaction, and best value -- in his widely cited 2002 article "Desiderata." He previously served as Senior Associate Dean for Academic Affairs at GW Law (2006--2008 and 2023--2025) and received the 2024 Jacob Burns Award for Extraordinary Service. He serves as faculty adviser to the ABA's *Public Contract Law Journal* and on the advisory boards of the Procurement Round Table and *The Government Contractor*.
+
+**Key Publications:**
+- "Desiderata: Objectives for a System of Government Contract Law" (2002)
+- *The Government Contracts Reference Book* (with Nash, O'Brien-DeBakey, & Edwards)
+- Extensive scholarship on sustainable procurement and defense acquisition reform
+
+**Relevance to Dissertation:** Schooner's "Desiderata" framework provides a normative foundation for evaluating procurement systems against public value objectives. His work on "best value" as a system objective directly supports the dissertation's central argument.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profschooner/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=pe6cN8wAAAAJ)
+
+---
+
+### 4. Christopher R. Yukins
+
+**Current Title:** Lynn David Research Professor in Government Procurement Law, George Washington University Law School; Of Counsel, Arnold & Porter LLP
+
+Christopher R. Yukins is a leading authority on comparative and international procurement law. He holds a dual role as both a professor in GW Law's Government Procurement Law Program -- the oldest and most distinguished program of its kind, founded in 1960 -- and as of counsel to the global law firm Arnold & Porter. His scholarship bridges U.S. federal procurement law, European Union procurement directives, anti-corruption strategies, and procurement reform in developing countries. Professor Yukins regularly advises and lectures for organizations including the World Bank, the U.S. Department of Commerce, the International Anti-Corruption Academy (Vienna), the University of Turin, the University of Paris-Nanterre, Stockholm University, and Stellenbosch University (South Africa). He co-authored the fourth edition of *Formation of Government Contracts* with Cibinic and Nash, making him one of the stewards of the most important treatise series in government contracts. He has led studies commissioned by the Administrative Conference of the United States (ACUS) on procurement reform.
+
+**Key Publications:**
+- *Formation of Government Contracts* (4th ed., 2011, with Cibinic & Nash)
+- *Joint Public Procurement and Innovation: Lessons Across Borders* (co-edited with Racca, 2019)
+- *Integrity and Efficiency in Sustainable Public Contracts* (co-edited with Racca, 2014)
+
+**Relevance to Dissertation:** Yukins's comparative scholarship illuminates how different legal regimes approach the price-versus-value tradeoff. His work on joint procurement and innovation demonstrates how procurement design can optimize for outcomes beyond cost.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-yukins-73b9037/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Christopher-Yukins)
+
+---
+
+### 5. Jean Tirole
+
+**Current Title:** Honorary Chairman, Toulouse School of Economics; 2014 Nobel Memorial Prize in Economic Sciences
+
+Jean Tirole, winner of the 2014 Nobel Prize in Economics for his "analysis of market power and regulation," co-authored with Jean-Jacques Laffont the foundational *A Theory of Incentives in Procurement and Regulation* (1993). This book developed the formal principal-agent models that explain how information asymmetry between government buyers and private sellers affects optimal contract and evaluation design. Tirole's work demonstrates that when the government cannot observe contractor effort or cost type, the design of evaluation criteria and contract incentives determines whether procurement achieves efficient outcomes. While Tirole is primarily an economist and theorist rather than a procurement specialist, his formal models provide the theoretical backbone for understanding why lowest-price evaluation is suboptimal when quality and effort are imperfectly observable -- the core economic argument of the dissertation.
+
+**Key Publications:**
+- *A Theory of Incentives in Procurement and Regulation* (with Laffont, 1993)
+- *The Theory of Industrial Organization* (1988)
+- Nobel Prize lecture on market power and regulation (2014)
+
+**Relevance to Dissertation:** Laffont and Tirole's principal-agent models provide the formal economic theory explaining why price-only procurement evaluation produces suboptimal outcomes under information asymmetry.
+
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Jean_Tirole) [![Nobel Prize](https://img.shields.io/badge/Nobel_Prize-C5972C?style=flat-square&logo=nobel-prize&logoColor=white)](https://www.nobelprize.org/prizes/economic-sciences/2014/tirole/facts/)
+
+---
+
+### 6. Oliver E. Williamson (1932--2020)
+
+**Former Title:** Edgar F. Kaiser Professor Emeritus, University of California, Berkeley; 2009 Nobel Memorial Prize in Economic Sciences (posthumous listing)
+
+Oliver E. Williamson, who passed away in 2020, remains one of the most influential economists of the twentieth century for his development of transaction cost economics (TCE). His 1975 book *Markets and Hierarchies* and his 1985 masterwork *The Economic Institutions of Capitalism* established that governance structures -- markets, hierarchies, and hybrids -- are chosen to minimize transaction costs arising from asset specificity, uncertainty, and bounded rationality. Williamson received the 2009 Nobel Prize for "his analysis of economic governance, especially the boundaries of the firm." For procurement, TCE provides the theoretical justification for why complex, relationship-specific transactions require governance mechanisms (such as multi-criteria evaluation and relational contracting) that go beyond simple price competition. When assets are specific and uncertainty is high, governance costs matter, and lowest-price evaluation ignores these costs.
+
+**Key Publications:**
+- *Markets and Hierarchies: Analysis and Antitrust Implications* (1975)
+- *The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting* (1985)
+- *The Mechanisms of Governance* (1996)
+
+**Relevance to Dissertation:** Williamson's TCE framework is the second major theoretical pillar of the dissertation (alongside Moore's public value theory). It explains why the characteristics of procurement transactions -- not just price -- should determine governance and evaluation structures.
+
+---
+
+### 7. Khi V. Thai
 
 **Current Title:** Professor of Public Budgeting and Public Procurement, Florida Atlantic University
 
@@ -100,24 +140,11 @@ Khi V. Thai is the most influential figure in establishing public procurement as
 
 **Relevance to Dissertation:** Thai's institutional contributions created the scholarly infrastructure for procurement research. The *Journal of Public Procurement* and the IPPC are essential platforms for the dissertation's literature review and dissemination.
 
----
-
-### 6. Clifford P. McCue
-
-**Current Title:** Professor, School of Public Administration, and Director, Public Procurement Research Center, Florida Atlantic University
-
-Clifford McCue has been central to developing the empirical research base for public procurement in the United States. As Director of FAU's Public Procurement Research Center, he leads education, training, and technical assistance initiatives that bridge academic research and practitioner needs. McCue's research focuses on procurement performance measurement, organizational roles in purchasing, and the comparative analysis of public and private procurement systems. His 2024 work on advancing procurement performance measurement frameworks -- conceptualizing both efficiency and effectiveness -- is directly relevant to the dissertation's argument that evaluation criteria should capture multiple dimensions of value. McCue was honored with the 2008 Spirit of NIGP Award for his contributions to public procurement, including his leadership of the FAU Public Procurement Research Center and his role as a textbook author for NIGP's educational programs.
-
-**Key Publications:**
-- "Advancing the Practice of Public Procurement Performance Measurement" (2024)
-- Research on procurement organizational roles, performance measurement, and comparative procurement
-- NIGP educational materials and textbooks
-
-**Relevance to Dissertation:** McCue's work on procurement performance measurement provides methodological grounding for operationalizing public value in procurement evaluation. His efficiency/effectiveness framework offers a practical way to move beyond price-only metrics.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khi-thai-42b69823/)
 
 ---
 
-### 7. Mark H. Moore
+### 8. Mark H. Moore
 
 **Current Title:** Hauser Professor of Nonprofit Organizations, Harvard Kennedy School; Herbert A. Simon Professor of Education, Management, and Organizational Behavior, Harvard Graduate School of Education
 
@@ -130,9 +157,11 @@ Mark H. Moore is the creator of public value theory -- the primary theoretical f
 
 **Relevance to Dissertation:** Moore's public value theory is the dissertation's primary theoretical lens. The strategic triangle provides the framework for reconceptualizing procurement evaluation as a public value creation exercise.
 
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Mark_H._Moore) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mark-Moore-15)
+
 ---
 
-### 8. Nicola Dimitri
+### 9. Nicola Dimitri
 
 **Current Title:** Professor of Economics, University of Siena; Life Member, Clare Hall College, University of Cambridge
 
@@ -144,20 +173,7 @@ Nicola Dimitri is a leading economist whose work bridges auction theory and prac
 
 **Relevance to Dissertation:** Dimitri's work connecting auction theory to procurement practice provides the economic foundations for multi-attribute evaluation. The *Handbook of Procurement* is essential reading for the dissertation's theoretical framework.
 
----
-
-### 9. Gustavo Piga
-
-**Current Title:** Full Professor of Economics, University of Rome Tor Vergata; Chair, International Master in Public Procurement Management
-
-Gustavo Piga holds a PhD in Economics from Columbia University and is one of the most active European scholars working at the intersection of economics and procurement policy. He chaired Consip, Italy's national procurement agency for goods and services, from 2002 to 2005, giving him firsthand experience managing large-scale centralized procurement operations. His research spans public procurement, macroeconomics, and public debt management. Piga co-edited the influential *Handbook of Procurement* (2006) and is co-editor of the *European Journal of Public Procurement Markets*. He chairs the International Master in Public Procurement Management and the Bachelor degree in Global Governance at Tor Vergata, training the next generation of procurement professionals. He has served as a member of the Scientific Committee of the Italian Parliamentary Budget Office.
-
-**Key Publications:**
-- *Handbook of Procurement* (co-edited with Dimitri & Spagnolo, 2006)
-- Co-editor, *European Journal of Public Procurement Markets*
-- Research on centralized procurement, procurement efficiency, and fiscal policy
-
-**Relevance to Dissertation:** Piga's combination of academic rigor and practical experience running a national procurement agency makes his perspective invaluable. His work on centralized procurement and efficiency provides empirical grounding for value-based approaches.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/nicola-dimitri-730a465) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-cmkpD8AAAAJ) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nicola-Dimitri)
 
 ---
 
@@ -174,6 +190,8 @@ Giancarlo Spagnolo is one of the most prolific and influential economists workin
 
 **Relevance to Dissertation:** Spagnolo's empirical work on how bureaucratic competence affects procurement outcomes directly supports the argument that value-based evaluation requires -- and rewards -- skilled acquisition professionals.
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.it/citations?user=wbzzOCEAAAAJ&hl=en) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/site/giancarlospagnoloshomepage/)
+
 ---
 
 ### 11. Francesco Decarolis
@@ -189,35 +207,41 @@ Francesco Decarolis is a rising star in the economics of procurement, bringing r
 
 **Relevance to Dissertation:** Decarolis's empirical work provides causal evidence on how procurement design choices affect outcomes, supporting the dissertation's argument for intentional, value-oriented evaluation design.
 
----
-
-### 12. Jean Tirole
-
-**Current Title:** Honorary Chairman, Toulouse School of Economics; 2014 Nobel Memorial Prize in Economic Sciences
-
-Jean Tirole, winner of the 2014 Nobel Prize in Economics for his "analysis of market power and regulation," co-authored with Jean-Jacques Laffont the foundational *A Theory of Incentives in Procurement and Regulation* (1993). This book developed the formal principal-agent models that explain how information asymmetry between government buyers and private sellers affects optimal contract and evaluation design. Tirole's work demonstrates that when the government cannot observe contractor effort or cost type, the design of evaluation criteria and contract incentives determines whether procurement achieves efficient outcomes. While Tirole is primarily an economist and theorist rather than a procurement specialist, his formal models provide the theoretical backbone for understanding why lowest-price evaluation is suboptimal when quality and effort are imperfectly observable -- the core economic argument of the dissertation.
-
-**Key Publications:**
-- *A Theory of Incentives in Procurement and Regulation* (with Laffont, 1993)
-- *The Theory of Industrial Organization* (1988)
-- Nobel Prize lecture on market power and regulation (2014)
-
-**Relevance to Dissertation:** Laffont and Tirole's principal-agent models provide the formal economic theory explaining why price-only procurement evaluation produces suboptimal outcomes under information asymmetry.
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iTDmK6QAAAAJ&hl=en) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/francescodecarolis/home) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Francesco-Decarolis)
 
 ---
 
-### 13. Oliver E. Williamson (1932--2020)
+### 12. Clifford P. McCue
 
-**Former Title:** Edgar F. Kaiser Professor Emeritus, University of California, Berkeley; 2009 Nobel Memorial Prize in Economic Sciences (posthumous listing)
+**Current Title:** Professor, School of Public Administration, and Director, Public Procurement Research Center, Florida Atlantic University
 
-Oliver E. Williamson, who passed away in 2020, remains one of the most influential economists of the twentieth century for his development of transaction cost economics (TCE). His 1975 book *Markets and Hierarchies* and his 1985 masterwork *The Economic Institutions of Capitalism* established that governance structures -- markets, hierarchies, and hybrids -- are chosen to minimize transaction costs arising from asset specificity, uncertainty, and bounded rationality. Williamson received the 2009 Nobel Prize for "his analysis of economic governance, especially the boundaries of the firm." For procurement, TCE provides the theoretical justification for why complex, relationship-specific transactions require governance mechanisms (such as multi-criteria evaluation and relational contracting) that go beyond simple price competition. When assets are specific and uncertainty is high, governance costs matter, and lowest-price evaluation ignores these costs.
+Clifford McCue has been central to developing the empirical research base for public procurement in the United States. As Director of FAU's Public Procurement Research Center, he leads education, training, and technical assistance initiatives that bridge academic research and practitioner needs. McCue's research focuses on procurement performance measurement, organizational roles in purchasing, and the comparative analysis of public and private procurement systems. His 2024 work on advancing procurement performance measurement frameworks -- conceptualizing both efficiency and effectiveness -- is directly relevant to the dissertation's argument that evaluation criteria should capture multiple dimensions of value. McCue was honored with the 2008 Spirit of NIGP Award for his contributions to public procurement, including his leadership of the FAU Public Procurement Research Center and his role as a textbook author for NIGP's educational programs.
 
 **Key Publications:**
-- *Markets and Hierarchies: Analysis and Antitrust Implications* (1975)
-- *The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting* (1985)
-- *The Mechanisms of Governance* (1996)
+- "Advancing the Practice of Public Procurement Performance Measurement" (2024)
+- Research on procurement organizational roles, performance measurement, and comparative procurement
+- NIGP educational materials and textbooks
 
-**Relevance to Dissertation:** Williamson's TCE framework is the second major theoretical pillar of the dissertation (alongside Moore's public value theory). It explains why the characteristics of procurement transactions -- not just price -- should determine governance and evaluation structures.
+**Relevance to Dissertation:** McCue's work on procurement performance measurement provides methodological grounding for operationalizing public value in procurement evaluation. His efficiency/effectiveness framework offers a practical way to move beyond price-only metrics.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cliff-mccue-1b98ba8) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=LyuJz0IAAAAJ&hl=en) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Clifford-Mccue)
+
+---
+
+### 13. Gustavo Piga
+
+**Current Title:** Full Professor of Economics, University of Rome Tor Vergata; Chair, International Master in Public Procurement Management
+
+Gustavo Piga holds a PhD in Economics from Columbia University and is one of the most active European scholars working at the intersection of economics and procurement policy. He chaired Consip, Italy's national procurement agency for goods and services, from 2002 to 2005, giving him firsthand experience managing large-scale centralized procurement operations. His research spans public procurement, macroeconomics, and public debt management. Piga co-edited the influential *Handbook of Procurement* (2006) and is co-editor of the *European Journal of Public Procurement Markets*. He chairs the International Master in Public Procurement Management and the Bachelor degree in Global Governance at Tor Vergata, training the next generation of procurement professionals. He has served as a member of the Scientific Committee of the Italian Parliamentary Budget Office.
+
+**Key Publications:**
+- *Handbook of Procurement* (co-edited with Dimitri & Spagnolo, 2006)
+- Co-editor, *European Journal of Public Procurement Markets*
+- Research on centralized procurement, procurement efficiency, and fiscal policy
+
+**Relevance to Dissertation:** Piga's combination of academic rigor and practical experience running a national procurement agency makes his perspective invaluable. His work on centralized procurement and efficiency provides empirical grounding for value-based approaches.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopiga/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GustavoPiga) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://gustavopiga.eu/) [![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Gustavo_Piga) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gustavo-Piga)
 
 ---
 
@@ -236,9 +260,45 @@ Kevin Rhodes was confirmed by the U.S. Senate on October 7, 2025 as the 16th Adm
 
 **Relevance to Dissertation:** As the current head of OFPP, Rhodes's policy decisions directly shape the evaluation criteria framework that the dissertation examines. The FAR overhaul represents a live case study of procurement reform.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon-dr-kevin-rhodes-211428260/)
+
 ---
 
-### 15. Daniel I. Gordon
+### 15. David A. Drabkin
+
+**Current Title:** Chairman, Procurement Roundtable; Director, Public Contracting Institute; Fellow, National Contract Management Association (NCMA)
+
+David Drabkin brings over 41 years of experience spanning government, industry, and policy advocacy in the procurement field. He served as Senior Procurement Executive and Deputy Chief Acquisition Officer at GSA, where he was one of the signatories of the Federal Acquisition Regulation, supervised the Federal Acquisition Institute, oversaw the debarment/suspension function and the Integrated Acquisition Environment, and managed GSA's contracting function and workforce of over 1,800 contracting professionals. He also served on the Homeland Security and Government Affairs Committee of the U.S. Senate and worked in acquisition at the Department of Defense. In the private sector, he held positions at Northrop Grumman Corporation and Dixon Hughes Goodman. As Chairman of the Procurement Roundtable and Director of the Public Contracting Institute, Drabkin leads organizations that convene senior procurement leaders from government, industry, and academia to address systemic challenges in the acquisition system.
+
+**Key Contributions:**
+- Leadership of the Procurement Roundtable and Public Contracting Institute
+- FAR signatory authority at GSA
+- Acquisition workforce development through the Federal Acquisition Institute
+
+**Relevance to Dissertation:** Drabkin's cross-sector experience and institutional leadership role make him a key interlocutor for understanding the practical challenges and opportunities of transitioning from price-based to value-based procurement.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-drabkin-esq-92004b14/)
+
+---
+
+### 16. Edda Emmanuelli Perez
+
+**Current Title:** General Counsel, U.S. Government Accountability Office (GAO)
+
+Edda Emmanuelli Perez leads the GAO legal function that adjudicates bid protests -- the primary administrative mechanism through which disappointed bidders challenge procurement award decisions. GAO's bid protest decisions constitute a body of quasi-judicial precedent that profoundly shapes how agencies structure evaluation criteria and make award decisions. Agencies routinely design their source selection processes with an eye toward surviving potential GAO protests, which means the standards applied in protest adjudication effectively determine the boundaries of acceptable evaluation practice. In fiscal year 2025, GAO received 1,688 bid protest filings, and its decisions addressed issues including evaluation methodology, best-value tradeoff analysis, and the reasonableness of price/technical tradeoffs. Perez has publicly opposed proposals for "loser pays" fee-shifting in bid protests, arguing that existing procedures adequately balance efficiency and accountability.
+
+**Key Contributions:**
+- Leadership of GAO's bid protest adjudication function
+- Shaping precedent on evaluation criteria and best-value tradeoff analysis
+- Policy advocacy on maintaining accessible protest mechanisms
+
+**Relevance to Dissertation:** GAO bid protest precedent directly shapes how agencies balance price and non-price factors. Understanding this jurisprudence is essential for any proposal to reform evaluation criteria.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edda-emmanuelli-perez-03568291)
+
+---
+
+### 17. Daniel I. Gordon
 
 **Current Title:** Associate Dean for Government Procurement Law (former), George Washington University Law School
 
@@ -253,7 +313,7 @@ Daniel I. Gordon served as Administrator of the Office of Federal Procurement Po
 
 ---
 
-### 16. Anne Rung
+### 18. Anne Rung
 
 **Current Title:** Former Administrator, Office of Federal Procurement Policy (2014--2016); previously Senior Vice President, Varis; previously Global Leader, Public Sector Division, Amazon Business
 
@@ -266,9 +326,11 @@ Anne Rung served as OFPP Administrator from September 2014 to September 2016, ha
 
 **Relevance to Dissertation:** Rung's category management initiatives represent a practical implementation of value-based procurement thinking, moving beyond individual lowest-price transactions to strategic portfolio management.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-rung-13478b87/)
+
 ---
 
-### 17. Lesley A. Field
+### 19. Lesley A. Field
 
 **Current Title:** Former Deputy Administrator, Office of Federal Procurement Policy, Office of Management and Budget
 
@@ -281,35 +343,7 @@ Lesley Anne Field served as Deputy Administrator of OFPP from July 2008, acting 
 
 **Relevance to Dissertation:** Field's career exemplifies the critical role of career acquisition professionals in implementing and sustaining value-based procurement reforms. Her experience underscores the dissertation's argument about workforce capacity.
 
----
-
-### 18. David A. Drabkin
-
-**Current Title:** Chairman, Procurement Roundtable; Director, Public Contracting Institute; Fellow, National Contract Management Association (NCMA)
-
-David Drabkin brings over 41 years of experience spanning government, industry, and policy advocacy in the procurement field. He served as Senior Procurement Executive and Deputy Chief Acquisition Officer at GSA, where he was one of the signatories of the Federal Acquisition Regulation, supervised the Federal Acquisition Institute, oversaw the debarment/suspension function and the Integrated Acquisition Environment, and managed GSA's contracting function and workforce of over 1,800 contracting professionals. He also served on the Homeland Security and Government Affairs Committee of the U.S. Senate and worked in acquisition at the Department of Defense. In the private sector, he held positions at Northrop Grumman Corporation and Dixon Hughes Goodman. As Chairman of the Procurement Roundtable and Director of the Public Contracting Institute, Drabkin leads organizations that convene senior procurement leaders from government, industry, and academia to address systemic challenges in the acquisition system.
-
-**Key Contributions:**
-- Leadership of the Procurement Roundtable and Public Contracting Institute
-- FAR signatory authority at GSA
-- Acquisition workforce development through the Federal Acquisition Institute
-
-**Relevance to Dissertation:** Drabkin's cross-sector experience and institutional leadership role make him a key interlocutor for understanding the practical challenges and opportunities of transitioning from price-based to value-based procurement.
-
----
-
-### 19. Edda Emmanuelli Perez
-
-**Current Title:** General Counsel, U.S. Government Accountability Office (GAO)
-
-Edda Emmanuelli Perez leads the GAO legal function that adjudicates bid protests -- the primary administrative mechanism through which disappointed bidders challenge procurement award decisions. GAO's bid protest decisions constitute a body of quasi-judicial precedent that profoundly shapes how agencies structure evaluation criteria and make award decisions. Agencies routinely design their source selection processes with an eye toward surviving potential GAO protests, which means the standards applied in protest adjudication effectively determine the boundaries of acceptable evaluation practice. In fiscal year 2025, GAO received 1,688 bid protest filings, and its decisions addressed issues including evaluation methodology, best-value tradeoff analysis, and the reasonableness of price/technical tradeoffs. Perez has publicly opposed proposals for "loser pays" fee-shifting in bid protests, arguing that existing procedures adequately balance efficiency and accountability.
-
-**Key Contributions:**
-- Leadership of GAO's bid protest adjudication function
-- Shaping precedent on evaluation criteria and best-value tradeoff analysis
-- Policy advocacy on maintaining accessible protest mechanisms
-
-**Relevance to Dissertation:** GAO bid protest precedent directly shapes how agencies balance price and non-price factors. Understanding this jurisprudence is essential for any proposal to reform evaluation criteria.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesley-field-82097023/)
 
 ---
 
@@ -345,6 +379,8 @@ Vernon J. Edwards is one of the most respected practitioner-scholars in governme
 
 **Relevance to Dissertation:** Edwards's *Source Selection Answer Book* and Wifcon contributions provide the most detailed practitioner-level guidance on designing evaluation criteria -- the exact mechanism the dissertation seeks to reform.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vern-edwards-247022125) [![Website](https://img.shields.io/badge/Wifcon.com-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://www.wifcon.com) [![Website](https://img.shields.io/badge/FAR_Bootcamp-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://thefarbootcamp.com/instructors/vernon-j-edwards)
+
 ---
 
 ### 22. Karen L. Manos
@@ -378,24 +414,11 @@ Sue Arrowsmith is the world's leading authority on public procurement law. Her t
 
 **Relevance to Dissertation:** Arrowsmith's work on EU MEAT criteria provides the most direct international comparator for the dissertation's analysis of U.S. evaluation criteria. Her comparative perspective illuminates how different legal traditions approach the price-value tradeoff.
 
----
-
-### 24. Mihaly Fazekas
-
-**Current Title:** Associate Professor, Department of Public Policy, Central European University; Scientific Director, Government Transparency Institute
-
-Mihaly Fazekas is a pioneering scholar who has transformed the study of corruption in public procurement through Big Data methods. He founded the Government Transparency Institute (GTI) in 2015, a think tank that uses quantitative analysis of large-scale administrative data to measure corruption risks, bid rigging, spending efficiency, and administrative quality in procurement. Fazekas earned his PhD from the University of Cambridge, where he developed novel methods for measuring high-level corruption in Central and Eastern European procurement using administrative data. He served as Scientific Coordinator of the EU Horizon 2020-funded DIGIWHIST project, which measured corruption risks, administrative capacity, and transparency in procurement across 33 European countries. Together with the GTI and the UK's Foreign, Commonwealth & Development Office, he won the IMF Anti-Corruption Challenge for his work measuring corruption and its costs. His research demonstrates that procurement outcomes are shaped by institutional quality, transparency, and competition -- not merely by price.
-
-**Key Publications:**
-- Research on corruption risk indicators in public procurement
-- DIGIWHIST project publications on procurement transparency across 33 European countries
-- IMF Anti-Corruption Challenge winning methodology
-
-**Relevance to Dissertation:** Fazekas's work demonstrates that procurement integrity and institutional quality -- dimensions of public value -- can be measured and analyzed quantitatively. His methodology provides a model for the dissertation's empirical approach.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sue-arrowsmith-kc-hon-58560460/)
 
 ---
 
-### 25. Elisabetta Iossa
+### 24. Elisabetta Iossa
 
 **Current Title:** Full Professor of Economics, University of Rome Tor Vergata (on leave); Board Member, Italian Competition Authority (AGCM)
 
@@ -408,37 +431,90 @@ Elisabetta Iossa is a leading economist whose research on public procurement, pu
 
 **Relevance to Dissertation:** Iossa's empirical work on how institutional and organizational factors affect procurement outcomes provides strong evidence for the dissertation's central claim that value depends on factors well beyond price.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisabetta-iossa-61416047/) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/site/profelisabettaiossa/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Elisabetta-Iossa)
+
 ---
 
-## Summary Table
+### 25. Mihaly Fazekas
+
+**Current Title:** Associate Professor, Department of Public Policy, Central European University; Scientific Director, Government Transparency Institute
+
+Mihaly Fazekas is a pioneering scholar who has transformed the study of corruption in public procurement through Big Data methods. He founded the Government Transparency Institute (GTI) in 2015, a think tank that uses quantitative analysis of large-scale administrative data to measure corruption risks, bid rigging, spending efficiency, and administrative quality in procurement. Fazekas earned his PhD from the University of Cambridge, where he developed novel methods for measuring high-level corruption in Central and Eastern European procurement using administrative data. He served as Scientific Coordinator of the EU Horizon 2020-funded DIGIWHIST project, which measured corruption risks, administrative capacity, and transparency in procurement across 33 European countries. Together with the GTI and the UK's Foreign, Commonwealth & Development Office, he won the IMF Anti-Corruption Challenge for his work measuring corruption and its costs. His research demonstrates that procurement outcomes are shaped by institutional quality, transparency, and competition -- not merely by price.
+
+**Key Publications:**
+- Research on corruption risk indicators in public procurement
+- DIGIWHIST project publications on procurement transparency across 33 European countries
+- IMF Anti-Corruption Challenge winning methodology
+
+**Relevance to Dissertation:** Fazekas's work demonstrates that procurement integrity and institutional quality -- dimensions of public value -- can be measured and analyzed quantitatively. His methodology provides a model for the dissertation's empirical approach.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaly-fazekas-aa3a9010/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mihaly_fazekas) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://mihalyfazekas.eu/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mihaly-Fazekas)
+
+---
+
+## Summary Table (by Category)
 
 | # | Name | Affiliation | Category | Primary Contribution |
 |---|------|-------------|----------|---------------------|
-| 1 | Steven L. Schooner | GWU Law | Academic | Procurement system objectives ("Desiderata") |
-| 2 | Christopher R. Yukins | GWU Law / Arnold & Porter | Academic | Comparative procurement law; Formation treatise |
-| 3 | Steven Kelman | Harvard Kennedy School | Academic/Policy | Procurement reform theory and OFPP leadership |
-| 4 | Ralph C. Nash, Jr. | GWU Law (Emeritus) | Academic | Founded the field; canonical treatise series |
-| 5 | Khi V. Thai | Florida Atlantic University | Academic | Created Journal of Public Procurement and IPPC |
-| 6 | Clifford P. McCue | Florida Atlantic University | Academic | Procurement performance measurement research |
-| 7 | Mark H. Moore | Harvard Kennedy School | Academic | Public value theory (strategic triangle) |
-| 8 | Nicola Dimitri | University of Siena / Cambridge | Academic | Auction theory applied to procurement |
-| 9 | Gustavo Piga | University of Rome Tor Vergata | Academic | Procurement economics; led Consip |
+| 1 | Steven Kelman | Harvard Kennedy School | Academic/Policy | Procurement reform theory and OFPP leadership |
+| 2 | Ralph C. Nash, Jr. | GWU Law (Emeritus) | Academic | Founded the field; canonical treatise series |
+| 3 | Steven L. Schooner | GWU Law | Academic | Procurement system objectives ("Desiderata") |
+| 4 | Christopher R. Yukins | GWU Law / Arnold & Porter | Academic | Comparative procurement law; Formation treatise |
+| 5 | Jean Tirole | Toulouse School of Economics | Academic | Principal-agent theory in procurement (Nobel 2014) |
+| 6 | Oliver E. Williamson | UC Berkeley (deceased) | Academic | Transaction cost economics (Nobel 2009) |
+| 7 | Khi V. Thai | Florida Atlantic University | Academic | Created Journal of Public Procurement and IPPC |
+| 8 | Mark H. Moore | Harvard Kennedy School | Academic | Public value theory (strategic triangle) |
+| 9 | Nicola Dimitri | University of Siena / Cambridge | Academic | Auction theory applied to procurement |
 | 10 | Giancarlo Spagnolo | U. Rome Tor Vergata / SITE Stockholm | Academic | Collusion, reputation, and bureaucratic competence |
 | 11 | Francesco Decarolis | Bocconi University | Academic | Empirical procurement economics; ERC projects |
-| 12 | Jean Tirole | Toulouse School of Economics | Academic | Principal-agent theory in procurement (Nobel 2014) |
-| 13 | Oliver E. Williamson | UC Berkeley (deceased) | Academic | Transaction cost economics (Nobel 2009) |
+| 12 | Clifford P. McCue | Florida Atlantic University | Academic | Procurement performance measurement research |
+| 13 | Gustavo Piga | University of Rome Tor Vergata | Academic | Procurement economics; led Consip |
 | 14 | Kevin Rhodes | OFPP / OMB | Government | Current OFPP Administrator; FAR overhaul |
-| 15 | Daniel I. Gordon | GWU Law (former OFPP) | Government/Academic | OFPP Administrator; Mythbusters campaign |
-| 16 | Anne Rung | Former OFPP | Government/Industry | Category management transformation |
-| 17 | Lesley A. Field | Former OFPP | Government | Institutional continuity at OFPP |
-| 18 | David A. Drabkin | Procurement Roundtable | Government/Industry | Cross-sector leadership; FAR signatory |
-| 19 | Edda Emmanuelli Perez | GAO | Government | Bid protest adjudication leadership |
+| 15 | David A. Drabkin | Procurement Roundtable | Government/Industry | Cross-sector leadership; FAR signatory |
+| 16 | Edda Emmanuelli Perez | GAO | Government | Bid protest adjudication leadership |
+| 17 | Daniel I. Gordon | GWU Law (former OFPP) | Government/Academic | OFPP Administrator; Mythbusters campaign |
+| 18 | Anne Rung | Former OFPP | Government/Industry | Category management transformation |
+| 19 | Lesley A. Field | Former OFPP | Government | Institutional continuity at OFPP |
 | 20 | John Cibinic, Jr. | GWU Law (deceased) | Academic/Legal | Co-founded the field; treatise co-author |
 | 21 | Vernon J. Edwards | Independent | Practitioner | Source selection practice; Wifcon.com |
 | 22 | Karen L. Manos | Gibson Dunn | Legal Practitioner | Cost and pricing expertise |
 | 23 | Sue Arrowsmith | University of Nottingham | International | Leading global procurement law scholar |
-| 24 | Mihaly Fazekas | CEU / Gov. Transparency Institute | International | Big Data methods for procurement integrity |
-| 25 | Elisabetta Iossa | U. Rome Tor Vergata / AGCM | International | Procurement economics and competition policy |
+| 24 | Elisabetta Iossa | U. Rome Tor Vergata / AGCM | International | Procurement economics and competition policy |
+| 25 | Mihaly Fazekas | CEU / Gov. Transparency Institute | International | Big Data methods for procurement integrity |
+
+---
+
+## Overall Ranking by RFP Importance
+
+The following ranks all 25 individuals in a single list by overall importance and experience in the RFP and government procurement field, without regard to category:
+
+| Rank | Name | Category | Primary RFP Contribution |
+|------|------|----------|--------------------------|
+| 1 | Steven Kelman | Academic/Policy | Directly reformed U.S. RFP evaluation through FASA/FARA as OFPP Administrator; intellectual architect of best-value procurement |
+| 2 | Ralph C. Nash, Jr. | Academic | Founded government contract law as a discipline; authored canonical treatises including *Competitive Negotiation: The Source Selection Process* |
+| 3 | Steven L. Schooner | Academic | Articulated the fundamental objectives of procurement systems ("Desiderata"); best-value advocacy |
+| 4 | Jean Tirole | Academic | Nobel laureate; formal principal-agent models explaining why price-only evaluation fails under information asymmetry |
+| 5 | Oliver E. Williamson | Academic | Nobel laureate; transaction cost economics framework for procurement governance |
+| 6 | Kevin Rhodes | Government | Current OFPP Administrator; leading the most significant FAR overhaul in decades |
+| 7 | Christopher R. Yukins | Academic | Formation treatise co-author; comparative procurement law bridging U.S. and international practice |
+| 8 | Sue Arrowsmith | International | World's leading procurement law authority; EU MEAT criteria as international comparator |
+| 9 | David A. Drabkin | Government/Industry | 41+ years in procurement; FAR signatory; Chairman of Procurement Roundtable |
+| 10 | Edda Emmanuelli Perez | Government | GAO General Counsel; bid protest precedent shapes all RFP evaluation criteria |
+| 11 | John Cibinic, Jr. | Academic/Legal | Co-founded government contract law; cost accounting in procurement |
+| 12 | Vernon J. Edwards | Practitioner | *Source Selection Answer Book*; most detailed practical guidance on RFP evaluation |
+| 13 | Khi V. Thai | Academic | Built the institutional infrastructure for procurement scholarship |
+| 14 | Daniel I. Gordon | Government/Academic | OFPP Administrator; Mythbusters campaign; GAO expertise |
+| 15 | Anne Rung | Government/Industry | Category management transformation; strategic sourcing innovation |
+| 16 | Karen L. Manos | Legal Practitioner | Definitive authority on government contract cost and pricing |
+| 17 | Mark H. Moore | Academic | Public value theory providing the theoretical framework for value-based procurement |
+| 18 | Lesley A. Field | Government | Institutional continuity at OFPP; career acquisition leadership |
+| 19 | Nicola Dimitri | Academic | Handbook of Procurement; scoring rules and auction theory for procurement design |
+| 20 | Giancarlo Spagnolo | Academic | Procurement economics; bureaucratic competence research |
+| 21 | Francesco Decarolis | Academic | Empirical evidence on procurement design effects |
+| 22 | Elisabetta Iossa | International | Procurement economics; competition authority board member |
+| 23 | Clifford P. McCue | Academic | Procurement performance measurement frameworks |
+| 24 | Gustavo Piga | Academic | Centralized procurement experience; Handbook co-editor |
+| 25 | Mihaly Fazekas | International | Big Data methods for procurement integrity and transparency |
 
 ---
 
@@ -447,15 +523,14 @@ Elisabetta Iossa is a leading economist whose research on public procurement, pu
 The following individuals were considered during the selection process and may warrant inclusion as the research progresses:
 
 - **W. Noel Keyes** -- Author of *Government Contracts in a Nutshell*; important educational contribution but less active in current scholarship
-- **James F. Nagle** -- Co-author of *Administration of Government Contracts*; important treatise contributor
-- **Michael Wooten** -- Former OFPP Administrator (2019--2021); initiated AI and robotics initiatives in procurement
-- **Moshe Schwartz** -- CRS specialist in defense acquisitions; prolific author of Congressional reports on procurement
-- **Kate M. Manuel** -- CRS specialist in procurement law; co-authored key reports on past performance evaluation and contract types
-- **Gabriella M. Racca** -- Professor, University of Turin; expert on joint procurement and innovation
-- **Michael Derrios** -- Executive Director, Baroni Center for Government Contracting, George Mason University; former State Department Senior Procurement Executive
-- **Gian Luigi Albano** -- Head of Division, Consip (Italy); leading practitioner-scholar on framework agreements and procurement design
+- **James F. Nagle** -- Co-author of *Administration of Government Contracts*; important treatise contributor [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-nagle-b236981a/)
+- **Michael Wooten** -- Former OFPP Administrator (2019--2021); initiated AI and robotics initiatives in procurement [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-wooten-a810055/)
+- **Moshe Schwartz** -- President, Etherton and Associates; former CRS specialist in defense acquisitions; prolific author of Congressional reports on procurement
+- **Kate M. Manuel** -- Former CRS specialist in procurement law; co-authored key reports on past performance evaluation and contract types
+- **Gabriella M. Racca** -- Professor, University of Turin; expert on joint procurement and innovation [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-racca-28185241/)
+- **Michael Derrios** -- Executive Director, Baroni Center for Government Contracting, George Mason University; former State Department Senior Procurement Executive [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-derrios-1b779a1/)
+- **Gian Luigi Albano** -- Head of Division, Consip (Italy); leading practitioner-scholar on framework agreements and procurement design [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-luigi-albano-0127179/)
 
 ---
 
-*This document will be updated as additional research identifies other influential figures. Current titles and affiliations verified as of February 2026 through web research.*
-
+*This document will be updated as additional research identifies other influential figures. Current titles and affiliations verified as of February 2026 through web research. Social media links verified February 2026.*
