@@ -1,0 +1,25 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation" style="border-bottom: 2px solid var(--gold, #C9A84C);">
+  <div class="flex-l center items-center justify-between">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline" style="font-family: Georgia, 'Times New Roman', serif; font-weight: 600;">
+      {{ with .Site.Params.site_logo }}
+        <img src="{{ urls.RelURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+      {{ else }}
+        {{ .Site.Title }}
+      {{ end }}
+    </a>
+    <div class="flex-l items-center">
+      {{ partials.Include "i18nlist.html" . }}
+      {{ if .Site.Menus.main }}
+        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}" style="display: flex; flex-wrap: wrap; gap: 0.25rem;">
+          {{ range .Site.Menus.main }}
+          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}" style="color: rgba(255,255,255,0.85); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 0.9rem; font-weight: 500; letter-spacing: 0.02em; transition: color 0.2s;">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+</nav>

@@ -14,13 +14,15 @@ params:
   post_content_classes: "avenir bg-nearest-white"
   featured_image: ""
   recent_posts_number: 10
+  custom_css:
+    - "css/custom.css"
 
 menu:
   main:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "Research Overview"
+    - name: "Research"
       url: "/research/"
       weight: 2
     - name: "Literature"
@@ -29,13 +31,13 @@ menu:
     - name: "Federal Data"
       url: "/data/"
       weight: 4
-    - name: "Global Practices"
+    - name: "Global"
       url: "/global/"
       weight: 5
-    - name: "Key People"
+    - name: "People"
       url: "/people/"
       weight: 6
-    - name: "Articles Feed"
+    - name: "Articles"
       url: "/articles/"
       weight: 7
     - name: "About"

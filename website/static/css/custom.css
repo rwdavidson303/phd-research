@@ -1,0 +1,418 @@
+/* ==========================================================================
+   PhD Research Site — Navy & Gold, Warm & Approachable
+   ========================================================================== */
+
+/* --- CSS Variables --- */
+:root {
+  --navy: #1B2A4A;
+  --navy-light: #2C3E6B;
+  --navy-lighter: #3D5289;
+  --gold: #C9A84C;
+  --gold-light: #D4B968;
+  --gold-pale: #F0E6C8;
+  --cream: #FAF8F5;
+  --cream-dark: #F0EDE8;
+  --text-primary: #2D2D2D;
+  --text-secondary: #5A5A5A;
+  --text-light: #8A8A8A;
+  --white: #FFFFFF;
+  --border: #E0DCD6;
+  --shadow: rgba(27, 42, 74, 0.08);
+  --shadow-md: rgba(27, 42, 74, 0.12);
+}
+
+/* --- Base Typography & Body --- */
+body {
+  font-family: Georgia, 'Times New Roman', serif !important;
+  background-color: var(--cream) !important;
+  color: var(--text-primary) !important;
+  line-height: 1.75 !important;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Header / Banner --- */
+header {
+  background-color: var(--navy) !important;
+}
+
+header .pb3-m,
+header .pb6-l,
+header > div:first-child {
+  background-color: var(--navy) !important;
+}
+
+header h1 {
+  font-family: Georgia, 'Times New Roman', serif !important;
+  color: var(--white) !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.01em !important;
+}
+
+header h2 {
+  color: var(--gold-light) !important;
+  font-family: Georgia, 'Times New Roman', serif !important;
+  font-weight: 300 !important;
+  font-style: italic;
+}
+
+/* --- Navigation --- */
+nav {
+  border-bottom: 2px solid var(--gold) !important;
+  padding-bottom: 0.75rem !important;
+}
+
+nav a {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  transition: color 0.2s ease !important;
+}
+
+nav > div > a {
+  color: var(--white) !important;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+}
+
+nav ul li a {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.02em !important;
+}
+
+nav ul li a:hover {
+  color: var(--gold-light) !important;
+}
+
+/* --- Main Content Area --- */
+main {
+  padding-bottom: 3rem !important;
+}
+
+article {
+  max-width: 52rem !important;
+  margin: 0 auto !important;
+}
+
+main article {
+  font-size: 1.1rem !important;
+  line-height: 1.8 !important;
+}
+
+/* --- Headings --- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, 'Times New Roman', serif !important;
+  color: var(--navy) !important;
+  line-height: 1.3 !important;
+}
+
+main h1 {
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 1rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 2px solid var(--gold) !important;
+}
+
+main h2 {
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 0.75rem !important;
+  padding-bottom: 0.35rem !important;
+  border-bottom: 1px solid var(--border) !important;
+}
+
+main h3 {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.5rem !important;
+  color: var(--navy-light) !important;
+}
+
+/* --- Links --- */
+main a {
+  color: var(--navy-light) !important;
+  text-decoration: underline !important;
+  text-decoration-color: var(--gold) !important;
+  text-underline-offset: 3px !important;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease !important;
+}
+
+main a:hover {
+  color: var(--navy) !important;
+  text-decoration-color: var(--navy) !important;
+}
+
+/* --- Blockquotes --- */
+blockquote {
+  border-left: 4px solid var(--gold) !important;
+  background-color: var(--cream-dark) !important;
+  padding: 1rem 1.25rem !important;
+  margin: 1.5rem 0 !important;
+  border-radius: 0 6px 6px 0 !important;
+  font-style: italic !important;
+  color: var(--text-secondary) !important;
+}
+
+blockquote p {
+  margin: 0 !important;
+}
+
+/* --- Lists --- */
+main ul, main ol {
+  padding-left: 1.5rem !important;
+}
+
+main li {
+  margin-bottom: 0.5rem !important;
+}
+
+/* --- Strong text --- */
+main strong {
+  color: var(--navy) !important;
+  font-weight: 700 !important;
+}
+
+/* --- Tables --- */
+table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 1.5rem 0 !important;
+  font-size: 0.92rem !important;
+  line-height: 1.5 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 1px 4px var(--shadow) !important;
+}
+
+thead {
+  background-color: var(--navy) !important;
+}
+
+thead th {
+  color: var(--white) !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 0.85rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
+  padding: 0.75rem 1rem !important;
+  text-align: left !important;
+  border: none !important;
+}
+
+tbody tr {
+  background-color: var(--white) !important;
+  transition: background-color 0.15s ease !important;
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--cream) !important;
+}
+
+tbody tr:hover {
+  background-color: var(--gold-pale) !important;
+}
+
+tbody td {
+  padding: 0.65rem 1rem !important;
+  border-bottom: 1px solid var(--border) !important;
+  color: var(--text-primary) !important;
+  vertical-align: top !important;
+}
+
+tbody tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* --- Homepage Section Cards --- */
+.section-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.section-card {
+  background: var(--white);
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px var(--shadow);
+  border-left: 4px solid var(--gold);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none !important;
+  display: block;
+}
+
+.section-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px var(--shadow-md);
+}
+
+.section-card h3 {
+  font-size: 1.15rem !important;
+  margin: 0 0 0.5rem 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  color: var(--navy) !important;
+}
+
+.section-card p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.section-card .card-meta {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.8rem;
+  color: var(--gold);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.75rem;
+}
+
+/* --- Info boxes / callouts --- */
+.info-box {
+  background: var(--white);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 4px var(--shadow);
+  border-left: 4px solid var(--navy-light);
+}
+
+/* --- Footer --- */
+footer {
+  background-color: var(--navy) !important;
+  border-top: 3px solid var(--gold) !important;
+}
+
+footer a {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+footer a:hover {
+  color: var(--gold-light) !important;
+}
+
+/* --- Horizontal Rules --- */
+hr {
+  border: none !important;
+  border-top: 1px solid var(--border) !important;
+  margin: 2rem 0 !important;
+}
+
+/* --- Code (for any code snippets) --- */
+code {
+  background-color: var(--cream-dark) !important;
+  padding: 0.15em 0.4em !important;
+  border-radius: 4px !important;
+  font-size: 0.9em !important;
+  color: var(--navy-light) !important;
+}
+
+pre {
+  background-color: var(--navy) !important;
+  border-radius: 8px !important;
+  padding: 1.25rem !important;
+  overflow-x: auto !important;
+}
+
+pre code {
+  background: none !important;
+  color: var(--cream) !important;
+  padding: 0 !important;
+}
+
+/* --- Responsive adjustments --- */
+@media screen and (max-width: 768px) {
+  main article {
+    font-size: 1rem !important;
+    padding: 0 1rem !important;
+  }
+
+  table {
+    font-size: 0.82rem !important;
+  }
+
+  thead th, tbody td {
+    padding: 0.5rem 0.6rem !important;
+  }
+
+  .section-cards {
+    grid-template-columns: 1fr;
+  }
+
+  nav ul {
+    flex-wrap: wrap;
+  }
+
+  nav ul li {
+    margin-bottom: 0.25rem;
+  }
+
+  header h1 {
+    font-size: 1.4rem !important;
+  }
+
+  header h2 {
+    font-size: 1rem !important;
+  }
+}
+
+/* --- Scrollable table wrapper (for wide tables) --- */
+.table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.5rem 0;
+}
+
+/* --- Page-specific: suppress Ananke defaults that conflict --- */
+.bg-near-white, .bg-nearest-white {
+  background-color: var(--cream) !important;
+}
+
+.mid-gray {
+  color: var(--text-primary) !important;
+}
+
+.bg-dark-blue {
+  background-color: var(--navy) !important;
+}
+
+.nested-links a {
+  color: var(--navy-light) !important;
+}
+
+/* --- Sup styling (for footnotes in tables) --- */
+sup {
+  font-size: 0.7em;
+  color: var(--text-light);
+}
+
+/* --- Print styles --- */
+@media print {
+  header, footer, nav {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  table {
+    box-shadow: none !important;
+  }
+
+  .section-card {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+}
