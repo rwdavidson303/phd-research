@@ -8,6 +8,7 @@ data/fpds/*.csv
 
 # Database files
 *.db
+*.db-journal
 
 # Python
 __pycache__/

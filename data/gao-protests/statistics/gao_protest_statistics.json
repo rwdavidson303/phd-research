@@ -1,0 +1,21 @@
+{
+  "source": "GAO Annual Bid Protest Reports",
+  "last_updated": "2026-02-08T13:34:45.793726",
+  "note": "Update annually from GAO Annual Report to Congress on Bid Protests",
+  "data_fields": [
+    "fiscal_year",
+    "cases_filed",
+    "cases_closed",
+    "sustained",
+    "denied",
+    "dismissed",
+    "effectiveness_rate_pct",
+    "merit_decisions"
+  ],
+  "annual_data": [],
+  "urls": {
+    "gao_bid_protests": "https://www.gao.gov/legal/bid-protests",
+    "annual_reports": "https://www.gao.gov/legal/bid-protests/annual-report",
+    "search_decisions": "https://www.gao.gov/legal/bid-protests/search"
+  }
+}

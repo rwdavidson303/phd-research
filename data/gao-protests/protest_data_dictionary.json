@@ -1,0 +1,78 @@
+{
+  "name": "GAO Bid Protest Data Dictionary",
+  "description": "Variables for analyzing bid protest patterns and outcomes",
+  "last_updated": "2026-02-08T13:34:45.794263",
+  "variables": [
+    {
+      "name": "protest_docket_number",
+      "type": "string",
+      "description": "GAO docket number (e.g., B-419XXX)"
+    },
+    {
+      "name": "filing_date",
+      "type": "date",
+      "description": "Date protest was filed with GAO"
+    },
+    {
+      "name": "decision_date",
+      "type": "date",
+      "description": "Date GAO issued decision"
+    },
+    {
+      "name": "protester",
+      "type": "string",
+      "description": "Name of protesting entity"
+    },
+    {
+      "name": "agency",
+      "type": "string",
+      "description": "Contracting agency"
+    },
+    {
+      "name": "solicitation_number",
+      "type": "string",
+      "description": "Related solicitation/contract number"
+    },
+    {
+      "name": "outcome",
+      "type": "categorical",
+      "values": [
+        "sustained",
+        "denied",
+        "dismissed",
+        "withdrawn"
+      ],
+      "description": "Final disposition of the protest"
+    },
+    {
+      "name": "processing_days",
+      "type": "integer",
+      "description": "Days from filing to decision"
+    },
+    {
+      "name": "grounds",
+      "type": "string",
+      "description": "Basis for protest (evaluation errors, solicitation issues, etc.)"
+    },
+    {
+      "name": "award_type",
+      "type": "categorical",
+      "values": [
+        "LPTA",
+        "tradeoff",
+        "other"
+      ],
+      "description": "Source selection method used in protested procurement"
+    },
+    {
+      "name": "naics_code",
+      "type": "string",
+      "description": "NAICS code of the protested procurement"
+    },
+    {
+      "name": "contract_value",
+      "type": "float",
+      "description": "Value of the protested contract"
+    }
+  ]
+}
