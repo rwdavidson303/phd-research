@@ -109,9 +109,36 @@ def add_page_break(doc):
     doc.add_page_break()
 
 
+def clean_html_entities(text):
+    """Replace HTML entities with their plain text equivalents."""
+    text = text.replace('&nbsp;', ' ')
+    text = text.replace('&amp;', '&')
+    text = text.replace('&lt;', '<')
+    text = text.replace('&gt;', '>')
+    text = text.replace('&mdash;', '\u2014')
+    text = text.replace('&ndash;', '\u2013')
+    text = text.replace('---', '\u2014')
+    text = text.replace('--', '\u2013')
+    return text
+
+
+def strip_markdown_formatting(text):
+    """Remove markdown bold/italic markers and return plain text."""
+    text = clean_html_entities(text)
+    text = re.sub(r'\*\*\*(.*?)\*\*\*', r'\1', text)
+    text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
+    text = re.sub(r'\*(.*?)\*', r'\1', text)
+    text = re.sub(r'`(.*?)`', r'\1', text)
+    return text
+
+
 def parse_markdown_line(line):
     """Determine the type and content of a markdown line."""
     stripped = line.strip()
+
+    # Horizontal rule - skip
+    if stripped in ('---', '***', '___'):
+        return ('hr', 0, '')
 
     # Heading levels
     if stripped.startswith('#'):
@@ -147,7 +174,10 @@ def parse_markdown_line(line):
 
 def apply_inline_formatting(paragraph, text):
     """Apply bold, italic, and other inline formatting to a paragraph."""
-    # Simple approach: split on bold/italic markers and apply
+    # Clean HTML entities first
+    text = clean_html_entities(text)
+
+    # Split on bold/italic markers and apply
     parts = re.split(r'(\*\*\*.*?\*\*\*|\*\*.*?\*\*|\*.*?\*|`.*?`)', text)
 
     for part in parts:
@@ -207,7 +237,7 @@ def add_markdown_content(doc, markdown_text, is_front_matter=False):
                 for j, h in enumerate(header):
                     if j < ncols:
                         cell = table.rows[0].cells[j]
-                        cell.text = h
+                        cell.text = strip_markdown_formatting(h)
                         for paragraph in cell.paragraphs:
                             for run in paragraph.runs:
                                 run.bold = True
@@ -220,7 +250,7 @@ def add_markdown_content(doc, markdown_text, is_front_matter=False):
                     for j, cell_text in enumerate(row_data):
                         if j < ncols:
                             cell = table.rows[ri + 1].cells[j]
-                            cell.text = cell_text
+                            cell.text = strip_markdown_formatting(cell_text)
                             for paragraph in cell.paragraphs:
                                 for run in paragraph.runs:
                                     run.font.name = 'Times New Roman'
@@ -244,10 +274,14 @@ def add_markdown_content(doc, markdown_text, is_front_matter=False):
         elif in_table:
             flush_table()
 
-        if ptype == 'heading':
+        if ptype == 'hr':
+            flush_paragraph()
+            # Skip horizontal rules - they're section separators in markdown
+
+        elif ptype == 'heading':
             flush_paragraph()
             if level <= 5:
-                heading = doc.add_heading(text, level=level)
+                heading = doc.add_heading(clean_html_entities(text), level=level)
                 # Ensure TNR font
                 for run in heading.runs:
                     run.font.name = 'Times New Roman'
