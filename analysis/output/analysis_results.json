@@ -1,0 +1,236 @@
+{
+  "sample": {
+    "total_awards": 15477,
+    "main_sample": 3869,
+    "quality_evaluating": 1379,
+    "negotiated_ffp": 2490,
+    "full_sample": 15315,
+    "task_order": 11446
+  },
+  "descriptive": {
+    "comparison": [
+      {
+        "Variable": "Award Amount ($)",
+        "QE Mean": 4551178.621624365,
+        "QE SD": 53747499.03700262,
+        "NFP Mean": 1045119.7868955823,
+        "NFP SD": 3816565.2572046537,
+        "t-statistic": 2.4190092705103363,
+        "p-value": 0.01569096042805069,
+        "Cohen's d": 0.09202032570746073
+      },
+      {
+        "Variable": "Log Award Amount",
+        "QE Mean": 15.261086562985742,
+        "QE SD": 2.0235522445581817,
+        "NFP Mean": 14.58991537785774,
+        "NFP SD": 1.6547930321611035,
+        "t-statistic": 10.52164787467698,
+        "p-value": 2.417098923267768e-25,
+        "Cohen's d": 0.3631109084864903
+      },
+      {
+        "Variable": "Cost Growth (%)",
+        "QE Mean": 9.846703842909738,
+        "QE SD": 10.36007862286666,
+        "NFP Mean": 7.8246619130654285,
+        "NFP SD": 9.357292032538643,
+        "t-statistic": 4.239856379392653,
+        "p-value": 2.4294758956011442e-05,
+        "Cohen's d": 0.20483785409216268
+      },
+      {
+        "Variable": "Modification Count",
+        "QE Mean": 1.7208121827411167,
+        "QE SD": 1.4664889228290665,
+        "NFP Mean": 1.6204819277108433,
+        "NFP SD": 1.0843040699293656,
+        "t-statistic": 2.225880134911406,
+        "p-value": 0.02612200587689353,
+        "Cohen's d": 0.07779754181075237
+      },
+      {
+        "Variable": "Number of Offers",
+        "QE Mean": 6.287066246056782,
+        "QE SD": 7.344350487781049,
+        "NFP Mean": 8.210445468509985,
+        "NFP SD": 55.506398369513214,
+        "t-statistic": -0.8686447789175565,
+        "p-value": 0.3853409963180996,
+        "Cohen's d": -0.04858118341954738
+      },
+      {
+        "Variable": "Single-Bid Rate",
+        "QE Mean": 0.04423495286439449,
+        "QE SD": 0.20569127999773326,
+        "NFP Mean": 0.05622489959839357,
+        "NFP SD": 0.23040177849233862,
+        "t-statistic": -1.662704428854797,
+        "p-value": 0.09647194811283595,
+        "Cohen's d": -0.05489995517385684
+      }
+    ],
+    "n_naics_sectors": 3,
+    "n_agencies": 58,
+    "top_agency": "Department of Defense"
+  },
+  "psm": {
+    "matched_pairs": 1093,
+    "unmatched": 286,
+    "pseudo_r2": 0.10641907329306088,
+    "balance": [
+      {
+        "Variable": "log_award_amount",
+        "SMD Before": 0.3631109084864903,
+        "SMD After": -0.12026692938088764,
+        "Reduction (%)": 66.87873413602989
+      },
+      {
+        "Variable": "transaction_count",
+        "SMD Before": 0.07779754181075237,
+        "SMD After": -0.01589146408432046,
+        "Reduction (%)": 79.57330821200304
+      },
+      {
+        "Variable": "naics_2digit",
+        "SMD Before": -0.0875366086635475,
+        "SMD After": -0.07420195175702753,
+        "Reduction (%)": 15.233234540502439
+      },
+      {
+        "Variable": "naics_54",
+        "SMD Before": 0.2016481454974758,
+        "SMD After": 0.05616466978798057,
+        "Reduction (%)": 72.14719250235623
+      },
+      {
+        "Variable": "naics_56",
+        "SMD Before": -0.18078632036367365,
+        "SMD After": -0.07818588507604671,
+        "Reduction (%)": 56.75232234454117
+      },
+      {
+        "Variable": "naics_51",
+        "SMD Before": -0.06824423210020376,
+        "SMD After": 0.028915841033299187,
+        "Reduction (%)": 57.62888651037683
+      }
+    ]
+  },
+  "regressions": {
+    "H1_cost_growth": {
+      "model": "OLS",
+      "dv": "Cost Growth (Winsorized %)",
+      "n": 2164,
+      "r_squared": 0.1505143441553799,
+      "tradeoff_coef": 0.41336054810892453,
+      "tradeoff_se": 0.46756092485551,
+      "tradeoff_p": 0.3766538534323072,
+      "tradeoff_ci_low": -0.5030420251861136,
+      "tradeoff_ci_high": 1.3297631214039627,
+      "f_stat": 207.32149653012698,
+      "f_p": 1.4514930892220708e-306
+    },
+    "H2_modifications": {
+      "model": "Negative Binomial GLM",
+      "dv": "Transaction Count",
+      "n": 3869,
+      "tradeoff_coef": -0.034292146154581316,
+      "tradeoff_se": 0.045325534626999876,
+      "tradeoff_p": 0.4493047908513479,
+      "tradeoff_ci_low": -0.12312856160352419,
+      "tradeoff_ci_high": 0.054544269294361555,
+      "deviance": 660.7333003442682,
+      "aic": 13468.454940545684
+    },
+    "H6_single_bid": {
+      "model": "Logistic",
+      "dv": "Single-Bid Indicator",
+      "n": 3869,
+      "pseudo_r2": 0.034637189520951295,
+      "tradeoff_coef": -0.2852283975964344,
+      "tradeoff_se": 0.16564476816013524,
+      "tradeoff_p": 0.08508252569283518,
+      "tradeoff_or": 0.7518425156843039,
+      "tradeoff_or_ci_low": 0.5434127181933122,
+      "tradeoff_or_ci_high": 1.0402170384783231,
+      "aic": 1545.5296024342747
+    },
+    "competition_intensity": {
+      "model": "OLS",
+      "dv": "Number of Offers",
+      "n": 968,
+      "r_squared": 0.011459407994878101,
+      "tradeoff_coef": -1.6068768154052508,
+      "tradeoff_se": 2.001805792702637,
+      "tradeoff_p": 0.4221402670021168
+    },
+    "psm_matched": {
+      "H1_matched": {
+        "n": 1121,
+        "tradeoff_coef": 1.0325888281903024,
+        "tradeoff_p": 0.06123093491473685,
+        "r_squared": 0.14009975307251554
+      },
+      "H6_matched": {
+        "n": 2186,
+        "tradeoff_coef": -0.24494169341334782,
+        "tradeoff_p": 0.22099352947238993,
+        "tradeoff_or": 0.78275017640234
+      }
+    },
+    "H8_moderation": {
+      "model": "OLS with interaction",
+      "n": 2164,
+      "tradeoff_coef": -8.987088896946652,
+      "tradeoff_p": 0.003474899908987396,
+      "size_coef": 1.678895256116546,
+      "size_p": 7.785672171829562e-34,
+      "interaction_coef": 0.6185559260215845,
+      "interaction_p": 0.002997077422383891,
+      "r_squared": 0.13976594278011045
+    },
+    "robustness": {
+      "full_sample": {
+        "n": 8483,
+        "tradeoff_coef": 0.2722386145968118,
+        "tradeoff_p": 0.5303541613983478
+      },
+      "agency_large_agency": {
+        "n": 2132,
+        "tradeoff_coef": 0.3365756746325218,
+        "tradeoff_p": 0.449228608897177
+      },
+      "agency_small_agency": {
+        "n": 32,
+        "tradeoff_coef": -2.0336600669869114,
+        "tradeoff_p": 0.43699328584089814
+      },
+      "raw_cost_growth": {
+        "n": 2164,
+        "tradeoff_coef": -21200435.918513015,
+        "tradeoff_p": 0.2067090583635972
+      },
+      "no_outliers": {
+        "n": 2164,
+        "tradeoff_coef": 0.3134443184488438,
+        "tradeoff_p": 0.4767755029068115
+      },
+      "naics_54": {
+        "n": 1516,
+        "tradeoff_coef": 0.08970660984915724,
+        "tradeoff_p": 0.8640194978772153
+      },
+      "naics_56": {
+        "n": 524,
+        "tradeoff_coef": 1.1016065710503247,
+        "tradeoff_p": 0.23896286828567714
+      },
+      "naics_51": {
+        "n": 124,
+        "tradeoff_coef": 0.39801265694072646,
+        "tradeoff_p": 0.8025030503176711
+      }
+    }
+  }
+}

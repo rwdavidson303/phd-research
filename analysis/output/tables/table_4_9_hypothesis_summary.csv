@@ -1,0 +1,5 @@
+Hypothesis,Description,Model,N,Coefficient,p-value,Result,Note
+H1,Best-value tradeoff reduces cost growth,OLS,2164,0.41336054810892453,0.3766538534323072,Not Supported,QE design associated with higher cost growth
+H2,Best-value tradeoff reduces renegotiation,Negative Binomial GLM,3869,-0.034292146154581316,0.4493047908513479,Not Supported,
+H6,Single-bid rates lower under tradeoff,Logistic,3869,-0.2852283975964344,0.08508252569283518,Not Supported,OR = 0.7518425156843039
+H8,Complexity moderates tradeoff effect,OLS with interaction,2164,0.6185559260215845,0.002997077422383891,Supported,Award size as complexity proxy
