@@ -397,6 +397,13 @@ sup {
 }
 
 /* --- Articles Feed Table --- */
+
+/* Let parents of the articles table expand to full width */
+.measure-wide:has(.articles-table-wrap),
+article:has(.articles-table-wrap) {
+  max-width: none !important;
+}
+
 .articles-table-wrap + *,
 .articles-table-wrap {
   max-width: none !important;
