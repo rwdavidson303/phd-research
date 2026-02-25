@@ -14,6 +14,8 @@ Articles are discovered automatically each morning through searches of OpenAlex 
 
 ## All Articles — Newest First
 
+<div class="articles-table-wrap">
+
 | # | Article | Authors | Year | Journal | Citations |
 |---|---------|---------|------|---------|-----------|
 | 1 | [Competition under Incomplete Contracts and the Design of Procurement Policies](https://www.semanticscholar.org/paper/375a2bb20c36ee8dce1e3b81904f56025a717158) | R. Carril; Andrés González-Lira; M. S. Walker | 2026 | The American Economic Review | 7 |
@@ -436,3 +438,5 @@ Articles are discovered automatically each morning through searches of OpenAlex 
 | 417 | [The Nature of the Firm](https://openalex.org/W2015930340) | Ronald H. Coase | 1937 | Economica | 23,090 |
 | 418 | [PUBLIC PROCUREMENT AND THE RISK OF SEVERE WEATHER EVENTS](https://www.semanticscholar.org/paper/dd54d3d206007e211498861dd8d9ccfc87498e40) | Andrea Bafundi; Riccardo Camboni; E. Grillo; P. Va... |  |  | 1 |
 | 419 | [Nuclear Regulatory Commission Biweekly Notice; Applications and Amendments to Fa...](https://www.semanticscholar.org/paper/ff41ffdea8a726942f13306d87ed3189758fb034) | Chad Whiteman; Tremaine Donnell |  |  | 0 |
+
+</div>
