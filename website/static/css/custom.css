@@ -424,13 +424,13 @@ sup {
 
 .articles-table-wrap thead th:nth-child(2),
 .articles-table-wrap tbody td:nth-child(2) {
-  width: 37% !important;
+  width: 34% !important;
   padding: 0.4rem 0.5rem !important;
 }
 
 .articles-table-wrap thead th:nth-child(3),
 .articles-table-wrap tbody td:nth-child(3) {
-  width: 22% !important;
+  width: 20% !important;
   padding: 0.4rem 0.5rem !important;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -439,9 +439,9 @@ sup {
 
 .articles-table-wrap thead th:nth-child(4),
 .articles-table-wrap tbody td:nth-child(4) {
-  width: 5% !important;
+  width: 7% !important;
   text-align: center !important;
-  padding: 0.4rem 0.3rem !important;
+  padding: 0.4rem 0.5rem !important;
 }
 
 .articles-table-wrap thead th:nth-child(5),
@@ -455,7 +455,7 @@ sup {
 
 .articles-table-wrap thead th:nth-child(6),
 .articles-table-wrap tbody td:nth-child(6) {
-  width: 7% !important;
+  width: 10% !important;
   text-align: right !important;
   padding: 0.4rem 0.5rem !important;
 }
