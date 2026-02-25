@@ -413,6 +413,24 @@ sup {
   width: 100% !important;
   font-size: 0.82rem !important;
   line-height: 1.4 !important;
+  border-collapse: collapse !important;
+  border-spacing: 0 !important;
+}
+
+.articles-table-wrap thead th {
+  border-right: 1px solid rgba(255,255,255,0.3) !important;
+}
+
+.articles-table-wrap thead th:last-child {
+  border-right: none !important;
+}
+
+.articles-table-wrap tbody td {
+  border-right: 1px solid var(--border, #e0dcd4) !important;
+}
+
+.articles-table-wrap tbody td:last-child {
+  border-right: none !important;
 }
 
 .articles-table-wrap thead th:nth-child(1),
