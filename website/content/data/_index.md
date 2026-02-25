@@ -46,3 +46,54 @@ python data/usaspending/download_awards.py --fy 2020-2025
 # Download GAO protest data
 python data/usaspending/download_gao_protests.py
 ```
+
+---
+
+## GAO Bid Protest Statistics — FY2025
+
+*Source: [GAO Annual Bid Protest Report to Congress for FY2025](https://www.gao.gov/products/gao-26-900695) (December 2025)*
+
+| Metric | FY2025 | Trend |
+|--------|--------|-------|
+| Total cases filed | 1,688 | 6% decrease from FY2024 |
+| Protests sustained | 53 | Lowest absolute number in 20+ years |
+| Sustain rate | 14% | Consistent with recent years |
+| Effectiveness rate | 52% | Over half of protestors received some relief |
+
+**Top grounds for sustained protests:**
+1. Unreasonable technical evaluations
+2. Unreasonable cost/price evaluations
+3. Unreasonable rejection of proposals
+
+The dominance of technical evaluation errors as the primary sustain ground reinforces the argument that evaluation methodology and execution quality are critical determinants of procurement outcomes.
+
+### Notable FY2025 Protest Decisions
+
+**[The Mission Essential Group, LLC (B-422698.2)](https://www.gao.gov/products/b-422698.2) — January 8, 2025**
+GAO sustained a pre-award protest challenging the Air Force's use of LPTA source selection for knowledge-based professional services in Europe and Africa. Key findings:
+- The solicitation encouraged "unique approaches" and "deviations from staffing estimates" — incompatible with LPTA's premise
+- The procurement was "predominantly for the acquisition of knowledge-based professional services," which DFARS says should "avoid, to the maximum extent practicable" LPTA
+- GAO recommended the agency consider best-value tradeoff methodology
+
+**[Enviremedial Services](https://www.governmentcontractslegalforum.com/2025/11/articles/bid-protest/august-2025-bid-protest-sustain-of-the-month-gao-sustains-protest-of-past-performance-evaluation-and-best-value-tradeoff-on-multiple-grounds/) — August 2025**
+GAO sustained a protest reinforcing that agencies must consider the "relative merits" of offerors' past performance in best-value tradeoff analysis. Adjectival ratings serve only as "guides to intelligent decision-making" and cannot substitute for substantive qualitative analysis.
+
+**[Procurement Integrity Decisions](https://www.governmentcontractslegalforum.com/2026/01/articles/bid-protest/december-2025-sustain-of-the-month-gao-leans-into-its-mandate-to-protect-the-integrity-of-the-procurement-process-in-two-decisions-rebuffing-agency-gamesmanship/) — December 2025**
+Two decisions "rebuffing agency gamesmanship" — GAO stressed that agencies must provide adequate records for assessment of the reasonableness of their source selection actions.
+
+---
+
+## Regulatory Changes (2025)
+
+### FAR Threshold Increases (Effective October 1, 2025)
+
+| Threshold | Old | New |
+|-----------|-----|-----|
+| Simplified Acquisition Threshold | $250,000 | $350,000 |
+| Micro-Purchase Threshold | $10,000 | $15,000 |
+
+Higher thresholds mean more acquisitions can use simplified procedures, shifting the volume of procurements subject to formal Part 15 tradeoff analysis.
+
+### FAR Overhaul (Executive Order 14275 — April 15, 2025)
+
+The most comprehensive rewrite of federal procurement rules in 40+ years. The EO directs stripping the FAR back to statutory requirements and moving non-statutory guidance into Strategic Acquisition Guidance (SAG) "buying guides." Deviations have been issued for 38 FAR parts. See [Research Overview](/research/) for full analysis.

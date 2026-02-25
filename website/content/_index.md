@@ -21,8 +21,8 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 
 <a class="section-card" href="literature/">
 <h3>Literature Review</h3>
-<p>100 key scholarly articles across 14 topic areas, plus recommended books. The academic foundation for best-value procurement research.</p>
-<div class="card-meta">100 Articles + Books</div>
+<p>105 key scholarly articles across 15 topic areas, plus recommended books. The academic foundation for best-value procurement research.</p>
+<div class="card-meta">105 Articles + Books</div>
 </a>
 
 <a class="section-card" href="data/">
@@ -46,7 +46,7 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 <a class="section-card" href="articles/">
 <h3>Articles Feed</h3>
 <p>Scholarly articles discovered daily through automated searches of OpenAlex and Semantic Scholar. Ranked by relevance and citations.</p>
-<div class="card-meta">254 Articles in Database</div>
+<div class="card-meta">419 Articles in Database</div>
 </a>
 
 </div>

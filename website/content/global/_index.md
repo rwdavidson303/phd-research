@@ -62,6 +62,7 @@ KONEPS (Korea ON-line E-Procurement System) is the world's largest single-window
 | 2015 | Tunisia's TUNEPS (based on KONEPS) wins Open Government Award Regional Champion for Africa |
 | 2018 | Integration of big data-based decision-making systems |
 | 2024 | ADB features KONEPS in "Next Generation" knowledge event; continued expansion |
+| 2025 | **Next-Generation KONEPS launched (March 2025):** Unifies four additional data systems and integrates 25 other procurement platforms into a single system. Connected to 227 external systems. Features AI-supported operational insights including data-driven planning, product recommendations based on purchasing history, bidding congestion prediction, and procurement operations monitoring. Korea committed to sharing KONEPS expertise internationally through renewed MOUs |
 
 ### 1.4 Measurable Results
 
@@ -191,7 +192,8 @@ The United Kingdom has one of the most mature and well-documented best-value pro
 | 2023 | Procurement Act 2023 receives Royal Assent |
 | 2023/24 | CCS channels GBP 30.3 billion; commercial benefits reach GBP 4.9 billion |
 | 2024/25 | CCS achieves commercial benefit rate of 10.49%; spend-related commercial benefit of GBP 4.6 billion; Return on Capital Employed of 64.1% |
-| February 2025 | Procurement Act 2023 comes into force |
+| February 2025 | Procurement Act 2023 comes into force -- replaces MEAT with **Most Advantageous Tender (MAT)**, explicitly shifting from economic-price dominance to broader value |
+| February-May 2025 | Quality criteria usage in open procedures surges from **48.3% to 72%** in first three months of Procurement Act implementation ([source](https://www.open-contracting.org/2025/06/23/uk-procurement-act-implementation-what-does-the-first-three-months-of-data-tell-us/)) |
 | October 2025 | New Social Value Model (PPN 002) becomes mandatory for all above-threshold central government procurements |
 
 ### 3.4 Measurable Results
@@ -495,6 +497,8 @@ The implementation of MEAT has produced notably different outcomes across EU mem
 | 2020-2023 | COVID-19 triggers emergency procurement provisions; accelerates e-procurement adoption |
 | 2023 | Lithuania achieves 90% sustainability criteria compliance |
 | 2024 | European Commission begins review of procurement directives for potential update |
+| 2025 | European Commission launches formal review of EU Public Procurement Directives, signaling shift toward simpler, more strategic rules. Priorities: cutting red tape, improving SME access, strengthening sustainability and resilience. Standardization of electronic tender forms and cross-border database interoperability underway. Reforms expected 2026--2027 |
+| 2025 | OECD publishes "[Implementing the OECD Recommendation on Public Procurement](https://www.oecd.org/en/publications/implementing-the-oecd-recommendation-on-public-procurement-in-oecd-and-partner-countries_02a46a58-en.html)" and "[Digital Transformation of Public Procurement](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/digital-transformation-of-public-procurement_90ace30d/79651651-en.pdf)" -- major international benchmarking reports |
 
 ### 7.5 Measurable Results
 
@@ -558,6 +562,7 @@ GeBIZ (Government Electronic Business) is Singapore's one-stop government-to-bus
 | 2007 | Singapore signs the revised WTO GPA |
 | 2010s | Continuous enhancement of GeBIZ platform with improved user interface and functionality |
 | 2020+ | GeBIZ data published on data.gov.sg for public analysis; ongoing modernization |
+| 2025 | Ministry of Finance launches **"Tender Lite"** initiative for ICT contracts -- fewer contract conditions, improved business accessibility, shared risk through removal or limitation of liquidated damages and security deposits. Phased rollout beginning second half of 2025 |
 
 ### 8.4 Measurable Results
 
@@ -618,6 +623,7 @@ Estonia's e-procurement system operates within the broader context of what is ar
 | 2018 | E-Residency program reaches critical mass; X-Road exported to Finland and other countries |
 | 2023 | Government adopts Strategic Public Procurement Principles; eForms implemented; Green procurement criteria mandatory for four product categories; Public procurement = 15.3% of GDP |
 | 2024 | Estonia ranks second in EU for innovation procurement policy framework (52.43% score); X-Road handles 2.7 billion data queries |
+| 2024-2025 | Estonia achieves **100% digital government** -- every public service available online. The 2024--2027 coalition agreement highlights data-driven governance and smart administration with commitments to algorithmic governance transparency ([source](https://e-estonia.com/estonia-100-digital-government-services/)) |
 
 ### 9.4 Measurable Results
 

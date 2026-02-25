@@ -642,6 +642,35 @@ weight: 2
 
 ---
 
+## 14. New Publications (2025--2026 Update)
+
+### Article 101 (NEW)
+**Carril, R., Gonzalez-Lira, A., & Walker, M. S. (2026). [Competition under incomplete contracts and the design of procurement policies](https://ideas.repec.org/a/aea/aecrev/v116y2026i2p535-81.html). *American Economic Review*, 116(2), 535--581.**
+
+*Relevance:* This top-tier publication examines the effects of intensifying competition in U.S. Defense procurement. Key finding: while expanding the set of bidders reduces award prices, it **deteriorates post-award performance**, resulting in more cost overruns and delays. The incomplete contracts framework connects to transaction cost economics. Provides empirical evidence from a top-5 economics journal validating the dissertation's core thesis that lowest-price outcomes can produce worse contract performance. *Published February 2026.*
+
+### Article 102 (NEW)
+**Thabit, Z., et al. (2025). Strategic public value(s) governance: A systematic literature review and framework. *Public Administration Review*.**
+
+*Relevance:* A systematic literature review examining how multi-actor collaborations generate public value(s) and developing a framework for analysis. Extends the public value theory framework (Moore, 1995) that underpins the dissertation's argument that procurement should maximize public value, not merely minimize cost.
+
+### Article 103 (NEW)
+**Lagstrom, A. (2025). [Exploring sustainable public procurement through regulatory conversations](https://doi.org/10.1111/faam.12412). *Financial Accountability & Management*.**
+
+*Relevance:* Explores sustainable public procurement (SPP) as a demand-side policy tool, examining regulatory interactions across countries. Connects to the broader movement toward value-based (rather than price-based) procurement criteria, including environmental and social dimensions.
+
+### Article 104 (NEW)
+**Author(s), 2025. [The influence of government capacity on contract management efficiency](https://doi.org/10.1080/09540962.2025.2574499). *Public Money & Management*.**
+
+*Relevance:* Examines how contract management capacity and organizational size influence contract management efficiency, with evidence from green public procurement. Connects to the dissertation's analysis of how agency capacity affects procurement outcomes -- agencies with stronger management capability may be better positioned to implement best-value tradeoff methods effectively.
+
+### Article 105 (NEW)
+**Moore, M. H. (2025). Creating public value: The core idea of strategic management in government. *Journal of Sustainable Institutional Management*, 12.**
+
+*Relevance:* The originator of public value theory continues to publish and refine the framework that undergirds the dissertation's theoretical argument. Reinforces the ongoing relevance of public value as a central concept in public management.
+
+---
+
 ## Summary Statistics
 
 | Topic Area | Articles | Key Authors |
@@ -660,7 +689,8 @@ weight: 2
 | Procurement Reform & Modernization | 7 | OFPP, NIGP, Kelman, Manuel, Schooner |
 | Research Methods | 10 | Angrist, Rosenbaum, Heckman, Imbens, Callaway, Creswell, Stuart, Goodman-Bacon, King |
 | Supplemental Cross-Cutting | 7 | Soudry, Decarolis, Grimshaw, Hudon, Kelman, Laffont |
-| **Total** | **100** | |
+| New Publications (2025--2026) | 5 | Carril, Thabit, Lagstrom, Moore |
+| **Total** | **105** | |
 
 ---
 
