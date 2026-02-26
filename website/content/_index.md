@@ -31,6 +31,12 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 <div class="card-meta">USAspending & FPDS</div>
 </a>
 
+<a class="section-card" href="vendor-journey/">
+<h3>The Vendor Journey</h3>
+<p>28+ steps and $30K–$1.1M+ in costs before earning a single dollar — three visual infographics mapping the real burden of competing for federal contracts.</p>
+<div class="card-meta">Infographics</div>
+</a>
+
 <a class="section-card" href="global/">
 <h3>Global Practices</h3>
 <p>How 12 countries run procurement — from South Korea's KONEPS to Chile's ChileCompra. Best practices and lessons for US reform.</p>

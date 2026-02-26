@@ -31,18 +31,21 @@ menu:
     - name: "Federal Data"
       url: "/data/"
       weight: 4
+    - name: "Vendor Journey"
+      url: "/vendor-journey/"
+      weight: 5
     - name: "Global"
       url: "/global/"
-      weight: 5
+      weight: 6
     - name: "People"
       url: "/people/"
-      weight: 6
+      weight: 7
     - name: "Articles"
       url: "/articles/"
-      weight: 7
+      weight: 8
     - name: "About"
       url: "/about/"
-      weight: 8
+      weight: 9
 
 markup:
   goldmark:

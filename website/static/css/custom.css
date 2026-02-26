@@ -495,6 +495,523 @@ article:has(.articles-table-wrap) {
   font-size: 0.75rem !important;
 }
 
+/* ==========================================================================
+   Vendor Journey — Infographic Styles (vj-* namespace)
+   ========================================================================== */
+
+/* Break out of Ananke's narrow measure */
+.measure-wide:has(.vj-page),
+article:has(.vj-page) {
+  max-width: none !important;
+}
+
+.vj-page {
+  max-width: 54rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* --- Top Stats Banner --- */
+.vj-stats-banner {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  background: var(--navy);
+  border-radius: 12px;
+  padding: 1.75rem 2rem;
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+}
+
+.vj-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 140px;
+}
+
+.vj-stat-number {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--gold);
+  line-height: 1.2;
+}
+
+.vj-stat-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.75);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 0.25rem;
+}
+
+/* --- Intro paragraph --- */
+.vj-intro {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  text-align: center;
+  max-width: 44rem;
+  margin: 0 auto 1.5rem;
+  line-height: 1.75;
+}
+
+/* --- Section titles --- */
+.vj-section-title {
+  text-align: center !important;
+  font-size: 1.8rem !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.25rem !important;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.vj-section-subtitle {
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  margin-bottom: 2rem;
+  font-style: italic;
+}
+
+/* --- Vertical Timeline --- */
+.vj-timeline {
+  position: relative;
+  padding: 1rem 0 1rem 2.5rem;
+  margin: 0 auto;
+  max-width: 48rem;
+}
+
+/* The connecting vertical line */
+.vj-timeline::before {
+  content: '';
+  position: absolute;
+  left: 1.1rem;
+  top: 2.5rem;
+  bottom: 2.5rem;
+  width: 3px;
+  background: linear-gradient(to bottom, var(--navy), var(--navy-lighter), var(--gold));
+  border-radius: 2px;
+}
+
+.vj-step {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.25rem;
+}
+
+.vj-step:last-child {
+  margin-bottom: 0;
+}
+
+/* Numbered circle */
+.vj-step-marker {
+  position: absolute;
+  left: -2.5rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  background: var(--navy);
+  color: var(--white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 700;
+  font-size: 0.85rem;
+  z-index: 2;
+  box-shadow: 0 2px 6px var(--shadow-md);
+  flex-shrink: 0;
+}
+
+/* Content card */
+.vj-step-content {
+  background: var(--white);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 1px 5px var(--shadow);
+  border-left: 3px solid var(--gold);
+  width: 100%;
+  transition: box-shadow 0.2s ease;
+}
+
+.vj-step-content:hover {
+  box-shadow: 0 3px 12px var(--shadow-md);
+}
+
+.vj-step-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.vj-step-header h3 {
+  font-size: 1.05rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  color: var(--navy) !important;
+  line-height: 1.3 !important;
+}
+
+.vj-step-content > p {
+  margin: 0 !important;
+  font-size: 0.92rem !important;
+  color: var(--text-secondary) !important;
+  line-height: 1.6 !important;
+}
+
+/* --- Cost Badges --- */
+.vj-badge {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+  flex-shrink: 0;
+  text-decoration: none !important;
+}
+
+.vj-badge--cost {
+  background: linear-gradient(135deg, var(--gold-light), var(--gold));
+  color: var(--navy);
+}
+
+.vj-badge--free {
+  background: var(--cream-dark);
+  color: var(--text-light);
+  border: 1px solid var(--border);
+}
+
+.vj-badge--high {
+  background: linear-gradient(135deg, #C0392B, #922B21);
+  color: var(--white);
+}
+
+.vj-badge--wait {
+  background: var(--navy-lighter);
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* --- Running Total Bar --- */
+.vj-total-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--navy);
+  color: var(--white);
+  border-radius: 10px;
+  padding: 1rem 1.5rem;
+  margin: 1.75rem auto;
+  max-width: 48rem;
+}
+
+.vj-total-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.vj-total-amount {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: var(--gold);
+}
+
+/* --- Callout box --- */
+.vj-callout {
+  background: var(--gold-pale);
+  border-left: 4px solid var(--gold);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem auto;
+  max-width: 48rem;
+  font-size: 0.95rem;
+  color: var(--navy);
+  line-height: 1.6;
+  font-style: normal !important;
+}
+
+/* --- Horizontal Pipeline (Infographic 3) --- */
+.vj-pipeline {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0;
+  margin: 2rem auto;
+  max-width: 54rem;
+  padding: 1.5rem 0;
+}
+
+.vj-phase {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  min-width: 80px;
+  flex: 1;
+  text-align: center;
+}
+
+.vj-phase-circle {
+  width: 3rem;
+  height: 3rem;
+  background: var(--navy);
+  color: var(--white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  z-index: 2;
+  box-shadow: 0 2px 6px var(--shadow-md);
+}
+
+/* Arrow connector between phases */
+.vj-phase-arrow {
+  position: absolute;
+  top: 1.35rem;
+  left: calc(50% + 1.5rem);
+  width: calc(100% - 3rem);
+  height: 3px;
+  background: linear-gradient(90deg, var(--navy), var(--navy-lighter));
+  z-index: 1;
+}
+
+.vj-phase-arrow::after {
+  content: '';
+  position: absolute;
+  right: -4px;
+  top: -3px;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 8px solid var(--navy-lighter);
+}
+
+.vj-phase:last-child .vj-phase-arrow {
+  display: none;
+}
+
+.vj-phase-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--navy);
+  margin-top: 0.5rem;
+  line-height: 1.25;
+  padding: 0 0.15rem;
+}
+
+.vj-phase-cost {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.68rem;
+  color: var(--text-light);
+  margin-top: 0.15rem;
+}
+
+/* --- Closing Section --- */
+.vj-closing {
+  background: var(--white);
+  border-radius: 12px;
+  padding: 2rem 2.5rem;
+  margin: 2rem auto;
+  max-width: 48rem;
+  box-shadow: 0 2px 10px var(--shadow);
+  border-top: 4px solid var(--gold);
+}
+
+.vj-closing .vj-section-title {
+  text-align: left !important;
+  font-size: 1.5rem !important;
+  margin-top: 0 !important;
+}
+
+.vj-closing blockquote {
+  font-size: 1.05rem;
+  margin: 1.5rem 0 !important;
+}
+
+.vj-cta {
+  display: inline-block;
+  background: var(--navy);
+  color: var(--white) !important;
+  padding: 0.65rem 1.5rem;
+  border-radius: 6px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  margin-top: 1rem;
+  transition: background-color 0.2s ease;
+}
+
+.vj-cta:hover {
+  background: var(--navy-light);
+  color: var(--white) !important;
+}
+
+/* --- Vendor Journey Responsive --- */
+@media screen and (max-width: 768px) {
+  .vj-stats-banner {
+    gap: 1rem;
+    padding: 1.25rem 1rem;
+  }
+
+  .vj-stat-number {
+    font-size: 1.4rem;
+  }
+
+  .vj-section-title {
+    font-size: 1.4rem !important;
+  }
+
+  .vj-timeline {
+    padding-left: 2rem;
+  }
+
+  .vj-timeline::before {
+    left: 0.75rem;
+  }
+
+  .vj-step-marker {
+    left: -2rem;
+    width: 1.8rem;
+    height: 1.8rem;
+    font-size: 0.75rem;
+  }
+
+  .vj-step-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .vj-total-bar {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.35rem;
+    padding: 1rem;
+  }
+
+  .vj-total-amount {
+    font-size: 1.2rem;
+  }
+
+  /* Pipeline stacks vertically on mobile */
+  .vj-pipeline {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .vj-phase {
+    flex-direction: row;
+    gap: 0.75rem;
+    min-width: auto;
+    width: 100%;
+    max-width: 280px;
+    text-align: left;
+  }
+
+  .vj-phase-circle {
+    width: 2.4rem;
+    height: 2.4rem;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+
+  .vj-phase-arrow {
+    display: none;
+  }
+
+  .vj-phase-label {
+    margin-top: 0;
+    font-size: 0.85rem;
+  }
+
+  .vj-phase-cost {
+    margin-top: 0;
+    font-size: 0.72rem;
+  }
+
+  .vj-closing {
+    padding: 1.5rem 1.25rem;
+  }
+}
+
+/* --- Vendor Journey Print --- */
+@media print {
+  .vj-stats-banner {
+    background: #eee !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-stat-number {
+    color: #333 !important;
+  }
+
+  .vj-stat-label {
+    color: #666 !important;
+  }
+
+  .vj-step-marker {
+    background: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-step-content {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+    border-left: 3px solid #999 !important;
+  }
+
+  .vj-badge--high {
+    background: #ddd !important;
+    color: #333 !important;
+  }
+
+  .vj-total-bar {
+    background: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-phase-circle {
+    background: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-closing {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+
+  .vj-cta {
+    background: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
 /* --- Print styles --- */
 @media print {
   header, footer, nav {
