@@ -1,6 +1,7 @@
 ---
 title: "New Zealand — Public Value & Proportionality"
 description: "The 'best deal for everyone' principle, proportionality by design, and Maori economic inclusion"
+summary: "Proportionality principle right-sizes processes to contract value, with Maori inclusion targets."
 weight: 7
 ---
 

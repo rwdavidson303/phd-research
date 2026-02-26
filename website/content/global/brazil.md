@@ -1,6 +1,7 @@
 ---
 title: "Brazil — Pregao Reverse Auctions"
 description: "The reverse auction revolution: cutting procurement time from 90+ days to 17 days"
+summary: "Pregao reverse auctions cut procurement time from 90+ days to 17 days."
 weight: 10
 ---
 

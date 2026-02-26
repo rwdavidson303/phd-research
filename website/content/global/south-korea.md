@@ -1,6 +1,7 @@
 ---
 title: "South Korea — KONEPS"
 description: "The world's largest single-window procurement platform, saving $8 billion annually"
+summary: "Single-window platform connecting 68,000 entities with 430,000+ suppliers. Saves $8 billion annually."
 weight: 1
 ---
 

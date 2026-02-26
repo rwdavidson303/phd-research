@@ -1,6 +1,7 @@
 ---
 title: "Australia — Value for Money & Indigenous Procurement"
 description: "Codifying value for money as the core rule and generating $12.9B+ in indigenous procurement opportunities"
+summary: "Value for money as the core rule, plus $12.9B+ in indigenous procurement opportunities."
 weight: 6
 ---
 

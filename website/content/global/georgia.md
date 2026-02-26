@@ -1,6 +1,7 @@
 ---
 title: "Georgia — From Corruption to Transparency"
 description: "The most dramatic procurement transformation in the world: corruption dropped from 97% to 3%"
+summary: "Built an e-procurement system in 10 months for under $1M, cutting corruption from 97% to 3%."
 weight: 4
 ---
 

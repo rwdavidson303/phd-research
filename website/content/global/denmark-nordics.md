@@ -1,6 +1,7 @@
 ---
 title: "Denmark & the Nordics — Innovation Procurement"
 description: "Pre-commercial procurement, GovTech startups, and buying what does not yet exist"
+summary: "Pre-commercial procurement produced commercial innovations from hospital robots to permeable asphalt."
 weight: 11
 ---
 

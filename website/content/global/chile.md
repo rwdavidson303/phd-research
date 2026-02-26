@@ -1,6 +1,7 @@
 ---
 title: "Chile — ChileCompra & Transparency Observatory"
 description: "Data-driven oversight that cut procurement conflicts by 67% and achieved 42% SME participation"
+summary: "Transparency Observatory cut procurement conflicts by 67%. SMEs hold 42% of procurement value."
 weight: 9
 ---
 

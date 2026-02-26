@@ -1,6 +1,7 @@
 ---
 title: "United Kingdom — Social Value & Procurement Act"
 description: "Legislating public value: mandatory social value weighting and the shift from MEAT to MAT"
+summary: "Mandatory 10% social value weighting and the Procurement Act 2023 shift from MEAT to MAT."
 weight: 5
 ---
 

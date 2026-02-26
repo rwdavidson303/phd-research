@@ -1,6 +1,7 @@
 ---
 title: "Singapore — GeBIZ"
 description: "Discipline, risk management, and anti-corruption achieving 5% procurement fraud vs. 29% globally"
+summary: "GeBIZ delivers 5% procurement fraud vs. 29% globally through structured evaluation and governance."
 weight: 3
 ---
 

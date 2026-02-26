@@ -1,6 +1,7 @@
 ---
 title: "European Union — Supranational Framework"
 description: "MEAT evaluation standard, life-cycle costing, sustainable procurement, and innovation partnerships across 27 nations"
+summary: "MEAT standard, life-cycle costing, and innovation partnerships across 27 member states."
 weight: 12
 ---
 

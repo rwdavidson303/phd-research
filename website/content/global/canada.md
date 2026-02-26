@@ -1,6 +1,7 @@
 ---
 title: "Canada — Procurement Ombudsman"
 description: "Non-adversarial dispute resolution and institutional reform through an independent ombudsman"
+summary: "Independent Procurement Ombudsman provides non-adversarial dispute resolution."
 weight: 8
 ---
 

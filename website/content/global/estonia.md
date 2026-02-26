@@ -1,6 +1,7 @@
 ---
 title: "Estonia — X-Road & Digital Government"
 description: "The once-only principle and interoperable digital infrastructure saving 2% of GDP annually"
+summary: "X-Road interoperability layer enables the once-only principle, saving 2% of GDP annually."
 weight: 2
 ---
 
