@@ -1,76 +1,57 @@
 ---
 title: "Global Best Practices"
-description: "A comprehensive analysis of the world's most effective public procurement systems and what they mean for US reform"
+description: "12 countries that get government procurement right — and what the US can learn from them"
 weight: 4
 ---
 
-# Getting Government Contracting Right
+# The World's Most Effective Public Procurement Systems
 
-**A Comprehensive Analysis of the World's Most Effective Public Procurement Systems and What They Mean for US Reform**
-
-*Richard W. Davidson, PhD — University of Denver, Daniels College of Business*
+Public procurement accounts for approximately **$13 trillion annually** — roughly 15% of global GDP. These 12 countries and frameworks have achieved measurable, often dramatic improvements in cost, speed, competition, transparency, and public value. Each profile below documents what they do, how they got there, and what the United States can adopt.
 
 ---
 
-## Abstract
+## Comparison at a Glance
 
-Public procurement represents one of the largest categories of government expenditure worldwide, accounting for approximately $13 trillion annually — roughly 15 percent of global GDP. This report undertakes a comprehensive comparative analysis of twelve countries and supranational frameworks that have achieved measurable improvements in procurement outcomes. Drawing on empirical data, government reports, and academic literature, it examines digital platform champions, value-for-money leaders, competition and anti-corruption innovators, and innovation procurement pioneers. The analysis identifies ten cross-cutting success patterns, synthesizes a seven-pillar "Model Procurement System" tailored to the US context, and offers fifteen actionable recommendations organized by implementation timeline.
-
----
-
-## Global Public Procurement at a Glance
-
-| **Country/Region** | **Annual Procurement Spend** | **% of GDP** | **Key Platform** |
+| **Country** | **Annual Spend** | **Key Platform** | **Headline Achievement** |
 |---|---|---|---|
-| United States (federal) | $700B+ | ~3.5% (federal only) | SAM.gov / USAspending.gov |
-| European Union (combined) | €2.0T+ | ~14% | TED / National portals |
-| United Kingdom | £300B+ (all levels) | ~12% | Find a Tender / Contracts Finder |
-| South Korea | $160B+ | ~12% | KONEPS |
-| Australia | AUD $70B+ (federal) | ~10% | AusTender |
-| Canada | CAD $25B+ (federal) | ~3.5% (federal) | CanadaBuys |
-| Chile | $16B+ | ~8% | ChileCompra / Mercado Publico |
-| Estonia | €3B+ | ~15% | e-Procurement (X-Road) |
-| Singapore | SGD $30B+ | ~8% | GeBIZ |
-| New Zealand | NZD $51B+ | ~18% | GETS |
-| Brazil | R$100B+ (federal) | ~5% (federal) | ComprasNet / PNCP |
-| Denmark | DKK 400B+ | ~15% | Ethics / EU TED |
+| [South Korea](south-korea/) | $160B+ | KONEPS | $8B annual savings, 93% faster bidding |
+| [Estonia](estonia/) | €3B+ | X-Road | 2% of GDP saved, once-only principle |
+| [Singapore](singapore/) | SGD $30B+ | GeBIZ | 5% fraud rate vs. 29% global average |
+| [Georgia](georgia/) | ~$3B | Ge-GP | Corruption: 97% to 3%, built for <$1M |
+| [United Kingdom](united-kingdom/) | £300B+ | Find a Tender | 10% mandatory social value, MAT standard |
+| [Australia](australia/) | AUD $70B+ | AusTender | $12.9B+ indigenous procurement, VfM core rule |
+| [New Zealand](new-zealand/) | NZD $51B+ | GETS | Proportionality principle, Maori inclusion |
+| [Canada](canada/) | CAD $25B+ | CanadaBuys | Procurement Ombudsman model |
+| [Chile](chile/) | $16B | Mercado Publico | 67% conflict reduction, Observatory model |
+| [Brazil](brazil/) | R$100B+ | ComprasNet/PNCP | 90+ days to 17 days via reverse auctions |
+| [Denmark & Nordics](denmark-nordics/) | €100B+ combined | Various | Innovation procurement, GovTech startups |
+| [European Union](european-union/) | €2T+ | TED | MEAT standard, life-cycle costing, 27 nations |
 
 ---
 
-## Report Chapters
+## Organized by Reform Theme
 
-### Part I: The Case for Reform
+### Digital Platform Champions
+Countries that built unified digital systems delivering transformative efficiency gains.
+- **[South Korea](south-korea/)** — Single-window platform connecting 68,000 entities
+- **[Estonia](estonia/)** — Interoperable infrastructure via X-Road
+- **[Singapore](singapore/)** — Disciplined governance and anti-corruption
+- **[Georgia](georgia/)** — Rapid transformation from corruption to transparency
 
-- **[Chapter 1: The $13 Trillion Question](ch1-introduction/)** — The scale of global public procurement, why reform matters now, and the promise of comparative analysis
+### Value-for-Money Leaders
+Countries that codified quality-over-price evaluation as the default.
+- **[United Kingdom](united-kingdom/)** — Social Value Act and Procurement Act 2023
+- **[Australia](australia/)** — Value for money as the "core rule"
+- **[New Zealand](new-zealand/)** — "Best deal for everyone" and proportionality
+- **[Canada](canada/)** — Procurement Ombudsman for non-adversarial oversight
 
-- **[Chapter 2: US Federal Procurement — Strengths & Weaknesses](ch2-us-system/)** — How the FAR works, the LPTA problem, what the US does well and poorly, and the bid protest ecosystem
+### Competition & Anti-Corruption Innovators
+Countries that maximized competition and built transparency into the system.
+- **[Chile](chile/)** — Transparency Observatory and open contracting data
+- **[Brazil](brazil/)** — Reverse auction (pregao) revolution
+- **[European Union](european-union/)** — MEAT standard and sustainable procurement across 27 nations
 
-### Part II: Country Deep Dives
-
-- **[Chapter 3: Digital Platform Champions](ch3-digital-platforms/)** — South Korea (KONEPS), Estonia (X-Road), Singapore (GeBIZ), and Georgia (Ge-GP)
-
-- **[Chapter 4: Value-for-Money Leaders](ch4-value-for-money/)** — United Kingdom, Australia, New Zealand, and Canada — moving beyond lowest price
-
-- **[Chapter 5: Competition & Anti-Corruption Innovators](ch5-competition/)** — Chile (ChileCompra), Brazil (Pregao), and the European Union framework
-
-- **[Chapter 6: Innovation Procurement](ch6-innovation/)** — Denmark, the Nordics, and the EU pre-commercial procurement framework
-
-### Part III: Synthesis and Recommendations
-
-- **[Chapter 7: Cross-Cutting Success Patterns](ch7-success-patterns/)** — Ten patterns that define effective 21st-century public procurement
-
-- **[Chapter 8: Seven-Pillar Framework for US Reform](ch8-model-framework/)** — A model procurement system synthesizing proven international reforms
-
-- **[Chapter 9: Recommendations](ch9-recommendations/)** — Fifteen actionable reforms — quick wins, medium-term, and long-term transformation
-
-- **[Chapter 10: The Imperative of Action](ch10-conclusion/)** — What we learned, the US opportunity, and the cost of inaction
-
-### Back Matter
-
-- **[Sources and References](references/)** — Complete bibliography
-
-- **[Glossary of Key Terms](glossary/)** — Definitions for procurement terminology used throughout the report
-
----
-
-**Keywords:** public procurement, government contracting, best value, source selection, comparative policy analysis, digital procurement, value for money, anti-corruption, procurement reform
+### Innovation Procurement Pioneers
+Countries that developed ways to buy solutions that don't yet exist.
+- **[Denmark & Nordics](denmark-nordics/)** — Pre-commercial procurement and GovTech
+- **[European Union](european-union/)** — Innovation partnership procedure
