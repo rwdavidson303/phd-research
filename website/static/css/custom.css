@@ -1015,6 +1015,65 @@ article:has(.vj-page) {
   }
 }
 
+/* ==========================================================================
+   Global Vendor Journeys — Country Card Grid (gvj-* namespace)
+   ========================================================================== */
+
+.gvj-country-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.gvj-country-card {
+  background: var(--white);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 2px 8px var(--shadow);
+  border-left: 4px solid var(--gold);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none !important;
+  display: block;
+}
+
+.gvj-country-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px var(--shadow-md);
+}
+
+.gvj-country-card h3 {
+  font-size: 1.1rem !important;
+  margin: 0 0 0.35rem 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  color: var(--navy) !important;
+}
+
+.gvj-country-card p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.gvj-country-card .gvj-cost-stat {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.78rem;
+  color: var(--gold);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 0.6rem;
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .gvj-country-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* --- Print styles --- */
 @media print {
   header, footer, nav {

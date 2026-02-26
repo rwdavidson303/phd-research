@@ -34,18 +34,21 @@ menu:
     - name: "Vendor Journey"
       url: "/vendor-journey/"
       weight: 5
+    - name: "Global Journeys"
+      url: "/global-vendor-journeys/"
+      weight: 6
     - name: "Global"
       url: "/global/"
-      weight: 6
+      weight: 7
     - name: "People"
       url: "/people/"
-      weight: 7
+      weight: 8
     - name: "Articles"
       url: "/articles/"
-      weight: 8
+      weight: 9
     - name: "About"
       url: "/about/"
-      weight: 9
+      weight: 10
 
 markup:
   goldmark:

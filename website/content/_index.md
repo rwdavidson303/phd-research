@@ -37,6 +37,12 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 <div class="card-meta">Infographics</div>
 </a>
 
+<a class="section-card" href="global-vendor-journeys/">
+<h3>Global Vendor Journeys</h3>
+<p>What it costs to compete in 12 countries — and why US barriers are 87x higher than the lowest-barrier systems. Local and US market entry for each country.</p>
+<div class="card-meta">12 Countries Compared</div>
+</a>
+
 <a class="section-card" href="global/">
 <h3>Global Practices</h3>
 <p>How 12 countries run procurement — from South Korea's KONEPS to Chile's ChileCompra. Best practices and lessons for US reform.</p>

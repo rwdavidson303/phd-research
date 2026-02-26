@@ -473,4 +473,14 @@ In a system where it costs $30K–$1.1M+ just to compete, the answer to that que
 
 </div>
 
+<div class="vj-closing">
+
+<h2 class="vj-section-title">How Does the US Compare Globally?</h2>
+
+The US vendor journey is the most expensive of any system studied — 87x higher than the lowest-barrier countries. See how 12 other nations handle procurement, and what it costs US companies to enter their markets.
+
+<a href="../global-vendor-journeys/" class="vj-cta">Explore Global Vendor Journeys &rarr;</a>
+
+</div>
+
 </div><!-- /vj-page -->
