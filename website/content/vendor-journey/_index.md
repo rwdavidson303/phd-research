@@ -39,7 +39,14 @@ description: "What it actually costs to compete for a federal contract — step 
 <p class="vj-regburden-cite">Sources: <a href="https://www.acquisition.gov/far" target="_blank">acquisition.gov/FAR</a> · <a href="https://www.acquisition.gov/dfars" target="_blank">acquisition.gov/DFARS</a> · Executive Order 14275 (2025)</p>
 </div>
 
-<!-- ===== Stats Banner ===== -->
+---
+
+<!-- ===================================================================
+     INFOGRAPHIC 1: THE QUALIFICATION GAUNTLET
+     =================================================================== -->
+
+<h2 class="vj-section-title">The Qualification Gauntlet</h2>
+
 <div class="vj-stats-banner">
   <div class="vj-stat">
     <span class="vj-stat-number">28+</span>
@@ -55,13 +62,6 @@ description: "What it actually costs to compete for a federal contract — step 
   </div>
 </div>
 
----
-
-<!-- ===================================================================
-     INFOGRAPHIC 1: THE QUALIFICATION GAUNTLET
-     =================================================================== -->
-
-<h2 class="vj-section-title">The Qualification Gauntlet</h2>
 <p class="vj-section-subtitle">28 steps before you earn $1 — 15 just to be <em>eligible</em> to bid on a federal contract</p>
 
 <p class="vj-intro">Before a business can earn a single dollar from a federal contract, it must navigate a gauntlet of registrations, certifications, compliance requirements, and proposal costs that can take months and hundreds of thousands of dollars. These infographics map the full journey — and show why so few firms compete.</p>
