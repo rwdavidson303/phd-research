@@ -25,91 +25,38 @@ description: "What it actually costs to compete for a federal contract — step 
 
 ---
 
-<!-- ===== The Regulatory Wall ===== -->
-<div class="vj-regwall">
-<h2 class="vj-section-title">The Regulatory Wall</h2>
-<p class="vj-section-subtitle">A contractor must comply with <strong>all of these</strong> — simultaneously — on every single contract</p>
-<div class="vj-regwall-stats">
-<div class="vj-regwall-stat">
-<span class="vj-regwall-stat-num">2,000+</span>
-<span class="vj-regwall-stat-label">Pages in the FAR</span>
+<!-- ===== The Regulatory Burden ===== -->
+<div class="vj-regburden">
+<h2 class="vj-section-title">The Regulatory Burden</h2>
+<p class="vj-section-subtitle">Before writing a single proposal, a contractor must master all of this</p>
+<div class="vj-regburden-hero">
+<div class="vj-regburden-satellite vj-regburden-satellite--left">
+<span class="vj-regburden-sat-num">53</span>
+<span class="vj-regburden-sat-label">FAR Parts</span>
 </div>
-<div class="vj-regwall-stat">
-<span class="vj-regwall-stat-num">~3,000</span>
-<span class="vj-regwall-stat-label">Directives</span>
+<div class="vj-regburden-center">
+<span class="vj-regburden-big-num">2,000+</span>
+<span class="vj-regburden-big-label">pages of federal acquisition regulations</span>
 </div>
-<div class="vj-regwall-stat">
-<span class="vj-regwall-stat-num">53</span>
-<span class="vj-regwall-stat-label">FAR Parts</span>
-</div>
-<div class="vj-regwall-stat">
-<span class="vj-regwall-stat-num">30+</span>
-<span class="vj-regwall-stat-label">Agency Supplements</span>
+<div class="vj-regburden-satellite vj-regburden-satellite--right">
+<span class="vj-regburden-sat-num">30+</span>
+<span class="vj-regburden-sat-label">Agency Supplements</span>
 </div>
 </div>
-<div class="vj-regwall-grid">
-<div class="vj-brick vj-brick--core">FAR Part 1–51</div>
-<div class="vj-brick vj-brick--core">FAR Part 52 Clauses</div>
-<div class="vj-brick vj-brick--core">FAR Part 53 Forms</div>
-<div class="vj-brick vj-brick--core">Cost Accounting Stds</div>
-<div class="vj-brick vj-brick--core">Truth in Negotiations</div>
-<div class="vj-brick vj-brick--core">Competition (CICA)</div>
-<div class="vj-brick vj-brick--core">Buy American Act</div>
-<div class="vj-brick vj-brick--core">Trade Agreements Act</div>
-<div class="vj-brick vj-brick--core">Service Contract Act</div>
-<div class="vj-brick vj-brick--core">Davis-Bacon Act</div>
-<div class="vj-brick vj-brick--core">Equal Opportunity</div>
-<div class="vj-brick vj-brick--core">Small Business Act</div>
-<div class="vj-brick vj-brick--core">Prompt Payment Act</div>
-<div class="vj-brick vj-brick--core">Anti-Kickback Act</div>
-<div class="vj-brick vj-brick--core">Procurement Integrity</div>
-<div class="vj-brick vj-brick--core">Contract Disputes Act</div>
-<div class="vj-brick vj-brick--core">Organizational Conflicts</div>
-<div class="vj-brick vj-brick--core">Federal Ethics Rules</div>
-<div class="vj-brick vj-brick--core">Section 508 Access</div>
-<div class="vj-brick vj-brick--core">Environmental Reqs</div>
-<div class="vj-brick vj-brick--core">OSHA Compliance</div>
-<div class="vj-brick vj-brick--core">ADA Compliance</div>
-<div class="vj-brick vj-brick--core">EEO Reporting</div>
-<div class="vj-brick vj-brick--core">VETS-4212 Reporting</div>
-<div class="vj-brick vj-brick--dod">DFARS (~1,000 pages)</div>
-<div class="vj-brick vj-brick--dod">CMMC / NIST 800-171</div>
-<div class="vj-brick vj-brick--dod">CUI Requirements</div>
-<div class="vj-brick vj-brick--dod">ITAR Export Controls</div>
-<div class="vj-brick vj-brick--dod">EAR Export Controls</div>
-<div class="vj-brick vj-brick--dod">DCAA Audit Standards</div>
-<div class="vj-brick vj-brick--dod">Industrial Security (NISPOM)</div>
-<div class="vj-brick vj-brick--dod">Counterfeit Parts (GIDEP)</div>
-<div class="vj-brick vj-brick--dod">Berry Amendment</div>
-<div class="vj-brick vj-brick--dod">Specialty Metals</div>
-<div class="vj-brick vj-brick--dod">DoD Cyber Incident Rpt</div>
-<div class="vj-brick vj-brick--dod">Foreign Ownership (CFIUS)</div>
-<div class="vj-brick vj-brick--agency">NASA FAR Supplement</div>
-<div class="vj-brick vj-brick--agency">GSA Acq Manual (GSAM)</div>
-<div class="vj-brick vj-brick--agency">DOE Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">HHS Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">VA Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">DHS Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">USAID Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">EPA Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">Treasury Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">DOT Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">DOJ Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">USDA Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">DOI Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">DOL Acq Regulation</div>
-<div class="vj-brick vj-brick--agency">Commerce Acq Reg</div>
-<div class="vj-brick vj-brick--agency">State Dept Acq Reg</div>
-<div class="vj-brick vj-brick--agency">FedRAMP (Cloud)</div>
-<div class="vj-brick vj-brick--agency">FISMA Compliance</div>
+<div class="vj-regburden-secondrow">
+<div class="vj-regburden-stat2">
+<span class="vj-regburden-stat2-num">~3,000</span>
+<span class="vj-regburden-stat2-label">individual directives</span>
 </div>
-<div class="vj-regwall-legend">
-<span class="vj-legend-item"><span class="vj-legend-swatch vj-legend-swatch--core"></span> FAR Core (all contractors)</span>
-<span class="vj-legend-item"><span class="vj-legend-swatch vj-legend-swatch--dod"></span> DoD Additional (defense contracts)</span>
-<span class="vj-legend-item"><span class="vj-legend-swatch vj-legend-swatch--agency"></span> Agency Supplements (varies by contract)</span>
+<div class="vj-regburden-stat2">
+<span class="vj-regburden-stat2-num">+1,000</span>
+<span class="vj-regburden-stat2-label">more pages for DoD (DFARS alone)</span>
 </div>
-<div class="vj-regwall-bottom">And this list isn't even complete.</div>
-<p class="vj-regwall-cite">Sources: <a href="https://www.acquisition.gov/far" target="_blank">acquisition.gov/FAR</a> · <a href="https://www.acquisition.gov/dfars" target="_blank">acquisition.gov/DFARS</a> · Executive Order 14275 (2025)</p>
+</div>
+<div class="vj-regburden-comparison">
+<div class="vj-regburden-compare-text">The entire <strong>Harry Potter</strong> series is 4,224 pages.<br>The <strong>FAR + DFARS</strong> is comparable in length.<br>One is fiction. The other is <em>required reading</em> — before you earn $1.</div>
+</div>
+<p class="vj-regburden-cite">Sources: <a href="https://www.acquisition.gov/far" target="_blank">acquisition.gov/FAR</a> · <a href="https://www.acquisition.gov/dfars" target="_blank">acquisition.gov/DFARS</a> · Executive Order 14275 (2025)</p>
 </div>
 
 ---

@@ -1075,214 +1075,212 @@ article:has(.vj-page) {
 }
 
 /* ==========================================================================
-   Vendor Journey — Regulation Wall (vj-regwall / vj-brick namespace)
+   Vendor Journey — Regulatory Burden (vj-regburden namespace)
    ========================================================================== */
 
-.vj-regwall {
+.vj-regburden {
   margin: 2rem auto;
   max-width: 54rem;
 }
 
-/* --- Stats row at top --- */
-.vj-regwall-stats {
+/* --- Hero: big number with satellites --- */
+.vj-regburden-hero {
   display: flex;
+  align-items: center;
   justify-content: center;
-  gap: 2rem;
-  flex-wrap: wrap;
-  margin: 1.5rem 0;
+  gap: 1.5rem;
+  margin: 1.5rem 0 1rem;
 }
 
-.vj-regwall-stat {
+.vj-regburden-center {
+  background: var(--navy);
+  border-radius: 16px;
+  padding: 1.75rem 2.5rem;
+  text-align: center;
+  box-shadow: 0 4px 20px var(--shadow-md);
+}
+
+.vj-regburden-big-num {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 4rem;
+  font-weight: 900;
+  color: var(--gold);
+  line-height: 1;
+  display: block;
+  letter-spacing: -0.02em;
+}
+
+.vj-regburden-big-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.75);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  display: block;
+  margin-top: 0.35rem;
+}
+
+.vj-regburden-satellite {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
+  min-width: 80px;
 }
 
-.vj-regwall-stat-num {
+.vj-regburden-sat-num {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 800;
   color: var(--navy);
-  line-height: 1.2;
+  line-height: 1.1;
 }
 
-.vj-regwall-stat-label {
+.vj-regburden-sat-label {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   color: var(--text-secondary);
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  margin-top: 0.15rem;
+}
+
+/* --- Second row stats --- */
+.vj-regburden-secondrow {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin: 1.25rem 0;
+}
+
+.vj-regburden-stat2 {
+  text-align: center;
+}
+
+.vj-regburden-stat2-num {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--navy);
+  display: block;
+  line-height: 1.2;
+}
+
+.vj-regburden-stat2-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  display: block;
   margin-top: 0.1rem;
 }
 
-/* --- Brick grid --- */
-.vj-regwall-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  justify-content: center;
-  padding: 1.25rem;
-  background: var(--cream-dark);
-  border-radius: 10px;
-  border: 2px solid var(--border);
-}
-
-.vj-brick {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 0.65rem;
-  font-weight: 600;
-  padding: 0.35rem 0.6rem;
-  border-radius: 4px;
-  white-space: nowrap;
-  line-height: 1.3;
-  text-decoration: none !important;
-}
-
-.vj-brick--core {
+/* --- Harry Potter comparison box --- */
+.vj-regburden-comparison {
   background: var(--navy);
-  color: var(--white);
-}
-
-.vj-brick--dod {
-  background: #922B21;
-  color: var(--white);
-}
-
-.vj-brick--agency {
-  background: var(--gold);
-  color: var(--navy);
-}
-
-/* --- Legend --- */
-.vj-regwall-legend {
-  display: flex;
-  justify-content: center;
-  gap: 1.25rem;
-  flex-wrap: wrap;
-  margin-top: 1rem;
-}
-
-.vj-legend-item {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 0.72rem;
-  color: var(--text-secondary);
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-}
-
-.vj-legend-swatch {
-  display: inline-block;
-  width: 12px;
-  height: 12px;
-  border-radius: 3px;
-  flex-shrink: 0;
-}
-
-.vj-legend-swatch--core {
-  background: var(--navy);
-}
-
-.vj-legend-swatch--dod {
-  background: #922B21;
-}
-
-.vj-legend-swatch--agency {
-  background: var(--gold);
-}
-
-/* --- Bottom bar --- */
-.vj-regwall-bottom {
-  background: var(--navy);
-  color: var(--gold);
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 1rem;
-  font-weight: 800;
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  margin: 1.5rem auto;
+  max-width: 40rem;
   text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  padding: 0.7rem 1.5rem;
-  border-radius: 10px;
-  margin-top: 1rem;
+  border-left: 5px solid var(--gold);
+  border-right: 5px solid var(--gold);
+}
+
+.vj-regburden-compare-text {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.vj-regburden-compare-text strong {
+  color: var(--gold) !important;
+  font-weight: 700;
+}
+
+.vj-regburden-compare-text em {
+  color: var(--gold-light);
+  font-style: italic;
 }
 
 /* --- Citation --- */
-.vj-regwall-cite {
+.vj-regburden-cite {
   text-align: center !important;
   font-size: 0.72rem !important;
   color: var(--text-light) !important;
-  margin-top: 0.5rem !important;
+  margin-top: 0.75rem !important;
 }
 
-.vj-regwall-cite a {
+.vj-regburden-cite a {
   font-size: 0.72rem !important;
 }
 
-/* --- Regulation Wall Responsive --- */
+/* --- Regulatory Burden Responsive --- */
 @media screen and (max-width: 768px) {
-  .vj-regwall-stats {
+  .vj-regburden-hero {
+    flex-direction: column;
     gap: 1rem;
   }
 
-  .vj-regwall-stat-num {
-    font-size: 1.3rem;
+  .vj-regburden-satellite {
+    flex-direction: row;
+    gap: 0.5rem;
   }
 
-  .vj-brick {
-    font-size: 0.58rem;
-    padding: 0.3rem 0.45rem;
+  .vj-regburden-big-num {
+    font-size: 3rem;
   }
 
-  .vj-regwall-grid {
-    padding: 0.75rem;
-    gap: 4px;
+  .vj-regburden-center {
+    padding: 1.25rem 1.75rem;
   }
 
-  .vj-regwall-bottom {
-    font-size: 0.85rem;
+  .vj-regburden-secondrow {
+    gap: 1.5rem;
   }
 
-  .vj-regwall-legend {
-    gap: 0.75rem;
+  .vj-regburden-stat2-num {
+    font-size: 1.2rem;
   }
 
-  .vj-legend-item {
-    font-size: 0.65rem;
+  .vj-regburden-comparison {
+    padding: 1.25rem 1.25rem;
+  }
+
+  .vj-regburden-compare-text {
+    font-size: 1rem;
   }
 }
 
-/* --- Regulation Wall Print --- */
+/* --- Regulatory Burden Print --- */
 @media print {
-  .vj-brick--core {
-    background: #ccc !important;
-    color: #333 !important;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
-  }
-
-  .vj-brick--dod {
-    background: #999 !important;
-    color: #fff !important;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
-  }
-
-  .vj-brick--agency {
+  .vj-regburden-center {
     background: #eee !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-regburden-big-num {
     color: #333 !important;
+  }
+
+  .vj-regburden-big-label {
+    color: #666 !important;
+  }
+
+  .vj-regburden-comparison {
+    background: #eee !important;
+    border-color: #999 !important;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
 
-  .vj-regwall-bottom {
-    background: #333 !important;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
+  .vj-regburden-compare-text {
+    color: #333 !important;
   }
 
-  .vj-regwall-grid {
-    border: 1px solid #ccc !important;
+  .vj-regburden-compare-text strong {
+    color: #333 !important;
   }
 }
 
