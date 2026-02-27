@@ -1125,7 +1125,8 @@ article:has(.vj-page) {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  min-width: 80px;
+  width: 140px;
+  flex-shrink: 0;
 }
 
 .vj-regburden-sat-num {
