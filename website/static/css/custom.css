@@ -162,6 +162,7 @@ blockquote p {
 /* --- Lists --- */
 main ul, main ol {
   padding-left: 1.5rem !important;
+  text-align: left !important;
 }
 
 main li {
