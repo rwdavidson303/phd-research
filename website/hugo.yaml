@@ -34,11 +34,11 @@ menu:
     - name: "Vendor Journey"
       url: "/vendor-journey/"
       weight: 5
-    - name: "Global Journeys"
-      url: "/global-vendor-journeys/"
-      weight: 6
     - name: "Global Leaders"
       url: "/global/"
+      weight: 6
+    - name: "Global Journeys"
+      url: "/global-vendor-journeys/"
       weight: 7
     - name: "People"
       url: "/people/"
