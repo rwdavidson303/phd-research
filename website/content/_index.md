@@ -79,4 +79,4 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 - [USAspending.gov](https://www.usaspending.gov) — Federal contract award data
 - [FPDS](https://www.fpds.gov) — Federal Procurement Data System
 - [GAO Bid Protests](https://www.gao.gov/legal/bid-protests) — Protest statistics and decisions
-- CPARS — Contractor performance data
+- [CPARS](https://www.cpars.gov/cparsweb/home) — Contractor performance data
