@@ -1074,6 +1074,218 @@ article:has(.vj-page) {
   }
 }
 
+/* ==========================================================================
+   Vendor Journey — Regulation Wall (vj-regwall / vj-brick namespace)
+   ========================================================================== */
+
+.vj-regwall {
+  margin: 2rem auto;
+  max-width: 54rem;
+}
+
+/* --- Stats row at top --- */
+.vj-regwall-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.vj-regwall-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.vj-regwall-stat-num {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--navy);
+  line-height: 1.2;
+}
+
+.vj-regwall-stat-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.1rem;
+}
+
+/* --- Brick grid --- */
+.vj-regwall-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+  padding: 1.25rem;
+  background: var(--cream-dark);
+  border-radius: 10px;
+  border: 2px solid var(--border);
+}
+
+.vj-brick {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.65rem;
+  font-weight: 600;
+  padding: 0.35rem 0.6rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  line-height: 1.3;
+  text-decoration: none !important;
+}
+
+.vj-brick--core {
+  background: var(--navy);
+  color: var(--white);
+}
+
+.vj-brick--dod {
+  background: #922B21;
+  color: var(--white);
+}
+
+.vj-brick--agency {
+  background: var(--gold);
+  color: var(--navy);
+}
+
+/* --- Legend --- */
+.vj-regwall-legend {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.vj-legend-item {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.vj-legend-swatch {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.vj-legend-swatch--core {
+  background: var(--navy);
+}
+
+.vj-legend-swatch--dod {
+  background: #922B21;
+}
+
+.vj-legend-swatch--agency {
+  background: var(--gold);
+}
+
+/* --- Bottom bar --- */
+.vj-regwall-bottom {
+  background: var(--navy);
+  color: var(--gold);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.7rem 1.5rem;
+  border-radius: 10px;
+  margin-top: 1rem;
+}
+
+/* --- Citation --- */
+.vj-regwall-cite {
+  text-align: center !important;
+  font-size: 0.72rem !important;
+  color: var(--text-light) !important;
+  margin-top: 0.5rem !important;
+}
+
+.vj-regwall-cite a {
+  font-size: 0.72rem !important;
+}
+
+/* --- Regulation Wall Responsive --- */
+@media screen and (max-width: 768px) {
+  .vj-regwall-stats {
+    gap: 1rem;
+  }
+
+  .vj-regwall-stat-num {
+    font-size: 1.3rem;
+  }
+
+  .vj-brick {
+    font-size: 0.58rem;
+    padding: 0.3rem 0.45rem;
+  }
+
+  .vj-regwall-grid {
+    padding: 0.75rem;
+    gap: 4px;
+  }
+
+  .vj-regwall-bottom {
+    font-size: 0.85rem;
+  }
+
+  .vj-regwall-legend {
+    gap: 0.75rem;
+  }
+
+  .vj-legend-item {
+    font-size: 0.65rem;
+  }
+}
+
+/* --- Regulation Wall Print --- */
+@media print {
+  .vj-brick--core {
+    background: #ccc !important;
+    color: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-brick--dod {
+    background: #999 !important;
+    color: #fff !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-brick--agency {
+    background: #eee !important;
+    color: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-regwall-bottom {
+    background: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .vj-regwall-grid {
+    border: 1px solid #ccc !important;
+  }
+}
+
 /* --- Print styles --- */
 @media print {
   header, footer, nav {
