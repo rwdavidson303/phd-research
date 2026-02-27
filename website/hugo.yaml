@@ -37,7 +37,7 @@ menu:
     - name: "Global Journeys"
       url: "/global-vendor-journeys/"
       weight: 6
-    - name: "Global"
+    - name: "Global Leaders"
       url: "/global/"
       weight: 7
     - name: "People"
