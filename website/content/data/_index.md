@@ -15,7 +15,7 @@ This section tracks and analyzes federal procurement data relevant to the disser
 | [USAspending.gov](https://www.usaspending.gov) | Contract award records with source selection process codes | Automated downloads |
 | [FPDS](https://www.fpds.gov) | Federal Procurement Data System - detailed contract data | Linked via USAspending |
 | [GAO Bid Protests](https://www.gao.gov/legal/bid-protests) | Annual protest statistics and decision dockets | Annual + ongoing |
-| CPARS | Contractor Performance Assessment Reporting System | Access pending |
+| [CPARS](https://www.cpars.gov/cparsweb/home) | Contractor Performance Assessment Reporting System | Access pending |
 
 ### Key Variables
 
