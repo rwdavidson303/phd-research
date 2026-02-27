@@ -5,26 +5,6 @@ description: "What it actually costs to compete for a federal contract — step 
 
 <div class="vj-page">
 
-<!-- ===== Top Stats Banner ===== -->
-<div class="vj-stats-banner">
-  <div class="vj-stat">
-    <span class="vj-stat-number">28+</span>
-    <span class="vj-stat-label">Steps Before Revenue</span>
-  </div>
-  <div class="vj-stat">
-    <span class="vj-stat-number">$12K–$530K+</span>
-    <span class="vj-stat-label">Entry Cost</span>
-  </div>
-  <div class="vj-stat">
-    <span class="vj-stat-number">3–12 Months</span>
-    <span class="vj-stat-label">Just to Qualify</span>
-  </div>
-</div>
-
-<p class="vj-intro">Before a business can earn a single dollar from a federal contract, it must navigate a gauntlet of registrations, certifications, compliance requirements, and proposal costs that can take months and hundreds of thousands of dollars. These infographics map the full journey — and show why so few firms compete.</p>
-
----
-
 <!-- ===== The Regulatory Burden ===== -->
 <div class="vj-regburden">
 <h2 class="vj-section-title">The Regulatory Burden</h2>
@@ -58,6 +38,24 @@ description: "What it actually costs to compete for a federal contract — step 
 </div>
 <p class="vj-regburden-cite">Sources: <a href="https://www.acquisition.gov/far" target="_blank">acquisition.gov/FAR</a> · <a href="https://www.acquisition.gov/dfars" target="_blank">acquisition.gov/DFARS</a> · Executive Order 14275 (2025)</p>
 </div>
+
+<!-- ===== Stats Banner ===== -->
+<div class="vj-stats-banner">
+  <div class="vj-stat">
+    <span class="vj-stat-number">28+</span>
+    <span class="vj-stat-label">Steps Before Revenue</span>
+  </div>
+  <div class="vj-stat">
+    <span class="vj-stat-number">$12K–$530K+</span>
+    <span class="vj-stat-label">Entry Cost</span>
+  </div>
+  <div class="vj-stat">
+    <span class="vj-stat-number">3–12 Months</span>
+    <span class="vj-stat-label">Just to Qualify</span>
+  </div>
+</div>
+
+<p class="vj-intro">Before a business can earn a single dollar from a federal contract, it must navigate a gauntlet of registrations, certifications, compliance requirements, and proposal costs that can take months and hundreds of thousands of dollars. These infographics map the full journey — and show why so few firms compete.</p>
 
 ---
 
