@@ -55,8 +55,6 @@ description: "What it actually costs to compete for a federal contract — step 
   </div>
 </div>
 
-<p class="vj-intro">Before a business can earn a single dollar from a federal contract, it must navigate a gauntlet of registrations, certifications, compliance requirements, and proposal costs that can take months and hundreds of thousands of dollars. These infographics map the full journey — and show why so few firms compete.</p>
-
 ---
 
 <!-- ===================================================================
@@ -65,6 +63,8 @@ description: "What it actually costs to compete for a federal contract — step 
 
 <h2 class="vj-section-title">The Qualification Gauntlet</h2>
 <p class="vj-section-subtitle">28 steps before you earn $1 — 15 just to be <em>eligible</em> to bid on a federal contract</p>
+
+<p class="vj-intro">Before a business can earn a single dollar from a federal contract, it must navigate a gauntlet of registrations, certifications, compliance requirements, and proposal costs that can take months and hundreds of thousands of dollars. These infographics map the full journey — and show why so few firms compete.</p>
 
 <div class="vj-timeline">
 
