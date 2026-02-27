@@ -5,63 +5,6 @@ description: "What it actually costs to compete for a federal contract — step 
 
 <div class="vj-page">
 
-<!-- ===== Snake-Path Overview: All 28 Steps at a Glance ===== -->
-<div class="vj-snake-wrap">
-<h2 class="vj-snake-title">28 Steps Before You Earn $1</h2>
-<p class="vj-snake-subtitle">Every box is a real requirement. Every row winds back — just like the process.</p>
-<div class="vj-snake-grid">
-<!-- Row 1: Left to Right (Steps 1-7) -->
-<div class="vj-snake-row vj-snake-row--ltr">
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">1</span><span class="vj-snake-name">Form Entity</span><span class="vj-snake-cost vj-snake-cost--mid">$100–$800</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">2</span><span class="vj-snake-name">Get EIN</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">3</span><span class="vj-snake-name">Open Bank Acct</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">4</span><span class="vj-snake-name">NAICS Codes</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">5</span><span class="vj-snake-name">Get UEI</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">6</span><span class="vj-snake-name">SAM.gov</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">7</span><span class="vj-snake-name">SBA Size Std</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-</div>
-<div class="vj-snake-turn vj-snake-turn--right"></div>
-<!-- Row 2: Right to Left (Steps 8-14) -->
-<div class="vj-snake-row vj-snake-row--rtl">
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">14</span><span class="vj-snake-name">Past Performance</span><span class="vj-snake-cost vj-snake-cost--high">Years</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">13</span><span class="vj-snake-name">Cap Statement</span><span class="vj-snake-cost vj-snake-cost--mid">$500–$5K</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">12</span><span class="vj-snake-name">Insurance</span><span class="vj-snake-cost vj-snake-cost--mid">$2K–$10K+</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">11</span><span class="vj-snake-name">Surety Bonds</span><span class="vj-snake-cost vj-snake-cost--mid">1–5%</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">10</span><span class="vj-snake-name">CMMC</span><span class="vj-snake-cost vj-snake-cost--high">$5K–$300K</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">9</span><span class="vj-snake-name">Certifications</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--qualify"><span class="vj-snake-num">8</span><span class="vj-snake-name">DCAA Accounting</span><span class="vj-snake-cost vj-snake-cost--high">$4K–$200K+</span></div>
-</div>
-<div class="vj-snake-turn vj-snake-turn--left"></div>
-<!-- Phase divider -->
-<div class="vj-snake-phase-divider">
-<span class="vj-snake-phase-label vj-snake-phase-label--done">Qualification Complete</span>
-<span class="vj-snake-phase-arrow-text">Now you can start bidding...</span>
-</div>
-<!-- Row 3: Left to Right (Steps 15-21) -->
-<div class="vj-snake-row vj-snake-row--ltr">
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">15</span><span class="vj-snake-name">SBS Profile</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">16</span><span class="vj-snake-name">Monitor SAM</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">17</span><span class="vj-snake-name">Review RFP</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">18</span><span class="vj-snake-name">Industry Day</span><span class="vj-snake-cost vj-snake-cost--mid">$500–$5K</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">19</span><span class="vj-snake-name">Q&amp;A Period</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">20</span><span class="vj-snake-name">Tech Proposal</span><span class="vj-snake-cost vj-snake-cost--high">$15K–$150K+</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">21</span><span class="vj-snake-name">Cost Proposal</span><span class="vj-snake-cost vj-snake-cost--high">$5K–$50K</span></div>
-</div>
-<div class="vj-snake-turn vj-snake-turn--right"></div>
-<!-- Row 4: Right to Left (Steps 22-28) -->
-<div class="vj-snake-row vj-snake-row--rtl">
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">28</span><span class="vj-snake-name">Post-Award</span><span class="vj-snake-cost vj-snake-cost--wait">1–4 wks</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">27</span><span class="vj-snake-name">Bid Protest</span><span class="vj-snake-cost vj-snake-cost--high">$50K–$250K</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">26</span><span class="vj-snake-name">Award Decision</span><span class="vj-snake-cost vj-snake-cost--wait">Wait</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">25</span><span class="vj-snake-name">Discussions</span><span class="vj-snake-cost vj-snake-cost--wait">Wait</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">24</span><span class="vj-snake-name">Evaluation</span><span class="vj-snake-cost vj-snake-cost--wait">Wait</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">23</span><span class="vj-snake-name">Submit Bid</span><span class="vj-snake-cost vj-snake-cost--free">Free</span></div>
-<div class="vj-snake-cell vj-snake-cell--bid"><span class="vj-snake-num">22</span><span class="vj-snake-name">Past Perf Vol</span><span class="vj-snake-cost vj-snake-cost--mid">$2K–$10K</span></div>
-</div>
-</div><!-- /vj-snake-grid -->
-<div class="vj-snake-bottom-bar">All this before earning $1</div>
-</div><!-- /vj-snake-wrap -->
-
 <!-- ===== Top Stats Banner ===== -->
 <div class="vj-stats-banner">
   <div class="vj-stat">
@@ -87,7 +30,7 @@ description: "What it actually costs to compete for a federal contract — step 
      =================================================================== -->
 
 <h2 class="vj-section-title">The Qualification Gauntlet</h2>
-<p class="vj-section-subtitle">15 steps just to be <em>eligible</em> to bid on a federal contract</p>
+<p class="vj-section-subtitle">28 steps before you earn $1 — 15 just to be <em>eligible</em> to bid on a federal contract</p>
 
 <div class="vj-timeline">
 
