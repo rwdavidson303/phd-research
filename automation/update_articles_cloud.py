@@ -189,6 +189,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 
 ## All Articles — Newest First
 
+<div class="articles-table-wrap">
+
 | # | Article | Authors | Year | Journal | Citations |
 |---|---------|---------|------|---------|-----------|
 """
@@ -203,6 +205,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
         year = a.get("year") or ""
         cites = a.get("citation_count") or 0
         page += f"| {i} | {linked} | {short_authors} | {year} | {short_journal} | {cites:,} |\n"
+
+    page += "\n</div>"
 
     ARTICLES_PAGE.parent.mkdir(parents=True, exist_ok=True)
     ARTICLES_PAGE.write_text(page)
