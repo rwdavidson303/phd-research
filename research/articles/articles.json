@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-07T10:51:03.537960",
-    "total_articles": 421,
-    "last_search_date": "2026-03-07"
+    "last_updated": "2026-03-08T10:53:23.696167",
+    "total_articles": 422,
+    "last_search_date": "2026-03-08"
   },
   "articles": [
     {
@@ -560,7 +560,7 @@
       "abstract": "Bill & Melinda Gates Foundation.",
       "doi": "https://doi.org/10.1016/s0140-6736(24)00757-8",
       "url": "https://openalex.org/W4394894573",
-      "citation_count": 3798,
+      "citation_count": 3805,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850221"
@@ -1610,7 +1610,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1038/s41586-020-2286-9",
       "url": "https://openalex.org/W3022285953",
-      "citation_count": 4778,
+      "citation_count": 4784,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021329"
@@ -1624,7 +1624,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1325,
+      "citation_count": 1327,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -1680,7 +1680,7 @@
       "abstract": "Problem definition: The influence of female directors on firm decision-making and performance is a frequently studied research topic but has received limited attention in operations management. We investigate if adding female directors to a firm’s board of directors changes whether and how quickly the firm recalls defective products. Academic/practical relevance: By demonstrating a relationship between an increase in female directors and more rule-conscious, customer-focused recall decisions, we highlight that adding female directors may enable more societally beneficial operational decisions. Methodology: We analyze 4,271 medical product recalls from 2002 to 2013 across 92 publicly traded firms regulated by the Food and Drug Administration using negative binomial and ordinary least squares fixed effect regression models. In robustness checks, we include an instrumental variable analysis, propensity score matching models, and reverse causality regression models. Results: As boards add female directors, recall decisions change. Firms initiate more medical product recalls that are low in severity and hence easier for firms to avoid initiating, highlighting the increased rule-following brought to bear by adding female directors. Firms also make faster recall decisions for the most serious defects that are high in severity and dangerous for customers, highlighting the increased stakeholder responsiveness resulting from adding female directors. Managerial implications: Firms may more closely align recall decisions with regulatory rules and become more sensitized to customer health and safety by adding female directors. Further, at least two female directors may be required to speed up recall decisions for the most serious, life-threatening defects.",
       "doi": "https://doi.org/10.1287/msom.2019.0841",
       "url": "https://openalex.org/W3013079391",
-      "citation_count": 113,
+      "citation_count": 114,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686838"
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(19)30041-8",
       "url": "https://openalex.org/W2928467655",
-      "citation_count": 5484,
+      "citation_count": 5497,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021150"
@@ -2254,7 +2254,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
       "url": "https://openalex.org/W2899736836",
-      "citation_count": 8468,
+      "citation_count": 8472,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850421"
@@ -2268,7 +2268,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 2839,
+      "citation_count": 2840,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -3052,7 +3052,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 4915,
+      "citation_count": 4919,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -3066,7 +3066,7 @@
       "abstract": "Comorbid conditions account for the largest portion of the growing economic burden of MDD. Future research should analyze further these comorbidities as well as the relative importance of factors contributing to that growing burden. These include population growth, increase in MDD prevalence, increase in treatment cost per individual with MDD, changes in employment and treatment rates, as well as changes in the composition and quality of MDD treatment services.",
       "doi": "https://doi.org/10.4088/jcp.14m09298",
       "url": "https://openalex.org/W2039056175",
-      "citation_count": 1783,
+      "citation_count": 1790,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686901"
@@ -3290,7 +3290,7 @@
       "abstract": "This paper develops a dynamic capabilities-based theory of the multinational enterprise (MNE). It first reviews scholarship on the MNE, with a focus on what has come to be known as \"internalization\" theory. One prong of this theory develops contractual/transaction cost-informed governance perspectives; and another develops technology transfer and capabilities perspectives. In this paper, it is suggested that the latter has been somewhat neglected. However, if fully integrated as part of a more complete approach, it can buttress transaction cost/governance issues and expand the range of phenomena that can be explained. In this more integrated framework, dynamic capabilities coupled with good strategy are seen as necessary to sustain superior enterprise performance, especially in fast-moving global environments. Entrepreneurial management and transformational leadership are incorporated into a capabilities theory of the MNE. The framework is then used to explain how strategy and dynamic capabilities together determine firm-level sustained competitive advantage in global environments. It is suggested that this framework complements contract-based perspectives on the MNE and can help integrate international management and international business perspectives.",
       "doi": "https://doi.org/10.1057/jibs.2013.54",
       "url": "https://openalex.org/W2032540219",
-      "citation_count": 1206,
+      "citation_count": 1207,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943626"
@@ -3878,7 +3878,7 @@
       "abstract": "China's economic reforms have resulted in spectacular growth and poverty reduction. However, China's institutions look ill-suited to achieve such a result, and they indeed suffer from serious shortcomings. To solve the “China puzzle,” this paper analyzes China's institution—a regionally decentralized authoritarian system. The central government has control over personnel, whereas subnational governments run the bulk of the economy; and they initiate, negotiate, implement, divert, and resist reforms, policies, rules, and laws. China's reform trajectories have been shaped by regional decentralization. Spectacular performance on the one hand and grave problems on the other hand are all determined by this governance structure. (JEL O17, O18, O43, P21, P25, P26)",
       "doi": "https://doi.org/10.1257/jel.49.4.1076",
       "url": "https://openalex.org/W2128368240",
-      "citation_count": 2490,
+      "citation_count": 2491,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850483"
@@ -4788,7 +4788,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3624,
+      "citation_count": 3625,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -4970,7 +4970,7 @@
       "abstract": "In this paper we note that the institutional context (and therefore the structure of incentives and organization) in developing and transition economies is quite different from those in advanced industrial economies, and this necessitates the literature on decentralization in the context of development to go beyond the traditional fiscal federalism literature. We review some of the existing theoretical work and empirical case studies of decentralization from the point of view of delivery of public services and of conditions for local business development, and point to ways of going forward in research.",
       "doi": "https://doi.org/10.1257/089533002320951037",
       "url": "https://openalex.org/W2143775898",
-      "citation_count": 1760,
+      "citation_count": 1761,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943643"
@@ -5516,7 +5516,7 @@
       "abstract": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizational scales. The observer imposes a perceptual bias, a filter through which the system is viewed. This has fundamental evolutionary significance, since every organism is an \"observer\" of the environment, and life history adaptations such as dispersal and dormancy alter the perceptual scales of the species, and the observed variability. It likewise has fundamental significance for our own study of ecological systems, since the patterns that are unique to any range of scales will have unique causes and biological consequences. The key to prediction and understanding lies in the elucidation of mechanisms underlying observed patterns. Typically, these mechanisms operate at different scales than those on which the patterns are observed; in some cases, the patterns must be understood as emerging form the collective behaviors of large ensembles of smaller scale units. In other cases, the pattern is imposed by larger scale constraints. Examination of such phenomena requires the study of how pattern and variability change with the scale of description, and the development of laws for simplification, aggregation, and scaling. Examples are given from the marine and terrestrial literatures.",
       "doi": "https://doi.org/10.2307/1941447",
       "url": "https://openalex.org/W2322480672",
-      "citation_count": 6675,
+      "citation_count": 6676,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021169"
@@ -5898,6 +5898,20 @@
       "id": "d28ff93e3034e2bae15fc70de2dcd323",
       "date_found": "2026-03-03T21:15:51.338886",
       "search_query": "propensity score matching public administration"
+    },
+    {
+      "title": "Internet of Things in the 5G Era: Enablers, Architecture, and Business Models",
+      "authors": "Maria Rita Palattella; Mischa Döhler; Alfredo Grieco; Gianluca Rizzo; Johan Torsner",
+      "year": 2016,
+      "journal": "IEEE Journal on Selected Areas in Communications",
+      "abstract": "The IoT paradigm holds the promise to revolutionize the way we live and work by means of a wealth of new services, based on seamless interactions between a large amount of heterogeneous devices. After decades of conceptual inception of the IoT, in recent years a large variety of communication technologies has gradually emerged, reflecting a large diversity of application domains and of communication requirements. Such heterogeneity and fragmentation of the connectivity landscape is currently hampering the full realization of the IoT vision, by posing several complex integration challenges. In this context, the advent of 5G cellular systems, with the availability of a connectivity technology, which is at once truly ubiquitous, reliable, scalable, and cost-efficient, is considered as a potentially key driver for the yet-to emerge global IoT. In the present paper, we analyze in detail the potential of 5G technologies for the IoT, by considering both the technological and standardization aspects. We review the present-day IoT connectivity landscape, as well as the main 5G enablers for the IoT. Last but not least, we illustrate the massive business shifts that a tight link between IoT and 5G may cause in the operator and vendors ecosystem.",
+      "doi": "https://doi.org/10.1109/jsac.2016.2525418",
+      "url": "https://openalex.org/W2273675851",
+      "citation_count": 1465,
+      "source": "openalex",
+      "id": "fe635ecf594f3e284f0048668d9c1ac1",
+      "date_found": "2026-03-08T10:53:10.696181",
+      "search_query": "best value tradeoff public procurement"
     }
   ]
 }
