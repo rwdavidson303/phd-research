@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-12T10:30:35.351200",
-    "total_articles": 436,
-    "last_search_date": "2026-03-12"
+    "last_updated": "2026-03-13T10:26:59.524747",
+    "total_articles": 437,
+    "last_search_date": "2026-03-13"
   },
   "articles": [
     {
@@ -56,7 +56,7 @@
       "abstract": "Centralized drug procurement is a common practice worldwide to relieve the healthcare burden and promote high-quality development in the pharmaceutical industry. However, scholars have not yet reached an agreement on whether centralized procurement can facilitate the innovation activities of pharmaceutical firms. China’s centralized volume-based procurement (CVBP) implemented in 2018 provides an ideal quasi-natural experiment to evaluate the effect of centralized procurement on the R&amp;D investment of the firms. Drawing data from listed manufacturing firms in China’s A-share market (2015–2020), the results from a difference-in-differences analysis with different model specifications indicate that the CVBP significantly promotes the pharmaceutical manufacturing firms’ R&amp;D investment. Moreover, the positive effect of the CVBP on R&amp;D investment is stronger in pharmaceutical manufacturing firms with high marketing expenses. A series of robustness tests including the parallel trend test, placebo test, and the PSM-DID analysis show that our findings are solid. This paper advances our understanding of centralized procurement in emerging markets and provides new insights into how governments and pharmaceutical manufacturing firms can strengthen innovation.",
       "doi": "https://doi.org/10.1371/journal.pone.0315811",
       "url": "https://openalex.org/W4406047997",
-      "citation_count": 6,
+      "citation_count": 7,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973255"
@@ -560,7 +560,7 @@
       "abstract": "Bill & Melinda Gates Foundation.",
       "doi": "https://doi.org/10.1016/s0140-6736(24)00757-8",
       "url": "https://openalex.org/W4394894573",
-      "citation_count": 3823,
+      "citation_count": 3836,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850221"
@@ -924,7 +924,7 @@
       "abstract": "Introduction: The normalized implementation of the centralized volume-based procurement policy for pharmaceuticals is a concerted push for supply-side structural reform of the pharmaceutical industry in China. The impact of the centralized drug procurement policy on pharmaceutical companies' transition from imitation to innovation is investigated to test whether a positive effect occurs in the innovation landscape of the pharmaceutical market. Methods: The double difference method and a series of robustness tests were used based on data from a sample of listed pharmaceutical companies in Shanghai and Shenzhen A-shares between 2015 and 2021. Results: The study found that the centralized drug procurement policy significantly contributed to the increased intensity of innovation input in the Chinese pharmaceutical industry. In terms of regional and firm nature heterogeneity, it was found that firms in the seven provinces belonging to the three economic regions had a better increase in innovation input intensity than other regions. Firms of state-owned nature had a better increase in innovation input intensity than private companies. The mechanism test found a partial mediating effect of nearly 10% for the cost of sales rate on the innovation input intensity of listed companies and a negative mediating effect on corporate operating profit. Discussion: Further research found that the effect of centralized drug procurement policy on the improvement of innovation quality of listed pharmaceutical companies was evident. The innovation development of Chinese pharmaceutical companies no longer focused on the accumulation of innovation quantity.",
       "doi": "https://doi.org/10.3389/fphar.2023.1192423",
       "url": "https://openalex.org/W4378903464",
-      "citation_count": 15,
+      "citation_count": 16,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973094"
@@ -1316,7 +1316,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1398,
+      "citation_count": 1404,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -1330,7 +1330,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/s41278-020-00180-5",
       "url": "https://openalex.org/W3120887917",
-      "citation_count": 426,
+      "citation_count": 427,
       "search_query": "change orders renegotiation public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:48.239014"
@@ -1358,7 +1358,7 @@
       "abstract": "Abstract AI will change many aspects of the world we live in, including the way corporations are governed. Many efficiencies and improvements are likely, but there are also potential dangers, including the threat of harmful impacts on third parties, discriminatory practices, data and privacy breaches, fraudulent practices and even ‘rogue AI’. To address these dangers, the EU published ‘The Expert Group’s Policy and Investment Recommendations for Trustworthy AI’ (the Guidelines). The Guidelines produce seven principles from its four foundational pillars of respect for human autonomy, prevention of harm, fairness, and explicability. If implemented by business, the impact on corporate governance will be substantial. Fundamental questions at the intersection of ethics and law are considered, but because the Guidelines only address the former without (much) reference to the latter, their practical application is challenging for business. Further, while they promote many positive corporate governance principles—including a stakeholder-oriented (‘human-centric’) corporate purpose and diversity, non-discrimination, and fairness—it is clear that their general nature leaves many questions and concerns unanswered. In this paper we examine the potential significance and impact of the Guidelines on selected corporate law and governance issues. We conclude that more specificity is needed in relation to how the principles therein will harmonise with company law rules and governance principles. However, despite their imperfections, until harder legislative instruments emerge, the Guidelines provide a useful starting point for directing businesses towards establishing trustworthy AI.",
       "doi": "https://doi.org/10.1007/s40804-021-00224-0",
       "url": "https://openalex.org/W3202833319",
-      "citation_count": 89,
+      "citation_count": 90,
       "search_query": "procurement oversight review boards delay",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:59.285332"
@@ -1484,7 +1484,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.2139/ssrn.3922133",
       "url": "https://openalex.org/W4247400660",
-      "citation_count": 6,
+      "citation_count": 7,
       "search_query": "procurement protest accountability",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:11.277000"
@@ -1610,7 +1610,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1038/s41586-020-2286-9",
       "url": "https://openalex.org/W3022285953",
-      "citation_count": 4803,
+      "citation_count": 4804,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021329"
@@ -1624,7 +1624,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1328,
+      "citation_count": 1332,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(19)30041-8",
       "url": "https://openalex.org/W2928467655",
-      "citation_count": 5542,
+      "citation_count": 5547,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021150"
@@ -1918,7 +1918,7 @@
       "abstract": "The grassroots movement that placed environmental justice issues on the national stage around 1980 was soon followed up by research documenting the correlation between pollution and race and poverty. This work has established inequitable exposure to nuisances as a stylized fact of social science. In this paper, we review the environmental justice literature, especially where it intersects with work by economists. First we consider the literature documenting evidence of disproportionate exposure. We particularly consider the implications of modeling choices about spatial relationships between polluters and residents, and about conditioning variables. Next, we evaluate the theory and evidence for four possible mechanisms that may lie behind the patterns seen: disproportionate siting on the firm side, “coming to the nuisance” on the household side, market-like coordination of the two, and discriminatory politics and/or enforcement. We argue that further research is needed to understand how much weight to give each mechanism. Finally, we discuss some policy options.",
       "doi": "https://doi.org/10.1257/jep.33.1.185",
       "url": "https://openalex.org/W2913170491",
-      "citation_count": 573,
+      "citation_count": 574,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582557"
@@ -2254,7 +2254,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
       "url": "https://openalex.org/W2899736836",
-      "citation_count": 8533,
+      "citation_count": 8537,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850421"
@@ -2268,7 +2268,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 2845,
+      "citation_count": 2846,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -2842,7 +2842,7 @@
       "abstract": "Guidelines for use of wild mammal species in research are updated from Sikes et al. (2011) . These guidelines cover current professional techniques and regulations involving the use of mammals in research and teaching; they also incorporate new resources, procedural summaries, and reporting requirements. Included are details on capturing, marking, housing, and humanely killing wild mammals. It is recommended that Institutional Animal Care and Use Committees (IACUCs), regulatory agencies, and investigators use these guidelines as a resource for protocols involving wild mammals, whether studied in the field or in captivity. These guidelines were prepared and approved by the American Society of Mammalogists (ASM), in consultation with professional veterinarians experienced in wildlife research and IACUCs, whose collective expertise provides a broad and comprehensive understanding of the biology of nondomesticated mammals. The current version of these guidelines and any subsequent modifications are available online on the Animal Care and Use Committee page of the ASM website ( http://mammalogy.org/uploads/committee_files/CurrentGuidelines.pdf ). Additional resources pertaining to the use of wild animals in research are available at: http://www.mammalsociety.org/committees/animal-care-and-use#tab3 .",
       "doi": "https://doi.org/10.1093/jmammal/gyw078",
       "url": "https://openalex.org/W2398139753",
-      "citation_count": 3091,
+      "citation_count": 3097,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021270"
@@ -3052,7 +3052,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 4965,
+      "citation_count": 4970,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -3346,7 +3346,7 @@
       "abstract": "South Sudan obtained independence in July 2011 as a kleptocracy – a militarized, corrupt neo-patrimonial system of governance. By the time of independence, the South Sudanese \"political marketplace\" was so expensive that the country's comparatively copious revenue was consumed by the military-political patronage system, with almost nothing left for public services, development or institution building. The efforts of national technocrats and foreign donors produced bubbles of institutional integrity but the system as a whole was entirely resistant to reform. The January 2012 shutdown of oil production bankrupted the system. Even an experienced and talented political business manager would have struggled, and President Salva Kiir did not display the required skills. No sooner had shots been fired than the compact holding the SPLA together fell apart and civil war ensued. Drawing upon long-term observation of elite politics in South Sudan, this article explains both the roots of kleptocratic government and its dire consequences.",
       "doi": "https://doi.org/10.1093/afraf/adu028",
       "url": "https://openalex.org/W2110460377",
-      "citation_count": 287,
+      "citation_count": 288,
       "search_query": "change orders renegotiation public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:48.239069"
@@ -3514,7 +3514,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 837,
+      "citation_count": 838,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -3878,7 +3878,7 @@
       "abstract": "China's economic reforms have resulted in spectacular growth and poverty reduction. However, China's institutions look ill-suited to achieve such a result, and they indeed suffer from serious shortcomings. To solve the “China puzzle,” this paper analyzes China's institution—a regionally decentralized authoritarian system. The central government has control over personnel, whereas subnational governments run the bulk of the economy; and they initiate, negotiate, implement, divert, and resist reforms, policies, rules, and laws. China's reform trajectories have been shaped by regional decentralization. Spectacular performance on the one hand and grave problems on the other hand are all determined by this governance structure. (JEL O17, O18, O43, P21, P25, P26)",
       "doi": "https://doi.org/10.1257/jel.49.4.1076",
       "url": "https://openalex.org/W2128368240",
-      "citation_count": 2494,
+      "citation_count": 2497,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850483"
@@ -4088,7 +4088,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4778,
+      "citation_count": 4780,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4256,7 +4256,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/palgrave.jibs.8400377",
       "url": "https://openalex.org/W2088078282",
-      "citation_count": 3086,
+      "citation_count": 3087,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850393"
@@ -4648,7 +4648,7 @@
       "abstract": "The “new public management” (NPM) wave in public sector organizational change was founded on themes of disaggregation, competition, and incentivization. Although its effects are still working through in countries new to NPM, this wave has now largely stalled or been reversed in some key “leading-edge” countries. This ebbing chiefly reflects the cumulation of adverse indirect effects on citizens' capacities for solving social problems because NPM has radically increased institutional and policy complexity. The character of the post-NPM regime is currently being formed. We set out the case that a range of connected and information technology–centered changes will be critical for the current and next wave of change, and we focus on themes of reintegration, needs-based holism, and digitization changes. The overall movement incorporating these new shifts is toward “digital-era governance” (DEG), which involves reintegrating functions into the governmental sphere, adopting holistic and needs-oriented structures, and progressing digitalization of administrative processes. DEG offers a perhaps unique opportunity to create self-sustaining change, in a broad range of closely connected technological, organizational, cultural, and social effects. But there are alternative scenarios as to how far DEG will be recognized as a coherent phenomenon and implemented successfully.",
       "doi": "https://doi.org/10.1093/jopart/mui057",
       "url": "https://openalex.org/W2123431441",
-      "citation_count": 2370,
+      "citation_count": 2373,
       "search_query": "procurement reform federal acquisition",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:15.452405"
@@ -4788,7 +4788,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3628,
+      "citation_count": 3631,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -4970,7 +4970,7 @@
       "abstract": "In this paper we note that the institutional context (and therefore the structure of incentives and organization) in developing and transition economies is quite different from those in advanced industrial economies, and this necessitates the literature on decentralization in the context of development to go beyond the traditional fiscal federalism literature. We review some of the existing theoretical work and empirical case studies of decentralization from the point of view of delivery of public services and of conditions for local business development, and point to ways of going forward in research.",
       "doi": "https://doi.org/10.1257/089533002320951037",
       "url": "https://openalex.org/W2143775898",
-      "citation_count": 1761,
+      "citation_count": 1762,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943643"
@@ -5516,7 +5516,7 @@
       "abstract": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizational scales. The observer imposes a perceptual bias, a filter through which the system is viewed. This has fundamental evolutionary significance, since every organism is an \"observer\" of the environment, and life history adaptations such as dispersal and dormancy alter the perceptual scales of the species, and the observed variability. It likewise has fundamental significance for our own study of ecological systems, since the patterns that are unique to any range of scales will have unique causes and biological consequences. The key to prediction and understanding lies in the elucidation of mechanisms underlying observed patterns. Typically, these mechanisms operate at different scales than those on which the patterns are observed; in some cases, the patterns must be understood as emerging form the collective behaviors of large ensembles of smaller scale units. In other cases, the pattern is imposed by larger scale constraints. Examination of such phenomena requires the study of how pattern and variability change with the scale of description, and the development of laws for simplification, aggregation, and scaling. Examples are given from the marine and terrestrial literatures.",
       "doi": "https://doi.org/10.2307/1941447",
       "url": "https://openalex.org/W2322480672",
-      "citation_count": 6681,
+      "citation_count": 6684,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021169"
@@ -5586,7 +5586,7 @@
       "abstract": "One of the most persistent cleavages in the social sciences is the opposition between two lines of thought conveniently associated with Adam Smith and Emile Durkheim, between homo economicus and homo sociologicus. Of these, the former is supposed to be guided by instrumental rationality, while the behavior of the latter is dictated by social norms. In this paper I characterize this contrast more fully, and discuss attempts by economists to reduce normoriented action to some type of optimizing behavior. Social norms, as I understand them here, are emotional and behavioral propensities of individuals. Are norms rationalizations of self-interest? Are norms followed out of self-interest? Do norms exist to promote self-interest? Do norms exist to promote common interests? Do norms exist to promote genetic fitness?",
       "doi": "https://doi.org/10.1257/jep.3.4.99",
       "url": "https://openalex.org/W2081314276",
-      "citation_count": 2020,
+      "citation_count": 2021,
       "search_query": "strategic underbidding government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:42.437285"
@@ -5838,7 +5838,7 @@
       "abstract": "Economic theory has suffered in the past from a failure to state clearly its assumptions. Economists in building up a theory have often omitted to examine the foundations on which it was erected. This examination is, however, essential not only to prevent the misunderstanding and needless controversy which arise from a lack of knowledge of the assumptions on which a theory is based, but also because of the extreme importance for economics of good judgment in choosing between rival sets of assumptions. For instance, it is suggested that the use of the word “firm” in economics may be different from the use of the term by the “plain man.”11 Joan Robinson, Economics is a Serious Subject, p. 12. Since there is apparently a trend in economic theory towards starting analysis with the individual firm and not with the industry,22 See N. Kaldor, “The Equilibrium of the Firm,”Economic Journal, March, 1934. it is all the more necessary not only that a clear definition of the word “firm” should be given but that its difference from a firm in the “real world,” if it exists, should be made clear. Mrs. Robinson has said that “the two questions to be asked of a set of assumptions in economics are : Are they tractable? and : Do they correspond with the real world?”33 Op. cit., p. 6. Though, as Mrs. Robinson points out, “more often one set will be manageable and the other realistic,” yet there may well be branches of theory where assumptions may be both manageable and realistic. It is hoped to show in the following paper that a definition of a firm may be obtained which is not only realistic in that it corresponds to what is meant by a firm in the real world, but is tractable by two of the most powerful instruments of economic analysis developed by Marshall, the idea of the margin and that of substitution, together giving the idea of substitution at the margin.11 J. M. Keynes, Essays in Biography, pp. 223–4. Our definition must, of course, “relate to formal relations which are capable of being conceived exactly.”22 L. Robbins, Nature and Significance of Economic Science, p. 63. It is convenient if, in searching for a definition of a firm, we first consider the economic system as it is normally treated by the economist. Let us consider the description of the economic system given by Sir Arthur Salter.33 This description is quoted with approval by D. H. Robertson, Control of Industry, p. 85, and by Professor Arnold Plant, “Trends in Business Administration,” Economica, February, 1932. It appears in Allied Shipping Control, pp. 16–17. “The normal economic system works itself. For its current operation it is under no central control, it needs no central survey. Over the whole range of human activity and human need, supply is adjusted to demand, and production to consumption, by a process that is automatic, elastic and responsive.” An economist thinks of the economic system as being co-ordinated by the price mechanism and society becomes not an organisation but an organism.44 See F. A. Hayek, “The Trend of Economic Thinking,” Economica, May, 1933. The economic system “works itself.” This does not mean that there is no planning by individuals. These exercise foresight and choose between alternatives. This is necessarily so if there is to be order in the system. But this theory assumes that the direction of resources is dependent directly on the price mechanism. Indeed, it is often considered to be an objection to economic planning that it merely tries to do what is already done by the price mechanism.55 See F. A. Hayek, op. cit. Sir Arthur Salter's description, however, gives a very incomplete picture of our economic system. Within a firm, the description does not fit at all. For instance, in economic theory we find that the allocation of factors of production between different uses is determined by the price mechanism. The price of factor A becomes higher in X than in Y. As a result, A moves from Y to X until the difference between the prices in X and Y, except in so far as it compensates for other differential advantages, disappears. Yet in the real world, we find that there are many areas where this does not apply. If a workman moves from department Y to department X, he does not go because of a change in relative prices, but because he is ordered to do so. Those who object to economic planning on the grounds that the problem is solved by price movements can be answered by pointing out that there is planning within our economic system which is quite different from the individual planning mentioned above and which is akin to what is normally called economic planning. The example given above is typical of a large sphere in our modern economic system. Of course, this fact has not been ignored by economists. Marshall introduces organisation as a fourth factor of production; J. B. Clark gives the co-ordinating function to the entrepreneur; Professor Knight introduces managers who co-ordinate. As D. H. Robertson points out, we find “islands of conscious power in this ocean of unconscious co-operation like lumps of butter coagulating in a pail of buttermilk.”11 Op. cit., p. 85. But in view of the fact that it is usually argued that co-ordination will be done by the price mechanism, why is such organisation necessary? Why are there these “islands of conscious power”? Outside the firm, price movements direct production, which is co-ordinated through a series of exchange transactions on the market. Within a firm, these market transactions are eliminated and in place of the complicated market structure with exchange transactions is substituted the entrepreneur-co-ordinator, who directs production.22 In the rest of this paper I shall use the term entrepreneur to refer to the person or persons who, in a competitive system, take the place of the price mechanism in the direction of resources. It is clear that these are alternative methods of co-ordinating production. Yet, having regard to the fact that if production is regulated by price movements, production could be carried on without any organisation at all, well might we ask, why is there any organisation? Of course, the degree to which the price mechanism is superseded varies greatly. In a department store, the allocation of the different sections to the various locations in the building may be done by the controlling authority or it may be the result of competitive price bidding for space. In the Lancashire cotton industry, a weaver can rent power and shop-room and can obtain looms and yarn on credit.33 Survey of Textile Industries, p. 26. This co-ordination of the various factors of production is, however, normally carried out without the intervention of the price mechanism. As is evident, the amount of “vertical” integration, involving as it does the supersession of the price mechanism, varies greatly from industry to industry and from firm to firm. It can, I think, be assumed that the distinguishing mark of the firm is the supersession of the price mechanism. It is, of course, as Professor Robbins points out, “related to an outside network of relative prices and costs,”11 Op. cit., p. 71. but it is important to discover the exact nature of this relationship. This distinction between the allocation of resources in a firm and the allocation in the economic system has been very vividly described by Mr. Maurice Dobb when discussing Adam Smith's conception of the capitalist: “It began to be seen that there was something more important than the relations inside each factory or unit captained by an undertaker; there were the relations of the undertaker with the rest of the economic world outside his immediate sphere…. the undertaker busies himself with the division of labour inside each firm and he plans and organises consciously,” but “he is related to the much larger economic specialisation, of which he himself is merely one specialised unit. Here, he plays his part as a single cell in a larger organism, mainly unconscious of the wider rôle he fills.”22 Capitalist Enterprise and Social Progress, p. 20. Cf., also, Henderson, Supply and Demand, pp. 3–5. In view of the fact that while economists treat the price mechanism as a co-ordinating instrument, they also admit the co-ordinating function of the “entrepreneur,” it is surely important to enquire why co-ordination is the work of the price mechanism in one case and of the entrepreneur in another. The purpose of this paper is to bridge what appears to be a gap in economic theory between the assumption (made for some purposes) that resources are allocated by means of the price mechanism and the assumption (made for other purposes) that this allocation is dependent on the entrepreneur-co-ordinator. We have to explain the basis on which, in practice, this choice between alternatives is effected.33 It is easy to see when the State takes over the direction of an industry that, in planning it, it is doing something which was previously done by the price mechanism. What is usually not realised is that any business man in organising the relations between his departments is also doing something which could be organised through the price mechanism. There is therefore point in Mr. Durbin's answer to those who emphasise the problems involved in economic planning that the same problems have to be solved by business men in the competitive system. (See “Economic Calculus in a Planned Economy,”Economic Journal, December, 1936.) The important difference between these two cases is that economic planning is imposed on industry while firms arise voluntarily because they represent a more efficient method of organising production. In a competitive system, there is an “optimum” amount of planning! Our task is to attempt to discover why a firm emerges at all in a specialised exchange economy. The price mechanism (considered purely from the side of the direction of resources) might be superseded if the relationship which replaced it was desired for its own sake. This would be the case, for example, if some people preferred to work under the direction of some other person. Such individuals would accept less in order to work under someone, and firms would arise naturally from this. But it would appear that this cannot be a very important reason, for it would rather seem that the opposite tendency is operating if one judges from the stress normally laid on the advantage of “being one's own master.”11 Cf. Harry Dawes, “Labour Mobility in the Steel Industry,”Economic Journal, March, 1934, who instances “the trek to retail shopkeeping and insurance work by the better paid of skilled men due to the desire (often the main aim in life of a worker) to be independent” (p. 86). Of course, if the desire was not to be controlled but to control, to exercise power over others, then people might be willing to give up something in order to direct others; that is, they would be willing to pay others more than they could get under the price mechanism in order to be able to direct them. But this implies that those who direct pay in order to be able to do this and are not paid to direct, which is clearly not true in the majority of cases.22 None the less, this is not altogether fanciful. Some small shopkeepers are said to earn less than their assistants. Firms might also exist if purchasers preferred commodities which are produced by firms to those not so produced; but even in spheres where one would expect such preferences (if they exist) to be of negligible importance, firms are to be found in the real world.33 G. F. Shove, “The Imperfection of the Market: a Further Note,”Economic Journal, March, 1933, p. 116, note 1, points out that such preferences may exist, although the example he gives is almost the reverse of the instance given in the text. Therefore there must be other elements involved. The main reason why it is profitable to establish a firm would seem to be that there is a cost of using the price mechanism. The most obvious cost of “organising” production through the price mechanism is that of discovering what the relevant prices are.44 According to N. Kaldor, “A Classificatory Note of the Determinateness of Equilibrium,”Review of Economic Studies, February, 1934, it is one of the assumptions of static theory that “All the relevant prices are known to all individuals.” But this is clearly not true of the real world. This cost may be reduced but it will not be eliminated by the emergence of specialists who will sell this information. The costs of negotiating and concluding a separate contract for each exchange transaction which takes place on a market must also be taken into account.11 This influence was noted by Professor Usher when discussing the development of capitalism. He says: “The successive buying and selling of partly finished products were sheer waste of energy.” (Introduction to the Industrial History of England, p. 13). But he does not develop the idea nor consider why it is that buying and selling operations still exist. Again, in certain markets, e.g., produce exchanges, a technique is devised for minimising these contract costs; but they are not eliminated. It is true that contracts are not eliminated when there is a firm but they are greatly reduced. A factor of production (or the owner thereof) does not have to make a series of contracts with the factors with whom he is co-operating within the firm, as would be necessary, of course, if this co-operation were as a direct result of the working of the price mechanism. For this series of contracts is substituted one. At this stage, it is important to note the character of the contract into which a factor enters that is employed within a firm. The contract is one whereby the factor, for a certain remuneration (which may be fixed or fluctuating), agrees to obey the directions of an entrepreneur within certain limits.22 It would be possible for no limits to the powers of the entrepreneur to be fixed. This would be voluntary slavery. According to Professor Batt, The Law of Master and Servant, p. 18, such a contract would be void and unenforceable. The essence of the contract is that it should only state the limits to the powers of the entrepreneur. Within these limits, he can therefore direct the other factors of production. There are, however, other disadvantages—or costs—of using the price mechanism. It may be desired to make a long-term contract for the supply of some article or service. This may be due to the fact that if one contract is made for a longer period, instead of several shorter ones, then certain costs of making each contract will be avoided. Or, owing to the risk attitude of the people concerned, they may prefer to make a long rather than a short-term contract. Now, owing to the difficulty of forecasting, the longer the period of the contract is for the supply of the commodity or service, the less possible, and indeed, the less desirable it is for the person purchasing to specify what the other contracting party is expected to do. It may well be a matter of indifference to the person supplying the service or commodity which of several courses of action is taken, but not to the purchaser of that service or commodity. But the purchaser will not know which of these several courses he will want the supplier to take. Therefore, the service which is being provided is expressed in general terms, the exact details being left until a later date. All that is stated in the contract is the limits to what the persons supplying the commodity or service is expected to do. The details of what the supplier is expected to do is not stated in the contract but is decided later by the purchaser. When the direction of resources (within the limits of the contract) becomes dependent on the buyer in this way, that relationship which I term a “firm” may be obtained.11 Of course, it is not possible to draw a hard and fast line which determines whether there is a firm or not. There may be more or less direction. It is similar to the legal question of whether there is the relationship of master and servant or principal and agent. See the discussion of this problem below. A firm is likely therefore to emerge in those cases where a very short term contract would be unsatisfactory. It is obviously of more importance in the case of services—labour—than it is in the case of the buying of commodities. In the case of commodities, the main items can be stated in advance and the details which will be decided later will be of minor significance. We may sum up this section of the argument by saying that the operation of a market costs something and by an organisation and some authority to direct the certain costs are The entrepreneur has to out his function at less into the fact that he may get factors of production at a price than the market transactions which he because it is possible to to the market if he to do this. The question of is one which is often considered to be very relevant to the of the of the firm. It that a firm would emerge without the of But for instance, Professor who make the of the distinguishing mark of the being to some of those in production by a person who takes the and appear to be a point which is to the problem we are entrepreneur may sell his to for a certain sum of while the to his may be mainly or a in The of Professor Knight are in more The question would appear to be why the allocation of resources is not done directly by the price mechanism. factor that should be noted is that exchange transactions on a market and the same transactions organised within a firm are often treated by or other with If we consider the operation of a it is clear that it is a on market transactions and not on the same transactions organised within the firm. these are alternative methods of the price mechanism or by the a would into firms which would have no It would a reason for the emergence of a firm in a specialised exchange economy. Of course, to the that firms already exist, such a as a would merely to make larger than they would and methods of price which that there is and which do not to firms such products for by to those who within the firm and not through the necessarily the of But it is to that it is such as have been mentioned in this which have firms into Such however, to have this result if they not exist for other are the why such as firms exist in a specialised exchange in which it is assumed that the of resources is by the price mechanism. A firm, of the system of which into when the direction of resources is dependent on an entrepreneur. The which has been would appear to an advantage in that it is possible to give a to what is meant by saying that a firm larger or A firm becomes larger as transactions (which could be exchange transactions co-ordinated through the price are organised by the entrepreneur and becomes as he the organisation of such The question which is whether it is possible to the which the of the firm. Why does the entrepreneur not one less transaction or one It is to note that Professor Knight “the between and is one of the most problems of in with the for a a matter of and rather than of general But the question is because the of a powerful to and of the firm, which must be by some powerful one making for the production of with in if even is to and to the of Economics of 1933. Professor Knight would appear to consider that it is to treat the of the of the firm. the basis of the of the firm developed this task will be It was suggested that the of the firm was due to the of A question to would appear to be from the by Professor if by organising one can certain costs and in fact the cost of production, are there any market transactions at There are certain costs which could only be eliminated by the of and these are the costs of It is that these costs might be so that people would be willing to accept because the obtained was the of their Why is not all production carried on by one There would appear to be certain possible as a firm there may be to the entrepreneur that is, the costs of organising transactions within the firm may This argument assumes that exchange transactions on a market can be considered as which is clearly in This is taken into below. a point must be where the costs of organising an transaction within the firm are to the costs involved in out the transaction in the to the costs of organising by entrepreneur. it may be that as the transactions which are organised the entrepreneur to place the factors of production in the uses where their is that is, to make the use of the factors of production. Again, a point must be where the through the waste of resources is to the costs of the exchange transaction in the market or to the if the transaction was organised by entrepreneur. the supply price of one or more of the factors of production may because the of a small firm are than those of a large For a discussion of the of the supply price of factors of production to firms of see A. G. Robinson, The of It is said that the supply price of organising as the of the firm because men prefer to be the of small rather than the of departments in a large See The p. and Industrial p. 63. This is a argument of those who It is said that larger would be more but owing to the of the they prefer to apparently in of the higher which their under Of course, the point where the of the firm might be determined by a of the factors mentioned The first two given most correspond to the of to This discussion is, of course, and For a more discussion of this see N. Kaldor, “The Equilibrium of the Firm,”Economic Journal, March, 1934, and A. G. Robinson, “The of and the of the Firm,”Economic Journal, 1934. The point has been made in the that a firm will to until the costs of organising an transaction within the firm to the costs of out the same transaction by means of an exchange on the market or the costs of organising in firm. But if the firm its at a point the costs of in the market and at a point to the costs of organising in firm, in most cases the case of this will that there is a market transaction between these two each of whom could it at less than the is the to be If we consider an example the reason for this will clear. A is buying a from and that both A and could this transaction at less than its we can is not organising one process or of production, but If A therefore to a market he will have to take over all the of production controlled by B. A takes over all the of production, a market transaction will still although it is a different that is But we have previously assumed that as each he becomes less the costs of organising transactions It is that cost of organising the transactions previously organised by will be than cost of doing the same A therefore will take over the whole of organisation only if his cost of organising work is not than cost by an amount to the costs of out an exchange transaction on the market. But it becomes to have a market it also to production in such a that the cost of organising an transaction in each firm is the to it has been assumed that the exchange transactions which take place through the price mechanism are In could be more than the transactions which take place in our modern world. This would seem to that the costs of out exchange transactions through the price mechanism will as will also the costs of organising these transactions within the firm. It therefore possible that quite from the question of the costs of organising certain transactions within the firm may be than the costs of out the exchange transactions in the market. This would necessarily that there were exchange transactions carried out through the price mechanism, but would it mean that there would have to be more than one for all those areas in the economic system where the direction of resources was not dependent directly on the price mechanism could be organised within one firm. The factors which were would seem to be the important ones, it is to whether to or the supply price of factors is likely to be the more being a firm will to be the less the costs of organising and the these costs with an in the transactions the less likely the entrepreneur is to make and the the in with an in the transactions the the (or the less the in the supply price of factors of production to firms of larger from in the supply price of factors of production to firms of different it would appear that the costs of organising and the through will with an in the of the transactions in the",
       "doi": "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
       "url": "https://openalex.org/W2015930340",
-      "citation_count": 23133,
+      "citation_count": 23136,
       "search_query": "transaction cost economics government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:51.496571"
@@ -5907,7 +5907,7 @@
       "abstract": "The IoT paradigm holds the promise to revolutionize the way we live and work by means of a wealth of new services, based on seamless interactions between a large amount of heterogeneous devices. After decades of conceptual inception of the IoT, in recent years a large variety of communication technologies has gradually emerged, reflecting a large diversity of application domains and of communication requirements. Such heterogeneity and fragmentation of the connectivity landscape is currently hampering the full realization of the IoT vision, by posing several complex integration challenges. In this context, the advent of 5G cellular systems, with the availability of a connectivity technology, which is at once truly ubiquitous, reliable, scalable, and cost-efficient, is considered as a potentially key driver for the yet-to emerge global IoT. In the present paper, we analyze in detail the potential of 5G technologies for the IoT, by considering both the technological and standardization aspects. We review the present-day IoT connectivity landscape, as well as the main 5G enablers for the IoT. Last but not least, we illustrate the massive business shifts that a tight link between IoT and 5G may cause in the operator and vendors ecosystem.",
       "doi": "https://doi.org/10.1109/jsac.2016.2525418",
       "url": "https://openalex.org/W2273675851",
-      "citation_count": 1466,
+      "citation_count": 1467,
       "source": "openalex",
       "id": "fe635ecf594f3e284f0048668d9c1ac1",
       "date_found": "2026-03-08T10:53:10.696181",
@@ -6019,7 +6019,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.2139/ssrn.3213954",
       "url": "https://openalex.org/W2883289607",
-      "citation_count": 729,
+      "citation_count": 730,
       "source": "openalex",
       "id": "eeca47e589df735d2a37a4fa50fd6b55",
       "date_found": "2026-03-11T10:30:06.469213",
@@ -6103,11 +6103,25 @@
       "abstract": "This section summarises the diagnostic and therapeutic steps discussed in the previous sections. The goal is to outline the most important steps in the management of patients with NSTE-ACS. In each individual patient, decision making should take into account the patient's history (e.g. age, comorbidities), clinical presentation (e.g. ongoing myocardial ischaemia, haemodynamic or electrical instability), findings obtained during the initial assessment (i.e. ECG, cardiac troponin), timing and expected risk-benefit ratio of available therapies (i.e. pharmacological, invasive assessment, revascularization).",
       "doi": "https://doi.org/10.1093/eurheartj/ehv320",
       "url": "https://openalex.org/W2105397247",
-      "citation_count": 8270,
+      "citation_count": 8271,
       "source": "openalex",
       "id": "07fbacd6ddfd77631d4d4603e4e9a370",
       "date_found": "2026-03-11T10:30:17.182411",
       "search_query": "propensity score matching public administration"
+    },
+    {
+      "title": "Designing payments for environmental services in theory and practice: An overview of the issues",
+      "authors": "Stefanie Engel; Stefano Pagiola; Sven Wunder",
+      "year": 2008,
+      "journal": "Ecological Economics",
+      "abstract": "",
+      "doi": "https://doi.org/10.1016/j.ecolecon.2008.03.011",
+      "url": "https://openalex.org/W2153509701",
+      "citation_count": 2377,
+      "source": "openalex",
+      "id": "b3793a2d0f17dcf7d2a4790051da0796",
+      "date_found": "2026-03-13T10:26:53.741081",
+      "search_query": "post-award cost growth government contracts"
     }
   ]
 }
