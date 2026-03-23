@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-22T10:19:47.588591",
+    "last_updated": "2026-03-23T10:44:16.900693",
     "total_articles": 441,
-    "last_search_date": "2026-03-22"
+    "last_search_date": "2026-03-23"
   },
   "articles": [
     {
@@ -560,7 +560,7 @@
       "abstract": "Bill & Melinda Gates Foundation.",
       "doi": "https://doi.org/10.1016/s0140-6736(24)00757-8",
       "url": "https://openalex.org/W4394894573",
-      "citation_count": 3906,
+      "citation_count": 3908,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850221"
@@ -1624,7 +1624,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1353,
+      "citation_count": 1355,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(19)30041-8",
       "url": "https://openalex.org/W2928467655",
-      "citation_count": 5568,
+      "citation_count": 5569,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021150"
@@ -2254,7 +2254,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
       "url": "https://openalex.org/W2899736836",
-      "citation_count": 8553,
+      "citation_count": 8554,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850421"
@@ -2268,7 +2268,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 2870,
+      "citation_count": 2872,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
