@@ -1306,3 +1306,158 @@ article:has(.vj-page) {
     border: 1px solid #ccc !important;
   }
 }
+
+/* ============================================================
+   PAPER CARDS (V2 Papers Section)
+   ============================================================ */
+
+.paper-card {
+  background: var(--white);
+  border-radius: 10px;
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px var(--shadow);
+  border-left: 5px solid var(--navy);
+  transition: box-shadow 0.2s ease;
+}
+
+.paper-card:hover {
+  box-shadow: 0 4px 16px var(--shadow-md);
+}
+
+.paper-card .paper-number {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.8rem;
+  color: var(--gold);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+}
+
+.paper-card h3 {
+  margin-top: 0 !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.paper-card .paper-target {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.paper-card .paper-finding {
+  background: var(--cream-dark);
+  border-left: 3px solid var(--gold);
+  padding: 0.75rem 1rem;
+  border-radius: 0 6px 6px 0;
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.paper-status {
+  display: inline-block;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.paper-status--draft { background: var(--cream-dark); color: var(--text-secondary); }
+.paper-status--review { background: var(--gold-pale); color: var(--navy); }
+.paper-status--published { background: var(--navy); color: var(--white); }
+
+/* ============================================================
+   FINDINGS PAGE STATS & RESULTS
+   ============================================================ */
+
+.findings-hero {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  background: var(--navy);
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.findings-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.findings-stat-number {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--gold);
+  line-height: 1.2;
+}
+
+.findings-stat-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.75);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 0.25rem;
+}
+
+.result-box {
+  background: var(--white);
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px var(--shadow);
+  border-left: 5px solid var(--gold);
+}
+
+.result-box h4 {
+  margin-top: 0 !important;
+  color: var(--navy) !important;
+}
+
+.result-box .result-number {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--navy);
+  line-height: 1;
+}
+
+.caveat-box {
+  background: var(--cream-dark);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.caveat-box h4 {
+  margin-top: 0 !important;
+  color: var(--text-secondary) !important;
+  font-size: 1rem !important;
+}
+
+@media screen and (max-width: 768px) {
+  .findings-hero {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 1.25rem;
+  }
+  .findings-stat-number {
+    font-size: 1.5rem;
+  }
+  .paper-card {
+    padding: 1.25rem;
+  }
+  .result-box .result-number {
+    font-size: 1.8rem;
+  }
+}

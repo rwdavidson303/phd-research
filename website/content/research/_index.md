@@ -1,7 +1,7 @@
 ---
-title: "Research Overview"
-description: "Dissertation research design and methodology"
-weight: 1
+title: "Research Design"
+description: "Difference-in-differences analysis of NDAA Section 813 effects on federal procurement"
+weight: 2
 ---
 
 ## From Lowest Price to Highest Public Value
@@ -10,91 +10,121 @@ An Empirical Test of Best-Value Source Selection in Government RFPs
 
 ### Abstract
 
-Public procurement increasingly involves complex, technology-intensive systems whose performance affects citizen welfare, service continuity, and taxpayer value. This study advances and tests a best-value argument: awards determined solely by lowest evaluated price do not consistently maximize public value, and value-based tradeoff awards can produce superior outcomes under common conditions.
+Federal procurement policy affecting hundreds of billions annually has been shaped with minimal empirical evidence. This research exploits Section 813 of the National Defense Authorization Act for Fiscal Year 2017 — which restricted the Department of Defense's use of Lowest Price Technically Acceptable (LPTA) source selection — as a natural experiment. Using a difference-in-differences design applied to 654,307 competitively awarded service and IT contracts from the Omari et al. (2025) comprehensive FPDS dataset, we estimate the causal effect of LPTA restrictions on cost growth, contract modifications, competition, and single-bid rates.
+
+### The Natural Experiment: NDAA Section 813
+
+The LPTA restrictions rolled out across multiple legislative cycles, creating a staggered policy shock:
+
+| Date | Event |
+|------|-------|
+| Dec 2016 | NDAA FY2017 enacted, Section 813 restricts DoD LPTA use |
+| Dec 2017 | NDAA FY2018 reinforces restrictions (Section 822) |
+| Aug 2018 | NDAA FY2019 extends restrictions government-wide (Section 880) |
+| Oct 2019 | Final DFARS regulatory implementation |
+
+Section 813 directed the Secretary of Defense to avoid, to the maximum extent practicable, using LPTA source selection when any of six criteria are present:
+
+1. The contract requires the delivery of **knowledge-based professional services**
+2. The contract requires the delivery of services that will be **performed by professional employees** with specific qualifications
+3. The contract requires the delivery of services that require **specialized skill or expertise**
+4. The contract will be awarded on the basis of **adequate price competition** from two or more responsible offerors
+5. The requirement involves items that are **predominantly expendable** in nature, are nontechnical, or have a history of stable pricing
+6. The solicitation requires offerors to provide solutions or approaches that are **difficult to compare** objectively
+
+This policy change creates a natural experiment because it imposed binding constraints on DoD's choice of evaluation method for specific contract categories while leaving civilian agencies initially unaffected. The treatment is plausibly exogenous — driven by Congressional concern about contractor performance failures rather than by trends in the outcome variables themselves — enabling a credible difference-in-differences identification strategy.
 
 ### Research Questions
 
-1. **RQ1.** Do best-value tradeoff source-selection methods produce higher public-value outcomes than LPTA methods?
-2. **RQ2.** How do bid-protest/appeal systems affect procurement lead time and downstream outcomes?
-3. **RQ3.** How does solicitation quality affect vendor behavior, protest incidence, and contract performance?
-4. **RQ4.** What is the net effect of post-award oversight layers on delays, cost growth, and performance?
-5. **RQ5.** Does reliance on lowest initial price increase post-award renegotiation/change orders?
-6. **RQ6.** How do RFP design features that advantage incumbents influence competition and public value?
-7. **RQ7.** Which reforms most plausibly increase taxpayer value while preserving transparency?
+1. Does restricting LPTA reduce cost growth in affected contract categories?
+2. Does the restriction reduce post-award contract modifications?
+3. Does shifting to tradeoff evaluation affect the number of competing offerors?
+4. How do transaction characteristics (complexity, size, pricing type) moderate the policy effect?
 
-### Methodology
+### Difference-in-Differences Design
 
-Sequential mixed-method design:
-- **Phase 1:** Archival analysis of FPDS/USAspending data using quasi-experimental strategies (DiD, PSM)
-- **Phase 2:** Practitioner survey and semi-structured interviews
+The core identification strategy compares changes in outcomes between treated and control groups before and after the LPTA restriction took effect:
 
-### Hypotheses
+- **Treatment:** DoD contracts in restricted NAICS codes (51 = Information Technology, 54 = Professional Services)
+- **Control 1:** DoD contracts in unrestricted NAICS codes (56 = Administrative Support Services)
+- **Control 2:** Civilian agency contracts (not subject to Section 813)
+- **Pre-period:** FY2017–2019 (before DFARS implementation)
+- **Post-period:** FY2020–2023 (after regulatory implementation)
 
-1. **H1.** Procurements using best-value evaluation will exhibit higher after-award performance and higher public-value indices than comparable LPTA procurements, holding constant category, complexity, and market conditions.
-2. **H2.** LPTA procurements will be associated with higher rates of post-award renegotiation/change orders and a larger gap between initial award price and realized total contract cost.
-3. **H3.** Solicitation quality (requirements clarity) will mediate the relationship between source-selection method and performance outcomes; higher clarity and alignment will reduce protests and improve performance.
-4. **H4.** States/agencies with clearer and faster bid-protest timelines will have shorter overall procurement-cycle times net of protest incidence than those relying primarily on generalist courts and/or less standardized timelines.
-5. **H5.** Additional post-award, administrative oversight layers will increase schedule delays and overall lifecycle cost growth.
-6. **H6.** Tender design features indicative of incumbent advantage will directly correlate with less competition in the market and lower public value.
-7. **H7.** Competition intensity will mediate the relationship between (a) solicitation design and (b) public value; solicitations that expand competition will increase public-value outcomes.
-8. **H8.** The adverse effects of LPTA on renegotiation and public value will be stronger for complex service/IT contracts than for commodity-like procurements.
-9. **H9.** Higher protest incidence will be associated with higher vendor participation costs and higher procurement lead time; however, protest availability will correlate with fewer post-award performance failures in high-discretion procurements.
-10. **H10.** Implementing structured best-value guidance and standardized evaluation rubrics will reduce variance in award outcomes across agencies/states and reduce strategic underbidding behavior.
+The estimating equation:
+
+<div style="text-align: center; font-size: 1.1em; margin: 1.5em 0;">
+
+Y<sub>it</sub> = β₀ + β₁(DoD<sub>i</sub>) + β₂(Post<sub>t</sub>) + β₃(DoD<sub>i</sub> × Post<sub>t</sub>) + γX<sub>it</sub> + ε<sub>it</sub>
+
+</div>
+
+Where **β₃** is the parameter of interest — the causal effect of LPTA restrictions on the outcome, net of common time trends and permanent group differences. **X** includes controls for log base award amount, NAICS fixed effects, fiscal year fixed effects, and pricing type fixed effects.
+
+### Data: The Omari et al. (2025) FPDS Dataset
+
+> Omari, S., Alansari, N., Libgober, B., & Kaufman, A. R. (2025). A comprehensive dataset of United States federal procurement, 1979–2023. *Scientific Data*, 12, Article 1368. [DOI: 10.1038/s41597-025-05714-1](https://doi.org/10.1038/s41597-025-05714-1)
+
+This peer-reviewed dataset represents the most comprehensive publicly available record of federal contracting activity:
+
+- **99 million rows** spanning 470 variables across FY1979–2023
+- Published in *Scientific Data* (Nature) with open access via Figshare
+- **Our analysis sample:** 654,307 competitively awarded service and IT contracts, FY2017–2023
+- **Key variable:** `source_selection_process` — identifies LPTA, tradeoff, and other methods (available FY2020+)
+
+### Outcome Variables
+
+| Outcome | Measure | Description |
+|---------|---------|-------------|
+| Cost growth | Winsorized % | Percentage change from base award to current obligations, winsorized at 1st/99th percentiles |
+| Modification count | Count | Number of post-award contract modifications |
+| Single-bid | Binary (0/1) | Whether the contract received only one offer |
+| Competition intensity | log(offers) | Natural log of the number of offers received |
+
+### Identification Threats and Robustness
+
+The primary threat to identification is a **parallel trends violation**: pre-treatment outcome trajectories for DoD and civilian contracts show convergence rather than parallel movement. We address this through five complementary robustness approaches:
+
+1. **Trend-adjusted DiD** — includes group-specific linear time trends to account for differential pre-treatment trajectories
+2. **Callaway & Sant'Anna (2021) estimator** — heterogeneity-robust estimator designed for staggered treatment adoption
+3. **Goodman-Bacon (2021) decomposition** — decomposes the two-way fixed effects estimate into all constituent 2×2 DiD comparisons to diagnose problematic variation
+4. **Inverse probability weighted DiD (IPW-DiD)** — reweights observations to improve covariate balance between treatment and control groups
+5. **Temporal trimming** — restricts the sample to windows around the treatment date to reduce the influence of long-run divergent trends
+
+Additional robustness checks include:
+
+- **COVID-19 confound:** Excluding FY2020 to assess whether pandemic-era procurement disruptions drive results
+- **Section 880 SUTVA concern:** The government-wide extension of LPTA restrictions in FY2019 potentially contaminates the civilian control group; we test sensitivity to alternative control group definitions
+
+### Known Limitations
+
+- **No pre-FY2020 source selection data:** The `source_selection_process` variable is only populated from FY2020 onward, so we cannot directly observe the first-stage policy effect (the shift from LPTA to tradeoff) in the pre-period
+- **CPARS data legally inaccessible:** Contractor Performance Assessment Reporting System data would provide direct quality measures but is restricted to authorized government users
+- **Cost growth includes planned options:** The cost growth measure captures all obligation changes including planned option exercises, not solely unplanned cost overruns
+- **Parallel trends violation requires careful interpretation:** All causal estimates should be interpreted with the caveat that pre-treatment trends are not fully parallel
 
 ---
 
-## Recent Policy Developments (2025--2026)
+## Recent Policy Context
 
-The procurement landscape has shifted dramatically since this research was designed. These developments provide both validation of the dissertation's thesis and important contextual factors for the analysis.
+The procurement landscape has shifted dramatically since this research was designed. These developments provide both validation of the research thesis and important contextual factors.
 
-### The Revolutionary FAR Overhaul (Executive Order 14275)
+### The FAR Overhaul (Executive Order 14275)
 
-On **April 15, 2025**, President Trump signed [EO 14275](https://www.whitehouse.gov/briefings-statements/2025/04/white-house-announces-revolutionary-federal-procurement-overhaul/), "Restoring Common Sense to Federal Procurement," initiating the most comprehensive overhaul of the Federal Acquisition Regulation since its creation over 40 years ago. The current FAR exceeds 2,000 pages with nearly 3,000 directives. The EO directs OFPP and the FAR Council to strip it back to statutory requirements only, rewrite it in plain language, and move non-statutory guidance into **Strategic Acquisition Guidance (SAG)** "buying guides." Deviations have been issued for 38 parts of the FAR. If source selection guidance moves out of the FAR into buying guides, it could create more flexibility -- or less uniformity -- in how agencies implement best-value vs. LPTA decisions.
-
-A companion EO, "Ensuring Commercial, Cost Effective Solutions in Federal Contracts" (April 16, 2025), mandates agencies procure commercial products and services to the maximum extent possible -- inherently favoring best-value approaches since commercial items are typically evaluated on quality-price tradeoffs.
+On **April 15, 2025**, President Trump signed [EO 14275](https://www.whitehouse.gov/briefings-statements/2025/04/white-house-announces-revolutionary-federal-procurement-overhaul/), "Restoring Common Sense to Federal Procurement," initiating the most comprehensive overhaul of the Federal Acquisition Regulation since its creation over 40 years ago. The EO directs stripping the FAR back to statutory requirements and moving non-statutory guidance into Strategic Acquisition Guidance (SAG) "buying guides." If source selection guidance moves out of the FAR, it could create more flexibility — or less uniformity — in how agencies implement best-value vs. LPTA decisions.
 
 ### FY 2026 NDAA: Statutory Shift from Lowest-Price to Best-Value
 
 The **FY 2026 National Defense Authorization Act** (signed December 2025) contains provisions directly on point:
 
-- **Section 812** amends the GSA Multiple Award Schedule Program definition of competitive procedures from those that "result in the **lowest overall cost** alternative" to those that "result in the **best value** to meet the needs of the United States." This is a direct statutory codification of the shift this dissertation studies.
-- **Section 1801** directs the Secretary of Defense to issue guidance requiring resource decisions to "prioritize best value" and the "active pursuit of innovative solutions."
+- **Section 812** amends the GSA Multiple Award Schedule Program definition of competitive procedures from those that "result in the **lowest overall cost** alternative" to those that "result in the **best value** to meet the needs of the United States" — a direct statutory codification of the shift this research studies.
+- **Section 1801** directs the Secretary of Defense to issue guidance requiring resource decisions to "prioritize best value."
 - **Section 1823** expands Commercial Solutions Openings (CSOs) beyond "innovative" commercial solutions to serve as a general commercial acquisition tool.
-- **Section 824** directs elimination of procedural barriers that disproportionately affect small businesses and non-traditional defense contractors.
 
 ### DOGE and Federal Contracting Disruption
 
-The Department of Government Efficiency (DOGE) was described as "[government contracting's biggest story of 2025](https://www.washingtontechnology.com/opinion/2025/12/doge-was-government-contractings-biggest-story-2025-and-its-not-close/410372/)." Contract reviews, pauses, and cancellations created significant uncertainty government-wide. This disruption represents a natural experiment in procurement reform -- rapid, top-down changes outside the traditional FAR rulemaking process.
-
-### FAR Threshold Increases
-
-Effective **October 1, 2025**: simplified acquisition threshold increased from $250,000 to $350,000; micro-purchase threshold from $10,000 to $15,000. Higher thresholds mean more acquisitions use simplified procedures, shifting the volume of procurements subject to formal Part 15 tradeoff analysis.
+The Department of Government Efficiency (DOGE) was described as "[government contracting's biggest story of 2025](https://www.washingtontechnology.com/opinion/2025/12/doge-was-government-contractings-biggest-story-2025-and-its-not-close/410372/)." Contract reviews, pauses, and cancellations created significant uncertainty government-wide — a natural experiment in rapid, top-down procurement reform outside the traditional FAR rulemaking process.
 
 ### AI in Federal Procurement
 
-- **OMB Memorandum M-25-22** (effective for solicitations after September 30, 2025) imposes guardrails on AI procurement and urges agencies to maximize use of domestically developed AI. AI procurement is inherently ill-suited for LPTA given its complexity and risk -- favoring best-value approaches.
-- The **OECD published "AI in Public Procurement"** (June 2025) as the first major international framework document on AI applications in public procurement.
-- The **GovAI Coalition** launched the AI Contract Hub (February 2025) -- a shared repository of contract templates for AI procurement, addressing transaction costs through standardization.
-
-### GAO Bid Protest FY2025 Statistics
-
-The [GAO Annual Bid Protest Report](https://www.gao.gov/products/gao-26-900695) for FY2025 reported:
-
-| Metric | FY2025 |
-|--------|--------|
-| Total cases filed | 1,688 (6% decrease from FY2024) |
-| Sustain rate | 14% (53 protests sustained) |
-| Effectiveness rate | 52% |
-| Top sustain ground | Unreasonable technical evaluations |
-
-The continued prevalence of technical evaluation errors as the top protest ground supports the argument that source selection methodology matters -- agencies continue to struggle with evaluation execution, particularly in tradeoff procurements.
-
-### Key GAO Decision: Mission Essential Group (B-422698.2)
-
-On **January 8, 2025**, GAO [sustained a protest](https://www.gao.gov/products/b-422698.2) challenging the Air Force's use of LPTA for knowledge-based professional services. The Air Force failed to demonstrate minimum requirements could be "described clearly and comprehensively" (a prerequisite for LPTA under DFARS 215.101-2-70), and the solicitation encouraged "unique approaches" -- incompatible with LPTA's premise. GAO recommended the agency consider best-value tradeoff methodology. This validates the statutory LPTA restrictions enacted in the 2018 NDAA (Section 880).
-
-### Landmark Academic Publication
-
-**Carril, R., Gonzalez-Lira, A., & Walker, M. S. (2026). Competition under Incomplete Contracts and the Design of Procurement Policies. *American Economic Review*, 116(2), 535--581.**
-
-This top-tier publication finds that while expanding bidders reduces award prices in U.S. Defense procurement, it **deteriorates post-award performance** -- producing more cost overruns and delays. This provides empirical evidence from a top-5 economics journal validating the dissertation's core thesis that lowest-price outcomes can produce worse contract performance.
+**OMB Memorandum M-25-22** (effective for solicitations after September 30, 2025) imposes guardrails on AI procurement and urges agencies to maximize use of domestically developed AI. AI procurement is inherently ill-suited for LPTA given its complexity and risk — favoring best-value approaches.

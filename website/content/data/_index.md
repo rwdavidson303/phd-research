@@ -4,6 +4,32 @@ description: "USAspending, FPDS, GAO protest data, and analysis"
 weight: 3
 ---
 
+### The Omari et al. (2025) FPDS Dataset
+
+> Omari, S., Alansari, N., Libgober, B., & Kaufman, A. R. (2025). A comprehensive dataset of United States federal procurement, 1979-2023. *Scientific Data*, 12, Article 1368. [DOI: 10.1038/s41597-025-05714-1](https://doi.org/10.1038/s41597-025-05714-1)
+
+This peer-reviewed dataset, published in *Scientific Data*, represents a transformative resource for procurement research:
+
+| Attribute | Value |
+|-----------|-------|
+| Total records | 99,057,002 |
+| Variables | 470 |
+| Time span | FY1979-2023 |
+| Format | Parquet (open access on Figshare) |
+| Key field | `source_selection_process` (LPTA/TO/Other, FY2020+) |
+
+### Our Analysis Sample
+
+From this dataset, we constructed a sample of **654,307** competitively awarded service and IT contracts (NAICS 51, 54, 56) spanning FY2017-2023.
+
+| Variable Type | Variables |
+|---------------|-----------|
+| Treatment | is_dod, is_restricted, post_813, treatment_did |
+| Outcomes | cost_growth_winsorized, modification_count, single_bid, log_num_offers |
+| Controls | log_base_amount, NAICS FE, fiscal year FE, pricing type FE |
+
+---
+
 ## Federal Procurement Data Hub
 
 This section tracks and analyzes federal procurement data relevant to the dissertation.

@@ -1,22 +1,34 @@
 ---
 title: "From Lowest Price to Highest Public Value"
-description: "An Empirical Test of Best-Value Source Selection in Government RFPs"
+description: "The largest empirical study of source selection method effects in federal procurement"
 ---
 
 ## Richard Davidson | PhD Research
 
-**University of Denver, Daniels College of Business** | Starting Fall 2026
+**University of Denver, Daniels College of Business** | Entering Fall 2026
 
-> In complex government acquisitions, does awarding to the lowest evaluated price reliably maximize public value? Or do best-value tradeoff approaches produce superior outcomes?
+> The largest empirical study of procurement source selection ever conducted: 654,307 federal contract awards, seven fiscal years, five empirical papers, and a finding that challenges the conventional wisdom.
 
 ---
 
 <div class="section-cards">
 
 <a class="section-card" href="research/">
-<h3>Research Overview</h3>
-<p>Dissertation framework, research questions, and methodology — Difference-in-Differences and Propensity Score Matching applied to federal procurement data.</p>
-<div class="card-meta">Framework & Methods</div>
+<h3>Research Design</h3>
+<p>A difference-in-differences natural experiment exploiting NDAA Section 813 restrictions on LPTA source selection in DoD procurement, FY2017-2023.</p>
+<div class="card-meta">DiD Natural Experiment</div>
+</a>
+
+<a class="section-card" href="papers/">
+<h3>Research Papers</h3>
+<p>Five journal-ready papers analyzing 654,307 federal contract awards — from policy evaluation to transaction cost moderation to international comparison.</p>
+<div class="card-meta">5-Paper Portfolio</div>
+</a>
+
+<a class="section-card" href="findings/">
+<h3>Key Findings</h3>
+<p>Cost growth declines 13-21 percentage points, 41% of awards receive only one bid, and US procurement barriers are 87x higher than the lowest-cost systems.</p>
+<div class="card-meta">Results & Statistics</div>
 </a>
 
 <a class="section-card" href="literature/">
@@ -27,26 +39,20 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 
 <a class="section-card" href="data/">
 <h3>Federal Data</h3>
-<p>Contract award data from USAspending.gov and FPDS, GAO bid protest statistics, and contractor performance records.</p>
-<div class="card-meta">USAspending & FPDS</div>
+<p>The Omari et al. (2025) FPDS dataset: 99 million records, 470 variables, open access. Plus USAspending, GAO bid protests, and contractor performance data.</p>
+<div class="card-meta">Omari et al. (2025) Dataset</div>
 </a>
 
 <a class="section-card" href="vendor-journey/">
 <h3>The Vendor Journey</h3>
-<p>28+ steps and $30K–$1.1M+ in costs before earning a single dollar — three visual infographics mapping the real burden of competing for federal contracts.</p>
+<p>28+ steps and $30K-$1.1M+ in costs before earning a single dollar — three visual infographics mapping the real burden of competing for federal contracts.</p>
 <div class="card-meta">Infographics</div>
 </a>
 
-<a class="section-card" href="global-vendor-journeys/">
-<h3>Global Vendor Journeys</h3>
-<p>What it costs to compete in 12 countries — and why US barriers are 87x higher than the lowest-barrier systems. Local and US market entry for each country.</p>
-<div class="card-meta">12 Countries Compared</div>
-</a>
-
-<a class="section-card" href="global/">
-<h3>Global Practices</h3>
-<p>How 12 countries run procurement — from South Korea's KONEPS to Chile's ChileCompra. Best practices and lessons for US reform.</p>
-<div class="card-meta">12 Country Systems</div>
+<a class="section-card" href="international/">
+<h3>International Procurement</h3>
+<p>How 12 countries run procurement and what it costs vendors to compete — from South Korea's KONEPS to Chile's ChileCompra. US barriers are 87x higher.</p>
+<div class="card-meta">12 Countries + EU</div>
 </a>
 
 <a class="section-card" href="people/">
@@ -55,28 +61,18 @@ description: "An Empirical Test of Best-Value Source Selection in Government RFP
 <div class="card-meta">25 Profiles</div>
 </a>
 
-<a class="section-card" href="articles/">
-<h3>Articles Feed</h3>
-<p>Scholarly articles discovered daily through automated searches of OpenAlex and Semantic Scholar. Ranked by relevance and citations.</p>
-<div class="card-meta">419 Articles in Database</div>
-</a>
-
 </div>
 
 ---
 
-### Key Areas of Investigation
+### The Integrating Thesis
 
-- **Source Selection Methods** — Best-value tradeoff vs. LPTA across federal and state procurement
-- **Bid Protests & Delay** — How protest systems affect procurement timelines and outcomes
-- **Solicitation Quality** — The role of requirements clarity in procurement success
-- **Strategic Underbidding** — Cost shifting through change orders and renegotiation
-- **Incumbency Advantage** — How RFP design features affect competition and innovation
-- **Post-Award Oversight** — When oversight helps vs. when it obstructs
+The conventional debate frames procurement reform as a choice between **lowest price** (LPTA) and **best value** (tradeoff) evaluation methods. Our research suggests this may be a red herring. The real constraint on procurement outcomes is **structural barriers** — the $30K-$1.1M in costs and 28+ steps required to compete — that limit the competitive pool regardless of evaluation method. When 41% of awards attract only one bidder, the choice between LPTA and tradeoff becomes largely irrelevant.
 
 ### Data Sources
 
+- [Omari et al. (2025) FPDS Dataset](https://doi.org/10.1038/s41597-025-05714-1) — 99M federal procurement records, 470 variables
 - [USAspending.gov](https://www.usaspending.gov) — Federal contract award data
 - [FPDS](https://www.fpds.gov) — Federal Procurement Data System
 - [GAO Bid Protests](https://www.gao.gov/legal/bid-protests) — Protest statistics and decisions
-- [CPARS](https://www.cpars.gov/cparsweb/home) — Contractor performance data
+- [Articles Database](articles/) — 439+ scholarly articles, updated daily via OpenAlex

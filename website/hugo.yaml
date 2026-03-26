@@ -25,26 +25,26 @@ menu:
     - name: "Research"
       url: "/research/"
       weight: 2
+    - name: "Papers"
+      url: "/papers/"
+      weight: 3
+    - name: "Findings"
+      url: "/findings/"
+      weight: 4
     - name: "Literature"
       url: "/literature/"
-      weight: 3
+      weight: 5
     - name: "Federal Data"
       url: "/data/"
-      weight: 4
+      weight: 6
     - name: "Vendor Journey"
       url: "/vendor-journey/"
-      weight: 5
-    - name: "Global Leaders"
-      url: "/global/"
-      weight: 6
-    - name: "Global Journeys"
-      url: "/global-vendor-journeys/"
       weight: 7
+    - name: "International"
+      url: "/international/"
+      weight: 8
     - name: "People"
       url: "/people/"
-      weight: 8
-    - name: "Articles"
-      url: "/articles/"
       weight: 9
     - name: "About"
       url: "/about/"

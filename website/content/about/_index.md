@@ -1,45 +1,53 @@
 ---
 title: "About"
 description: "About the researcher and this project"
-weight: 7
+weight: 10
 ---
-
-## About This Research
 
 ### Researcher
 
-**Richard Davidson**
-PhD Candidate, Daniels College of Business
-University of Denver
+Richard Davidson
+PhD Candidate, Daniels College of Business, University of Denver
 
-Richard brings more than twenty-five years of experience working with government procurement, including roles inside government and on the vendor side, where he has led proposal strategy and written or managed more than twenty major technology RFP responses.
+Richard brings more than 25 years of experience in government procurement, spanning roles inside government and on the vendor side. He has led proposal strategy and managed more than twenty major technology RFP responses across federal, state, and local government markets.
 
-### Dissertation
+### Research Evolution
 
-**Title:** From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs
+| Phase | Period | Description |
+|-------|--------|-------------|
+| V1 Pilot | 2025 | USAspending data, cross-sectional analysis, proxy treatment classification |
+| V2 Analysis | 2025-2026 | Omari et al. (2025) FPDS dataset, difference-in-differences design, 654,307 awards |
+| Dissertation | Fall 2026+ | University of Denver Executive PhD, Daniels College of Business |
 
-**Committee:** TBD
+### Publication Portfolio
 
-**Expected Completion:** TBD
+| Paper | Title | Target Journal | Status |
+|-------|-------|----------------|--------|
+| 1 | The Policy Shock That Didn't Shock | Journal of Public Procurement | Draft Complete |
+| 2 | Transaction Costs as Moderators | JPART | Draft Complete |
+| 3 | International Procurement Comparison | IJPA | Draft Complete |
+| 4 | Single-Bid Awards | PPMR | Draft Complete |
+| 5 | The Source Selection Evidence Gap | Journal of Public Procurement | Draft Complete |
 
-### Contact
+### Committee
 
-*Contact information will be added when the site goes public.*
+Committee will be formed upon program enrollment (Fall 2026).
 
 ### About This Site
 
-This site was built to organize and share research for the doctoral dissertation. It serves as a research hub containing:
+This site is the most comprehensive public resource on procurement source selection research. It contains:
 
-- Literature database with automated daily article discovery
-- Federal procurement data downloads and analysis
-- International procurement best practices research
-- Profiles of key people in the procurement field
-
-The site is currently **private** and will be made public as the research matures.
+- Five empirical research papers analyzing 654,307 federal contract awards
+- Literature database with 100+ annotated scholarly articles and automated daily discovery
+- Federal procurement data analysis using the Omari et al. (2025) FPDS dataset
+- International procurement comparison across 12 countries plus the EU
+- Vendor journey cost analysis documenting $30K-$1.1M+ US entry barriers
+- Profiles of 25 key scholars and practitioners in procurement
 
 ### Tools & Technology
 
-- **Website:** Hugo static site generator, hosted on GitHub Pages
-- **Data:** Python scripts for USAspending.gov API, OpenAlex, Semantic Scholar
-- **Analysis:** Python (pandas, statsmodels) with Jupyter notebooks
-- **Database:** SQLite for article and data storage
+- **Website:** Hugo static site generator, GitHub Pages
+- **Data:** Python (pyarrow, pandas) processing the Omari et al. (2025) Parquet dataset
+- **Analysis:** Python (statsmodels, scipy, sklearn) for DiD estimation and robustness checks
+- **Papers:** python-docx for automated paper generation from analysis results
+- **Articles:** OpenAlex + Semantic Scholar automated daily discovery (439+ articles)
