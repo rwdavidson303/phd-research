@@ -32,6 +32,10 @@ website/resources/
 # Logs
 automation/logs/
 
+# Word documents
+*.docx
+~$*
+
 # Environment
 .env
 *.key
