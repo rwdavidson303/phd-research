@@ -24,6 +24,10 @@ The profiles are organized into four categories, ranked within each by importanc
 
 A combined [Overall Ranking](#overall-ranking-by-rfp-importance) across all categories appears at the end of this page.
 
+### About This Directory
+
+This page serves as a curated **Scholar Directory** -- a map of who works on what in procurement research. It profiles the researchers and practitioners who are shaping the field of procurement source selection, spanning academics studying evaluation mechanisms, policy makers who write the rules, legal practitioners who litigate and interpret them, and international experts who provide comparative perspective. Each entry includes research focus tags to help readers quickly identify expertise areas and trace intellectual connections across the field. A [Research Connections](#research-connections) section at the bottom maps how each scholar's work relates to the five papers in this dissertation.
+
 ---
 
 ## Academics and Scholars
@@ -43,6 +47,8 @@ Steven Kelman is the scholar most directly responsible for the intellectual foun
 
 **Relevance to Dissertation:** Kelman's work provides the primary historical and intellectual context for the shift from lowest-price to best-value procurement. His OFPP tenure represents the most important practical implementation of value-based procurement reform in U.S. history.
 
+**Research focus:** procurement reform, source selection, public value, digital procurement
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-kelman-a3237b143) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KelmanSteve) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/profile/10833584-steve-kelman) [![Website](https://img.shields.io/badge/Harvard_Scholars-A51C30?style=flat-square&logo=google-scholar&logoColor=white)](https://skelman.scholars.harvard.edu/)
 
 ---
@@ -61,6 +67,8 @@ Ralph C. Nash, Jr. is, alongside John Cibinic, Jr., the founding figure of gover
 
 **Relevance to Dissertation:** Nash's treatises define the legal and procedural framework within which procurement evaluation operates. His work on source selection and competitive negotiation is indispensable for understanding how evaluation criteria are structured and applied.
 
+**Research focus:** procurement law, source selection, contract management
+
 ---
 
 ### 3. Steven L. Schooner
@@ -77,6 +85,8 @@ Steven L. Schooner is one of the most prominent scholars in U.S. government proc
 - Extensive scholarship on sustainable procurement and defense acquisition reform
 
 **Relevance to Dissertation:** Schooner's "Desiderata" framework provides a normative foundation for evaluating procurement systems against public value objectives. His work on "best value" as a system objective directly supports the dissertation's central argument.
+
+**Research focus:** procurement reform, public value, defense acquisition, competition policy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profschooner/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=pe6cN8wAAAAJ)
 
@@ -95,6 +105,8 @@ Christopher R. Yukins is a leading authority on comparative and international pr
 
 **Relevance to Dissertation:** Yukins's comparative scholarship illuminates how different legal regimes approach the price-versus-value tradeoff. His work on joint procurement and innovation demonstrates how procurement design can optimize for outcomes beyond cost.
 
+**Research focus:** international procurement, procurement law, procurement reform, competition policy
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-yukins-73b9037/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Christopher-Yukins)
 
 ---
@@ -111,6 +123,8 @@ Jean Tirole, winner of the 2014 Nobel Prize in Economics for his "analysis of ma
 - Nobel Prize lecture on market power and regulation (2014)
 
 **Relevance to Dissertation:** Laffont and Tirole's principal-agent models provide the formal economic theory explaining why price-only procurement evaluation produces suboptimal outcomes under information asymmetry.
+
+**Research focus:** auction theory, procurement economics, contract management
 
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Jean_Tirole) [![Nobel Prize](https://img.shields.io/badge/Nobel_Prize-C5972C?style=flat-square&logo=nobel-prize&logoColor=white)](https://www.nobelprize.org/prizes/economic-sciences/2014/tirole/facts/)
 
@@ -129,6 +143,8 @@ Oliver E. Williamson, who passed away in 2020, remains one of the most influenti
 
 **Relevance to Dissertation:** Williamson's TCE framework is the second major theoretical pillar of the dissertation (alongside Moore's public value theory). It explains why the characteristics of procurement transactions -- not just price -- should determine governance and evaluation structures.
 
+**Research focus:** transaction cost economics, procurement economics, contract management
+
 ---
 
 ### 7. Khi V. Thai
@@ -143,6 +159,8 @@ Khi V. Thai is the most influential figure in establishing public procurement as
 - Founder, International Public Procurement Conference
 
 **Relevance to Dissertation:** Thai's institutional contributions created the scholarly infrastructure for procurement research. The *Journal of Public Procurement* and the IPPC are essential platforms for the dissertation's literature review and dissemination.
+
+**Research focus:** international procurement, procurement reform, procurement economics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khi-thai-42b69823/)
 
@@ -161,6 +179,8 @@ Mark H. Moore is the creator of public value theory -- the primary theoretical f
 
 **Relevance to Dissertation:** Moore's public value theory is the dissertation's primary theoretical lens. The strategic triangle provides the framework for reconceptualizing procurement evaluation as a public value creation exercise.
 
+**Research focus:** public value, procurement reform
+
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Mark_H._Moore) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mark-Moore-15)
 
 ---
@@ -176,6 +196,8 @@ Nicola Dimitri is a leading economist whose work bridges auction theory and prac
 - Research on reserve prices, scoring rules, and competition in procurement
 
 **Relevance to Dissertation:** Dimitri's work connecting auction theory to procurement practice provides the economic foundations for multi-attribute evaluation. The *Handbook of Procurement* is essential reading for the dissertation's theoretical framework.
+
+**Research focus:** auction theory, procurement economics, source selection, competition policy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/nicola-dimitri-730a465) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-cmkpD8AAAAJ) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nicola-Dimitri)
 
@@ -194,6 +216,8 @@ Giancarlo Spagnolo is one of the most prolific and influential economists workin
 
 **Relevance to Dissertation:** Spagnolo's empirical work on how bureaucratic competence affects procurement outcomes directly supports the argument that value-based evaluation requires -- and rewards -- skilled acquisition professionals.
 
+**Research focus:** procurement economics, competition policy, auction theory, contract management
+
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.it/citations?user=wbzzOCEAAAAJ&hl=en) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/site/giancarlospagnoloshomepage/)
 
 ---
@@ -210,6 +234,8 @@ Francesco Decarolis is a rising star in the economics of procurement, bringing r
 - ERC projects on reputation and corruption in procurement
 
 **Relevance to Dissertation:** Decarolis's empirical work provides causal evidence on how procurement design choices affect outcomes, supporting the dissertation's argument for intentional, value-oriented evaluation design.
+
+**Research focus:** procurement economics, auction theory, competition policy, digital procurement
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iTDmK6QAAAAJ&hl=en) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/francescodecarolis/home) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Francesco-Decarolis)
 
@@ -228,6 +254,8 @@ Clifford McCue has been central to developing the empirical research base for pu
 
 **Relevance to Dissertation:** McCue's work on procurement performance measurement provides methodological grounding for operationalizing public value in procurement evaluation. His efficiency/effectiveness framework offers a practical way to move beyond price-only metrics.
 
+**Research focus:** procurement reform, public value, contract management
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cliff-mccue-1b98ba8) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=LyuJz0IAAAAJ&hl=en) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Clifford-Mccue)
 
 ---
@@ -244,6 +272,8 @@ Gustavo Piga holds a PhD in Economics from Columbia University and is one of the
 - Research on centralized procurement, procurement efficiency, and fiscal policy
 
 **Relevance to Dissertation:** Piga's combination of academic rigor and practical experience running a national procurement agency makes his perspective invaluable. His work on centralized procurement and efficiency provides empirical grounding for value-based approaches.
+
+**Research focus:** procurement economics, international procurement, competition policy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopiga/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GustavoPiga) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://gustavopiga.eu/) [![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=flat-square&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Gustavo_Piga) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gustavo-Piga)
 
@@ -264,6 +294,8 @@ Kevin Rhodes was confirmed by the U.S. Senate on October 7, 2025 as the 16th Adm
 
 **Relevance to Dissertation:** As the current head of OFPP, Rhodes's policy decisions directly shape the evaluation criteria framework that the dissertation examines. The FAR overhaul represents a live case study of procurement reform.
 
+**Research focus:** procurement reform, defense acquisition, contract management
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon-dr-kevin-rhodes-211428260/)
 
 ---
@@ -280,6 +312,8 @@ David Drabkin brings over 41 years of experience spanning government, industry, 
 - Acquisition workforce development through the Federal Acquisition Institute
 
 **Relevance to Dissertation:** Drabkin's cross-sector experience and institutional leadership role make him a key interlocutor for understanding the practical challenges and opportunities of transitioning from price-based to value-based procurement.
+
+**Research focus:** procurement reform, contract management, defense acquisition
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-drabkin-esq-92004b14/)
 
@@ -298,6 +332,8 @@ Edda Emmanuelli Perez leads the GAO legal function that adjudicates bid protests
 
 **Relevance to Dissertation:** GAO bid protest precedent directly shapes how agencies balance price and non-price factors. Understanding this jurisprudence is essential for any proposal to reform evaluation criteria.
 
+**Research focus:** bid protests, procurement law, source selection
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edda-emmanuelli-perez-03568291)
 
 ---
@@ -315,6 +351,8 @@ Daniel I. Gordon served as Administrator of the Office of Federal Procurement Po
 
 **Relevance to Dissertation:** Gordon's Mythbusters campaign addressed the cultural barriers to value-based procurement by clarifying what the rules actually permit. His career arc from GAO to OFPP to academia illustrates the institutional ecosystem the dissertation examines.
 
+**Research focus:** procurement reform, contract management, competition policy
+
 ---
 
 ### 18. Anne Rung
@@ -329,6 +367,8 @@ Anne Rung served as OFPP Administrator from September 2014 to September 2016, ha
 - Driving data-driven procurement strategies
 
 **Relevance to Dissertation:** Rung's category management initiatives represent a practical implementation of value-based procurement thinking, moving beyond individual lowest-price transactions to strategic portfolio management.
+
+**Research focus:** procurement reform, digital procurement, contract management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-rung-13478b87/)
 
@@ -346,6 +386,8 @@ Lesley Anne Field served as Deputy Administrator of OFPP from July 2008, acting 
 - Acquisition workforce development
 
 **Relevance to Dissertation:** Field's career exemplifies the critical role of career acquisition professionals in implementing and sustaining value-based procurement reforms. Her experience underscores the dissertation's argument about workforce capacity.
+
+**Research focus:** procurement reform, contract management, LPTA policy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesley-field-82097023/)
 
@@ -367,6 +409,8 @@ John Cibinic, Jr., together with Ralph Nash, established the academic study of g
 
 **Relevance to Dissertation:** Cibinic's treatises define the doctrinal framework within which procurement evaluation operates. His work on cost accounting and cost-reimbursement contracting is essential for understanding the limitations of price-only evaluation.
 
+**Research focus:** procurement law, contract management, source selection
+
 ---
 
 ### 21. Vernon J. Edwards
@@ -382,6 +426,8 @@ Vernon J. Edwards is one of the most respected practitioner-scholars in governme
 - Founder/contributor, Wifcon.com
 
 **Relevance to Dissertation:** Edwards's *Source Selection Answer Book* and Wifcon contributions provide the most detailed practitioner-level guidance on designing evaluation criteria -- the exact mechanism the dissertation seeks to reform.
+
+**Research focus:** source selection, procurement reform, contract management, LPTA policy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vern-edwards-247022125) [![Website](https://img.shields.io/badge/Wifcon.com-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://www.wifcon.com) [![Website](https://img.shields.io/badge/FAR_Bootcamp-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://thefarbootcamp.com/instructors/vernon-j-edwards)
 
@@ -399,6 +445,8 @@ Karen Manos is one of the most accomplished government contracts attorneys in pr
 - Contributions to the *Public Contract Law Journal*, *The Government Contractor*, and *The Nash & Cibinic Report*
 
 **Relevance to Dissertation:** Manos's expertise in cost and pricing provides essential technical depth for understanding how price evaluation works in practice -- and where it fails to capture value.
+
+**Research focus:** procurement law, contract management, bid protests
 
 ---
 
@@ -418,6 +466,8 @@ Sue Arrowsmith is the world's leading authority on public procurement law. Her t
 
 **Relevance to Dissertation:** Arrowsmith's work on EU MEAT criteria provides the most direct international comparator for the dissertation's analysis of U.S. evaluation criteria. Her comparative perspective illuminates how different legal traditions approach the price-value tradeoff.
 
+**Research focus:** international procurement, procurement law, procurement reform, competition policy
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sue-arrowsmith-kc-hon-58560460/)
 
 ---
@@ -435,6 +485,8 @@ Elisabetta Iossa is a leading economist whose research on public procurement, pu
 
 **Relevance to Dissertation:** Iossa's empirical work on how institutional and organizational factors affect procurement outcomes provides strong evidence for the dissertation's central claim that value depends on factors well beyond price.
 
+**Research focus:** procurement economics, competition policy, international procurement, contract management
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisabetta-iossa-61416047/) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/site/profelisabettaiossa/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Elisabetta-Iossa)
 
 ---
@@ -451,6 +503,8 @@ Mihaly Fazekas is a pioneering scholar who has transformed the study of corrupti
 - IMF Anti-Corruption Challenge winning methodology
 
 **Relevance to Dissertation:** Fazekas's work demonstrates that procurement integrity and institutional quality -- dimensions of public value -- can be measured and analyzed quantitatively. His methodology provides a model for the dissertation's empirical approach.
+
+**Research focus:** international procurement, digital procurement, competition policy, procurement reform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaly-fazekas-aa3a9010/) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mihaly_fazekas) [![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://mihalyfazekas.eu/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mihaly-Fazekas)
 
@@ -534,6 +588,28 @@ The following individuals were considered during the selection process and may w
 - **Gabriella M. Racca** -- Professor, University of Turin; expert on joint procurement and innovation [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-racca-28185241/)
 - **Michael Derrios** -- Executive Director, Baroni Center for Government Contracting, George Mason University; former State Department Senior Procurement Executive [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-derrios-1b779a1/)
 - **Gian Luigi Albano** -- Head of Division, Consip (Italy); leading practitioner-scholar on framework agreements and procurement design [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-luigi-albano-0127179/)
+
+---
+
+## Research Connections
+
+The following maps how each scholar's work connects to the papers in this dissertation:
+
+### Paper 1: Section 813 and the LPTA-to-Best-Value Shift (Difference-in-Differences)
+
+This paper builds on the work of **Kelman** (procurement reform theory), **Schooner** ("Desiderata" framework for best-value objectives), **Edwards** (practitioner guidance on source selection design), and **Field** (institutional continuity at OFPP during the LPTA policy shift). It responds directly to GAO reports (2014, 2018) on LPTA usage patterns, connecting to **Perez**'s role in shaping bid protest precedent around evaluation methodology. The legislative context draws on the defense acquisition expertise of **Rhodes**, **Drabkin**, and **Gordon**.
+
+### Paper 2: Transaction Cost Economics as Moderator
+
+This paper extends **Williamson**'s (1985) transaction cost economics framework to procurement evaluation, testing whether asset specificity and uncertainty moderate the effect of source selection method on outcomes. It builds on **Brown & Potoski**'s (2003) application of TCE to government contracting and connects to **Tirole**'s principal-agent models of procurement under information asymmetry. The empirical approach draws on **Decarolis**, **Spagnolo**, and **Iossa**'s work demonstrating how procurement design choices interact with contract characteristics to determine outcomes.
+
+### Paper 3: International Comparative Analysis
+
+This paper complements the comparative public management scholarship of **Pollitt & Bouckaert** (2017) and the empirical procurement economics of **Bandiera et al.** (2009). It draws directly on **Arrowsmith**'s analysis of EU MEAT (most economically advantageous tender) criteria, **Yukins**'s comparative procurement law bridging U.S. and international systems, **Thai**'s work building international procurement scholarship, and **Piga**'s experience leading Italy's Consip. **Fazekas**'s Big Data methods for measuring procurement integrity across 33 European countries provide methodological inspiration.
+
+### Paper 5: Scoping Review of Source Selection Research
+
+This paper documents the research gap identified by **Kelman** (2002) -- that procurement reform outpaced empirical validation -- and by **Thai** (2001) -- that public procurement lacked a coherent academic field. It surveys the full body of work represented in this directory: the legal foundations laid by **Nash**, **Cibinic**, and **Schooner**; the economic theory contributed by **Tirole**, **Williamson**, and **Dimitri**; the public value framework of **Moore**; the empirical contributions of **Decarolis**, **Spagnolo**, **Iossa**, and **McCue**; and the practitioner knowledge captured by **Edwards** and **Manos**. The review demonstrates that despite decades of individual contributions, no integrated empirical literature on source selection effectiveness exists.
 
 ---
 
