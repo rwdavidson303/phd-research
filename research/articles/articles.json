@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-30T10:55:53.091955",
+    "last_updated": "2026-03-31T10:45:04.455059",
     "total_articles": 441,
-    "last_search_date": "2026-03-30"
+    "last_search_date": "2026-03-31"
   },
   "articles": [
     {
@@ -560,7 +560,7 @@
       "abstract": "Bill & Melinda Gates Foundation.",
       "doi": "https://doi.org/10.1016/s0140-6736(24)00757-8",
       "url": "https://openalex.org/W4394894573",
-      "citation_count": 3956,
+      "citation_count": 3967,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850221"
@@ -1316,7 +1316,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1443,
+      "citation_count": 1444,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -1610,7 +1610,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1038/s41586-020-2286-9",
       "url": "https://openalex.org/W3022285953",
-      "citation_count": 4813,
+      "citation_count": 4814,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021329"
@@ -1638,7 +1638,7 @@
       "abstract": "In early 2020, the unprecedented nature of COVID-19 prompted India, among many other countries, to put in place stark measures to stem the virus’ spread and the cost of human lives. We analyze data from phone-based surveys on disruptions to agricultural production and food security, administered with 1515 smallholder producers in the states of Haryana and Odisha. We find substantial heterogeneity in how the lockdown affected farmers in these two states, which is likely related to existing structural differences in market infrastructure and to differences in state-specific COVID-related policies. In Odisha, where mechanization is limited, farmers spent more on labor to harvest their crops, and distress selling was more prevalent due to the absence of a well-functioning procurement system for their crops. In Haryana, preexisting market infrastructure allowed the state to sustain procurement at stable prices, limiting impacts on smallholder production. As consumers, farmers in Haryana faced more disruptions than those in Odisha, due to reduced availability of foods in the markets, whereas farmers in Odisha benefited from more diverse cropping patterns and increased local supply of foods following transport restrictions.\\n\\n",
       "doi": "https://doi.org/10.1016/j.worlddev.2020.105069",
       "url": "https://openalex.org/W3081303872",
-      "citation_count": 261,
+      "citation_count": 262,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973287"
@@ -1666,7 +1666,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s40647-020-00302-6",
       "url": "https://openalex.org/W3089826473",
-      "citation_count": 146,
+      "citation_count": 147,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582629"
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(19)30041-8",
       "url": "https://openalex.org/W2928467655",
-      "citation_count": 5582,
+      "citation_count": 5586,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021150"
@@ -1918,7 +1918,7 @@
       "abstract": "The grassroots movement that placed environmental justice issues on the national stage around 1980 was soon followed up by research documenting the correlation between pollution and race and poverty. This work has established inequitable exposure to nuisances as a stylized fact of social science. In this paper, we review the environmental justice literature, especially where it intersects with work by economists. First we consider the literature documenting evidence of disproportionate exposure. We particularly consider the implications of modeling choices about spatial relationships between polluters and residents, and about conditioning variables. Next, we evaluate the theory and evidence for four possible mechanisms that may lie behind the patterns seen: disproportionate siting on the firm side, “coming to the nuisance” on the household side, market-like coordination of the two, and discriminatory politics and/or enforcement. We argue that further research is needed to understand how much weight to give each mechanism. Finally, we discuss some policy options.",
       "doi": "https://doi.org/10.1257/jep.33.1.185",
       "url": "https://openalex.org/W2913170491",
-      "citation_count": 578,
+      "citation_count": 579,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582557"
@@ -2254,7 +2254,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
       "url": "https://openalex.org/W2899736836",
-      "citation_count": 8565,
+      "citation_count": 8566,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850421"
@@ -2268,7 +2268,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 2897,
+      "citation_count": 2899,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -3052,7 +3052,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 5010,
+      "citation_count": 5011,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -3290,7 +3290,7 @@
       "abstract": "This paper develops a dynamic capabilities-based theory of the multinational enterprise (MNE). It first reviews scholarship on the MNE, with a focus on what has come to be known as \"internalization\" theory. One prong of this theory develops contractual/transaction cost-informed governance perspectives; and another develops technology transfer and capabilities perspectives. In this paper, it is suggested that the latter has been somewhat neglected. However, if fully integrated as part of a more complete approach, it can buttress transaction cost/governance issues and expand the range of phenomena that can be explained. In this more integrated framework, dynamic capabilities coupled with good strategy are seen as necessary to sustain superior enterprise performance, especially in fast-moving global environments. Entrepreneurial management and transformational leadership are incorporated into a capabilities theory of the MNE. The framework is then used to explain how strategy and dynamic capabilities together determine firm-level sustained competitive advantage in global environments. It is suggested that this framework complements contract-based perspectives on the MNE and can help integrate international management and international business perspectives.",
       "doi": "https://doi.org/10.1057/jibs.2013.54",
       "url": "https://openalex.org/W2032540219",
-      "citation_count": 1218,
+      "citation_count": 1219,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943626"
@@ -3892,7 +3892,7 @@
       "abstract": "Abstract Guidelines for use of wild mammal species are updated from the American Society of Mammalogists (ASM) 2007 publication. These revised guidelines cover current professional techniques and regulations involving mammals used in research and teaching. They incorporate additional resources, summaries of procedures, and reporting requirements not contained in earlier publications. Included are details on marking, housing, trapping, and collecting mammals. It is recommended that institutional animal care and use committees (IACUCs), regulatory agencies, and investigators use these guidelines as a resource for protocols involving wild mammals. These guidelines were prepared and approved by the ASM, working with experienced professional veterinarians and IACUCs, whose collective expertise provides a broad and comprehensive understanding of the biology of nondomesticated mammals in their natural environments. The most current version of these guidelines and any subsequent modifications are available at the ASM Animal Care and Use Committee page of the ASM Web site (http://mammalsociety.org/committees/index.asp).",
       "doi": "https://doi.org/10.1644/10-mamm-f-355.1",
       "url": "https://openalex.org/W4253512500",
-      "citation_count": 2372,
+      "citation_count": 2373,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021289"
@@ -4088,7 +4088,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4801,
+      "citation_count": 4805,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4788,7 +4788,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3660,
+      "citation_count": 3662,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -5516,7 +5516,7 @@
       "abstract": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizational scales. The observer imposes a perceptual bias, a filter through which the system is viewed. This has fundamental evolutionary significance, since every organism is an \"observer\" of the environment, and life history adaptations such as dispersal and dormancy alter the perceptual scales of the species, and the observed variability. It likewise has fundamental significance for our own study of ecological systems, since the patterns that are unique to any range of scales will have unique causes and biological consequences. The key to prediction and understanding lies in the elucidation of mechanisms underlying observed patterns. Typically, these mechanisms operate at different scales than those on which the patterns are observed; in some cases, the patterns must be understood as emerging form the collective behaviors of large ensembles of smaller scale units. In other cases, the pattern is imposed by larger scale constraints. Examination of such phenomena requires the study of how pattern and variability change with the scale of description, and the development of laws for simplification, aggregation, and scaling. Examples are given from the marine and terrestrial literatures.",
       "doi": "https://doi.org/10.2307/1941447",
       "url": "https://openalex.org/W2322480672",
-      "citation_count": 6692,
+      "citation_count": 6693,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021169"
@@ -5949,7 +5949,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.ijpe.2016.03.014",
       "url": "https://openalex.org/W2302800291",
-      "citation_count": 1461,
+      "citation_count": 1462,
       "source": "openalex",
       "id": "37fc2963f81c18254659d99537504b96",
       "date_found": "2026-03-11T10:30:00.175068",
