@@ -2,7 +2,7 @@ name: Update Articles Feed
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # Daily at 10:00 UTC (4:00 AM Denver)
+    - cron: '0 10 * * *'  # Daily at 10:00 UTC (6:00 PM Malaysia)
   workflow_dispatch:        # Manual trigger from GitHub UI
 
 permissions:
@@ -67,7 +67,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          TZ: America/Denver
+          TZ: Asia/Kuala_Lumpur
         run: |
           hugo \
             --source website \
