@@ -34,6 +34,9 @@ menu:
     - name: "Literature"
       url: "/literature/"
       weight: 5
+    - name: "Articles"
+      url: "/articles/"
+      weight: 6
     - name: "Federal Data"
       url: "/data/"
       weight: 6
