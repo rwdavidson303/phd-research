@@ -104,4 +104,4 @@ OMB Memorandum M-25-22 establishes guidance on the use of artificial intelligenc
 
 ## About This Tracker
 
-This tracker is maintained as part of an ongoing research program on procurement source selection at the University of Denver, Daniels College of Business. For the empirical evidence on how these policies affect contract outcomes, see our [Key Findings](../findings/) and [Research Papers](../papers/).
+This tracker is maintained as part of an ongoing research program on procurement source selection at Indiana University, Kelley School of Business. For the empirical evidence on how these policies affect contract outcomes, see our [Key Findings](../findings/) and [Research Papers](../papers/).

@@ -171,7 +171,7 @@ This comparison suggests that **the optimal evaluation method depends on the com
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
 
 ---
 
@@ -389,4 +389,4 @@ Korea's procurement system is instructive for the LPTA vs. best-value debate:
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*

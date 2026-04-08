@@ -4,11 +4,11 @@ description: "Top 100 scholarly articles and recommended books"
 weight: 2
 ---
 
-# Top 100 Scholarly Articles for PhD Dissertation
+# Top 100 Scholarly Articles for DBA Dissertation
 
 **Dissertation Title:** "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs"
 
-**University of Denver**
+**Indiana University, Kelley School of Business**
 
 **Compiled:** February 2026
 
@@ -703,5 +703,5 @@ weight: 2
 
 ---
 
-*This list was compiled to support a PhD dissertation at the University of Denver examining whether best-value tradeoff source selection produces better public-value outcomes than lowest-price/LPTA methods in government procurement.*
+*This list was compiled to support a DBA dissertation at Indiana University, Kelley School of Business examining whether best-value tradeoff source selection produces better public-value outcomes than lowest-price/LPTA methods in government procurement.*
 

@@ -90,26 +90,26 @@ This appendix reproduces all regression output with complete coefficient estimat
 
 | Variable | Coefficient | Robust SE | 95% CI Lower | 95% CI Upper | *p*-value |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Tradeoff (1 = TO, 0 = LPTA) | -- | -- | -- | -- | -- |
-| Log(Award Amount) | -- | -- | -- | -- | -- |
-| Contract Type: CPFF (ref: FFP) | -- | -- | -- | -- | -- |
-| Contract Type: T&M (ref: FFP) | -- | -- | -- | -- | -- |
-| Contract Type: Other (ref: FFP) | -- | -- | -- | -- | -- |
-| IDV Indicator | -- | -- | -- | -- | -- |
-| Set-Aside: Small Business (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: 8(a) (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: HUBZone (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: SDVOSB (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: WOSB (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: Other (ref: Unrestricted) | -- | -- | -- | -- | -- |
+| Tradeoff (1 = TO, 0 = LPTA) | — | — | — | — | — |
+| Log(Award Amount) | — | — | — | — | — |
+| Contract Type: CPFF (ref: FFP) | — | — | — | — | — |
+| Contract Type: T&M (ref: FFP) | — | — | — | — | — |
+| Contract Type: Other (ref: FFP) | — | — | — | — | — |
+| IDV Indicator | — | — | — | — | — |
+| Set-Aside: Small Business (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: 8(a) (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: HUBZone (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: SDVOSB (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: WOSB (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: Other (ref: Unrestricted) | — | — | — | — | — |
 | Agency Fixed Effects | Included | | | | |
 | Fiscal Year Fixed Effects | Included | | | | |
-| Constant | -- | -- | -- | -- | -- |
-| *N* | -- | | | | |
-| *R*-squared | -- | | | | |
-| Adjusted *R*-squared | -- | | | | |
-| *F*-statistic | -- | | | | |
-| RMSE | -- | | | | |
+| Constant | — | — | — | — | — |
+| *N* | — | | | | |
+| *R*-squared | — | | | | |
+| Adjusted *R*-squared | — | | | | |
+| *F*-statistic | — | | | | |
+| RMSE | — | | | | |
 
 *Standard errors clustered at the agency-NAICS level.*
 
@@ -121,8 +121,8 @@ This appendix reproduces all regression output with complete coefficient estimat
 
 | Variable | ATT Estimate | Robust SE | 95% CI Lower | 95% CI Upper | *p*-value |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Tradeoff (ATT) | -- | -- | -- | -- | -- |
-| *N* (matched pairs) | -- | | | | |
+| Tradeoff (ATT) | — | — | — | — | — |
+| *N* (matched pairs) | — | | | | |
 | Caliper | 0.2 SD | | | | |
 | Matching ratio | 1:1 | | | | |
 
@@ -134,27 +134,27 @@ This appendix reproduces all regression output with complete coefficient estimat
 
 | Variable | Coefficient | SE | IRR | 95% CI (IRR) | *p*-value |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Tradeoff (1 = TO, 0 = LPTA) | -- | -- | -- | -- | -- |
-| Log(Award Amount) | -- | -- | -- | -- | -- |
-| Contract Type: CPFF (ref: FFP) | -- | -- | -- | -- | -- |
-| Contract Type: T&M (ref: FFP) | -- | -- | -- | -- | -- |
-| Contract Type: Other (ref: FFP) | -- | -- | -- | -- | -- |
-| IDV Indicator | -- | -- | -- | -- | -- |
-| Set-Aside: Small Business (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: 8(a) (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: HUBZone (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: SDVOSB (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: WOSB (ref: Unrestricted) | -- | -- | -- | -- | -- |
-| Set-Aside: Other (ref: Unrestricted) | -- | -- | -- | -- | -- |
+| Tradeoff (1 = TO, 0 = LPTA) | — | — | — | — | — |
+| Log(Award Amount) | — | — | — | — | — |
+| Contract Type: CPFF (ref: FFP) | — | — | — | — | — |
+| Contract Type: T&M (ref: FFP) | — | — | — | — | — |
+| Contract Type: Other (ref: FFP) | — | — | — | — | — |
+| IDV Indicator | — | — | — | — | — |
+| Set-Aside: Small Business (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: 8(a) (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: HUBZone (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: SDVOSB (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: WOSB (ref: Unrestricted) | — | — | — | — | — |
+| Set-Aside: Other (ref: Unrestricted) | — | — | — | — | — |
 | Agency Fixed Effects | Included | | | | |
 | Fiscal Year Fixed Effects | Included | | | | |
-| Constant | -- | -- | -- | -- | -- |
-| *N* | -- | | | | |
-| Log-likelihood | -- | | | | |
-| Overdispersion (alpha) | -- | | | | |
-| LR test vs. Poisson (*p*) | -- | | | | |
-| AIC | -- | | | | |
-| BIC | -- | | | | |
+| Constant | — | — | — | — | — |
+| *N* | — | | | | |
+| Log-likelihood | — | | | | |
+| Overdispersion (alpha) | — | | | | |
+| LR test vs. Poisson (*p*) | — | | | | |
+| AIC | — | | | | |
+| BIC | — | | | | |
 
 *IRR = Incidence Rate Ratio. Standard errors clustered at the agency-NAICS level.*
 
@@ -164,20 +164,20 @@ This appendix reproduces all regression output with complete coefficient estimat
 
 | Variable | Coefficient | SE | IRR | 95% CI (IRR) | *p*-value |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Tradeoff (1 = TO, 0 = LPTA) | -- | -- | -- | -- | -- |
-| Log(Award Amount) | -- | -- | -- | -- | -- |
-| Contract Type: CPFF (ref: FFP) | -- | -- | -- | -- | -- |
-| Contract Type: T&M (ref: FFP) | -- | -- | -- | -- | -- |
-| Contract Type: Other (ref: FFP) | -- | -- | -- | -- | -- |
-| IDV Indicator | -- | -- | -- | -- | -- |
+| Tradeoff (1 = TO, 0 = LPTA) | — | — | — | — | — |
+| Log(Award Amount) | — | — | — | — | — |
+| Contract Type: CPFF (ref: FFP) | — | — | — | — | — |
+| Contract Type: T&M (ref: FFP) | — | — | — | — | — |
+| Contract Type: Other (ref: FFP) | — | — | — | — | — |
+| IDV Indicator | — | — | — | — | — |
 | Set-Aside controls | Included | | | | |
 | Agency Fixed Effects | Included | | | | |
 | Fiscal Year Fixed Effects | Included | | | | |
-| Constant | -- | -- | -- | -- | -- |
-| *N* | -- | | | | |
-| Log-likelihood | -- | | | | |
-| Overdispersion (alpha) | -- | | | | |
-| AIC | -- | | | | |
+| Constant | — | — | — | — | — |
+| *N* | — | | | | |
+| Log-likelihood | — | | | | |
+| Overdispersion (alpha) | — | | | | |
+| AIC | — | | | | |
 
 ### Table B.5: Single-Bid Outcome (Logistic Regression)
 
@@ -185,59 +185,59 @@ This appendix reproduces all regression output with complete coefficient estimat
 
 | Variable | Coefficient | SE | OR | 95% CI (OR) | *p*-value | AME |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Tradeoff (1 = TO, 0 = LPTA) | -- | -- | -- | -- | -- | -- |
-| Log(Award Amount) | -- | -- | -- | -- | -- | -- |
-| Contract Type: CPFF (ref: FFP) | -- | -- | -- | -- | -- | -- |
-| Contract Type: T&M (ref: FFP) | -- | -- | -- | -- | -- | -- |
-| Contract Type: Other (ref: FFP) | -- | -- | -- | -- | -- | -- |
-| IDV Indicator | -- | -- | -- | -- | -- | -- |
+| Tradeoff (1 = TO, 0 = LPTA) | — | — | — | — | — | — |
+| Log(Award Amount) | — | — | — | — | — | — |
+| Contract Type: CPFF (ref: FFP) | — | — | — | — | — | — |
+| Contract Type: T&M (ref: FFP) | — | — | — | — | — | — |
+| Contract Type: Other (ref: FFP) | — | — | — | — | — | — |
+| IDV Indicator | — | — | — | — | — | — |
 | Set-Aside controls | Included | | | | | |
 | Agency Fixed Effects | Included | | | | | |
 | Fiscal Year Fixed Effects | Included | | | | | |
-| Constant | -- | -- | -- | -- | -- | |
-| *N* | -- | | | | | |
-| Pseudo *R*-squared | -- | | | | | |
-| Log-likelihood | -- | | | | | |
-| AIC | -- | | | | | |
-| Hosmer-Lemeshow *p* | -- | | | | | |
+| Constant | — | — | — | — | — | |
+| *N* | — | | | | | |
+| Pseudo *R*-squared | — | | | | | |
+| Log-likelihood | — | | | | | |
+| AIC | — | | | | | |
+| Hosmer-Lemeshow *p* | — | | | | | |
 
 *OR = Odds Ratio. AME = Average Marginal Effect.*
 
-### Table B.6: Moderation --- Tradeoff x NAICS Sector Interaction (Cost Growth)
+### Table B.6: Moderation — Tradeoff x NAICS Sector Interaction (Cost Growth)
 
 **Dependent Variable:** `cost_growth_w`
 
 | Variable | Coefficient | Robust SE | *p*-value |
 |:---|:---:|:---:|:---:|
-| Tradeoff | -- | -- | -- |
-| NAICS: IT Services (ref: Admin Support) | -- | -- | -- |
-| NAICS: Consulting (ref: Admin Support) | -- | -- | -- |
-| NAICS: Other Professional (ref: Admin Support) | -- | -- | -- |
-| Tradeoff x IT Services | -- | -- | -- |
-| Tradeoff x Consulting | -- | -- | -- |
-| Tradeoff x Other Professional | -- | -- | -- |
+| Tradeoff | — | — | — |
+| NAICS: IT Services (ref: Admin Support) | — | — | — |
+| NAICS: Consulting (ref: Admin Support) | — | — | — |
+| NAICS: Other Professional (ref: Admin Support) | — | — | — |
+| Tradeoff x IT Services | — | — | — |
+| Tradeoff x Consulting | — | — | — |
+| Tradeoff x Other Professional | — | — | — |
 | Controls | Included | | |
 | Agency and Year FE | Included | | |
-| *N* | -- | | |
-| *R*-squared | -- | | |
-| Wald test: joint significance of interactions (*p*) | -- | | |
+| *N* | — | | |
+| *R*-squared | — | | |
+| Wald test: joint significance of interactions (*p*) | — | | |
 
-### Table B.7: Moderation --- Tradeoff x Contract Type Interaction (Cost Growth)
+### Table B.7: Moderation — Tradeoff x Contract Type Interaction (Cost Growth)
 
 **Dependent Variable:** `cost_growth_w`
 
 | Variable | Coefficient | Robust SE | *p*-value |
 |:---|:---:|:---:|:---:|
-| Tradeoff | -- | -- | -- |
-| Contract Type: CPFF (ref: FFP) | -- | -- | -- |
-| Contract Type: T&M (ref: FFP) | -- | -- | -- |
-| Tradeoff x CPFF | -- | -- | -- |
-| Tradeoff x T&M | -- | -- | -- |
+| Tradeoff | — | — | — |
+| Contract Type: CPFF (ref: FFP) | — | — | — |
+| Contract Type: T&M (ref: FFP) | — | — | — |
+| Tradeoff x CPFF | — | — | — |
+| Tradeoff x T&M | — | — | — |
 | Controls | Included | | |
 | Agency and Year FE | Included | | |
-| *N* | -- | | |
-| *R*-squared | -- | | |
-| Wald test: joint significance of interactions (*p*) | -- | | |
+| *N* | — | | |
+| *R*-squared | — | | |
+| Wald test: joint significance of interactions (*p*) | — | | |
 
 ### Table B.8: Difference-in-Differences Estimates
 
@@ -245,15 +245,15 @@ This appendix reproduces all regression output with complete coefficient estimat
 
 | Variable | Coefficient | Robust SE | *p*-value |
 |:---|:---:|:---:|:---:|
-| Post x Treat (DiD estimand) | -- | -- | -- |
-| Post | -- | -- | -- |
-| Treat | -- | -- | -- |
+| Post x Treat (DiD estimand) | — | — | — |
+| Post | — | — | — |
+| Treat | — | — | — |
 | Controls | Included | | |
 | Agency-Category FE | Included | | |
 | Fiscal Year FE | Included | | |
-| *N* | -- | | |
-| *R*-squared | -- | | |
-| Pre-trend test (*p*) | -- | | |
+| *N* | — | | |
+| *R*-squared | — | | |
+| Pre-trend test (*p*) | — | | |
 
 ---
 
@@ -267,36 +267,36 @@ This appendix reports diagnostics for the propensity score matching procedure de
 
 | Covariate | Mean (Tradeoff) Before | Mean (LPTA) Before | SMD Before | Mean (Tradeoff) After | Mean (LPTA) After | SMD After | Variance Ratio (After) |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Log(Award Amount) | -- | -- | -- | -- | -- | -- | -- |
-| FFP (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| CPFF (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| T&M (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| IDV Indicator (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| NAICS: IT Services (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| NAICS: Consulting (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| NAICS: Other Professional (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| NAICS: Admin Support (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Set-Aside: Unrestricted (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Set-Aside: Small Business (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Set-Aside: 8(a) (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Set-Aside: HUBZone (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Set-Aside: SDVOSB (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Set-Aside: WOSB (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| DoD (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| FY2020 (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| FY2021 (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| FY2022 (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| FY2023 (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| FY2024 (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| FY2025 (proportion) | -- | -- | -- | -- | -- | -- | -- |
-| Contract Duration (months) | -- | -- | -- | -- | -- | -- | -- |
+| Log(Award Amount) | — | — | — | — | — | — | — |
+| FFP (proportion) | — | — | — | — | — | — | — |
+| CPFF (proportion) | — | — | — | — | — | — | — |
+| T&M (proportion) | — | — | — | — | — | — | — |
+| IDV Indicator (proportion) | — | — | — | — | — | — | — |
+| NAICS: IT Services (proportion) | — | — | — | — | — | — | — |
+| NAICS: Consulting (proportion) | — | — | — | — | — | — | — |
+| NAICS: Other Professional (proportion) | — | — | — | — | — | — | — |
+| NAICS: Admin Support (proportion) | — | — | — | — | — | — | — |
+| Set-Aside: Unrestricted (proportion) | — | — | — | — | — | — | — |
+| Set-Aside: Small Business (proportion) | — | — | — | — | — | — | — |
+| Set-Aside: 8(a) (proportion) | — | — | — | — | — | — | — |
+| Set-Aside: HUBZone (proportion) | — | — | — | — | — | — | — |
+| Set-Aside: SDVOSB (proportion) | — | — | — | — | — | — | — |
+| Set-Aside: WOSB (proportion) | — | — | — | — | — | — | — |
+| DoD (proportion) | — | — | — | — | — | — | — |
+| FY2020 (proportion) | — | — | — | — | — | — | — |
+| FY2021 (proportion) | — | — | — | — | — | — | — |
+| FY2022 (proportion) | — | — | — | — | — | — | — |
+| FY2023 (proportion) | — | — | — | — | — | — | — |
+| FY2024 (proportion) | — | — | — | — | — | — | — |
+| FY2025 (proportion) | — | — | — | — | — | — | — |
+| Contract Duration (months) | — | — | — | — | — | — | — |
 
 ### C.2 Interpretation Guide
 
 **Standardized Mean Difference (SMD):** The difference in means between treatment and control groups, divided by the pooled standard deviation. Following the thresholds established by Rosenbaum and Rubin (1985) and widely adopted in the causal inference literature:
 
 - SMD < 0.10: Acceptable balance (negligible imbalance)
-- SMD 0.10--0.25: Marginal balance (potential concern; sensitivity analysis warranted)
+- SMD 0.10–0.25: Marginal balance (potential concern; sensitivity analysis warranted)
 - SMD > 0.25: Unacceptable balance (re-specification of propensity score model required)
 
 **Variance Ratio:** The ratio of the variance in the treatment group to the variance in the control group, computed for continuous covariates. Following Rubin (2001):
@@ -314,16 +314,16 @@ The love plot displays the absolute standardized mean difference for each covari
 
 *[Figure C.2: Histograms and/or kernel density plots of the propensity score distribution in the tradeoff and LPTA groups, before and after matching, will be inserted upon completion of the analysis.]*
 
-The propensity score distribution plots illustrate the region of common support---the range of propensity scores where both treated and control observations exist. Observations outside the region of common support are excluded from the matched sample. The overlap of the distributions after matching should be substantially improved relative to the unmatched distributions.
+The propensity score distribution plots illustrate the region of common support—the range of propensity scores where both treated and control observations exist. Observations outside the region of common support are excluded from the matched sample. The overlap of the distributions after matching should be substantially improved relative to the unmatched distributions.
 
 ### C.5 Sensitivity Analysis: Rosenbaum Bounds
 
 | Outcome Variable | Critical Gamma | Interpretation |
 |:---|:---:|:---|
-| `cost_growth_w` | -- | An unobserved confounder would need to change the odds of tradeoff assignment by a factor of [Gamma] to explain away the estimated treatment effect. |
-| `mod_count` | -- | [Same interpretation] |
-| `number_of_offers_received` | -- | [Same interpretation] |
-| `single_bid` | -- | [Same interpretation] |
+| `cost_growth_w` | — | An unobserved confounder would need to change the odds of tradeoff assignment by a factor of [Gamma] to explain away the estimated treatment effect. |
+| `mod_count` | — | [Same interpretation] |
+| `number_of_offers_received` | — | [Same interpretation] |
+| `single_bid` | — | [Same interpretation] |
 
 **Interpretation of Critical Gamma:** Gamma = 1.0 indicates no hidden bias. Gamma = 2.0 means an unmeasured confounder would need to double the odds of receiving the treatment to explain the result. Values above 2.0 are generally considered robust to hidden bias in the social sciences.
 
@@ -339,100 +339,100 @@ This appendix presents the complete results of the robustness and sensitivity an
 
 | Specification | Tradeoff Coefficient | SE | *p*-value | *N* |
 |:---|:---:|:---:|:---:|:---:|
-| **Primary: base_and_all_options cost growth, winsorized 1/99** | -- | -- | -- | -- |
-| Alternative 1: total_dollars_obligated cost growth, winsorized 1/99 | -- | -- | -- | -- |
-| Alternative 2: base_and_all_options cost growth, winsorized 5/95 | -- | -- | -- | -- |
-| Alternative 3: base_and_all_options cost growth, winsorized 0.5/99.5 | -- | -- | -- | -- |
-| Alternative 4: Trimmed (extreme 2% dropped) | -- | -- | -- | -- |
-| Alternative 5: Binary (cost growth > 10%) | -- | -- | -- | -- |
-| Alternative 6: Binary (cost growth > 20%) | -- | -- | -- | -- |
+| **Primary: base_and_all_options cost growth, winsorized 1/99** | — | — | — | — |
+| Alternative 1: total_dollars_obligated cost growth, winsorized 1/99 | — | — | — | — |
+| Alternative 2: base_and_all_options cost growth, winsorized 5/95 | — | — | — | — |
+| Alternative 3: base_and_all_options cost growth, winsorized 0.5/99.5 | — | — | — | — |
+| Alternative 4: Trimmed (extreme 2% dropped) | — | — | — | — |
+| Alternative 5: Binary (cost growth > 10%) | — | — | — | — |
+| Alternative 6: Binary (cost growth > 20%) | — | — | — | — |
 
 ### Table D.2: Sensitivity to Competition Intensity Operationalization
 
 | Specification | Tradeoff Coefficient | SE | *p*-value | *N* |
 |:---|:---:|:---:|:---:|:---:|
-| **Primary: Negative binomial, raw count** | -- | -- | -- | -- |
-| Alternative 1: OLS, ln(offers + 1) | -- | -- | -- | -- |
-| Alternative 2: Ordered logit (1, 2--3, 4--5, 6+) | -- | -- | -- | -- |
-| Alternative 3: Binary (3+ offers = robust competition) | -- | -- | -- | -- |
+| **Primary: Negative binomial, raw count** | — | — | — | — |
+| Alternative 1: OLS, ln(offers + 1) | — | — | — | — |
+| Alternative 2: Ordered logit (1, 2–3, 4–5, 6+) | — | — | — | — |
+| Alternative 3: Binary (3+ offers = robust competition) | — | — | — | — |
 
 ### Table D.3: Sensitivity to Matching Specification
 
 | Matching Method | ATT (Cost Growth) | SE | *p* | Matched Pairs |
 |:---|:---:|:---:|:---:|:---:|
-| **Primary: 1:1 NN, caliper = 0.2 SD, no replacement** | -- | -- | -- | -- |
-| Alternative 1: 1:3 NN, caliper = 0.2 SD | -- | -- | -- | -- |
-| Alternative 2: 1:5 NN, caliper = 0.2 SD | -- | -- | -- | -- |
-| Alternative 3: 1:1 NN, with replacement | -- | -- | -- | -- |
-| Alternative 4: Kernel matching | -- | -- | -- | -- |
-| Alternative 5: Mahalanobis distance matching | -- | -- | -- | -- |
-| Alternative 6: 1:1 NN, caliper = 0.1 SD | -- | -- | -- | -- |
-| Alternative 7: 1:1 NN, caliper = 0.5 SD | -- | -- | -- | -- |
+| **Primary: 1:1 NN, caliper = 0.2 SD, no replacement** | — | — | — | — |
+| Alternative 1: 1:3 NN, caliper = 0.2 SD | — | — | — | — |
+| Alternative 2: 1:5 NN, caliper = 0.2 SD | — | — | — | — |
+| Alternative 3: 1:1 NN, with replacement | — | — | — | — |
+| Alternative 4: Kernel matching | — | — | — | — |
+| Alternative 5: Mahalanobis distance matching | — | — | — | — |
+| Alternative 6: 1:1 NN, caliper = 0.1 SD | — | — | — | — |
+| Alternative 7: 1:1 NN, caliper = 0.5 SD | — | — | — | — |
 
 ### Table D.4: Sensitivity to Fixed Effects Specification
 
 | Fixed Effects | Tradeoff (Cost Growth) | SE | *p* | *R*-sq |
 |:---|:---:|:---:|:---:|:---:|
-| **Primary: Agency + FY** | -- | -- | -- | -- |
-| Alternative 1: Agency x FY | -- | -- | -- | -- |
-| Alternative 2: Agency + NAICS (4-digit) + FY | -- | -- | -- | -- |
-| Alternative 3: Agency x NAICS (3-digit) | -- | -- | -- | -- |
-| Alternative 4: Sub-Agency + FY | -- | -- | -- | -- |
+| **Primary: Agency + FY** | — | — | — | — |
+| Alternative 1: Agency x FY | — | — | — | — |
+| Alternative 2: Agency + NAICS (4-digit) + FY | — | — | — | — |
+| Alternative 3: Agency x NAICS (3-digit) | — | — | — | — |
+| Alternative 4: Sub-Agency + FY | — | — | — | — |
 
 ### Table D.5: Sensitivity to Standard Error Clustering
 
 | Clustering Level | Tradeoff (Cost Growth) | SE | *p* |
 |:---|:---:|:---:|:---:|
-| **Primary: Agency-NAICS** | -- | -- | -- |
-| Alternative 1: Agency only | -- | -- | -- |
-| Alternative 2: NAICS only | -- | -- | -- |
-| Alternative 3: Two-way (Agency + FY) | -- | -- | -- |
-| Alternative 4: HC3 (heteroskedasticity-consistent) | -- | -- | -- |
+| **Primary: Agency-NAICS** | — | — | — |
+| Alternative 1: Agency only | — | — | — |
+| Alternative 2: NAICS only | — | — | — |
+| Alternative 3: Two-way (Agency + FY) | — | — | — |
+| Alternative 4: HC3 (heteroskedasticity-consistent) | — | — | — |
 
 ### Table D.6: Placebo Tests
 
 | Placebo Specification | Tradeoff Coefficient | SE | *p*-value | *N* |
 |:---|:---:|:---:|:---:|:---:|
-| Commodity supply contracts (NAICS 31--33) | -- | -- | -- | -- |
-| Pre-treatment period (DiD, pre-policy years only) | -- | -- | -- | -- |
+| Commodity supply contracts (NAICS 31–33) | — | — | — | — |
+| Pre-treatment period (DiD, pre-policy years only) | — | — | — | — |
 
 ### Table D.7: Subsample Replication
 
 | Subsample | Tradeoff (Cost Growth) | SE | *p* | *N* |
 |:---|:---:|:---:|:---:|:---:|
-| **Full sample** | -- | -- | -- | -- |
-| DoD only | -- | -- | -- | -- |
-| Civilian agencies only | -- | -- | -- | -- |
-| IT Services (NAICS 511/518) only | -- | -- | -- | -- |
-| Consulting (NAICS 5416/5417) only | -- | -- | -- | -- |
-| Large contracts (above median value) | -- | -- | -- | -- |
-| Small contracts (below median value) | -- | -- | -- | -- |
-| FY2020--FY2022 | -- | -- | -- | -- |
-| FY2023--FY2025 | -- | -- | -- | -- |
+| **Full sample** | — | — | — | — |
+| DoD only | — | — | — | — |
+| Civilian agencies only | — | — | — | — |
+| IT Services (NAICS 511/518) only | — | — | — | — |
+| Consulting (NAICS 5416/5417) only | — | — | — | — |
+| Large contracts (above median value) | — | — | — | — |
+| Small contracts (below median value) | — | — | — | — |
+| FY2020–FY2022 | — | — | — | — |
+| FY2023–FY2025 | — | — | — | — |
 
 ### Table D.8: Quantile Regression Results (Cost Growth)
 
 | Quantile | Tradeoff Coefficient | SE | *p*-value |
 |:---|:---:|:---:|:---:|
-| 25th percentile | -- | -- | -- |
-| 50th percentile (median) | -- | -- | -- |
-| 75th percentile | -- | -- | -- |
+| 25th percentile | — | — | — |
+| 50th percentile (median) | — | — | — |
+| 75th percentile | — | — | — |
 
 ### Table D.9: High-Leverage Observation Analysis
 
 | Specification | Tradeoff (Cost Growth) | SE | *p* | *N* |
 |:---|:---:|:---:|:---:|:---:|
-| **Full sample** | -- | -- | -- | -- |
-| Excluding Cook's D > 4/N | -- | -- | -- | -- |
+| **Full sample** | — | — | — | — |
+| Excluding Cook's D > 4/N | — | — | — | — |
 
 ### Table D.10: Cross-Strategy Comparison Summary
 
 | Identification Strategy | Tradeoff Effect (Cost Growth) | SE | *p* | Sign Consistent? |
 |:---|:---:|:---:|:---:|:---:|
-| Full-sample OLS with FE | -- | -- | -- | -- |
-| PSM (1:1 NN) | -- | -- | -- | -- |
-| DiD | -- | -- | -- | -- |
-| Multi-level model | -- | -- | -- | -- |
+| Full-sample OLS with FE | — | — | — | — |
+| PSM (1:1 NN) | — | — | — | — |
+| DiD | — | — | — | — |
+| Multi-level model | — | — | — | — |
 
 ---
 
@@ -471,7 +471,7 @@ This appendix presents the complete results of the robustness and sensitivity an
 | FFP | Firm-Fixed-Price |
 | FOIA | Freedom of Information Act |
 | FPDS | Federal Procurement Data System |
-| FPDS-NG | Federal Procurement Data System--Next Generation |
+| FPDS-NG | Federal Procurement Data System—Next Generation |
 | FY | Fiscal Year |
 | GAO | Government Accountability Office |
 | GLM | Generalized Linear Model |
@@ -545,7 +545,7 @@ This appendix describes the extract-transform-load (ETL) pipeline used to conver
 3. Supplementary data pulls using the USAspending.gov RESTful API are executed for specific data elements not included in the standard bulk download format (e.g., detailed subaward data, if used in sensitivity analyses).
 4. GAO bid protest statistics are collected manually from the annual reports posted on gao.gov and stored in `data/gao/protest_statistics.csv`.
 
-**Data Volume:** Approximately 2--5 million transaction records per fiscal year across all agencies and award types, prior to filtering. The study's NAICS sector restrictions and competition filters reduce the working dataset to approximately 500,000--1,000,000 relevant transactions, which aggregate to approximately 80,000--150,000 unique contract awards.
+**Data Volume:** Approximately 2–5 million transaction records per fiscal year across all agencies and award types, prior to filtering. The study's NAICS sector restrictions and competition filters reduce the working dataset to approximately 500,000–1,000,000 relevant transactions, which aggregate to approximately 80,000–150,000 unique contract awards.
 
 ### F.2 Transform Phase
 
@@ -664,16 +664,16 @@ This appendix provides a detailed listing of all inclusion and exclusion criteri
 
 | Step | Criterion | Records Remaining (Estimated) | Records Excluded (Estimated) | Exclusion Rate |
 |:---|:---|:---:|:---:|:---:|
-| 0 | **Starting population:** All contract transactions in FPDS-NG, FY2020--FY2025 | ~15,000,000--20,000,000 | -- | -- |
-| 1 | Restrict to executive branch agencies reporting to FPDS | ~14,500,000--19,500,000 | ~500,000 | ~3% |
-| 2 | Restrict to prime contract awards and modifications (exclude grants, loans, direct payments, other assistance) | ~8,000,000--12,000,000 | ~6,500,000 | ~40% |
-| 3 | Restrict to NAICS codes 511xxx, 518xxx, 541xxx, 561xxx | ~2,000,000--3,500,000 | ~6,000,000--8,500,000 | ~70% |
-| 4 | Restrict to competitive procurements (`extent_competed` = Full and Open Competition or Full and Open after Exclusion of Sources) | ~1,200,000--2,100,000 | ~800,000--1,400,000 | ~40% |
-| 5 | Restrict to awards with `base_and_all_options_value` > $250,000 (above SAT) | ~600,000--1,200,000 | ~600,000--900,000 | ~50% |
-| 6 | Restrict to `source_selection_process` = LPTA or TO (exclude "Other" and null) | ~450,000--900,000 | ~150,000--300,000 | ~25% |
-| 7 | Aggregate from transaction level to award level (group by `award_id_piid`) | ~80,000--150,000 unique awards | -- | -- |
-| 8 | Drop awards with missing key variables (missing `number_of_offers_received`, missing initial financial values, missing NAICS code) | ~75,000--145,000 | ~5,000 | ~3--5% |
-| 9 | **Final analytic sample** | **~75,000--145,000** | | |
+| 0 | **Starting population:** All contract transactions in FPDS-NG, FY2020–FY2025 | ~15,000,000–20,000,000 | — | — |
+| 1 | Restrict to executive branch agencies reporting to FPDS | ~14,500,000–19,500,000 | ~500,000 | ~3% |
+| 2 | Restrict to prime contract awards and modifications (exclude grants, loans, direct payments, other assistance) | ~8,000,000–12,000,000 | ~6,500,000 | ~40% |
+| 3 | Restrict to NAICS codes 511xxx, 518xxx, 541xxx, 561xxx | ~2,000,000–3,500,000 | ~6,000,000–8,500,000 | ~70% |
+| 4 | Restrict to competitive procurements (`extent_competed` = Full and Open Competition or Full and Open after Exclusion of Sources) | ~1,200,000–2,100,000 | ~800,000–1,400,000 | ~40% |
+| 5 | Restrict to awards with `base_and_all_options_value` > $250,000 (above SAT) | ~600,000–1,200,000 | ~600,000–900,000 | ~50% |
+| 6 | Restrict to `source_selection_process` = LPTA or TO (exclude "Other" and null) | ~450,000–900,000 | ~150,000–300,000 | ~25% |
+| 7 | Aggregate from transaction level to award level (group by `award_id_piid`) | ~80,000–150,000 unique awards | — | — |
+| 8 | Drop awards with missing key variables (missing `number_of_offers_received`, missing initial financial values, missing NAICS code) | ~75,000–145,000 | ~5,000 | ~3–5% |
+| 9 | **Final analytic sample** | **~75,000–145,000** | | |
 
 ### G.2 Detailed Criteria Descriptions
 
@@ -685,10 +685,10 @@ USAspending.gov contains data on multiple federal spending categories: contracts
 
 **Step 3: NAICS Sector Restriction**
 The study focuses on four NAICS code families that represent the professional services and information technology domains where the LPTA-versus-tradeoff decision is most consequential:
-- **511xxx** -- Software Publishers (including custom computer programming)
-- **518xxx** -- Data Processing, Hosting, and Related Services (including cloud computing)
-- **541xxx** -- Professional, Scientific, and Technical Services (including management consulting [5416], scientific consulting [5417], computer systems design [5415], R&D [5417], engineering [5413], accounting [5412], and legal services [5411])
-- **561xxx** -- Administrative and Support Services (including facilities support [5612], office administrative services [5611], document preparation [5614], and staffing services [5613])
+- **511xxx** — Software Publishers (including custom computer programming)
+- **518xxx** — Data Processing, Hosting, and Related Services (including cloud computing)
+- **541xxx** — Professional, Scientific, and Technical Services (including management consulting [5416], scientific consulting [5417], computer systems design [5415], R&D [5417], engineering [5413], accounting [5412], and legal services [5411])
+- **561xxx** — Administrative and Support Services (including facilities support [5612], office administrative services [5611], document preparation [5614], and staffing services [5613])
 
 **Step 4: Competitive Procurements Only**
 Source selection method is a concept that applies only to competitive procurements. Sole-source awards (where only one offeror is solicited or considered) are excluded because the choice between LPTA and tradeoff is not relevant when there is no competition. Awards under limited competition, follow-on contracts, or other non-full-and-open categories are also excluded to ensure a clean comparison of evaluation methods under competitive conditions.
@@ -715,48 +715,48 @@ Missing data rates are reported for each variable. If the overall rate of exclus
 *Note: Actual composition statistics will be inserted upon completion of data processing.*
 
 **By Source Selection Method:**
-- Tradeoff (TO): Estimated ~40--55% of sample
-- LPTA: Estimated ~45--60% of sample
+- Tradeoff (TO): Estimated ~40–55% of sample
+- LPTA: Estimated ~45–60% of sample
 
 **By NAICS Sector:**
-- IT Services (511, 518): Estimated ~20--30%
-- Management and Technical Consulting (5416, 5417): Estimated ~15--25%
-- Other Professional Services (remaining 541): Estimated ~25--35%
-- Administrative Support (561): Estimated ~15--20%
+- IT Services (511, 518): Estimated ~20–30%
+- Management and Technical Consulting (5416, 5417): Estimated ~15–25%
+- Other Professional Services (remaining 541): Estimated ~25–35%
+- Administrative Support (561): Estimated ~15–20%
 
 **By Agency (top 5 by volume):**
-- Department of Defense (all components): Estimated ~35--45%
-- Department of Health and Human Services: Estimated ~8--12%
-- Department of Homeland Security: Estimated ~6--10%
-- Department of Veterans Affairs: Estimated ~5--8%
-- General Services Administration: Estimated ~4--7%
+- Department of Defense (all components): Estimated ~35–45%
+- Department of Health and Human Services: Estimated ~8–12%
+- Department of Homeland Security: Estimated ~6–10%
+- Department of Veterans Affairs: Estimated ~5–8%
+- General Services Administration: Estimated ~4–7%
 
 **By Fiscal Year:**
-- FY2020: Estimated ~14--18%
-- FY2021: Estimated ~15--18%
-- FY2022: Estimated ~16--18%
-- FY2023: Estimated ~16--18%
-- FY2024: Estimated ~16--18%
-- FY2025: Estimated ~14--18%
+- FY2020: Estimated ~14–18%
+- FY2021: Estimated ~15–18%
+- FY2022: Estimated ~16–18%
+- FY2023: Estimated ~16–18%
+- FY2024: Estimated ~16–18%
+- FY2025: Estimated ~14–18%
 
 **By Contract Type:**
-- Firm-Fixed-Price: Estimated ~50--65%
-- Cost-Plus-Fixed-Fee: Estimated ~15--25%
-- Time-and-Materials / Labor-Hour: Estimated ~10--15%
-- Other: Estimated ~5--10%
+- Firm-Fixed-Price: Estimated ~50–65%
+- Cost-Plus-Fixed-Fee: Estimated ~15–25%
+- Time-and-Materials / Labor-Hour: Estimated ~10–15%
+- Other: Estimated ~5–10%
 
 **By IDV Status:**
-- Standalone (definitive) contracts: Estimated ~30--40%
-- Task/delivery orders under IDVs: Estimated ~60--70%
+- Standalone (definitive) contracts: Estimated ~30–40%
+- Task/delivery orders under IDVs: Estimated ~60–70%
 
 ### G.4 Comparison of Included and Excluded Observations
 
-To assess potential selection effects from the filtering process, descriptive statistics for key variables are compared between the final analytic sample and the excluded observations (from Steps 3--6). Systematic differences between included and excluded observations are noted and discussed in the limitations section (Chapter 5) as potential threats to external validity.
+To assess potential selection effects from the filtering process, descriptive statistics for key variables are compared between the final analytic sample and the excluded observations (from Steps 3–6). Systematic differences between included and excluded observations are noted and discussed in the limitations section (Chapter 5) as potential threats to external validity.
 
 | Variable | Included Sample (Mean/Proportion) | Excluded Sample (Mean/Proportion) | Difference |
 |:---|:---:|:---:|:---:|
-| Award Amount ($) | -- | -- | -- |
-| Number of Offers | -- | -- | -- |
-| DoD (proportion) | -- | -- | -- |
-| FFP (proportion) | -- | -- | -- |
-| FY Distribution | -- | -- | -- |
+| Award Amount ($) | — | — | — |
+| Number of Offers | — | — | — |
+| DoD (proportion) | — | — | — |
+| FFP (proportion) | — | — | — |
+| FY Distribution | — | — | — |

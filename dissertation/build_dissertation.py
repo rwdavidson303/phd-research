@@ -2,9 +2,9 @@
 """
 Dissertation Document Builder
 Assembles all Markdown chapters into a formatted Word document
-conforming to University of Denver formatting requirements.
+conforming to Indiana University formatting requirements.
 
-DU Requirements:
+IU Requirements:
 - 12pt Times New Roman throughout
 - 1.5" left margin, 1" top/right/bottom (2" top on chapter openers)
 - Double-spaced text; single-spaced block quotes
@@ -32,7 +32,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def create_document():
-    """Create a new Word document with DU formatting."""
+    """Create a new Word document with IU formatting."""
     doc = Document()
 
     # Set default font

@@ -185,7 +185,7 @@ The fact that Law 14,133/2021 explicitly added quality-price combination evaluat
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
 
 
 ---
@@ -416,4 +416,4 @@ The cost structure revealed in this document demonstrates how procurement system
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*

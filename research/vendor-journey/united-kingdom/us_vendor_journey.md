@@ -220,4 +220,4 @@ The relative ease of US vendor entry into the UK (compared to markets like South
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*

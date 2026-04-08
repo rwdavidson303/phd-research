@@ -2,9 +2,9 @@
 
 FROM LOWEST PRICE TO HIGHEST PUBLIC VALUE: AN EMPIRICAL TEST OF BEST-VALUE SOURCE SELECTION IN GOVERNMENT RFPs
 
-A Dissertation Presented to the Faculty of the Daniels College of Business, University of Denver
+A Dissertation Presented to the Faculty of the Kelley School of Business, Indiana University
 
-In Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy
+In Partial Fulfillment of the Requirements for the Degree of Doctor of Business Administration
 
 Richard W. Davidson
 
@@ -30,11 +30,11 @@ Keywords: public procurement, source selection, best value, LPTA, public value, 
 
 # Acknowledgments
 
-I wish to express my sincere gratitude to the faculty and staff of the Daniels College of Business at the University of Denver, whose commitment to rigorous scholarship and practitioner-relevant research shaped this work at every stage. I am especially grateful to [Committee Chair Name TBD], my dissertation committee chair, and to the members of my committee for their sustained guidance, intellectual challenge, and generous investment of time throughout this process.
+I wish to express my sincere gratitude to the faculty and staff of the Kelley School of Business at Indiana University, whose commitment to rigorous scholarship and practitioner-relevant research shaped this work at every stage. I am especially grateful to [Committee Chair Name TBD], my dissertation committee chair, and to the members of my committee for their sustained guidance, intellectual challenge, and generous investment of time throughout this process.
 
 I owe a considerable debt to the federal acquisition community -- the contracting officers, program managers, and policy professionals whose daily work inspired this research. Over more than 25 years in government contracting, I have been privileged to observe the complexities of public procurement firsthand, and it is the dedication and professionalism of this community that motivated my inquiry into how procurement design choices affect public value.
 
-I am grateful to the Executive PhD cohort at Daniels College of Business for the camaraderie, candid feedback, and shared resolve that sustained us through the demands of doctoral study alongside professional careers. The intellectual companionship of fellow scholar-practitioners enriched this dissertation in ways that transcend any single citation.
+I am grateful to the DBA cohort at Kelley School of Business for the camaraderie, candid feedback, and shared resolve that sustained us through the demands of doctoral study alongside professional careers. The intellectual companionship of fellow scholar-practitioners enriched this dissertation in ways that transcend any single citation.
 
 Finally, and most importantly, I thank my family for their unwavering patience, encouragement, and sacrifice. The pursuit of a doctoral degree while maintaining professional obligations exacts a toll that extends well beyond the scholar, and I am profoundly grateful for the support that made this achievement possible.
 

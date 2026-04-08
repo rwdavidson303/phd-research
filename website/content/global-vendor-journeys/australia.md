@@ -171,7 +171,7 @@ Australia's CPR framework provides a natural comparison case for the dissertatio
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
 
 
 ---
@@ -395,4 +395,4 @@ Australia's procurement framework offers the dissertation a compelling internati
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, University of Denver, Daniels College of Business.*
+*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*

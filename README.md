@@ -3,7 +3,7 @@
 An Empirical Test of Best-Value Source Selection in Government RFPs
 
 **Richard Davidson**
-University of Denver, Daniels College of Business, PhD Program
+Indiana University, Kelley School of Business, DBA Program
 
 ## Project Structure
 

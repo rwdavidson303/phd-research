@@ -3,9 +3,9 @@ title: "From Lowest Price to Highest Public Value"
 description: "The largest empirical study of source selection method effects in federal procurement"
 ---
 
-## Richard Davidson | PhD Research
+## Richard Davidson | DBA Research
 
-**University of Denver, Daniels College of Business** | Entering Fall 2026
+**Indiana University, Kelley School of Business** | Entering Fall 2026
 
 > The largest empirical study of procurement source selection ever conducted: 654,307 federal contract awards, seven fiscal years, five empirical papers, and a finding that challenges the conventional wisdom.
 
