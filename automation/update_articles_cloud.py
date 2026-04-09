@@ -152,16 +152,26 @@ def save_articles(data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+def sanitize_markdown(text):
+    """Sanitize text for safe use in markdown tables."""
+    text = text.replace("|", "–")
+    text = text.replace("[", "(").replace("]", ")")
+    text = text.replace("\n", " ").replace("\r", "")
+    return text
+
+
 def article_link(title, doi, url):
     """Return a markdown link for an article title."""
-    display = title or "Untitled"
+    display = sanitize_markdown(title) if title else "Untitled"
     if doi:
         href = doi if doi.startswith("http") else f"https://doi.org/{doi}"
     elif url:
         href = url
     else:
         return display
-    display = display.replace("|", "–")
+    # Only allow https DOI/OpenAlex URLs
+    if not href.startswith(("https://doi.org/", "https://openalex.org/")):
+        return display
     return f"[{display}]({href})"
 
 

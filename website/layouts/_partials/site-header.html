@@ -1,12 +1,12 @@
 <header>
   <div style="background-color: var(--navy, #1B2A4A);">
     {{ partials.Include "site-navigation.html" . }}
-    <div class="tc-l pv3 pv4-l ph3 ph4-ns">
-      <h1 class="f2 f-subheadline-l fw2 mb0 lh-title" style="color: #fff; font-family: Georgia, 'Times New Roman', serif;">
+    <div class="tc-l pv3 ph3 ph4-ns">
+      <h1 class="f3 f2-l fw2 mb0 lh-title" style="color: #fff; font-family: Georgia, 'Times New Roman', serif;">
         {{ .Title | compare.Default .Site.Title }}
       </h1>
       {{ with .Params.description }}
-        <h2 class="fw1 f5 f3-l measure-wide-l center lh-copy mt3 mb4" style="color: #D4B968; font-family: Georgia, 'Times New Roman', serif; font-style: italic;">
+        <h2 class="fw1 f6 f5-l measure-wide-l center lh-copy mt2 mb3" style="color: #D4B968; font-family: Georgia, 'Times New Roman', serif; font-style: italic;">
           {{ . }}
         </h2>
       {{ end }}

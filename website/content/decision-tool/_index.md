@@ -337,10 +337,12 @@ This interactive decision tool helps federal contracting officers determine whet
         '<p class="dt-question">' + q.text + '</p>' +
         '<p class="dt-hint">' + q.hint + '</p>' +
         '<div class="dt-buttons">' +
-          '<button class="dt-btn dt-btn-yes" onclick="window._dtAnswer(\'' + q.yes + '\')">Yes</button>' +
-          '<button class="dt-btn dt-btn-no" onclick="window._dtAnswer(\'' + q.no + '\')">No</button>' +
+          '<button class="dt-btn dt-btn-yes">Yes</button>' +
+          '<button class="dt-btn dt-btn-no">No</button>' +
         '</div>' +
       '</div>';
+    container.querySelector('.dt-btn-yes').addEventListener('click', function() { window._dtAnswer(q.yes); });
+    container.querySelector('.dt-btn-no').addEventListener('click', function() { window._dtAnswer(q.no); });
   }
 
   function renderResult(id) {
@@ -356,8 +358,9 @@ This interactive decision tool helps federal contracting officers determine whet
         '<h3>' + r.title + '</h3>' +
         '<p>' + r.body + '</p>' +
         '<p class="dt-citation">Reference: ' + r.cite + '</p>' +
-        '<button class="dt-start-over" onclick="window._dtStart()">Start Over</button>' +
+        '<button class="dt-start-over">Start Over</button>' +
       '</div>';
+    container.querySelector('.dt-start-over').addEventListener('click', function() { window._dtStart(); });
   }
 
   window._dtAnswer = function(next) {
