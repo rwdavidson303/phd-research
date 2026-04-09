@@ -14,6 +14,7 @@ Usage:
 import argparse
 import hashlib
 import json
+import re
 import time
 from datetime import datetime
 from pathlib import Path
@@ -24,6 +25,7 @@ import requests
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ARTICLES_JSON = REPO_ROOT / "research" / "articles" / "articles.json"
 ARTICLES_PAGE = REPO_ROOT / "website" / "content" / "articles" / "_index.md"
+DIGEST_DIR = REPO_ROOT / "research" / "articles" / "digests"
 
 # OpenAlex API (free, open, no auth required)
 OPENALEX_API = "https://api.openalex.org"
@@ -212,6 +214,90 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
     ARTICLES_PAGE.write_text(page)
 
 
+def deduplicate_articles(existing):
+    """Remove duplicate articles by checking DOI and normalized titles.
+
+    Returns the deduplicated dict and count of removed duplicates.
+    """
+    # Build DOI index to find duplicates with same DOI but different title/author hash
+    doi_index = {}
+    duplicates_to_remove = set()
+
+    for aid, article in existing.items():
+        doi = (article.get("doi") or "").strip().rstrip("/")
+        if not doi:
+            continue
+        # Normalize DOI
+        doi_lower = doi.lower()
+        if doi_lower in doi_index:
+            # Keep the one with higher citations, or the earlier one
+            other_aid = doi_index[doi_lower]
+            other = existing[other_aid]
+            if (article.get("citation_count") or 0) > (other.get("citation_count") or 0):
+                duplicates_to_remove.add(other_aid)
+                doi_index[doi_lower] = aid
+            else:
+                duplicates_to_remove.add(aid)
+        else:
+            doi_index[doi_lower] = aid
+
+    # Also check for near-duplicate titles (same title, different author formatting)
+    title_index = {}
+    for aid, article in existing.items():
+        if aid in duplicates_to_remove:
+            continue
+        title_norm = re.sub(r'[^a-z0-9]', '', (article.get("title") or "").lower())
+        if not title_norm:
+            continue
+        if title_norm in title_index:
+            other_aid = title_index[title_norm]
+            other = existing[other_aid]
+            if (article.get("citation_count") or 0) > (other.get("citation_count") or 0):
+                duplicates_to_remove.add(other_aid)
+                title_index[title_norm] = aid
+            else:
+                duplicates_to_remove.add(aid)
+        else:
+            title_index[title_norm] = aid
+
+    for aid in duplicates_to_remove:
+        del existing[aid]
+
+    return existing, len(duplicates_to_remove)
+
+
+def generate_digest(new_articles):
+    """Generate a daily digest markdown file for newly found articles."""
+    DIGEST_DIR.mkdir(parents=True, exist_ok=True)
+    digest_date = datetime.now().strftime("%Y-%m-%d")
+    digest_path = DIGEST_DIR / f"digest_{digest_date}.md"
+
+    # Sort new articles by citation count
+    sorted_new = sorted(new_articles, key=lambda a: a.get("citation_count") or 0, reverse=True)
+
+    with open(digest_path, "w") as f:
+        f.write(f"# Daily Article Digest - {digest_date}\n\n")
+        f.write(f"**New articles found today: {len(sorted_new)}**\n\n")
+
+        if not sorted_new:
+            f.write("No new articles discovered today.\n")
+        else:
+            f.write("## Top New Articles (by citation count)\n\n")
+            for i, a in enumerate(sorted_new[:20], 1):
+                f.write(f"### {i}. {a.get('title', 'Untitled')}\n")
+                f.write(f"- **Authors:** {a.get('authors', 'Unknown')}\n")
+                f.write(f"- **Year:** {a.get('year', 'N/A')}\n")
+                f.write(f"- **Journal:** {a.get('journal', 'N/A')}\n")
+                f.write(f"- **Citations:** {a.get('citation_count', 0)}\n")
+                abstract = a.get("abstract", "")
+                if abstract:
+                    f.write(f"- **Abstract:** {abstract[:300]}...\n")
+                f.write("\n")
+
+    print(f"Digest saved: {digest_path}")
+    return digest_path
+
+
 def run_search(dry_run=False):
     """Search OpenAlex, update JSON, regenerate Hugo page."""
     print(f"Article Search - {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
@@ -219,9 +305,27 @@ def run_search(dry_run=False):
 
     data = load_articles()
     existing = {a["id"]: a for a in data.get("articles", [])}
+
+    # Deduplicate existing articles first
+    existing, dedup_count = deduplicate_articles(existing)
+    if dedup_count:
+        print(f"Removed {dedup_count} duplicate articles from database")
+
     initial_count = len(existing)
     new_count = 0
     updated_count = 0
+    new_articles = []
+
+    # Build DOI index for fast lookup during search
+    doi_set = set()
+    title_set = set()
+    for a in existing.values():
+        doi = (a.get("doi") or "").strip().rstrip("/").lower()
+        if doi:
+            doi_set.add(doi)
+        title_norm = re.sub(r'[^a-z0-9]', '', (a.get("title") or "").lower())
+        if title_norm:
+            title_set.add(title_norm)
 
     for i, query in enumerate(SEARCH_QUERIES):
         print(f"[{i + 1}/{len(SEARCH_QUERIES)}] {query}")
@@ -233,20 +337,38 @@ def run_search(dry_run=False):
         for article in results:
             aid = generate_article_id(article["title"], article.get("authors", ""))
 
+            # Check by ID (title+author hash)
             if aid in existing:
-                # Update citation count if higher
                 old_cites = existing[aid].get("citation_count") or 0
                 new_cites = article.get("citation_count") or 0
                 if new_cites > old_cites:
                     existing[aid]["citation_count"] = new_cites
                     updated_count += 1
-            else:
-                article["id"] = aid
-                article["date_found"] = datetime.now().isoformat()
-                article["search_query"] = query
-                existing[aid] = article
-                new_count += 1
-                query_new += 1
+                continue
+
+            # Check by DOI
+            doi = (article.get("doi") or "").strip().rstrip("/").lower()
+            if doi and doi in doi_set:
+                continue
+
+            # Check by normalized title
+            title_norm = re.sub(r'[^a-z0-9]', '', (article.get("title") or "").lower())
+            if title_norm and title_norm in title_set:
+                continue
+
+            article["id"] = aid
+            article["date_found"] = datetime.now().isoformat()
+            article["search_query"] = query
+            existing[aid] = article
+            new_articles.append(article)
+            new_count += 1
+            query_new += 1
+
+            # Track new entries for future iterations
+            if doi:
+                doi_set.add(doi)
+            if title_norm:
+                title_set.add(title_norm)
 
         print(f", {query_new} new")
 
@@ -274,6 +396,9 @@ def run_search(dry_run=False):
     # Regenerate Hugo page
     generate_articles_page(data["articles"])
     print(f"Updated: {ARTICLES_PAGE}")
+
+    # Generate daily digest
+    generate_digest(new_articles)
 
 
 def main():
