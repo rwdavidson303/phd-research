@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-25T10:35:22.603029",
+    "last_updated": "2026-04-26T10:37:21.685486",
     "total_articles": 433,
-    "last_search_date": "2026-04-25"
+    "last_search_date": "2026-04-26"
   },
   "articles": [
     {
@@ -560,7 +560,7 @@
       "abstract": "Bill & Melinda Gates Foundation.",
       "doi": "https://doi.org/10.1016/s0140-6736(24)00757-8",
       "url": "https://openalex.org/W4394894573",
-      "citation_count": 4112,
+      "citation_count": 4115,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850221"
@@ -1582,7 +1582,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1424,
+      "citation_count": 1426,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -2156,7 +2156,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
       "url": "https://openalex.org/W2899736836",
-      "citation_count": 8593,
+      "citation_count": 8594,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850421"
@@ -2730,7 +2730,7 @@
       "abstract": "Guidelines for use of wild mammal species in research are updated from Sikes et al. (2011) . These guidelines cover current professional techniques and regulations involving the use of mammals in research and teaching; they also incorporate new resources, procedural summaries, and reporting requirements. Included are details on capturing, marking, housing, and humanely killing wild mammals. It is recommended that Institutional Animal Care and Use Committees (IACUCs), regulatory agencies, and investigators use these guidelines as a resource for protocols involving wild mammals, whether studied in the field or in captivity. These guidelines were prepared and approved by the American Society of Mammalogists (ASM), in consultation with professional veterinarians experienced in wildlife research and IACUCs, whose collective expertise provides a broad and comprehensive understanding of the biology of nondomesticated mammals. The current version of these guidelines and any subsequent modifications are available online on the Animal Care and Use Committee page of the ASM website ( http://mammalogy.org/uploads/committee_files/CurrentGuidelines.pdf ). Additional resources pertaining to the use of wild animals in research are available at: http://www.mammalsociety.org/committees/animal-care-and-use#tab3 .",
       "doi": "https://doi.org/10.1093/jmammal/gyw078",
       "url": "https://openalex.org/W2398139753",
-      "citation_count": 3129,
+      "citation_count": 3130,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021270"
@@ -2926,7 +2926,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 5090,
+      "citation_count": 5092,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -3738,7 +3738,7 @@
       "abstract": "Abstract Guidelines for use of wild mammal species are updated from the American Society of Mammalogists (ASM) 2007 publication. These revised guidelines cover current professional techniques and regulations involving mammals used in research and teaching. They incorporate additional resources, summaries of procedures, and reporting requirements not contained in earlier publications. Included are details on marking, housing, trapping, and collecting mammals. It is recommended that institutional animal care and use committees (IACUCs), regulatory agencies, and investigators use these guidelines as a resource for protocols involving wild mammals. These guidelines were prepared and approved by the ASM, working with experienced professional veterinarians and IACUCs, whose collective expertise provides a broad and comprehensive understanding of the biology of nondomesticated mammals in their natural environments. The most current version of these guidelines and any subsequent modifications are available at the ASM Animal Care and Use Committee page of the ASM Web site (http://mammalsociety.org/committees/index.asp).",
       "doi": "https://doi.org/10.1644/10-mamm-f-355.1",
       "url": "https://openalex.org/W4253512500",
-      "citation_count": 2375,
+      "citation_count": 2376,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021289"
@@ -4620,7 +4620,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3683,
+      "citation_count": 3684,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -5362,7 +5362,7 @@
       "abstract": "One of the most persistent cleavages in the social sciences is the opposition between two lines of thought conveniently associated with Adam Smith and Emile Durkheim, between homo economicus and homo sociologicus. Of these, the former is supposed to be guided by instrumental rationality, while the behavior of the latter is dictated by social norms. In this paper I characterize this contrast more fully, and discuss attempts by economists to reduce normoriented action to some type of optimizing behavior. Social norms, as I understand them here, are emotional and behavioral propensities of individuals. Are norms rationalizations of self-interest? Are norms followed out of self-interest? Do norms exist to promote self-interest? Do norms exist to promote common interests? Do norms exist to promote genetic fitness?",
       "doi": "https://doi.org/10.1257/jep.3.4.99",
       "url": "https://openalex.org/W2081314276",
-      "citation_count": 2029,
+      "citation_count": 2030,
       "search_query": "strategic underbidding government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:42.437285"
@@ -5837,7 +5837,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.ecolecon.2008.03.011",
       "url": "https://openalex.org/W2153509701",
-      "citation_count": 2397,
+      "citation_count": 2398,
       "source": "openalex",
       "id": "b3793a2d0f17dcf7d2a4790051da0796",
       "date_found": "2026-03-13T10:26:53.741081",
