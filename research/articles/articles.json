@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-02T10:41:54.297448",
+    "last_updated": "2026-05-03T10:44:40.724760",
     "total_articles": 436,
-    "last_search_date": "2026-05-02"
+    "last_search_date": "2026-05-03"
   },
   "articles": [
     {
@@ -1582,7 +1582,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1435,
+      "citation_count": 1438,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -1596,7 +1596,7 @@
       "abstract": "In early 2020, the unprecedented nature of COVID-19 prompted India, among many other countries, to put in place stark measures to stem the virus’ spread and the cost of human lives. We analyze data from phone-based surveys on disruptions to agricultural production and food security, administered with 1515 smallholder producers in the states of Haryana and Odisha. We find substantial heterogeneity in how the lockdown affected farmers in these two states, which is likely related to existing structural differences in market infrastructure and to differences in state-specific COVID-related policies. In Odisha, where mechanization is limited, farmers spent more on labor to harvest their crops, and distress selling was more prevalent due to the absence of a well-functioning procurement system for their crops. In Haryana, preexisting market infrastructure allowed the state to sustain procurement at stable prices, limiting impacts on smallholder production. As consumers, farmers in Haryana faced more disruptions than those in Odisha, due to reduced availability of foods in the markets, whereas farmers in Odisha benefited from more diverse cropping patterns and increased local supply of foods following transport restrictions.\\n\\n",
       "doi": "https://doi.org/10.1016/j.worlddev.2020.105069",
       "url": "https://openalex.org/W3081303872",
-      "citation_count": 263,
+      "citation_count": 264,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973287"
@@ -2156,7 +2156,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(18)32203-7",
       "url": "https://openalex.org/W2899736836",
-      "citation_count": 8600,
+      "citation_count": 8601,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850421"
@@ -2170,7 +2170,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 2957,
+      "citation_count": 2959,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -2926,7 +2926,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 5098,
+      "citation_count": 5100,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -3934,7 +3934,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4828,
+      "citation_count": 4831,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4620,7 +4620,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3686,
+      "citation_count": 3691,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -5823,7 +5823,7 @@
       "abstract": "This section summarises the diagnostic and therapeutic steps discussed in the previous sections. The goal is to outline the most important steps in the management of patients with NSTE-ACS. In each individual patient, decision making should take into account the patient's history (e.g. age, comorbidities), clinical presentation (e.g. ongoing myocardial ischaemia, haemodynamic or electrical instability), findings obtained during the initial assessment (i.e. ECG, cardiac troponin), timing and expected risk-benefit ratio of available therapies (i.e. pharmacological, invasive assessment, revascularization).",
       "doi": "https://doi.org/10.1093/eurheartj/ehv320",
       "url": "https://openalex.org/W2105397247",
-      "citation_count": 8304,
+      "citation_count": 8305,
       "source": "openalex",
       "id": "07fbacd6ddfd77631d4d4603e4e9a370",
       "date_found": "2026-03-11T10:30:17.182411",
