@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-03T10:44:40.724760",
+    "last_updated": "2026-05-04T11:42:41.704858",
     "total_articles": 436,
-    "last_search_date": "2026-05-03"
+    "last_search_date": "2026-05-04"
   },
   "articles": [
     {
@@ -1848,7 +1848,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0140-6736(19)30041-8",
       "url": "https://openalex.org/W2928467655",
-      "citation_count": 5640,
+      "citation_count": 5641,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021150"
@@ -3934,7 +3934,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4831,
+      "citation_count": 4832,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4102,7 +4102,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/palgrave.jibs.8400377",
       "url": "https://openalex.org/W2088078282",
-      "citation_count": 3128,
+      "citation_count": 3129,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850393"
