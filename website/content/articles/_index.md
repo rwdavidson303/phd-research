@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**436 total articles** in the database | Last updated: May 05, 2026
+**436 total articles** in the database | Last updated: May 06, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -98,9 +98,9 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 78 | [Addressing Post-Award Court Proceedings In Taiwan: A Case To Exclude J...](https://doi.org/10.54648/aiaj2024002) | Huai-Ching Yang | 2023 | Asian International Arbitratio... | 0 |
 | 79 | [Analysing the efficiency of public procurement procedures using game-t...](https://doi.org/10.17308/econ.2023.4/11688) | A. M. Zhemkova; L. Nikitina; T. N. Gogol... | 2023 | Proceedings of Voronezh State ... | 0 |
 | 80 | Easing Renegotiation Rules in Public Procurement: Evidence from a Poli... | K. D. Jaegher; M. Šoltés; Vítězslav Titl | 2023 |  | 0 |
-| 81 | [Corporate commitment to climate change: The effect of eco-innovation a...](https://doi.org/10.1016/j.respol.2022.104697) | Khaldoon Albitar; Habiba Al‐Shaer; Yang ... | 2022 | Research Policy | 219 |
+| 81 | [Corporate commitment to climate change: The effect of eco-innovation a...](https://doi.org/10.1016/j.respol.2022.104697) | Khaldoon Albitar; Habiba Al‐Shaer; Yang ... | 2022 | Research Policy | 220 |
 | 82 | [Does green public procurement trigger environmental innovations?](https://doi.org/10.1016/j.respol.2022.104516) | Bastian Krieger; Vera Zipperer | 2022 | Research Policy | 175 |
-| 83 | [Capturing the value creation in public procurement: A practice-based v...](https://doi.org/10.1016/j.pursup.2021.100745) | Iryna Malacina; Elina Karttunen; Aki Jää... | 2022 | Journal of Purchasing and Supp... | 84 |
+| 83 | [Capturing the value creation in public procurement: A practice-based v...](https://doi.org/10.1016/j.pursup.2021.100745) | Iryna Malacina; Elina Karttunen; Aki Jää... | 2022 | Journal of Purchasing and Supp... | 85 |
 | 84 | [Mainstreaming sustainable innovation: unlocking the potential of natur...](https://doi.org/10.1016/j.envsci.2022.02.017) | Linjun Xie; Harriet Bulkeley; Laura Toze... | 2022 | Environmental Science & Policy | 66 |
 | 85 | [Academic research on renewable electricity auctions: Taking stock and ...](https://doi.org/10.1016/j.enpol.2022.113305) | Pablo del Rı́o; Christoph P. Kiefer | 2022 | Energy Policy | 34 |
 | 86 | [The Effect of E-Procurement Policy on Corruption in Government Procure...](https://doi.org/10.1080/01900692.2022.2093900) | Anastasia Citra Puspita; Yohanna M. L. G... | 2022 | International Journal of Publi... | 24 |
@@ -116,12 +116,12 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 96 | [A Study on Developing Evaluation Indicators in the Best Value Approach...](https://doi.org/10.12677/orf.2022.123111) | 仰平 陈 | 2022 | Operations Research and Fuzzio... | 0 |
 | 97 | [A Governance Approach for Managing Public–Private Partnership Renegoti...](https://doi.org/10.22617/brf220507) | David R. Bloomgarden | 2022 | Governance Briefs | 0 |
 | 98 | [High-dimensional characterization of post-acute sequelae of COVID-19](https://doi.org/10.1038/s41586-021-03553-9) | Ziyad Al‐Aly; Yan Xie; Benjamin Bowe | 2021 | Nature | 1,593 |
-| 99 | [Mandatory CSR and sustainability reporting: economic analysis and lite...](https://doi.org/10.1007/s11142-021-09609-5) | Hans Bonde Christensen; Luzi Hail; Chris... | 2021 | Review of Accounting Studies | 1,490 |
+| 99 | [Mandatory CSR and sustainability reporting: economic analysis and lite...](https://doi.org/10.1007/s11142-021-09609-5) | Hans Bonde Christensen; Luzi Hail; Chris... | 2021 | Review of Accounting Studies | 1,497 |
 | 100 | [Disruptions and resilience in global container shipping and ports: the...](https://doi.org/10.1057/s41278-020-00180-5) | Theo Notteboom; Athanasios A. Pallis; Je... | 2021 | Maritime Economics & Logistics | 438 |
 | 101 | [The COVID-19 Innovation System](https://doi.org/10.1377/hlthaff.2020.02097) | Bhaven N. Sampat; Kenneth C. Shadlen | 2021 | Health Affairs | 110 |
 | 102 | [Trustworthy AI and Corporate Governance: The EU’s Ethics Guidelines fo...](https://doi.org/10.1007/s40804-021-00224-0) | Eleanore Hickman; Martin Petrin | 2021 | European Business Organization... | 90 |
 | 103 | [State policies and upgrading in global value chains: A systematic lite...](https://doi.org/10.1057/s42214-021-00107-8) | Valentina De Marchi; Matthew Alford | 2021 | Journal of International Busin... | 86 |
-| 104 | [Association of Timing of Epinephrine Administration With Outcomes in A...](https://doi.org/10.1001/jamanetworkopen.2021.20176) | Masashi Okubo; Sho Komukai; Clifton W. C... | 2021 | JAMA Network Open | 81 |
+| 104 | [Association of Timing of Epinephrine Administration With Outcomes in A...](https://doi.org/10.1001/jamanetworkopen.2021.20176) | Masashi Okubo; Sho Komukai; Clifton W. C... | 2021 | JAMA Network Open | 82 |
 | 105 | [Assessing sustainability opportunities for circular business models](https://doi.org/10.1002/bse.2964) | Elizaveta Averina; Johan Frishammar; Vin... | 2021 | Business Strategy and the Envi... | 62 |
 | 106 | [An extended behavior model for explaining the willingness to pay to re...](https://doi.org/10.1016/j.jclepro.2021.128134) | Mercedes Sánchez; Ferdaous Zouaghi; Fern... | 2021 | Journal of Cleaner Production | 61 |
 | 107 | [Off-Patent Biologicals and Biosimilars Tendering in Europe—A Proposal ...](https://doi.org/10.3390/ph14060499) | Liese Barbier; Steven Simoens; Caroline ... | 2021 | Pharmaceuticals | 32 |
@@ -138,7 +138,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 118 | Government Contracts and Distance Learning: How the United States Can ... | Anthony Lenze; Colette Langos | 2021 |  | 0 |
 | 119 | [Spatio-Temporal Effects on Decision Making in Green Fleet Supplier Sel...](https://doi.org/10.2139/ssrn.3997572) | M. Scott | 2021 | Social Science Research Networ... | 0 |
 | 120 | [A SARS-CoV-2 protein interaction map reveals targets for drug repurpos...](https://doi.org/10.1038/s41586-020-2286-9) | David E. Gordon; Gwendolyn Μ. Jang; Mehd... | 2020 | Nature | 4,835 |
-| 121 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,438 |
+| 121 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,447 |
 | 122 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 264 |
 | 123 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 185 |
 | 124 | [US–China Relations: Nationalism, the Trade War, and COVID-19](https://doi.org/10.1007/s40647-020-00302-6) | Brandon M. Boylan; Jerry McBeath; Wang B... | 2020 | Fudan Journal of the Humanitie... | 147 |
@@ -148,7 +148,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 128 | [Public Procurement in the South African Economy: Addressing the System...](https://doi.org/10.3390/su12208692) | D.J. Fourie; Cornel Malan | 2020 | Sustainability | 68 |
 | 129 | [Dynamic capabilities for SME participation in public procurement](https://doi.org/10.1108/bpmj-10-2019-0447) | Temidayo O. Akenroye; JD Owens; Jamal El... | 2020 | Business Process Management Jo... | 67 |
 | 130 | [Supporting robust, rigorous, and reliable reviewing as the cornerstone...](https://doi.org/10.1017/iop.2019.121) | Tine Köhler; M. Gloria González‐Morales;... | 2020 | Industrial and Organizational ... | 58 |
-| 131 | [Public procurement as a vehicle of innovation – What does the inverted...](https://doi.org/10.1016/j.techfore.2020.119922) | Timo Tammi; Jani Saastamoinen; Helen Rei... | 2020 | Technological Forecasting and ... | 55 |
+| 131 | [Public procurement as a vehicle of innovation – What does the inverted...](https://doi.org/10.1016/j.techfore.2020.119922) | Timo Tammi; Jani Saastamoinen; Helen Rei... | 2020 | Technological Forecasting and ... | 56 |
 | 132 | [Risk Allocation in Unsolicited and Solicited Road Public-Private Partn...](https://doi.org/10.3390/su12114478) | Gabriel Castelblanco; José Guevara; Harr... | 2020 | Sustainability | 43 |
 | 133 | [Environmental performance of waste management: Impacts of corruption a...](https://doi.org/10.1016/j.jclepro.2020.125521) | Giulia Romanò; Lucio Masserini; Ginevra ... | 2020 | Journal of Cleaner Production | 41 |
 | 134 | [Renegotiating public-private partnerships](https://doi.org/10.1016/j.mulfin.2020.100661) | Joaquim Miranda Sarmento; Luc Renneboog | 2020 | Journal of Multinational Finan... | 37 |
@@ -158,8 +158,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 138 | [Procurement Mechanisms with Post-Auction Pre-Award Cost-reduction Inve...](https://doi.org/10.1287/opre.2022.2349) | Qi (George) Chen; D. Beil; Izak Duenyas | 2020 | Operational Research | 6 |
 | 139 | [Best Value Approach in Public Procurement: Improving ‘Best’ through En...](https://doi.org/10.37265/japiv.v10i1.23) | F. Steller | 2020 |  | 2 |
 | 140 | [THE ROLE OF CONTRACT MONITORING ON PERFORMANCE OF CONSTRUCTION CONTRAC...](https://doi.org/10.61426/sjbcm.v7i4.1861) | H. Onyango; D. Juma | 2020 | Strategic Journal of Business ... | 0 |
-| 141 | [Health effects of dietary risks in 195 countries, 1990–2017: a systema...](https://doi.org/10.1016/s0140-6736(19)30041-8) | Ashkan Afshin; Patrick John Sur; Kairste... | 2019 | The Lancet | 5,641 |
-| 142 | [Firm-Level Political Risk: Measurement and Effects*](https://doi.org/10.1093/qje/qjz021) | Tarek A. Hassan; Stephan Hollander; Laur... | 2019 | The Quarterly Journal of Econo... | 1,333 |
+| 141 | [Health effects of dietary risks in 195 countries, 1990–2017: a systema...](https://doi.org/10.1016/s0140-6736(19)30041-8) | Ashkan Afshin; Patrick John Sur; Kairste... | 2019 | The Lancet | 5,643 |
+| 142 | [Firm-Level Political Risk: Measurement and Effects*](https://doi.org/10.1093/qje/qjz021) | Tarek A. Hassan; Stephan Hollander; Laur... | 2019 | The Quarterly Journal of Econo... | 1,334 |
 | 143 | [Environmental Justice: The Economics of Race, Place, and Pollution](https://doi.org/10.1257/jep.33.1.185) | Spencer Banzhaf; Lala Ma; Christopher Ti... | 2019 | The Journal of Economic Perspe... | 590 |
 | 144 | [Beyond participation: when citizen engagement leads to undesirable out...](https://doi.org/10.1007/s10584-019-02557-9) | Christine Wamsler; Johanna Alkan-Olsson;... | 2019 | Climatic Change | 212 |
 | 145 | [Conceptualizing Company Response to Community Protest: Principles to A...](https://doi.org/10.3390/land8060101) | Frank Vanclay; Philippe Hanna | 2019 | Land | 176 |
@@ -181,16 +181,16 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 161 | Defense Industry Should Be Up in Arms Over Proposed NDAA Bid Protest “... | Jon Burd | 2019 |  | 0 |
 | 162 | Moldova - EUROPE AND CENTRAL ASIA- P148537- Modernization of Governmen... | D. Zaharia | 2019 |  | 0 |
 | 163 | MODERNIZING GOVERNMENT PROCUREMENT IN INDONESIA There was progress in ... |  | 2019 |  | 0 |
-| 164 | [Global, regional, and national age-sex-specific mortality for 282 caus...](https://doi.org/10.1016/s0140-6736(18)32203-7) | Gregory A. Roth; Degu Abate; Kalkidan Ha... | 2018 | The Lancet | 8,601 |
-| 165 | [Towards a theory of ecosystems](https://doi.org/10.1002/smj.2904) | Michael G. Jacobides; Carmelo Cennamo; A... | 2018 | Strategic Management Journal | 2,959 |
+| 164 | [Global, regional, and national age-sex-specific mortality for 282 caus...](https://doi.org/10.1016/s0140-6736(18)32203-7) | Gregory A. Roth; Degu Abate; Kalkidan Ha... | 2018 | The Lancet | 8,606 |
+| 165 | [Towards a theory of ecosystems](https://doi.org/10.1002/smj.2904) | Michael G. Jacobides; Carmelo Cennamo; A... | 2018 | Strategic Management Journal | 2,967 |
 | 166 | [Accelerate progress—sexual and reproductive health and rights for all:...](https://doi.org/10.1016/s0140-6736(18)30293-9) | Ann M Starrs; Alex C Ezeh; Gary Barker; ... | 2018 | The Lancet | 1,416 |
-| 167 | [Deep Fakes: A Looming Challenge for Privacy, Democracy, and National S...](https://doi.org/10.2139/ssrn.3213954) | Robert Chesney; Danielle Keats Citron | 2018 | SSRN Electronic Journal | 757 |
+| 167 | [Deep Fakes: A Looming Challenge for Privacy, Democracy, and National S...](https://doi.org/10.2139/ssrn.3213954) | Robert Chesney; Danielle Keats Citron | 2018 | SSRN Electronic Journal | 758 |
 | 168 | [Ethical governance is essential to building trust in robotics and arti...](https://doi.org/10.1098/rsta.2018.0085) | Alan Winfield; Marina Jirotka | 2018 | Philosophical Transactions of ... | 425 |
-| 169 | [Cybersecurity in Hospitals: A Systematic, Organizational Perspective](https://doi.org/10.2196/10059) | Mohammad S. Jalali; Jessica Kaiser | 2018 | Journal of Medical Internet Re... | 245 |
-| 170 | [Does Green Public Procurement lead to Life Cycle Costing (LCC) adoptio...](https://doi.org/10.1016/j.pursup.2018.05.001) | Maria Rosa De Giacomo; Francesco Testa; ... | 2018 | Journal of Purchasing and Supp... | 91 |
-| 171 | [Factors that influence the success of small and medium-sized suppliers...](https://doi.org/10.1108/scm-09-2016-0334) | Andreas H. Glas; Michael Eßig | 2018 | Supply Chain Management An Int... | 73 |
+| 169 | [Cybersecurity in Hospitals: A Systematic, Organizational Perspective](https://doi.org/10.2196/10059) | Mohammad S. Jalali; Jessica Kaiser | 2018 | Journal of Medical Internet Re... | 246 |
+| 170 | [Does Green Public Procurement lead to Life Cycle Costing (LCC) adoptio...](https://doi.org/10.1016/j.pursup.2018.05.001) | Maria Rosa De Giacomo; Francesco Testa; ... | 2018 | Journal of Purchasing and Supp... | 92 |
+| 171 | [Factors that influence the success of small and medium-sized suppliers...](https://doi.org/10.1108/scm-09-2016-0334) | Andreas H. Glas; Michael Eßig | 2018 | Supply Chain Management An Int... | 74 |
 | 172 | [Defense Cooperation Agreements and the Emergence of a Global Security ...](https://doi.org/10.1017/s0020818318000218) | Brandon J Kinne | 2018 | International Organization | 71 |
-| 173 | [Public contracting for private innovation: Government capabilities, de...](https://doi.org/10.1002/smj.2973) | Joshua R. Bruce; John M. de Figueiredo; ... | 2018 | Strategic Management Journal | 59 |
+| 173 | [Public contracting for private innovation: Government capabilities, de...](https://doi.org/10.1002/smj.2973) | Joshua R. Bruce; John M. de Figueiredo; ... | 2018 | Strategic Management Journal | 60 |
 | 174 | [Best-Value Procurement in Design-Bid-Build Construction Projects: Empi...](https://doi.org/10.1061/(ASCE)CO.1943-7862.0001550) | Phuong H. D. Nguyen; Brian C. Lines; Dai... | 2018 | Journal of construction engine... | 17 |
 | 175 | [Procurement of low carbon municipal solid waste infrastructure in Indi...](https://doi.org/10.1108/BEPAM-10-2017-0087) | Tharun Dolla; B. Laishram | 2018 | Built Environment Project and ... | 16 |
 | 176 | [The U.S. Federal Evaluation Market](https://doi.org/10.1002/ev.20343) | Sebastian Lemire; Leslie A. Fierro; Alan... | 2018 | New Directions for Evaluation | 12 |
@@ -205,9 +205,9 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 185 | Section 809 and 'E-Portal' Proposals, by Cutting Bid Protests in Feder... | C. Yukins; Daniel Ramish | 2018 |  | 0 |
 | 186 | A Best Value approach to public procurement: Stimulating the transitio... | A. V. Veenen | 2018 |  | 0 |
 | 187 | [AASLD guidelines for the treatment of hepatocellular carcinoma](https://doi.org/10.1002/hep.29086) | Julie K. Heimbach; Laura Kulik; Richard ... | 2017 | Hepatology | 4,080 |
-| 188 | [New frontiers and conceptual frameworks for energy justice](https://doi.org/10.1016/j.enpol.2017.03.005) | Benjamin K. Sovacool; Matthew J. Burke; ... | 2017 | Energy Policy | 737 |
-| 189 | [Google DeepMind and healthcare in an age of algorithms](https://doi.org/10.1007/s12553-017-0179-1) | Julia Powles; Hal Hodson | 2017 | Health and Technology | 489 |
-| 190 | [Circular Cities: Mapping Six Cities in Transition](https://doi.org/10.1016/j.eist.2017.03.002) | Sharon Prendeville; E.L.G. Cherim; Nancy... | 2017 | Environmental Innovation and S... | 443 |
+| 188 | [New frontiers and conceptual frameworks for energy justice](https://doi.org/10.1016/j.enpol.2017.03.005) | Benjamin K. Sovacool; Matthew J. Burke; ... | 2017 | Energy Policy | 739 |
+| 189 | [Google DeepMind and healthcare in an age of algorithms](https://doi.org/10.1007/s12553-017-0179-1) | Julia Powles; Hal Hodson | 2017 | Health and Technology | 490 |
+| 190 | [Circular Cities: Mapping Six Cities in Transition](https://doi.org/10.1016/j.eist.2017.03.002) | Sharon Prendeville; E.L.G. Cherim; Nancy... | 2017 | Environmental Innovation and S... | 445 |
 | 191 | [Profiling causative factors leading to construction project delays in ...](https://doi.org/10.1108/ecam-05-2015-0072) | Bekithemba Mpofu; Edward G. Ochieng; Cle... | 2017 | Engineering Construction & Arc... | 137 |
 | 192 | [Devolution and its effects on health workforce and commodities managem...](https://doi.org/10.1186/s12939-017-0663-2) | Benjamin Tsofa; Catherine Goodman; Lucy ... | 2017 | International Journal for Equi... | 105 |
 | 193 | [Renewable energy support mechanisms in the Gulf Cooperation Council st...](https://doi.org/10.1016/j.rser.2017.01.103) | Yasemin Atalay; Agni Kalfagianni; Philip... | 2017 | Renewable and Sustainable Ener... | 65 |
@@ -226,7 +226,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 206 | Lowest Price, Technically Acceptable Evaluation Criteria Used in the N... | Lance Fujita; J. Pearson; T. Noel | 2017 |  | 0 |
 | 207 | Please, Read Carefully Before Submitting | S. N. Amvene | 2017 |  | 0 |
 | 208 | Public Procurement - Contemporary Construction Industry Practices and ... | S. K. B. Mavropoulos | 2017 |  | 0 |
-| 209 | [2016 Guidelines of the American Society of Mammalogists for the use of...](https://doi.org/10.1093/jmammal/gyw078) | Robert S. Sikes | 2016 | Journal of Mammalogy | 3,133 |
+| 209 | [2016 Guidelines of the American Society of Mammalogists for the use of...](https://doi.org/10.1093/jmammal/gyw078) | Robert S. Sikes | 2016 | Journal of Mammalogy | 3,135 |
 | 210 | [Big data analytics in logistics and supply chain management: Certain i...](https://doi.org/10.1016/j.ijpe.2016.03.014) | Gang Wang; Angappa Gunasekaran; Eric W.T... | 2016 | International Journal of Produ... | 1,471 |
 | 211 | [Internet of Things in the 5G Era: Enablers, Architecture, and Business...](https://doi.org/10.1109/jsac.2016.2525418) | Maria Rita Palattella; Mischa Döhler; Al... | 2016 | IEEE Journal on Selected Areas... | 1,470 |
 | 212 | [The Neutron star Interior Composition Explorer (NICER): design and dev...](https://doi.org/10.1117/12.2231304) | Keith C. Gendreau; Zaven Arzoumanian; Ph... | 2016 | Proceedings of SPIE, the Inter... | 523 |
@@ -245,7 +245,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 225 | Contract Source Selection: An Analysis of Lowest Price Technically Acc... | Jamal M Osman; David W. Hill; David F Od... | 2016 |  | 0 |
 | 226 | Lowest Price Technically Acceptable Contracting: A "False Economy" in ... | Kate Hannon | 2016 |  | 0 |
 | 227 | [2015 ESC Guidelines for the management of acute coronary syndromes in ...](https://doi.org/10.1093/eurheartj/ehv320) | Marco Roffi; Carlo Patrono; Jean‐Philipp... | 2015 | European Heart Journal | 8,305 |
-| 228 | [The REporting of studies Conducted using Observational Routinely-colle...](https://doi.org/10.1371/journal.pmed.1001885) | Eric I. Benchimol; Liam Smeeth; Astrid G... | 2015 | PLoS Medicine | 5,100 |
+| 228 | [The REporting of studies Conducted using Observational Routinely-colle...](https://doi.org/10.1371/journal.pmed.1001885) | Eric I. Benchimol; Liam Smeeth; Astrid G... | 2015 | PLoS Medicine | 5,107 |
 | 229 | [The Economic Burden of Adults With Major Depressive Disorder in the Un...](https://doi.org/10.4088/jcp.14m09298) | RN; Andrée-Anne Fournier; Tammy Sisitsky... | 2015 | The Journal of Clinical Psychi... | 1,800 |
 | 230 | [Local Governments Supporting Local Energy Initiatives: Lessons from th...](https://doi.org/10.3390/su7021900) | Thomas Hoppe; Antonia Graf; Beau Warbroe... | 2015 | Sustainability | 215 |
 | 231 | [Infrastructure Public–Private Partnerships in the Developing World: Le...](https://doi.org/10.1080/00220388.2014.959935) | Michael J. Trebilcock; Michael Rosenstoc... | 2015 | The Journal of Development Stu... | 145 |
@@ -262,13 +262,13 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 242 | A Study on the Government Procurement of Public Services under the Hor... | Li Zhi-qian | 2015 |  | 0 |
 | 243 | Adaptive Subcontractor Management A process design for main contractor... | R. F. Brockhus | 2015 |  | 0 |
 | 244 | [Analysis of Source Selection Methods and Performance Outcomes: Lowest ...](https://doi.org/10.21236/ad1009075) | Rebecca W Ban; Brett O Barnes; Matthew B... | 2015 |  | 0 |
-| 245 | [A dynamic capabilities-based entrepreneurial theory of the multination...](https://doi.org/10.1057/jibs.2013.54) | David J. Teece | 2014 | Journal of International Busin... | 1,227 |
+| 245 | [A dynamic capabilities-based entrepreneurial theory of the multination...](https://doi.org/10.1057/jibs.2013.54) | David J. Teece | 2014 | Journal of International Busin... | 1,228 |
 | 246 | [Fiscal Stimulus in a Monetary Union: Evidence from US Regions](https://doi.org/10.1257/aer.104.3.753) | Emi Nakamura; Jón Steinsson | 2014 | American Economic Review | 898 |
 | 247 | [Inconsistent Regulators: Evidence from Banking*](https://doi.org/10.1093/qje/qju003) | Sumit Agarwal; David O. Lucca; Amit Seru... | 2014 | The Quarterly Journal of Econo... | 489 |
 | 248 | [Bidding for Incomplete Contracts: An Empirical Analysis of Adaptation ...](https://doi.org/10.1257/aer.104.4.1288) | Patrick Bajari; Stephanie Houghton; Stev... | 2014 | American Economic Review | 361 |
 | 249 | [When kleptocracy becomes insolvent: Brute causes of the civil war in S...](https://doi.org/10.1093/afraf/adu028) | Alex de Waal | 2014 | African Affairs | 288 |
 | 250 | [Patient-Safety-Related Hospital Deaths in England: Thematic Analysis o...](https://doi.org/10.1371/journal.pmed.1001667) | Liam Donaldson; Sukhmeet S. Panesar; Ara... | 2014 | PLoS Medicine | 173 |
-| 251 | [Driving sustainable supply chain management in the public sector](https://doi.org/10.1108/scm-12-2013-0447) | Markus Amann; Jens K. Roehrich; Michael ... | 2014 | Supply Chain Management An Int... | 140 |
+| 251 | [Driving sustainable supply chain management in the public sector](https://doi.org/10.1108/scm-12-2013-0447) | Markus Amann; Jens K. Roehrich; Michael ... | 2014 | Supply Chain Management An Int... | 142 |
 | 252 | [Corruption in PPPs, Incentives and Contract Incompleteness](https://doi.org/10.2139/ssrn.2468101) | E. Iossa; D. Martimort | 2014 |  | 78 |
 | 253 | [Contracting for complex performance in markets of few buyers and selle...](https://doi.org/10.1108/ijopm-10-2013-0444) | Nigel Caldwell; Mickey Howard | 2014 | International Journal of Opera... | 78 |
 | 254 | [Subcontracting and competitive bidding on incomplete procurement contr...](https://doi.org/10.1111/1756-2171.12068) | Daniel P. Miller | 2014 | The RAND Journal of Economics | 36 |
@@ -278,7 +278,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 258 | GAO Bid Protests: An Overview of Time Frames and Procedures | Kate M. Manuel; M. Schwartz | 2014 |  | 5 |
 | 259 | Dissecting GAO's Bid Protest 'Effectiveness Rate' | Daniel I. Gordon | 2014 |  | 0 |
 | 260 | Federal IT Procurement ’ s ‘ ‘ 15 Minutes of Fame ’ ’ : Healthcare . g... | Michael Scheimer | 2014 |  | 0 |
-| 261 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 844 |
+| 261 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 845 |
 | 262 | [Tender evaluation and supplier selection methods in public procurement](https://doi.org/10.1016/j.pursup.2013.02.003) | Mats Bergman; Sofia Lundberg | 2013 | Journal of Purchasing and Supp... | 179 |
 | 263 | [Consumer Willingness to Pay a Premium for Organic Fruit and Vegetable ...](https://doi.org/10.22004/ag.econ.144649) | Victor Owusu; Michael Owusu Anifori; Owu... | 2013 | The International Food and Agr... | 91 |
 | 264 | [Using the Economic and Financial Reequilibrium Model to Decrease Infra...](https://doi.org/10.1061/(ASCE)IS.1943-555X.0000110) | C. Cruz; R. Marques | 2013 |  | 29 |
@@ -312,13 +312,13 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 292 | [10 Megawatts to a Better Education](https://doi.org/10.18260/1-2-1153-50026) | D. Schmalzel | 2011 | 2011 Spring ASEE Middle Atlant... | 0 |
 | 293 | [PROJECT MANAGEMENT BY MULTIMOORA AS AN INSTRUMENT FOR TRANSITION ECONO...](https://doi.org/10.3846/tede.2010.01) | Willem K. Brauers; Edmundas Kazimieras Z... | 2010 | Technological and Economic Dev... | 621 |
 | 294 | [Greece: Health System Review.](https://openalex.org/W2206365792) | Charalampos Economou | 2010 | PubMed | 281 |
-| 295 | [Influences of transaction costs in environmental policy](https://doi.org/10.1016/j.ecolecon.2010.04.015) | Anthea Coggan; Stuart M. Whitten; Jeff B... | 2010 | Ecological Economics | 196 |
+| 295 | [Influences of transaction costs in environmental policy](https://doi.org/10.1016/j.ecolecon.2010.04.015) | Anthea Coggan; Stuart M. Whitten; Jeff B... | 2010 | Ecological Economics | 197 |
 | 296 | [Challenges of Upgrading: The Dynamics of East Central Europe’s Integra...](https://openalex.org/W1525462951) | Magdalena Bernaciak; Vera Šćepanović | 2010 | Social Science Open Access Rep... | 50 |
 | 297 | [A Tribute to Oliver Williamson: Regulation: A Transaction Cost Perspec...](https://doi.org/10.1525/cmr.2010.52.2.147) | Pablo T. Spiller | 2010 | California Management Review | 32 |
 | 298 | [The GAO's Bid-Protest Mechanism: Effectiveness and Fairness in Defense...](https://doi.org/10.2139/ssrn.1616424) | Steven M. Maser; V. Subbotin; F. Thompso... | 2010 |  | 8 |
 | 299 | [A New Paradigm to Address Bid Protests](https://doi.org/10.21236/ada633935) | F. Melese; D. Angelis; C. J. Lacivita; M... | 2010 |  | 5 |
 | 300 | Integrity Pacts and Public Procurement Reform in India: From Increment... | Sandeep Verma | 2010 |  | 4 |
-| 301 | [Recent Developments in the Econometrics of Program Evaluation](https://doi.org/10.1257/jel.47.1.5) | Guido W. Imbens; Jeffrey M. Wooldridge | 2009 | Journal of Economic Literature | 4,832 |
+| 301 | [Recent Developments in the Econometrics of Program Evaluation](https://doi.org/10.1257/jel.47.1.5) | Guido W. Imbens; Jeffrey M. Wooldridge | 2009 | Journal of Economic Literature | 4,834 |
 | 302 | [Active and Passive Waste in Government Spending: Evidence from a Polic...](https://doi.org/10.1257/aer.99.4.1278) | Oriana Bandiera; Andrea Prat; Tommaso Va... | 2009 | American Economic Review | 487 |
 | 303 | [The school food revolution: public food and the challenge of sustainab...](https://doi.org/10.5860/choice.46-6442) |  | 2009 | Choice Reviews Online | 308 |
 | 304 | [Relational Contracting and Network Management](https://doi.org/10.1093/jopart/mup033) | Anthony M. Bertelli; Craig R. Smith | 2009 | Journal of Public Administrati... | 167 |
@@ -330,13 +330,13 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 310 | [Implementation of an insecticide-treated net subsidy scheme under a pu...](https://doi.org/10.1186/1475-2875-8-201) | R. Njau; D. de Savigny; Lucy Gilson; E. ... | 2009 | Malaria Journal | 2 |
 | 311 | The Role of Repeated Interactions, Self-Enforcing Agreements and Relat... | Auctions | 2009 |  | 0 |
 | 312 | Provider Selection and Renegotiation Incentive of Incomplete Contracts... | C. Guccio; G. Pignataro; I. Rizzo | 2009 |  | 0 |
-| 313 | [An institution-based view of international business strategy: a focus ...](https://doi.org/10.1057/palgrave.jibs.8400377) | Mike W. Peng; Denis Y. L. Wang; Yi Jiang | 2008 | Journal of International Busin... | 3,129 |
+| 313 | [An institution-based view of international business strategy: a focus ...](https://doi.org/10.1057/palgrave.jibs.8400377) | Mike W. Peng; Denis Y. L. Wang; Yi Jiang | 2008 | Journal of International Busin... | 3,133 |
 | 314 | [Designing payments for environmental services in theory and practice: ...](https://doi.org/10.1016/j.ecolecon.2008.03.011) | Stefanie Engel; Stefano Pagiola; Sven Wu... | 2008 | Ecological Economics | 2,400 |
 | 315 | [Duration of Red-Cell Storage and Complications after Cardiac Surgery](https://doi.org/10.1056/nejmoa070403) | Colleen G. Koch; Liang Li; Daniel I. Ses... | 2008 | New England Journal of Medicin... | 1,371 |
 | 316 | [Auctions Versus Negotiations in Procurement: An Empirical Analysis](https://doi.org/10.1093/jleo/ewn002) | Patrick Bajari; R. S. McMillan; Steven T... | 2008 | The Journal of Law Economics a... | 443 |
 | 317 | [Opioids in the Management of ChronicNon-Cancer Pain: An Update of Amer...](https://doi.org/10.36076/ppj.2008/11/s5) | Laxmaiah Manchikanti | 2008 | Pain Physician | 436 |
 | 318 | [Merger negotiations and the toehold puzzle☆](https://doi.org/10.1016/j.jfineco.2008.02.004) | Sandra Betton; B. Espen Eckbo; Karin S. ... | 2008 | Journal of Financial Economics | 318 |
-| 319 | [Empirical Elephants—Why Multiple Methods are Essential to Quality Rese...](https://doi.org/10.1016/j.jom.2008.03.002) | Kenneth K. Boyer; Morgan Swink | 2008 | Journal of Operations Manageme... | 308 |
+| 319 | [Empirical Elephants—Why Multiple Methods are Essential to Quality Rese...](https://doi.org/10.1016/j.jom.2008.03.002) | Kenneth K. Boyer; Morgan Swink | 2008 | Journal of Operations Manageme... | 309 |
 | 320 | [Contracting for Innovation: Vertical Disintegration and Interfirm Coll...](https://doi.org/10.2139/ssrn.1289428) | Ronald J. Gilson; Charles F. Sabel; Robe... | 2008 | SSRN Electronic Journal | 181 |
 | 321 | [Implementing the LifeSkills Training drug prevention program: factors ...](https://doi.org/10.1186/1748-5908-3-5) | Sharon F. Mihalic; Abigail A. Fagan; Sus... | 2008 | Implementation Science | 170 |
 | 322 | [The State of the Practice of Value for Money Analysis in Comparing Pub...](https://doi.org/10.1177/1087724x08326176) | Dorothy Morallos; Adjo Amekudzi | 2008 | Public Works Management & Poli... | 112 |
@@ -363,7 +363,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 343 | [Constructing a Bid Protest Process: Choices Every Procurement Challeng...](https://openalex.org/W169715074) | Daniel I. Gordon | 2006 | SSRN Electronic Journal | 17 |
 | 344 | [A Transactions Cost Economics Approach to Defense Acquisition Manageme...](https://doi.org/10.21236/ada534750) | Raymond E. Franck; John Dillard | 2006 |  | 6 |
 | 345 | A TRANSACTIONS COST ECONOMICS (TCE) APPROACH TO OPTIMAL CONTRACT TYPE | Raymond E. Franck; F. Melese; John Dilla... | 2006 |  | 1 |
-| 346 | [New Public Management Is Dead--Long Live Digital-Era Governance](https://doi.org/10.1093/jopart/mui057) | Patrick Dunleavy | 2005 | Journal of Public Administrati... | 2,412 |
+| 346 | [New Public Management Is Dead--Long Live Digital-Era Governance](https://doi.org/10.1093/jopart/mui057) | Patrick Dunleavy | 2005 | Journal of Public Administrati... | 2,415 |
 | 347 | [Competitive tendering as a contracting mechanism for subsidising trans...](https://openalex.org/W1550660038) | David A. Hensher; I Wallis | 2005 | The Sydney eScholarship Reposi... | 129 |
 | 348 | [Strategic procurement in the public sector: A mask for financial and a...](https://doi.org/10.1108/jopp-05-03-2005-b005) | Darin Matthews | 2005 | Journal of Public Procurement | 92 |
 | 349 | [Innovation and Public Procurement. Review of Issues at Stake](https://openalex.org/W2562037020) | Jakob Edler; Sascha Ruhland; Sabine Hafn... | 2005 | Lund University Publications (... | 74 |
@@ -373,14 +373,14 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 353 | Reputation mechanisms and electronic markets: economic issues and prop... | G. Spagnolo; F. Dini | 2005 |  | 8 |
 | 354 | [Agency-Level Bid Protest Reform: Time for a Little Less Efficiency?](https://doi.org/10.21236/ada433545) | Erik A. Troff | 2005 |  | 1 |
 | 355 | On the Improvement of Government Entrusted Tourism Planning Contract: ... | Chen Li | 2005 |  | 0 |
-| 356 | [Basic concepts and taxonomy of dependable and secure computing](https://doi.org/10.1109/tdsc.2004.2) | A. Avižienis; J.-C. Laprie; Brian Randel... | 2004 | IEEE Transactions on Dependabl... | 5,099 |
-| 357 | [From sectoral systems of innovation to socio-technical systems](https://doi.org/10.1016/j.respol.2004.01.015) | Frank W. Geels | 2004 | Research Policy | 3,691 |
+| 356 | [Basic concepts and taxonomy of dependable and secure computing](https://doi.org/10.1109/tdsc.2004.2) | A. Avižienis; J.-C. Laprie; Brian Randel... | 2004 | IEEE Transactions on Dependabl... | 5,101 |
+| 357 | [From sectoral systems of innovation to socio-technical systems](https://doi.org/10.1016/j.respol.2004.01.015) | Frank W. Geels | 2004 | Research Policy | 3,697 |
 | 358 | [Institutions as the Fundamental Cause of Long-Run Growth](https://doi.org/10.3386/w10481) | Daron Acemoğlu; Simon Johnson; James A. ... | 2004 |  | 2,031 |
 | 359 | [The Encyclopedia of public choice](https://doi.org/10.5860/choice.41-5661) |  | 2004 | Choice Reviews Online | 386 |
 | 360 | [The future of small businesses in the U.S. federal government marketpl...](https://doi.org/10.1108/jopp-04-03-2004-b006) | Major Clark; Chad Moutray | 2004 | Journal of Public Procurement | 35 |
 | 361 | Small Business Participation in Air Force Procurement: Participation T... | Doug Leedy | 2004 |  | 0 |
-| 362 | [Supply chain risk management: outlining an agenda for future research](https://doi.org/10.1080/13675560310001627016) | Uta Jüttner; Helen Peck; Martin Christop... | 2003 | International Journal of Logis... | 1,596 |
-| 363 | [The Rise of Supermarkets in Africa, Asia, and Latin America](https://doi.org/10.1111/j.0092-5853.2003.00520.x) | Thomas Reardon; C. Peter Timmer; Christo... | 2003 | American Journal of Agricultur... | 1,331 |
+| 362 | [Supply chain risk management: outlining an agenda for future research](https://doi.org/10.1080/13675560310001627016) | Uta Jüttner; Helen Peck; Martin Christop... | 2003 | International Journal of Logis... | 1,598 |
+| 363 | [The Rise of Supermarkets in Africa, Asia, and Latin America](https://doi.org/10.1111/j.0092-5853.2003.00520.x) | Thomas Reardon; C. Peter Timmer; Christo... | 2003 | American Journal of Agricultur... | 1,332 |
 | 364 | [Public Management and Educational Performance: The Impact of Manageria...](https://doi.org/10.1111/1540-6210.00332) | Kenneth J. Meier; Laurence J. O’Toole | 2003 | Public Administration Review | 460 |
 | 365 | [Military corruption &amp; Ugandan politics since the late 1990s](https://doi.org/10.1080/02) | Roger Tangri; Andrew M. Mwenda | 2003 | Review of African Political Ec... | 450 |
 | 366 | [What Caused Enron?: A Capsule Social and Economic History of the 1990'...](https://doi.org/10.2139/ssrn.373581) | John C. Coffee | 2003 | SSRN Electronic Journal | 203 |
@@ -430,7 +430,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 410 | [The Efficiency of Incomplete Contracts: An Empirical Analysis of Air F...](https://doi.org/10.2307/2555956) | Keith J. Crocker; Kenneth J. Reynolds | 1993 | The RAND Journal of Economics | 579 |
 | 411 | [Required Delivery Date (RDD), an alternative to Procurement Adminisist...](https://openalex.org/W1002720416) | Robert Jennings. Vickers | 1993 | Calhoun: The Naval Postgraduat... | 0 |
 | 412 | [Required Delivery Date, an Alternative to Procurement Administrative L...](https://openalex.org/W107167101) | Robert Jennings. Vickers | 1993 | ZooKeys | 0 |
-| 413 | [The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur A...](https://doi.org/10.2307/1941447) | Simon A. Levin | 1992 | Ecology | 6,715 |
+| 413 | [The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur A...](https://doi.org/10.2307/1941447) | Simon A. Levin | 1992 | Ecology | 6,717 |
 | 414 | [A Forecasting Model for Procurement Administrative Lead Time](https://openalex.org/W1515320323) | Douglas J. MacKinnon | 1992 | Calhoun: The Naval Postgraduat... | 0 |
 | 415 | Best Value Contracting in the Procurement of Engineering and Technical... | Herbert F. Byrns | 1991 |  | 0 |
 | 416 | [The National Shipbuilding Research Program, 1991 Ship Production Sympo...](https://doi.org/10.21236/ada456985) | Joseph R. Jablonski | 1991 |  | 0 |
@@ -447,11 +447,11 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 427 | [An Analysis of the Procurement Administrative Lead Time (PALT) for the...](https://openalex.org/W746301032) | Terry C. Lodge | 1986 | Calhoun: The Naval Postgraduat... | 0 |
 | 428 | GAO Bid Protest Procedures under the Competition in Contracting Act: C... | Weitzel; J. Mckay | 1985 |  | 0 |
 | 429 | Land remote sensing commercialization: A status report | E. Heacock; W. P. Bishop | 1984 |  | 0 |
-| 430 | [International regimes, transactions, and change: embedded liberalism i...](https://doi.org/10.1017/s0020818300018993) | John Gerard Ruggie | 1982 | International Organization | 4,398 |
+| 430 | [International regimes, transactions, and change: embedded liberalism i...](https://doi.org/10.1017/s0020818300018993) | John Gerard Ruggie | 1982 | International Organization | 4,402 |
 | 431 | [The Role of Nonprofit Enterprise](https://doi.org/10.2307/796089) | Henry Hansmann | 1980 | The Yale Law Journal | 2,524 |
 | 432 | [The second image reversed: the international sources of domestic polit...](https://doi.org/10.1017/s002081830003201x) | Peter Gourevitch | 1978 | International Organization | 1,581 |
 | 433 | [Procurement Administrative Lead Time (PALT) Management and Performance...](https://doi.org/10.21236/ADA038732) | K. Newlin; E. Lovett | 1977 |  | 0 |
-| 434 | [The Nature of the Firm](https://doi.org/10.1111/j.1468-0335.1937.tb00002.x) | Ronald H. Coase | 1937 | Economica | 23,283 |
+| 434 | [The Nature of the Firm](https://doi.org/10.1111/j.1468-0335.1937.tb00002.x) | Ronald H. Coase | 1937 | Economica | 23,288 |
 | 435 | PUBLIC PROCUREMENT AND THE RISK OF SEVERE WEATHER EVENTS | Andrea Bafundi; Riccardo Camboni; E. Gri... |  |  | 1 |
 | 436 | Nuclear Regulatory Commission Biweekly Notice; Applications and Amendm... | Chad Whiteman; Tremaine Donnell |  |  | 0 |
 
