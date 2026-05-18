@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-17T10:59:50.879327",
-    "total_articles": 438,
-    "last_search_date": "2026-05-17"
+    "last_updated": "2026-05-18T12:59:54.332145",
+    "total_articles": 440,
+    "last_search_date": "2026-05-18"
   },
   "articles": [
     {
@@ -1582,7 +1582,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1475,
+      "citation_count": 1482,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -1638,7 +1638,7 @@
       "abstract": "Problem definition: The influence of female directors on firm decision-making and performance is a frequently studied research topic but has received limited attention in operations management. We investigate if adding female directors to a firm’s board of directors changes whether and how quickly the firm recalls defective products. Academic/practical relevance: By demonstrating a relationship between an increase in female directors and more rule-conscious, customer-focused recall decisions, we highlight that adding female directors may enable more societally beneficial operational decisions. Methodology: We analyze 4,271 medical product recalls from 2002 to 2013 across 92 publicly traded firms regulated by the Food and Drug Administration using negative binomial and ordinary least squares fixed effect regression models. In robustness checks, we include an instrumental variable analysis, propensity score matching models, and reverse causality regression models. Results: As boards add female directors, recall decisions change. Firms initiate more medical product recalls that are low in severity and hence easier for firms to avoid initiating, highlighting the increased rule-following brought to bear by adding female directors. Firms also make faster recall decisions for the most serious defects that are high in severity and dangerous for customers, highlighting the increased stakeholder responsiveness resulting from adding female directors. Managerial implications: Firms may more closely align recall decisions with regulatory rules and become more sensitized to customer health and safety by adding female directors. Further, at least two female directors may be required to speed up recall decisions for the most serious, life-threatening defects.",
       "doi": "https://doi.org/10.1287/msom.2019.0841",
       "url": "https://openalex.org/W3013079391",
-      "citation_count": 121,
+      "citation_count": 122,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686838"
@@ -2170,7 +2170,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 2996,
+      "citation_count": 2998,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -2464,7 +2464,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s12553-017-0179-1",
       "url": "https://openalex.org/W2596192549",
-      "citation_count": 495,
+      "citation_count": 496,
       "search_query": "incumbent advantage procurement tender steering",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:36.500544"
@@ -2926,7 +2926,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 5137,
+      "citation_count": 5145,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -2940,7 +2940,7 @@
       "abstract": "Comorbid conditions account for the largest portion of the growing economic burden of MDD. Future research should analyze further these comorbidities as well as the relative importance of factors contributing to that growing burden. These include population growth, increase in MDD prevalence, increase in treatment cost per individual with MDD, changes in employment and treatment rates, as well as changes in the composition and quality of MDD treatment services.",
       "doi": "https://doi.org/10.4088/jcp.14m09298",
       "url": "https://openalex.org/W2039056175",
-      "citation_count": 1801,
+      "citation_count": 1802,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686901"
@@ -3724,7 +3724,7 @@
       "abstract": "China's economic reforms have resulted in spectacular growth and poverty reduction. However, China's institutions look ill-suited to achieve such a result, and they indeed suffer from serious shortcomings. To solve the “China puzzle,” this paper analyzes China's institution—a regionally decentralized authoritarian system. The central government has control over personnel, whereas subnational governments run the bulk of the economy; and they initiate, negotiate, implement, divert, and resist reforms, policies, rules, and laws. China's reform trajectories have been shaped by regional decentralization. Spectacular performance on the one hand and grave problems on the other hand are all determined by this governance structure. (JEL O17, O18, O43, P21, P25, P26)",
       "doi": "https://doi.org/10.1257/jel.49.4.1076",
       "url": "https://openalex.org/W2128368240",
-      "citation_count": 2544,
+      "citation_count": 2545,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850483"
@@ -3752,7 +3752,7 @@
       "abstract": "Standard vector autoregression (VAR) identification methods find that government spending raises consumption and real wages; the Ramey–Shapiro narrative approach finds the opposite. I show that a key difference in the approaches is the timing. Both professional forecasts and the narrative approach shocks Granger-cause the VAR shocks, implying that these shocks are missing the timing of the news. Motivated by the importance of measuring anticipations, I use a narrative method to construct richer government spending news variables from 1939 to 2008. The implied government spending multipliers range from 0.6 to 1.2.",
       "doi": "https://doi.org/10.1093/qje/qjq008",
       "url": "https://openalex.org/W2178583389",
-      "citation_count": 1656,
+      "citation_count": 1659,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850527"
@@ -3934,7 +3934,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4848,
+      "citation_count": 4854,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4620,7 +4620,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3716,
+      "citation_count": 3717,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -5669,7 +5669,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.ijpe.2016.03.014",
       "url": "https://openalex.org/W2302800291",
-      "citation_count": 1474,
+      "citation_count": 1475,
       "source": "openalex",
       "id": "37fc2963f81c18254659d99537504b96",
       "date_found": "2026-03-11T10:30:00.175068",
@@ -5711,7 +5711,7 @@
       "abstract": "This paper gives the main definitions relating to dependability, a generic concept including a special case of such attributes as reliability, availability, safety, integrity, maintainability, etc. Security brings in concerns for confidentiality, in addition to availability and integrity. Basic definitions are given first. They are then commented upon, and supplemented by additional definitions, which address the threats to dependability and security (faults, errors, failures), their attributes, and the means for their achievement (fault prevention, fault tolerance, fault removal, fault forecasting). The aim is to explicate a set of general concepts, of relevance across a wide range of situations and, therefore, helping communication and cooperation among a number of scientific and technical communities, including ones that are concentrating on particular types of system, of system failures, or of causes of system failures.",
       "doi": "https://doi.org/10.1109/tdsc.2004.2",
       "url": "https://openalex.org/W2145071552",
-      "citation_count": 5109,
+      "citation_count": 5110,
       "source": "openalex",
       "id": "1932d5ae82c403f13a1f6d8e22776875",
       "date_found": "2026-03-11T10:30:01.769937",
@@ -5739,7 +5739,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.2139/ssrn.3213954",
       "url": "https://openalex.org/W2883289607",
-      "citation_count": 763,
+      "citation_count": 765,
       "source": "openalex",
       "id": "eeca47e589df735d2a37a4fa50fd6b55",
       "date_found": "2026-03-11T10:30:06.469213",
@@ -6136,6 +6136,34 @@
       "id": "abdd03fc91dad5e60c8b5d0149269e45",
       "date_found": "2026-05-17T10:59:18.472265",
       "search_query": "procurement oversight review boards delay"
+    },
+    {
+      "title": "An Assessment of Public Law 95-507.",
+      "authors": "Charles E. White",
+      "year": 1980,
+      "journal": "Defense Technical Information Center (DTIC)",
+      "abstract": "Pubic Law 95-507 has been hailed as the most far-reaching procurement legislation enacted in recent years. This study was undertaken to investigate the impact of this law on the acquisition system within the Department of Defense (DOD). The results of this study indicate: The law has the potential of both increasing opportunities for small and small disadvantaged businesses as well as assisting them to become viable independent enterprises. Implementation has been slow due to a combination of reasons. There are certain inherent weaknesses in the subcontracting provisions. The implementation/administration has increased procurement administrative lead time (PALT). The most difficult task in administrating the subcontracting provisions is determining the aceptability of plans. Contract-by-contract reporting will be burdensome. The costs of implementing/administering the law by the contractor will be generally absorbed by the Government. (Author)",
+      "doi": null,
+      "url": "https://openalex.org/W1522949462",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "6f4d44266566548b9f2316ff3b5cbeb8",
+      "date_found": "2026-05-18T12:59:43.191156",
+      "search_query": "procurement administrative lead time PALT"
+    },
+    {
+      "title": "Natural History of Pediatric Crohn's Disease: A Population-Based Cohort Study",
+      "authors": "Gwénola Vernier-Massouille; Mamadou Baldé; Julia Salleron; Dominique Turck; Jean Louis Dupas",
+      "year": 2008,
+      "journal": "Gastroenterology",
+      "abstract": "",
+      "doi": "https://doi.org/10.1053/j.gastro.2008.06.079",
+      "url": "https://openalex.org/W2168132096",
+      "citation_count": 596,
+      "source": "openalex",
+      "id": "80ed41448abc0e72adab823c4943f359",
+      "date_found": "2026-05-18T12:59:53.831939",
+      "search_query": "propensity score matching public administration"
     }
   ]
 }
