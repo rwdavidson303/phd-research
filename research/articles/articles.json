@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-30T11:12:46.427078",
+    "last_updated": "2026-05-31T11:27:29.009147",
     "total_articles": 441,
-    "last_search_date": "2026-05-30"
+    "last_search_date": "2026-05-31"
   },
   "articles": [
     {
@@ -896,7 +896,7 @@
       "abstract": "&lt;abstract&gt; &lt;p&gt;Open data has a large means of identifying commonly reachable information on different platforms. One of the open data sources is open government data. The goals of open governments are about building transparency, accountability and participation to strengthen governance and inform citizens. The aim of this study is twofold: (ⅰ) to propose a reliable decision-making tool for dealing with real-life problems and (ⅱ) to demonstrate the practicality of the proposed model through a case study of its ranking with an open government data indicator for G20 countries. This study proposes a multi-criteria methodology that evaluates open data management systems used in e-government development. First, a set of evaluation criteria is established that cover the indicators used in the Global Open Data Index. Second, weights from the Logarithm Methodology of Additive Weights (LMAW) and Logarithmic Percentage Change-driven Objective Weighting (LOPCOW) methods were combined with the Bayesian approach to determine the weights of these criteria. Finally, the Weighted Aggregated Sum Product Assessment (WASPAS) method was used to obtain the ranking results. The novelties of the study lie in the combination of objective and subjective weighting methods, both in determining the ranking of G20 countries with open government data indicators and in deciding the importance levels of the criteria used. The \"air quality\" and \"procurement\" criteria are the top two criteria, with weights of 0, 1378 and 0, 1254 respectively. The findings also show that Australia is the best performer, while the United Kingdom is the second best performing. Comprehensive sensitivity analysis verifies the validity, robustness and effectiveness of the proposed framework. According to research findings and analysis, the methodology applied has the potential to assist policymakers and decision-makers in the process of modernization of existing public services in terms of open data and the opportunities it presents.&lt;/p&gt; &lt;/abstract&gt;",
       "doi": "https://doi.org/10.3934/math.2023936",
       "url": "https://openalex.org/W4380142938",
-      "citation_count": 19,
+      "citation_count": 20,
       "search_query": "government procurement modernization",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:25.061645"
@@ -1092,7 +1092,7 @@
       "abstract": "Green public procurement has gained high political priority and is argued to be an effective demand-side policy to trigger environmental innovations. However, the empirical evidence on its innovation impact is limited. We construct a novel firm-level dataset to investigate the effect of winning public procurement tenders with additional environmental award criteria on firms’ introduction of environmental innovations. Employing cross-sectional difference-in-differences methods, we find that winning public procurement awards with environmental selection criteria increases a firm's probability of introducing more environmentally friendly products on average by 20 percentage points. We show that this effect is driven by small and medium-sized firms and is not statistically significant for larger firms. Furthremore, there is no statistically significant effect on the introduction of more environmentally friendly processes.",
       "doi": "https://doi.org/10.1016/j.respol.2022.104516",
       "url": "https://openalex.org/W4220957332",
-      "citation_count": 178,
+      "citation_count": 179,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-25T17:33:39.823434"
@@ -1288,7 +1288,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1562,
+      "citation_count": 1563,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -1862,7 +1862,7 @@
       "abstract": "The grassroots movement that placed environmental justice issues on the national stage around 1980 was soon followed up by research documenting the correlation between pollution and race and poverty. This work has established inequitable exposure to nuisances as a stylized fact of social science. In this paper, we review the environmental justice literature, especially where it intersects with work by economists. First we consider the literature documenting evidence of disproportionate exposure. We particularly consider the implications of modeling choices about spatial relationships between polluters and residents, and about conditioning variables. Next, we evaluate the theory and evidence for four possible mechanisms that may lie behind the patterns seen: disproportionate siting on the firm side, “coming to the nuisance” on the household side, market-like coordination of the two, and discriminatory politics and/or enforcement. We argue that further research is needed to understand how much weight to give each mechanism. Finally, we discuss some policy options.",
       "doi": "https://doi.org/10.1257/jep.33.1.185",
       "url": "https://openalex.org/W2913170491",
-      "citation_count": 597,
+      "citation_count": 598,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582557"
@@ -1904,7 +1904,7 @@
       "abstract": "Blockchain technology, despite its origins as the underlying infrastructure for value transfer in the era of cryptocurrency, has been touted as the main disruptive force in modern businesses. Blockchain has the capacity to chronologically capture and store transactional data in a standardized and tamper-proof format that is transparent to all stakeholders involved in the transaction. This, in turn, has prompted companies to rethink preexisting business practices, thereby yielding a myriad of fascinating business models anchored in blockchain technology. In this study, we advance contemporary knowledge of business applications of blockchain by drawing on the theoretical lens of the digital business model and value configuration to decipher how pioneers in this space are leveraging blockchain to create and capture value. Through a comparative, multiple case study approach, we analyzed five companies in mainland China that have rolled out blockchain initiatives. From our case analyses, we derived a typology of five blockchain-inspired business models, each of which embodies a distinctive logic for market differentiation. For each business model, we offer insights into its value creation logic, its value capturing mechanism, and the challenges that could threaten its longer-term viability. Grounded in our findings, we discuss key implications for theory and practice.",
       "doi": "https://doi.org/10.17705/1jais.00568",
       "url": "https://openalex.org/W2977744086",
-      "citation_count": 140,
+      "citation_count": 141,
       "search_query": "incumbent advantage procurement tender steering",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:36.500571"
@@ -2170,7 +2170,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 3033,
+      "citation_count": 3036,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -2478,7 +2478,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.eist.2017.03.002",
       "url": "https://openalex.org/W2607300357",
-      "citation_count": 451,
+      "citation_count": 452,
       "search_query": "incumbent advantage procurement tender steering",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:36.500239"
@@ -2730,7 +2730,7 @@
       "abstract": "Guidelines for use of wild mammal species in research are updated from Sikes et al. (2011) . These guidelines cover current professional techniques and regulations involving the use of mammals in research and teaching; they also incorporate new resources, procedural summaries, and reporting requirements. Included are details on capturing, marking, housing, and humanely killing wild mammals. It is recommended that Institutional Animal Care and Use Committees (IACUCs), regulatory agencies, and investigators use these guidelines as a resource for protocols involving wild mammals, whether studied in the field or in captivity. These guidelines were prepared and approved by the American Society of Mammalogists (ASM), in consultation with professional veterinarians experienced in wildlife research and IACUCs, whose collective expertise provides a broad and comprehensive understanding of the biology of nondomesticated mammals. The current version of these guidelines and any subsequent modifications are available online on the Animal Care and Use Committee page of the ASM website ( http://mammalogy.org/uploads/committee_files/CurrentGuidelines.pdf ). Additional resources pertaining to the use of wild animals in research are available at: http://www.mammalsociety.org/committees/animal-care-and-use#tab3 .",
       "doi": "https://doi.org/10.1093/jmammal/gyw078",
       "url": "https://openalex.org/W2398139753",
-      "citation_count": 3151,
+      "citation_count": 3152,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021270"
@@ -2926,7 +2926,7 @@
       "abstract": "Routinely collected health data, obtained for administrative and clinical purposes without specific a priori research goals, are increasingly used for research. The rapid evolution and availability of these data have revealed issues not addressed by existing reporting guidelines, such as Strengthening the Reporting of Observational Studies in Epidemiology (STROBE). The REporting of studies Conducted using Observational Routinely collected health Data (RECORD) statement was created to fill these gaps. RECORD was created as an extension to the STROBE statement to address reporting items specific to observational studies using routinely collected health data. RECORD consists of a checklist of 13 items related to the title, abstract, introduction, methods, results, and discussion section of articles, and other information required for inclusion in such research reports. This document contains the checklist and explanatory and elaboration information to enhance the use of the checklist. Examples of good reporting for each RECORD checklist item are also included herein. This document, as well as the accompanying website and message board (http://www.record-statement.org), will enhance the implementation and understanding of RECORD. Through implementation of RECORD, authors, journals editors, and peer reviewers can encourage transparency of research reporting.",
       "doi": "https://doi.org/10.1371/journal.pmed.1001885",
       "url": "https://openalex.org/W2163278718",
-      "citation_count": 5186,
+      "citation_count": 5187,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686762"
@@ -3150,7 +3150,7 @@
       "abstract": "This paper develops a dynamic capabilities-based theory of the multinational enterprise (MNE). It first reviews scholarship on the MNE, with a focus on what has come to be known as \"internalization\" theory. One prong of this theory develops contractual/transaction cost-informed governance perspectives; and another develops technology transfer and capabilities perspectives. In this paper, it is suggested that the latter has been somewhat neglected. However, if fully integrated as part of a more complete approach, it can buttress transaction cost/governance issues and expand the range of phenomena that can be explained. In this more integrated framework, dynamic capabilities coupled with good strategy are seen as necessary to sustain superior enterprise performance, especially in fast-moving global environments. Entrepreneurial management and transformational leadership are incorporated into a capabilities theory of the MNE. The framework is then used to explain how strategy and dynamic capabilities together determine firm-level sustained competitive advantage in global environments. It is suggested that this framework complements contract-based perspectives on the MNE and can help integrate international management and international business perspectives.",
       "doi": "https://doi.org/10.1057/jibs.2013.54",
       "url": "https://openalex.org/W2032540219",
-      "citation_count": 1243,
+      "citation_count": 1244,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943626"
@@ -3934,7 +3934,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4869,
+      "citation_count": 4870,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4102,7 +4102,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/palgrave.jibs.8400377",
       "url": "https://openalex.org/W2088078282",
-      "citation_count": 3151,
+      "citation_count": 3152,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850393"
@@ -4480,7 +4480,7 @@
       "abstract": "The “new public management” (NPM) wave in public sector organizational change was founded on themes of disaggregation, competition, and incentivization. Although its effects are still working through in countries new to NPM, this wave has now largely stalled or been reversed in some key “leading-edge” countries. This ebbing chiefly reflects the cumulation of adverse indirect effects on citizens' capacities for solving social problems because NPM has radically increased institutional and policy complexity. The character of the post-NPM regime is currently being formed. We set out the case that a range of connected and information technology–centered changes will be critical for the current and next wave of change, and we focus on themes of reintegration, needs-based holism, and digitization changes. The overall movement incorporating these new shifts is toward “digital-era governance” (DEG), which involves reintegrating functions into the governmental sphere, adopting holistic and needs-oriented structures, and progressing digitalization of administrative processes. DEG offers a perhaps unique opportunity to create self-sustaining change, in a broad range of closely connected technological, organizational, cultural, and social effects. But there are alternative scenarios as to how far DEG will be recognized as a coherent phenomenon and implemented successfully.",
       "doi": "https://doi.org/10.1093/jopart/mui057",
       "url": "https://openalex.org/W2123431441",
-      "citation_count": 2434,
+      "citation_count": 2435,
       "search_query": "procurement reform federal acquisition",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:15.452405"
@@ -4620,7 +4620,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3733,
+      "citation_count": 3734,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -5292,7 +5292,7 @@
       "abstract": "It is argued that the problem of pattern and scale is the central problem in ecology, unifying population biology and ecosystems science, and marrying basic and applied ecology. Applied challenges, such as the prediction of the ecological causes and consequences of global climate change, require the interfacing of phenomena that occur on very different scales of space, time, and ecological organization. Furthermore, there is no single natural scale at which ecological phenomena should be studied; systems generally show characteristic variability on a range of spatial, temporal, and organizational scales. The observer imposes a perceptual bias, a filter through which the system is viewed. This has fundamental evolutionary significance, since every organism is an \"observer\" of the environment, and life history adaptations such as dispersal and dormancy alter the perceptual scales of the species, and the observed variability. It likewise has fundamental significance for our own study of ecological systems, since the patterns that are unique to any range of scales will have unique causes and biological consequences. The key to prediction and understanding lies in the elucidation of mechanisms underlying observed patterns. Typically, these mechanisms operate at different scales than those on which the patterns are observed; in some cases, the patterns must be understood as emerging form the collective behaviors of large ensembles of smaller scale units. In other cases, the pattern is imposed by larger scale constraints. Examination of such phenomena requires the study of how pattern and variability change with the scale of description, and the development of laws for simplification, aggregation, and scaling. Examples are given from the marine and terrestrial literatures.",
       "doi": "https://doi.org/10.2307/1941447",
       "url": "https://openalex.org/W2322480672",
-      "citation_count": 6736,
+      "citation_count": 6738,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021169"
@@ -5599,7 +5599,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/s0167-9236(02)00120-3",
       "url": "https://openalex.org/W2053825348",
-      "citation_count": 201,
+      "citation_count": 202,
       "source": "openalex",
       "id": "c5648838dfff5b07567e38342066fdea",
       "date_found": "2026-03-03T21:15:15.476893",
@@ -5739,7 +5739,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.2139/ssrn.3213954",
       "url": "https://openalex.org/W2883289607",
-      "citation_count": 768,
+      "citation_count": 769,
       "source": "openalex",
       "id": "eeca47e589df735d2a37a4fa50fd6b55",
       "date_found": "2026-03-11T10:30:06.469213",
@@ -6019,7 +6019,7 @@
       "abstract": "Abstract We adapt simple tools from computational linguistics to construct a new measure of political risk faced by individual U.S. firms: the share of their quarterly earnings conference calls that they devote to political risks. We validate our measure by showing that it correctly identifies calls containing extensive conversations on risks that are political in nature, that it varies intuitively over time and across sectors, and that it correlates with the firm’s actions and stock market volatility in a manner that is highly indicative of political risk. Firms exposed to political risk retrench hiring and investment and actively lobby and donate to politicians. These results continue to hold after controlling for news about the mean (as opposed to the variance) of political shocks. Interestingly, the vast majority of the variation in our measure is at the firm level rather than at the aggregate or sector level, in the sense that it is captured neither by the interaction of sector and time fixed effects nor by heterogeneous exposure of individual firms to aggregate political risk. The dispersion of this firm-level political risk increases significantly at times with high aggregate political risk. Decomposing our measure of political risk by topic, we find that firms that devote more time to discussing risks associated with a given political topic tend to increase lobbying on that topic, but not on other topics, in the following quarter.",
       "doi": "https://doi.org/10.1093/qje/qjz021",
       "url": "https://openalex.org/W2770414254",
-      "citation_count": 1365,
+      "citation_count": 1366,
       "source": "openalex",
       "id": "557a60b1cde7024d05b5c5b951976bf4",
       "date_found": "2026-04-05T10:24:30.267487",
