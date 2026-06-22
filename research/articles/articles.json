@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-21T12:04:54.097165",
+    "last_updated": "2026-06-22T15:13:08.883638",
     "total_articles": 540,
-    "last_search_date": "2026-06-21"
+    "last_search_date": "2026-06-22"
   },
   "articles": [
     {
@@ -1582,7 +1582,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1550,
+      "citation_count": 1551,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -2170,7 +2170,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 3094,
+      "citation_count": 3096,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -4620,7 +4620,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3765,
+      "citation_count": 3766,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -6019,7 +6019,7 @@
       "abstract": "Abstract We adapt simple tools from computational linguistics to construct a new measure of political risk faced by individual U.S. firms: the share of their quarterly earnings conference calls that they devote to political risks. We validate our measure by showing that it correctly identifies calls containing extensive conversations on risks that are political in nature, that it varies intuitively over time and across sectors, and that it correlates with the firm’s actions and stock market volatility in a manner that is highly indicative of political risk. Firms exposed to political risk retrench hiring and investment and actively lobby and donate to politicians. These results continue to hold after controlling for news about the mean (as opposed to the variance) of political shocks. Interestingly, the vast majority of the variation in our measure is at the firm level rather than at the aggregate or sector level, in the sense that it is captured neither by the interaction of sector and time fixed effects nor by heterogeneous exposure of individual firms to aggregate political risk. The dispersion of this firm-level political risk increases significantly at times with high aggregate political risk. Decomposing our measure of political risk by topic, we find that firms that devote more time to discussing risks associated with a given political topic tend to increase lobbying on that topic, but not on other topics, in the following quarter.",
       "doi": "https://doi.org/10.1093/qje/qjz021",
       "url": "https://openalex.org/W2770414254",
-      "citation_count": 1385,
+      "citation_count": 1389,
       "source": "openalex",
       "id": "557a60b1cde7024d05b5c5b951976bf4",
       "date_found": "2026-04-05T10:24:30.267487",
@@ -6299,7 +6299,7 @@
       "abstract": "\\nDariush Mozaffarian and colleagues review strategies governments can use to improve nutrition and health",
       "doi": "https://doi.org/10.1136/bmj.k2426",
       "url": "https://openalex.org/W2807806091",
-      "citation_count": 500,
+      "citation_count": 501,
       "source": "openalex",
       "id": "001e88f6433050cb854247658a4c5f92",
       "date_found": "2026-06-09T12:30:10.160085",
@@ -6425,7 +6425,7 @@
       "abstract": "Implementation science is a quickly growing discipline. Lessons learned from business and medical settings are being applied but it is unclear how well they translate to settings with different historical origins and customs (e.g., public mental health, social service, alcohol/drug sectors). The purpose of this paper is to propose a multi-level, four phase model of the implementation process (i.e., Exploration, Adoption/Preparation, Implementation, Sustainment), derived from extant literature, and apply it to public sector services. We highlight features of the model likely to be particularly important in each phase, while considering the outer and inner contexts (i.e., levels) of public sector service systems.",
       "doi": "https://doi.org/10.1007/s10488-010-0327-7",
       "url": "https://openalex.org/W2044858486",
-      "citation_count": 3271,
+      "citation_count": 3272,
       "source": "openalex",
       "id": "668001dda7510228e1bef606b0aa828f",
       "date_found": "2026-06-09T12:30:13.669389",
@@ -6957,7 +6957,7 @@
       "abstract": "There is promising evidence that public food procurement from family farming (PFPF) can serve as a powerful policy instrument in transitions towards more sustainable food systems. Despite the evidence around PFPF, there is lack of systemic and actor-oriented approaches analysing the relational and interactional dynamics among the multiple and diverse sets of actors in PFPF programs. In this paper, we address this gap by presenting an integrative framework that brings together food systems research, innovation studies and social network analysis, to assess the role of actor networks in PFPF. To illustrate the usefulness of the framework, we present the case of public procurement from family farming in Uruguay. We show how the framework has potential to: highlight the composition and diversity of networks of actors in PFPF; unravel individual and network barriers faced by actors in food systems; and, identify how interactions and (intermediary and brokerage) roles of network actors stimulate innovation or block the changes that are needed for PFPF to catalyse the transition towards sustainable food systems.",
       "doi": "https://doi.org/10.1016/j.foodpol.2022.102325",
       "url": "https://openalex.org/W4289688866",
-      "citation_count": 46,
+      "citation_count": 47,
       "source": "openalex",
       "id": "611207487402e814af554a542ef813e3",
       "date_found": "2026-06-09T12:30:24.638634",

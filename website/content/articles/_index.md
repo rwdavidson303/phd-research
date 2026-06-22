@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**540 total articles** in the database | Last updated: June 21, 2026
+**540 total articles** in the database | Last updated: June 22, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -115,7 +115,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 95 | [Capturing the value creation in public procurement: A practice-based v...](https://doi.org/10.1016/j.pursup.2021.100745) | Iryna Malacina; Elina Karttunen; Aki Jää... | 2022 | Journal of Purchasing and Supp... | 92 |
 | 96 | [Mainstreaming sustainable innovation: unlocking the potential of natur...](https://doi.org/10.1016/j.envsci.2022.02.017) | Linjun Xie; Harriet Bulkeley; Laura Toze... | 2022 | Environmental Science & Policy | 67 |
 | 97 | [Corruption red flags in public procurement: new evidence from Italian ...](https://doi.org/10.1140/epjds/s13688-022-00325-x) | Francesco Decarolis; Cristina Giorgianto... | 2022 | EPJ Data Science | 54 |
-| 98 | [Public food procurement from family farming: A food system and social ...](https://doi.org/10.1016/j.foodpol.2022.102325) | Daniel Gaitán‐Cremaschi; Laurens Klerkx;... | 2022 | Food Policy | 46 |
+| 98 | [Public food procurement from family farming: A food system and social ...](https://doi.org/10.1016/j.foodpol.2022.102325) | Daniel Gaitán‐Cremaschi; Laurens Klerkx;... | 2022 | Food Policy | 47 |
 | 99 | [Academic research on renewable electricity auctions: Taking stock and ...](https://doi.org/10.1016/j.enpol.2022.113305) | Pablo del Rı́o; Christoph P. Kiefer | 2022 | Energy Policy | 35 |
 | 100 | [The Effect of E-Procurement Policy on Corruption in Government Procure...](https://doi.org/10.1080/01900692.2022.2093900) | Anastasia Citra Puspita; Yohanna M. L. G... | 2022 | International Journal of Publi... | 24 |
 | 101 | [Blurred Lines: Exploring the Impact of Change Complexity on Role Clari...](https://doi.org/10.1177/0734371X221093573) | Stéphanie Verlinden; J. Wynen; Bjorn Kle... | 2022 | Review of Public Personnel Adm... | 24 |
@@ -154,7 +154,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 134 | Government Contracts and Distance Learning: How the United States Can ... | Anthony Lenze; Colette Langos | 2021 |  | 0 |
 | 135 | [Spatio-Temporal Effects on Decision Making in Green Fleet Supplier Sel...](https://doi.org/10.2139/ssrn.3997572) | M. Scott | 2021 | Social Science Research Networ... | 0 |
 | 136 | [A SARS-CoV-2 protein interaction map reveals targets for drug repurpos...](https://doi.org/10.1038/s41586-020-2286-9) | David E. Gordon; Gwendolyn Μ. Jang; Mehd... | 2020 | Nature | 4,856 |
-| 137 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,550 |
+| 137 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,551 |
 | 138 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 139 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
 | 140 | [Government Procurement and Changes in Firm Transparency](https://doi.org/10.2308/tar-2018-0343) | Delphine Samuels | 2020 | The Accounting Review | 172 |
@@ -180,7 +180,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 160 | [Best Value Approach in Public Procurement: Improving ‘Best’ through En...](https://doi.org/10.37265/japiv.v10i1.23) | F. Steller | 2020 |  | 2 |
 | 161 | [THE ROLE OF CONTRACT MONITORING ON PERFORMANCE OF CONSTRUCTION CONTRAC...](https://doi.org/10.61426/sjbcm.v7i4.1861) | H. Onyango; D. Juma | 2020 | Strategic Journal of Business ... | 0 |
 | 162 | [Health effects of dietary risks in 195 countries, 1990–2017: a systema...](https://doi.org/10.1016/s0140-6736(19)30041-8) | Ashkan Afshin; Patrick John Sur; Kairste... | 2019 | The Lancet | 5,716 |
-| 163 | [Firm-Level Political Risk: Measurement and Effects*](https://doi.org/10.1093/qje/qjz021) | Tarek A. Hassan; Stephan Hollander; Laur... | 2019 | The Quarterly Journal of Econo... | 1,385 |
+| 163 | [Firm-Level Political Risk: Measurement and Effects*](https://doi.org/10.1093/qje/qjz021) | Tarek A. Hassan; Stephan Hollander; Laur... | 2019 | The Quarterly Journal of Econo... | 1,389 |
 | 164 | [From What to How: An Initial Review of Publicly Available AI Ethics To...](https://doi.org/10.1007/s11948-019-00165-5) | Jessica Morley; Luciano Floridi; Libby K... | 2019 | Science and Engineering Ethics | 750 |
 | 165 | [Environmental Justice: The Economics of Race, Place, and Pollution](https://doi.org/10.1257/jep.33.1.185) | Spencer Banzhaf; Lala Ma; Christopher Ti... | 2019 | The Journal of Economic Perspe... | 601 |
 | 166 | [Public procurement, innovation and industrial policy: Rationales, role...](https://doi.org/10.1016/j.respol.2019.103844) | Elvira Uyarra; Jon Mikel Zabala‐Iturriag... | 2019 | Research Policy | 255 |
@@ -209,10 +209,10 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 189 | Moldova - EUROPE AND CENTRAL ASIA- P148537- Modernization of Governmen... | D. Zaharia | 2019 |  | 0 |
 | 190 | MODERNIZING GOVERNMENT PROCUREMENT IN INDONESIA There was progress in ... |  | 2019 |  | 0 |
 | 191 | [Global, regional, and national age-sex-specific mortality for 282 caus...](https://doi.org/10.1016/s0140-6736(18)32203-7) | Gregory A. Roth; Degu Abate; Kalkidan Ha... | 2018 | The Lancet | 8,640 |
-| 192 | [Towards a theory of ecosystems](https://doi.org/10.1002/smj.2904) | Michael G. Jacobides; Carmelo Cennamo; A... | 2018 | Strategic Management Journal | 3,094 |
+| 192 | [Towards a theory of ecosystems](https://doi.org/10.1002/smj.2904) | Michael G. Jacobides; Carmelo Cennamo; A... | 2018 | Strategic Management Journal | 3,096 |
 | 193 | [Accelerate progress—sexual and reproductive health and rights for all:...](https://doi.org/10.1016/s0140-6736(18)30293-9) | Ann M Starrs; Alex C Ezeh; Gary Barker; ... | 2018 | The Lancet | 1,416 |
 | 194 | [Deep Fakes: A Looming Challenge for Privacy, Democracy, and National S...](https://doi.org/10.2139/ssrn.3213954) | Robert Chesney; Danielle Keats Citron | 2018 | SSRN Electronic Journal | 775 |
-| 195 | [Role of government policy in nutrition—barriers to and opportunities f...](https://doi.org/10.1136/bmj.k2426) | Dariush Mozaffarian; Sonia Y. Angell; Ti... | 2018 | BMJ | 500 |
+| 195 | [Role of government policy in nutrition—barriers to and opportunities f...](https://doi.org/10.1136/bmj.k2426) | Dariush Mozaffarian; Sonia Y. Angell; Ti... | 2018 | BMJ | 501 |
 | 196 | [Ethical governance is essential to building trust in robotics and arti...](https://doi.org/10.1098/rsta.2018.0085) | Alan Winfield; Marina Jirotka | 2018 | Philosophical Transactions of ... | 425 |
 | 197 | [Cybersecurity in Hospitals: A Systematic, Organizational Perspective](https://doi.org/10.2196/10059) | Mohammad S. Jalali; Jessica Kaiser | 2018 | Journal of Medical Internet Re... | 249 |
 | 198 | [Innovation and public procurement: Terminology, concepts, and applicat...](https://doi.org/10.1016/j.technovation.2018.02.015) | Nikolaus Obwegeser; Sune Dueholm Müller | 2018 | Technovation | 128 |
@@ -373,7 +373,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 353 | [The level of compliance with the public procurement act (act 663) in G...](https://openalex.org/W725886) | Ernest Osei-Tutu; S. Mensdah; C. Ameya | 2011 | Research Repository (Delft Uni... | 17 |
 | 354 | [A Multivariate Investigation Of Transaction Cost Analysis Dimensions: ...](https://doi.org/10.19030/JABR.V15I3.5673) | T. Adler; R. Scherer | 2011 |  | 6 |
 | 355 | [10 Megawatts to a Better Education](https://doi.org/10.18260/1-2-1153-50026) | D. Schmalzel | 2011 | 2011 Spring ASEE Middle Atlant... | 0 |
-| 356 | [Advancing a Conceptual Model of Evidence-Based Practice Implementation...](https://doi.org/10.1007/s10488-010-0327-7) | Gregory A. Aarons; Michael S. Hurlburt; ... | 2010 | Administration and Policy in M... | 3,271 |
+| 356 | [Advancing a Conceptual Model of Evidence-Based Practice Implementation...](https://doi.org/10.1007/s10488-010-0327-7) | Gregory A. Aarons; Michael S. Hurlburt; ... | 2010 | Administration and Policy in M... | 3,272 |
 | 357 | [PROJECT MANAGEMENT BY MULTIMOORA AS AN INSTRUMENT FOR TRANSITION ECONO...](https://doi.org/10.3846/tede.2010.01) | Willem K. Brauers; Edmundas Kazimieras Z... | 2010 | Technological and Economic Dev... | 621 |
 | 358 | [The Use of Propensity Scores to Assess the Generalizability of Results...](https://doi.org/10.1111/j.1467-985x.2010.00673.x) | Elizabeth A. Stuart; Stephen R. Cole; Ca... | 2010 | Journal of the Royal Statistic... | 524 |
 | 359 | [Greece: Health System Review.](https://openalex.org/W2206365792) | Charalampos Economou | 2010 | PubMed | 281 |
@@ -459,7 +459,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 439 | [Agency-Level Bid Protest Reform: Time for a Little Less Efficiency?](https://doi.org/10.21236/ada433545) | Erik A. Troff | 2005 |  | 1 |
 | 440 | On the Improvement of Government Entrusted Tourism Planning Contract: ... | Chen Li | 2005 |  | 0 |
 | 441 | [Basic concepts and taxonomy of dependable and secure computing](https://doi.org/10.1109/tdsc.2004.2) | A. Avižienis; J.-C. Laprie; Brian Randel... | 2004 | IEEE Transactions on Dependabl... | 5,121 |
-| 442 | [From sectoral systems of innovation to socio-technical systems](https://doi.org/10.1016/j.respol.2004.01.015) | Frank W. Geels | 2004 | Research Policy | 3,765 |
+| 442 | [From sectoral systems of innovation to socio-technical systems](https://doi.org/10.1016/j.respol.2004.01.015) | Frank W. Geels | 2004 | Research Policy | 3,766 |
 | 443 | [Institutions as the Fundamental Cause of Long-Run Growth](https://doi.org/10.3386/w10481) | Daron Acemoğlu; Simon Johnson; James A. ... | 2004 |  | 2,032 |
 | 444 | [Privatization and Its Reverse: Explaining the Dynamics of the Governme...](https://doi.org/10.1093/jopart/muh012) | Abraham Hefetz | 2004 | Journal of Public Administrati... | 543 |
 | 445 | [The Encyclopedia of public choice](https://doi.org/10.5860/choice.41-5661) |  | 2004 | Choice Reviews Online | 386 |
