@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-27T11:20:36.454083",
-    "total_articles": 542,
-    "last_search_date": "2026-06-27"
+    "last_updated": "2026-06-28T11:42:02.935196",
+    "total_articles": 543,
+    "last_search_date": "2026-06-28"
   },
   "articles": [
     {
@@ -1582,7 +1582,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1570,
+      "citation_count": 1572,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -3948,7 +3948,7 @@
       "abstract": "We propose a distinction between active and passive waste as determinants of the cost of public services. Active waste entails utility for the public decision maker, whereas passive waste does not. We analyze purchases of standardized goods by Italian public bodies and exploit a policy experiment associated with a national procurement agency. We find that: (i) some public bodies pay systematically more than others for equivalent goods; (ii) differences are correlated with governance structure; (iii) the variation in prices is principally due to variation in passive rather than active waste; and (iv) passive waste accounts for 83 percent of total estimated waste. (JEL H11, H57, H83)",
       "doi": "https://doi.org/10.1257/aer.99.4.1278",
       "url": "https://openalex.org/W1964939538",
-      "citation_count": 498,
+      "citation_count": 499,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973159"
@@ -4620,7 +4620,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3777,
+      "citation_count": 3778,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -6495,7 +6495,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/palgrave.jibs.8490432",
       "url": "https://openalex.org/W2082006326",
-      "citation_count": 2358,
+      "citation_count": 2359,
       "source": "openalex",
       "id": "4fd6239e2a50c88130df613b1b4ec8fa",
       "date_found": "2026-06-09T12:30:15.710639",
@@ -6509,7 +6509,7 @@
       "abstract": "This article examines outsourcing from the transaction cost economics (TCE) perspective. The transaction is made the basic unit of analysis and the procurement decision, as between make and buy, is made (principally) with reference to a transaction cost economizing purpose. As sketched herein, the ease of contracting varies with the attributes of the transaction, with special emphasis on whether preserving continuity between a particular buyer–seller pair is the source of added value. The basic regularity is this: as bilateral dependency builds up, the efficient governance of contractual relations progressively moves from simple market exchange to hybrid contracting (with credibility supports) to hierarchy. This last corresponds to the “make” decision, which, as viewed from the TCE perspective, is viewed as the organization form of last resort. The article successively describes the lens of contract approach to economic organization, the operationalization of TCE, different styles of outsourcing, qualifications to the foregoing and the main lessons of TCE for the supply chain literature.",
       "doi": "https://doi.org/10.1111/j.1745-493x.2008.00051.x",
       "url": "https://openalex.org/W2139616932",
-      "citation_count": 980,
+      "citation_count": 981,
       "source": "openalex",
       "id": "96ec9eb2e77ec19440e0c02860fc9ef1",
       "date_found": "2026-06-09T12:30:15.710658",
@@ -6579,7 +6579,7 @@
       "abstract": "Empirical evidence shows local government contracting is a dynamic process that includes movements from public delivery to markets and from market contracts back to in-house delivery. This “reverse contracting” reflects the complexity of public service provision in a world where market alternatives are used along with public delivery. We develop a methodology to link responses to national surveys and create a longitudinal data set that captures the dynamics of the contracting process. We present a framework that incorporates principal agent problems, government management, monitoring and citizen concerns, and market structure. Our statistical analysis finds government management, monitoring, and principal agent problems to be most important in explaining both new contracting out and contracting back-in. Professional managers recognize the importance of monitoring and the need for public engagement in the service delivery process. The results support the new public service that argues public managers do more than steer a market process; they balance technical and political concerns to secure public value.",
       "doi": "https://doi.org/10.1093/jopart/muh012",
       "url": "https://openalex.org/W2164437762",
-      "citation_count": 543,
+      "citation_count": 544,
       "source": "openalex",
       "id": "7cd184b7984a80325c7651925fe2f3e4",
       "date_found": "2026-06-09T12:30:15.710699",
@@ -7335,7 +7335,7 @@
       "abstract": "The metaverse has the potential to extend the physical world using augmented and virtual reality technologies allowing users to seamlessly interact within real and simulated environments using avatars and holograms. Virtual environments and immersive games (such as, Second Life, Fortnite, Roblox and VRChat) have been described as antecedents of the metaverse and offer some insight to the potential socio-economic impact of a fully functional persistent cross platform metaverse. Separating the hype and “meta…” rebranding from current reality is difficult, as “big tech” paints a picture of the transformative nature of the metaverse and how it will positively impact people in their work, leisure, and social interaction. The potential impact on the way we conduct business, interact with brands and others, and develop shared experiences is likely to be transformational as the distinct lines between physical and digital are likely to be somewhat blurred from current perceptions. However, although the technology and infrastructure does not yet exist to allow the development of new immersive virtual worlds at scale - one that our avatars could transcend across platforms, researchers are increasingly examining the transformative impact of the metaverse. Impacted sectors include marketing, education, healthcare as well as societal effects relating to social interaction factors from widespread adoption, and issues relating to trust, privacy, bias, disinformation, application of law as well as psychological aspects linked to addiction and impact on vulnerable people. This study examines these topics in detail by combining the informed narrative and multi-perspective approach from experts with varied disciplinary backgrounds on many aspects of the metaverse and its transformational impact. The paper concludes by proposing a future research agenda that is valuable for researchers, professionals and policy makers alike.",
       "doi": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
       "url": "https://openalex.org/W4285585446",
-      "citation_count": 2582,
+      "citation_count": 2583,
       "source": "openalex",
       "id": "f08413ddee621036d0109c5f01bc9583",
       "date_found": "2026-06-09T12:30:30.537784",
@@ -7349,7 +7349,7 @@
       "abstract": "Despite evidence of a positive relationship between information technology (IT) investments and firm performance, results still vary across firms and performance measures. We explore two organizational explanations for this variation: differences in firms' IT investment allocations and their IT capabilities. We develop a theoretical model of IT resources, defined as the combination of specific IT assets and organizational IT capabilities. We argue that investments into different IT assets are guided by firms' strategies (e.g., cost leadership or innovation) and deliver value along performance dimensions consistent with their strategic purpose. We hypothesize that firms derive additional value per IT dollar through a mutually reinforcing system of organizational IT capabilities built on complementary practices and competencies. Empirically, we test the impact of IT assets, IT capabilities, and their combination on four dimensions of firm performance: market valuation, profitability, cost, and innovation. Our results—based on data on IT investment allocations and IT capabilities in 147 U.S. firms from 1999 to 2002—demonstrate that IT investment allocations and organizational IT capabilities drive differences in firm performance. Firms' total IT investment is not associated with performance, but investments in specific IT assets explain performance differences along dimensions consistent with their strategic purpose. In addition, a system of organizational IT capabilities strengthens the performance effects of IT assets and broadens their impact beyond their intended purpose. The results help explain variance in returns to IT capital across firms and expand our understanding of alignment between IT and organizations. We illustrate our findings with examples from a case study of 7-Eleven Japan.",
       "doi": "https://doi.org/10.1287/orsc.1070.0306",
       "url": "https://openalex.org/W2123192905",
-      "citation_count": 948,
+      "citation_count": 949,
       "source": "openalex",
       "id": "1fc40575578b44c5ebbf6ed547e1d1b0",
       "date_found": "2026-06-09T12:30:30.537799",
@@ -7592,6 +7592,20 @@
       "id": "923308b5184b78fa2b9ddc71db69dab4",
       "date_found": "2026-06-24T12:13:38.263526",
       "search_query": "change orders renegotiation public procurement"
+    },
+    {
+      "title": "Design of public procurement auctions: evidence from cleaning contracts",
+      "authors": "Ari Hyytinen; Sofia Lundberg; Otto Toivanen",
+      "year": 2018,
+      "journal": "The RAND Journal of Economics",
+      "abstract": "Abstract We analyze a regime change from beauty contests to first‐price sealed‐bid and scoring auctions, using Swedish data on public procurement of cleaning services. In beauty contests, the lowest bid often lost, leaving substantial money on the table. The procurement costs were similar before and after the regime change: (i) Entry strongly decreases the procurement cost but did not change. Entry would have decreased had the municipalities not adjusted the objects of auctions. (ii) Municipalities favored in‐house suppliers in the old regime, leading to more aggressive bidding by others. With favoritism reduced, these changes balanced each other out.",
+      "doi": "https://doi.org/10.1111/1756-2171.12232",
+      "url": "https://openalex.org/W3121710600",
+      "citation_count": 32,
+      "source": "openalex",
+      "id": "0e76082ccb312970ade91a2343eaa4f1",
+      "date_found": "2026-06-28T11:41:48.892977",
+      "search_query": "best value tradeoff public procurement"
     }
   ]
 }
