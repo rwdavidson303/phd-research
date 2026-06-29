@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**543 total articles** in the database | Last updated: June 28, 2026
+**543 total articles** in the database | Last updated: June 29, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -242,7 +242,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 222 | [Circular Cities: Mapping Six Cities in Transition](https://doi.org/10.1016/j.eist.2017.03.002) | Sharon Prendeville; E.L.G. Cherim; Nancy... | 2017 | Environmental Innovation and S... | 455 |
 | 223 | [A guide to aid the selection of diagnostic tests](https://doi.org/10.2471/blt.16.187468) | Cara Kosack; Anne‐Laure Page; Paul Klats... | 2017 | Bulletin of the World Health O... | 419 |
 | 224 | [National Study of Excellence and Innovation in Physical Therapist Educ...](https://doi.org/10.1093/ptj/pzx062) | Gail M. Jensen; Laurita M. Hack; Terrenc... | 2017 | Physical Therapy | 156 |
-| 225 | [Profiling causative factors leading to construction project delays in ...](https://doi.org/10.1108/ecam-05-2015-0072) | Bekithemba Mpofu; Edward G. Ochieng; Cle... | 2017 | Engineering Construction & Arc... | 138 |
+| 225 | [Profiling causative factors leading to construction project delays in ...](https://doi.org/10.1108/ecam-05-2015-0072) | Bekithemba Mpofu; Edward G. Ochieng; Cle... | 2017 | Engineering Construction & Arc... | 139 |
 | 226 | [The role of multi-actor governance in aligning farm modernization and ...](https://doi.org/10.1016/j.jrurstud.2017.03.012) | Marlinde Koopmans; Elke Rogge; Evy Mette... | 2017 | Journal of Rural Studies | 137 |
 | 227 | [Devolution and its effects on health workforce and commodities managem...](https://doi.org/10.1186/s12939-017-0663-2) | Benjamin Tsofa; Catherine Goodman; Lucy ... | 2017 | International Journal for Equi... | 105 |
 | 228 | [Modelling, assessing, and ranking public procurement options for a cli...](https://doi.org/10.1007/s11367-017-1306-y) | Alessandro Kim Cerutti; Fulvio Ardente; ... | 2017 | The International Journal of L... | 72 |
