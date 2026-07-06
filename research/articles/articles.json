@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-05T11:23:25.921967",
+    "last_updated": "2026-07-06T13:38:03.041499",
     "total_articles": 543,
-    "last_search_date": "2026-07-05"
+    "last_search_date": "2026-07-06"
   },
   "articles": [
     {
@@ -1288,7 +1288,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1634,
+      "citation_count": 1635,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -1582,7 +1582,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1590,
+      "citation_count": 1591,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -2982,7 +2982,7 @@
       "abstract": "Contract management is an important activity in public procurement especially on executing development projects while aiming at value for money. On the contrary, reports from the Public Procurement Regulatory Authority show that funds have been wasted due to poor contract management practices hindering value for money achievement. Hence, the study aimed at assessing the contribution contracts management practices towards value for money achievement. Questionnaires and Interviews were used for data collection and findings revealed that contracts contained all the necessary conditions, contracts practices of time management, quality management and costs control were effective and resulted into value for money achievement. Therefore, value for money was achieved above average scale by considering qualitative measures and it was recommended that more efforts are needed to enhance supervision and enforce defect liability clause.",
       "doi": "https://doi.org/10.1108/jopp-15-02-2015-b001",
       "url": "https://openalex.org/W2772881656",
-      "citation_count": 29,
+      "citation_count": 30,
       "search_query": "value for money public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:46.692412"
@@ -6019,7 +6019,7 @@
       "abstract": "Abstract We adapt simple tools from computational linguistics to construct a new measure of political risk faced by individual U.S. firms: the share of their quarterly earnings conference calls that they devote to political risks. We validate our measure by showing that it correctly identifies calls containing extensive conversations on risks that are political in nature, that it varies intuitively over time and across sectors, and that it correlates with the firm’s actions and stock market volatility in a manner that is highly indicative of political risk. Firms exposed to political risk retrench hiring and investment and actively lobby and donate to politicians. These results continue to hold after controlling for news about the mean (as opposed to the variance) of political shocks. Interestingly, the vast majority of the variation in our measure is at the firm level rather than at the aggregate or sector level, in the sense that it is captured neither by the interaction of sector and time fixed effects nor by heterogeneous exposure of individual firms to aggregate political risk. The dispersion of this firm-level political risk increases significantly at times with high aggregate political risk. Decomposing our measure of political risk by topic, we find that firms that devote more time to discussing risks associated with a given political topic tend to increase lobbying on that topic, but not on other topics, in the following quarter.",
       "doi": "https://doi.org/10.1093/qje/qjz021",
       "url": "https://openalex.org/W2770414254",
-      "citation_count": 1399,
+      "citation_count": 1401,
       "source": "openalex",
       "id": "557a60b1cde7024d05b5c5b951976bf4",
       "date_found": "2026-04-05T10:24:30.267487",
@@ -7335,7 +7335,7 @@
       "abstract": "The metaverse has the potential to extend the physical world using augmented and virtual reality technologies allowing users to seamlessly interact within real and simulated environments using avatars and holograms. Virtual environments and immersive games (such as, Second Life, Fortnite, Roblox and VRChat) have been described as antecedents of the metaverse and offer some insight to the potential socio-economic impact of a fully functional persistent cross platform metaverse. Separating the hype and “meta…” rebranding from current reality is difficult, as “big tech” paints a picture of the transformative nature of the metaverse and how it will positively impact people in their work, leisure, and social interaction. The potential impact on the way we conduct business, interact with brands and others, and develop shared experiences is likely to be transformational as the distinct lines between physical and digital are likely to be somewhat blurred from current perceptions. However, although the technology and infrastructure does not yet exist to allow the development of new immersive virtual worlds at scale - one that our avatars could transcend across platforms, researchers are increasingly examining the transformative impact of the metaverse. Impacted sectors include marketing, education, healthcare as well as societal effects relating to social interaction factors from widespread adoption, and issues relating to trust, privacy, bias, disinformation, application of law as well as psychological aspects linked to addiction and impact on vulnerable people. This study examines these topics in detail by combining the informed narrative and multi-perspective approach from experts with varied disciplinary backgrounds on many aspects of the metaverse and its transformational impact. The paper concludes by proposing a future research agenda that is valuable for researchers, professionals and policy makers alike.",
       "doi": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
       "url": "https://openalex.org/W4285585446",
-      "citation_count": 2591,
+      "citation_count": 2592,
       "source": "openalex",
       "id": "f08413ddee621036d0109c5f01bc9583",
       "date_found": "2026-06-09T12:30:30.537784",
@@ -7573,7 +7573,7 @@
       "abstract": "ABSTRACT This article surveys research on corporate governance, with special attention to the importance of legal protection of investors and of ownership concentration in corporate governance systems around the world.",
       "doi": "https://doi.org/10.1111/j.1540-6261.1997.tb04820.x",
       "url": "https://openalex.org/W3121693921",
-      "citation_count": 16249,
+      "citation_count": 16252,
       "source": "openalex",
       "id": "6948233fd456dc76c6403c5718838d69",
       "date_found": "2026-06-24T12:13:32.715936",
