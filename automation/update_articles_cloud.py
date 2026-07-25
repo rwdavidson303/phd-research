@@ -13,6 +13,7 @@ Usage:
 
 import argparse
 import hashlib
+import html
 import json
 import re
 import time
@@ -224,6 +225,24 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
     ARTICLES_PAGE.write_text(page)
 
 
+def normalize_doi(doi):
+    """Normalize a DOI for comparison: lowercase, strip trailing slash and
+    any doi.org URL prefix, so "https://doi.org/10.x/y" == "10.x/y"."""
+    d = (doi or "").strip().rstrip("/").lower()
+    for prefix in ("https://doi.org/", "http://doi.org/", "doi.org/"):
+        if d.startswith(prefix):
+            d = d[len(prefix):]
+            break
+    return d
+
+
+def normalize_title(title):
+    """Normalize a title for comparison: unescape HTML entities (twice, for
+    double-escaped values like "R&amp;amp;D"), then keep only [a-z0-9]."""
+    raw = html.unescape(html.unescape(title or ""))
+    return re.sub(r'[^a-z0-9]', '', raw.lower())
+
+
 def deduplicate_articles(existing):
     """Remove duplicate articles by checking DOI and normalized titles.
 
@@ -234,11 +253,9 @@ def deduplicate_articles(existing):
     duplicates_to_remove = set()
 
     for aid, article in existing.items():
-        doi = (article.get("doi") or "").strip().rstrip("/")
-        if not doi:
+        doi_lower = normalize_doi(article.get("doi"))
+        if not doi_lower:
             continue
-        # Normalize DOI
-        doi_lower = doi.lower()
         if doi_lower in doi_index:
             # Keep the one with higher citations, or the earlier one
             other_aid = doi_index[doi_lower]
@@ -256,7 +273,7 @@ def deduplicate_articles(existing):
     for aid, article in existing.items():
         if aid in duplicates_to_remove:
             continue
-        title_norm = re.sub(r'[^a-z0-9]', '', (article.get("title") or "").lower())
+        title_norm = normalize_title(article.get("title"))
         if not title_norm:
             continue
         if title_norm in title_index:
@@ -330,10 +347,10 @@ def run_search(dry_run=False):
     doi_set = set()
     title_set = set()
     for a in existing.values():
-        doi = (a.get("doi") or "").strip().rstrip("/").lower()
+        doi = normalize_doi(a.get("doi"))
         if doi:
             doi_set.add(doi)
-        title_norm = re.sub(r'[^a-z0-9]', '', (a.get("title") or "").lower())
+        title_norm = normalize_title(a.get("title"))
         if title_norm:
             title_set.add(title_norm)
 
@@ -357,12 +374,12 @@ def run_search(dry_run=False):
                 continue
 
             # Check by DOI
-            doi = (article.get("doi") or "").strip().rstrip("/").lower()
+            doi = normalize_doi(article.get("doi"))
             if doi and doi in doi_set:
                 continue
 
             # Check by normalized title
-            title_norm = re.sub(r'[^a-z0-9]', '', (article.get("title") or "").lower())
+            title_norm = normalize_title(article.get("title"))
             if title_norm and title_norm in title_set:
                 continue
 

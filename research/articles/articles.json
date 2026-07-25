@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-07-25T11:01:34.966786",
-    "total_articles": 565,
+    "last_updated": "2026-07-25T11:23:53.255154",
+    "total_articles": 563,
     "last_search_date": "2026-07-25"
   },
   "articles": [
@@ -60,20 +60,6 @@
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973255"
-    },
-    {
-      "id": "3f9fb49216711099fa62633d8a1dc121",
-      "title": "The impact of the centralized volume-based procurement policy on Chinese pharmaceutical manufacturing firms’ R&D investment: A difference-in-differences approach",
-      "authors": "Fang Qiu; Shouming Chen; Yujia Li; Xianjing Wang; Mengfei Zhu",
-      "year": 2025,
-      "journal": "PLoS ONE",
-      "abstract": "Centralized drug procurement is a common practice worldwide to relieve the healthcare burden and promote high-quality development in the pharmaceutical industry. However, scholars have not yet reached an agreement on whether centralized procurement can facilitate the innovation activities of pharmaceutical firms. China’s centralized volume-based procurement (CVBP) implemented in 2018 provides an ideal quasi-natural experiment to evaluate the effect of centralized procurement on the R&D investment of the firms. Drawing data from listed manufacturing firms in China’s A-share market (2015–2020), the results from a difference-in-differences analysis with different model specifications indicate that the CVBP significantly promotes the pharmaceutical manufacturing firms’ R&D investment. Moreover, the positive effect of the CVBP on R&D investment is stronger in pharmaceutical manufacturing firms with high marketing expenses. A series of robustness tests including the parallel trend test, placebo test, and the PSM-DID analysis show that our findings are solid. This paper advances our understanding of centralized procurement in emerging markets and provides new insights into how governments and pharmaceutical manufacturing firms can strengthen innovation.",
-      "doi": "10.1371/journal.pone.0315811",
-      "url": "https://www.semanticscholar.org/paper/cca706938325840d99acc086616e54c9ed04e042",
-      "citation_count": 5,
-      "search_query": "difference-in-differences procurement policy",
-      "source": "semantic_scholar",
-      "date_found": "2026-02-08T13:18:14.878054"
     },
     {
       "id": "a3d53a127e561d04704121f5a5c17ae9",
@@ -634,20 +620,6 @@
       "search_query": "propensity score matching public administration",
       "source": "semantic_scholar",
       "date_found": "2026-02-14T07:07:03.345680"
-    },
-    {
-      "id": "8864f985e83a8b40029c900ee9e13cc5",
-      "title": "Impact of National Centralized Drug Procurement policy on chemical pharmaceutical enterprises’ R&amp;D investment: a difference-in-differences analysis in China",
-      "authors": "Jiaming Li; Xinyue Zhang; Rui Wang; Keyao Cao; Luhui Wan",
-      "year": 2024,
-      "journal": "Frontiers in Public Health",
-      "abstract": "Objective This study aimed to evaluate the impact of the National Centralized Drug Procurement (NCDP) policy on chemical pharmaceutical enterprises’ R&amp;amp;D investment and provide references for improving NCDP policy design and encouraging innovation in the pharmaceutical industry. Methods Using the panel data of 102 Shanghai and Shenzhen A-share listed enterprises from 2016 to 2022 under the chemical pharmaceutical classification of Shenwan in Wind database as the research sample, this study developed difference-in-differences (DID) models on bid-winning and bid-non-winning enterprises, respectively, to evaluate the impact of NCDP policy on their R&amp;amp;D investment. In addition, this study tested the heterogeneity of bid-winning enterprises based on the bid success rate, the decline of drug price, and enterprise size. Results The NCDP policy could encourage chemical pharmaceutical companies to increase R&amp;amp;D investment, but the low bid success rate and excessive drug price reduction would reduce their R&amp;amp;D enthusiasm, especially for small- and medium-sized enterprises. Discussion It is suggested that the NCDP policy should be further improved: first, revise the bidding rule of the NCDP policy and increase the bid success rate so that more enterprises can win bids, and second, to solve the problem of excessive drug price reduction, evaluate the rationality of bid-winning prices, and introduce a two-way selection mechanism between medical institutions and supply enterprises. Integrate pharmacoeconomic evaluation into the NCDP rules to form a benign competition among enterprises. Third, attention should be paid to supporting policies for small- and medium-sized enterprises. By increasing procurement volume, shortening payment time limits, and increasing the proportion of advance payments, enterprises’ cash flow shortages can be alleviated, thus achieving fairness and inclusiveness in the implementation of the NCDP policy.",
-      "doi": "https://doi.org/10.3389/fpubh.2024.1402581",
-      "url": "https://openalex.org/W4400215331",
-      "citation_count": 5,
-      "search_query": "difference-in-differences procurement policy",
-      "source": "openalex",
-      "date_found": "2026-02-08T13:18:09.973271"
     },
     {
       "id": "3b0b6ec5c3b013a2af311eab96a4cdbc",

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3:*)",
+      "Bash(python3:*)",
+      "Bash(hugo:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd linked articles sorted newest-first, open in new tab\n\n- Article titles now link to original source \\(DOI or OpenAlex\\)\n- All 254 articles listed newest to oldest by year\n- External links open in new browser tab via JS\n- Fixed DOI double-prefix issue for URLs stored as full DOIs\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(gh run list:*)",
+      "Bash(git commit:*)",
+      "WebSearch"
+    ]
+  }
+}
