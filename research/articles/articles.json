@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-26T11:13:17.836080",
+    "last_updated": "2026-07-27T12:50:21.379031",
     "total_articles": 564,
-    "last_search_date": "2026-07-26"
+    "last_search_date": "2026-07-27"
   },
   "articles": [
     {
@@ -1260,7 +1260,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1693,
+      "citation_count": 1695,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -1554,7 +1554,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1634,
+      "citation_count": 1635,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -2142,7 +2142,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 3187,
+      "citation_count": 3188,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -3696,7 +3696,7 @@
       "abstract": "China's economic reforms have resulted in spectacular growth and poverty reduction. However, China's institutions look ill-suited to achieve such a result, and they indeed suffer from serious shortcomings. To solve the “China puzzle,” this paper analyzes China's institution—a regionally decentralized authoritarian system. The central government has control over personnel, whereas subnational governments run the bulk of the economy; and they initiate, negotiate, implement, divert, and resist reforms, policies, rules, and laws. China's reform trajectories have been shaped by regional decentralization. Spectacular performance on the one hand and grave problems on the other hand are all determined by this governance structure. (JEL O17, O18, O43, P21, P25, P26)",
       "doi": "https://doi.org/10.1257/jel.49.4.1076",
       "url": "https://openalex.org/W2128368240",
-      "citation_count": 2616,
+      "citation_count": 2617,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850483"
@@ -3906,7 +3906,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 4932,
+      "citation_count": 4934,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -4592,7 +4592,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3807,
+      "citation_count": 3809,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -6411,7 +6411,7 @@
       "abstract": "In public sector procurement, social welfare often depends on the time taken to complete the contract. A leading example is highway construction, where slow completion times inflict a negative externality on commuters. Recently, highway departments have introduced innovative contracting methods based on scoring auctions that give contractors explicit time incentives. We characterize equilibrium bidding and efficient design of these contracts. We then gather an extensive data set of highway repair projects awarded by the California Department of Transportation between 2003 and 2008 that includes both innovative and standard contracts. Comparing similar con-tracts in which the innovative design was and was not used, we show that the welfare gains to commuters from quicker completion substantially exceeded the increase in the winning bid. Having argued that the current policy is effective, we then develop a structural econometric model that endogenizes participation and bidding to examine counterfactual policies. Our estimates suggest that while the current policy raised com-muter surplus relative to the contractor's costs by $359M (6.8% of the total contract value), the optimal policy would raise it by $1.52B (29%).",
       "doi": "https://doi.org/10.1093/qje/qjr026",
       "url": "https://openalex.org/W2147440516",
-      "citation_count": 232,
+      "citation_count": 233,
       "source": "openalex",
       "id": "e55ebbf32d09e469aa643a5dd950c802",
       "date_found": "2026-06-09T12:30:13.669409",
@@ -7601,7 +7601,7 @@
       "abstract": "Due to the increased demand of animal protein in developing countries, intensive farming is instigated, which results in antibiotic residues in animal-derived products, and eventually, antibiotic resistance. Antibiotic resistance is of great public health concern because the antibiotic-resistant bacteria associated with the animals may be pathogenic to humans, easily transmitted to humans via food chains, and widely disseminated in the environment via animal wastes. These may cause complicated, untreatable, and prolonged infections in humans, leading to higher healthcare cost and sometimes death. In the said countries, antibiotic resistance is so complex and difficult, due to irrational use of antibiotics both in the clinical and agriculture settings, low socioeconomic status, poor sanitation and hygienic status, as well as that zoonotic bacterial pathogens are not regularly cultured, and their resistance to commonly used antibiotics are scarcely investigated (poor surveillance systems). The challenges that follow are of local, national, regional, and international dimensions, as there are no geographic boundaries to impede the spread of antibiotic resistance. In addition, the information assembled in this study through a thorough review of published findings, emphasized the presence of antibiotics in animal-derived products and the phenomenon of multidrug resistance in environmental samples. This therefore calls for strengthening of regulations that direct antibiotic manufacture, distribution, dispensing, and prescription, hence fostering antibiotic stewardship. Joint collaboration across the world with international bodies is needed to assist the developing countries to implement good surveillance of antibiotic use and antibiotic resistance.",
       "doi": "https://doi.org/10.3390/molecules23040795",
       "url": "https://openalex.org/W2794891594",
-      "citation_count": 1794,
+      "citation_count": 1795,
       "source": "openalex",
       "id": "ec6612e44309a33be5ae5d115b341e84",
       "date_found": "2026-07-16T11:26:27.386006",
