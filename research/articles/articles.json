@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-14T16:03:28.374984",
-    "total_articles": 611,
-    "last_search_date": "2026-09-14"
+    "last_updated": "2026-09-15T14:33:07.628788",
+    "total_articles": 612,
+    "last_search_date": "2026-09-15"
   },
   "articles": [
     {
@@ -1260,7 +1260,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1844,
+      "citation_count": 1847,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -1554,7 +1554,7 @@
       "abstract": "Abstract The authors develop a three-stage framework for strategic marketing planning, incorporating multiple artificial intelligence (AI) benefits: mechanical AI for automating repetitive marketing functions and activities, thinking AI for processing data to arrive at decisions, and feeling AI for analyzing interactions and human emotions. This framework lays out the ways that AI can be used for marketing research, strategy (segmentation, targeting, and positioning, STP), and actions. At the marketing research stage, mechanical AI can be used for data collection, thinking AI for market analysis, and feeling AI for customer understanding. At the marketing strategy (STP) stage, mechanical AI can be used for segmentation (segment recognition), thinking AI for targeting (segment recommendation), and feeling AI for positioning (segment resonance). At the marketing action stage, mechanical AI can be used for standardization, thinking AI for personalization, and feeling AI for relationalization. We apply this framework to various areas of marketing, organized by marketing 4Ps/4Cs, to illustrate the strategic use of AI.",
       "doi": "https://doi.org/10.1007/s11747-020-00749-9",
       "url": "https://openalex.org/W3094793347",
-      "citation_count": 1878,
+      "citation_count": 1880,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582392"
@@ -2142,7 +2142,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 3412,
+      "citation_count": 3417,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -4102,7 +4102,7 @@
       "abstract": "Should the buyer of a customized good use competitive bidding or negotiation to select a contractor? To shed light on this question, we consider several possible determinants that may influence the choice of auctions versus negotiations. We then examine a comprehensive data set of private sector building contracts awarded in Northern California during the years 1995--2000. The analysis suggests a number of possible limitations to the use of auctions. Auctions may perform poorly when projects are complex, contractual design is incomplete, and there are few available bidders. Furthermore, auctions may stifle communication between buyers and sellers, preventing the buyer from utilizing the contractor's expertise when designing the project. Some implications of these results for procurement in the public sector are discussed (JEL D23, D82, H57, L14, L22, L74). The Author 2008. Published by Oxford University Press on behalf of Yale University. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org, Oxford University Press.",
       "doi": "https://doi.org/10.1093/jleo/ewn002",
       "url": "https://openalex.org/W3022209982",
-      "citation_count": 448,
+      "citation_count": 449,
       "search_query": "contract incompleteness procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:56.981742"
@@ -4592,7 +4592,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3894,
+      "citation_count": 3896,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -5935,7 +5935,7 @@
       "abstract": "Consider a firm developing an innovative product. Due to market pressures, production must begin soon after the product development effort is complete, which requires that an upstream supplier invests in capacity while the design of the product and production process are in flux. Because the product is ill-defined at this point in time, the firms are unable to write court-enforceable contracts that specify the terms of trade or the supplier's capacity investment. However, the firms can adopt an informal agreement (relational contract) regarding the terms of trade and capacity investment. The potential for future business provides incentive for the firms to adhere to the relational contract. We show that the optimal relational contract may be complex, requiring the buyer to order more than her demand to indirectly monitor the supplier's capacity investment. We propose a simpler relational contract and show that it performs very well for a broad range of parameters. Finally, we identify characteristics of the business environment that make relational contracting particularly valuable.",
       "doi": "https://doi.org/10.1287/mnsc.1070.0708",
       "url": "https://openalex.org/W1965590577",
-      "citation_count": 223,
+      "citation_count": 224,
       "source": "openalex",
       "id": "f0e5c0fa45f8ee1c5596d6113ff80724",
       "date_found": "2026-04-05T10:24:27.800030",
@@ -6215,7 +6215,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/jibs.2014.43",
       "url": "https://openalex.org/W2091626777",
-      "citation_count": 652,
+      "citation_count": 653,
       "source": "openalex",
       "id": "e1030420f94bd4c6dd37d7b96fcfe1de",
       "date_found": "2026-06-09T12:30:10.160049",
@@ -6313,7 +6313,7 @@
       "abstract": "The debate about the ethical implications of Artificial Intelligence dates from the 1960s (Samuel in Science, 132(3429):741-742, 1960. https://doi.org/10.1126/science.132.3429.741 ; Wiener in Cybernetics: or control and communication in the animal and the machine, MIT Press, New York, 1961). However, in recent years symbolic AI has been complemented and sometimes replaced by (Deep) Neural Networks and Machine Learning (ML) techniques. This has vastly increased its potential utility and impact on society, with the consequence that the ethical debate has gone mainstream. Such a debate has primarily focused on principles-the 'what' of AI ethics (beneficence, non-maleficence, autonomy, justice and explicability)-rather than on practices, the 'how.' Awareness of the potential issues is increasing at a fast rate, but the AI community's ability to take action to mitigate the associated risks is still at its infancy. Our intention in presenting this research is to contribute to closing the gap between principles and practices by constructing a typology that may help practically-minded developers apply ethics at each stage of the Machine Learning development pipeline, and to signal to researchers where further work is needed. The focus is exclusively on Machine Learning, but it is hoped that the results of this research may be easily applicable to other branches of AI. The article outlines the research method for creating this typology, the initial findings, and provides a summary of future research needs.",
       "doi": "https://doi.org/10.1007/s11948-019-00165-5",
       "url": "https://openalex.org/W2996541402",
-      "citation_count": 845,
+      "citation_count": 846,
       "source": "openalex",
       "id": "6d1774cb73d438164ea9c3f032e21320",
       "date_found": "2026-06-09T12:30:12.293561",
@@ -6495,7 +6495,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.jfineco.2007.02.007",
       "url": "https://openalex.org/W3125469707",
-      "citation_count": 3645,
+      "citation_count": 3646,
       "source": "openalex",
       "id": "ff79ac77339088ec0333bae1cade42a6",
       "date_found": "2026-06-09T12:30:15.710667",
@@ -7097,7 +7097,7 @@
       "abstract": "Abstract We examine the penalties imposed on the 585 firms targeted by SEC enforcement actions for financial misrepresentation from 1978–2002, which we track through November 15, 2005. The penalties imposed on firms through the legal system average only $23.5 million per firm. The penalties imposed by the market, in contrast, are huge. Our point estimate of the reputational penalty—which we define as the expected loss in the present value of future cash flows due to lower sales and higher contracting and financing costs—is over 7.5 times the sum of all penalties imposed through the legal and regulatory system. For each dollar that a firm misleadingly inflates its market value, on average, it loses this dollar when its misconduct is revealed, plus an additional $3.08. Of this additional loss, $0.36 is due to expected legal penalties and $2.71 is due to lost reputation. In firms that survive the enforcement process, lost reputation is even greater at $3.83. In the cross section, the reputation loss is positively related to measures of the firm's reliance on implicit contracts. This evidence belies a widespread belief that financial misrepresentation is disciplined lightly. To the contrary, reputation losses impose substantial penalties for cooking the books.",
       "doi": "https://doi.org/10.1017/s0022109000004221",
       "url": "https://openalex.org/W3122978481",
-      "citation_count": 1367,
+      "citation_count": 1368,
       "source": "openalex",
       "id": "8f2f000ad7a5641d5266470f000c2b99",
       "date_found": "2026-06-09T12:30:27.601124",
@@ -7307,7 +7307,7 @@
       "abstract": "The metaverse has the potential to extend the physical world using augmented and virtual reality technologies allowing users to seamlessly interact within real and simulated environments using avatars and holograms. Virtual environments and immersive games (such as, Second Life, Fortnite, Roblox and VRChat) have been described as antecedents of the metaverse and offer some insight to the potential socio-economic impact of a fully functional persistent cross platform metaverse. Separating the hype and “meta…” rebranding from current reality is difficult, as “big tech” paints a picture of the transformative nature of the metaverse and how it will positively impact people in their work, leisure, and social interaction. The potential impact on the way we conduct business, interact with brands and others, and develop shared experiences is likely to be transformational as the distinct lines between physical and digital are likely to be somewhat blurred from current perceptions. However, although the technology and infrastructure does not yet exist to allow the development of new immersive virtual worlds at scale - one that our avatars could transcend across platforms, researchers are increasingly examining the transformative impact of the metaverse. Impacted sectors include marketing, education, healthcare as well as societal effects relating to social interaction factors from widespread adoption, and issues relating to trust, privacy, bias, disinformation, application of law as well as psychological aspects linked to addiction and impact on vulnerable people. This study examines these topics in detail by combining the informed narrative and multi-perspective approach from experts with varied disciplinary backgrounds on many aspects of the metaverse and its transformational impact. The paper concludes by proposing a future research agenda that is valuable for researchers, professionals and policy makers alike.",
       "doi": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
       "url": "https://openalex.org/W4285585446",
-      "citation_count": 2723,
+      "citation_count": 2724,
       "source": "openalex",
       "id": "f08413ddee621036d0109c5f01bc9583",
       "date_found": "2026-06-09T12:30:30.537784",
@@ -7601,7 +7601,7 @@
       "abstract": "Due to the increased demand of animal protein in developing countries, intensive farming is instigated, which results in antibiotic residues in animal-derived products, and eventually, antibiotic resistance. Antibiotic resistance is of great public health concern because the antibiotic-resistant bacteria associated with the animals may be pathogenic to humans, easily transmitted to humans via food chains, and widely disseminated in the environment via animal wastes. These may cause complicated, untreatable, and prolonged infections in humans, leading to higher healthcare cost and sometimes death. In the said countries, antibiotic resistance is so complex and difficult, due to irrational use of antibiotics both in the clinical and agriculture settings, low socioeconomic status, poor sanitation and hygienic status, as well as that zoonotic bacterial pathogens are not regularly cultured, and their resistance to commonly used antibiotics are scarcely investigated (poor surveillance systems). The challenges that follow are of local, national, regional, and international dimensions, as there are no geographic boundaries to impede the spread of antibiotic resistance. In addition, the information assembled in this study through a thorough review of published findings, emphasized the presence of antibiotics in animal-derived products and the phenomenon of multidrug resistance in environmental samples. This therefore calls for strengthening of regulations that direct antibiotic manufacture, distribution, dispensing, and prescription, hence fostering antibiotic stewardship. Joint collaboration across the world with international bodies is needed to assist the developing countries to implement good surveillance of antibiotic use and antibiotic resistance.",
       "doi": "https://doi.org/10.3390/molecules23040795",
       "url": "https://openalex.org/W2794891594",
-      "citation_count": 1834,
+      "citation_count": 1835,
       "source": "openalex",
       "id": "ec6612e44309a33be5ae5d115b341e84",
       "date_found": "2026-07-16T11:26:27.386006",
@@ -7895,7 +7895,7 @@
       "abstract": "Generating electricity from renewable sources is more expensive than conventional approaches but reduces pollution externalities. Analyzing the tradeoff is much more challenging than often presumed because the value of electricity is extremely dependent on the time and location at which it is produced, which is not very controllable with some renewables, such as wind and solar. Likewise, the pollution benefits from renewable generation depend on what type of generation it displaces, which also depends on time and location. Without incorporating these factors, cost–benefit analyses of alternatives are likely to be misleading. Other common arguments for subsidizing renewable power—green jobs, energy security, and driving down fossil energy prices—are unlikely to substantially alter the analysis. The role of intellectual property spillovers is a strong argument for subsidizing energy science research, but less persuasive as an enhancement to the value of installing current renewable energy technologies.",
       "doi": "https://doi.org/10.1257/jep.26.1.67",
       "url": "https://openalex.org/W2127625390",
-      "citation_count": 498,
+      "citation_count": 499,
       "source": "openalex",
       "id": "a40be3a1efa53cdc93a97957cffb8940",
       "date_found": "2026-07-26T11:12:59.878860",
@@ -8539,7 +8539,7 @@
       "abstract": "Much of the theory and discourse on public bureaucracies treats them negatively, as if they incline inevitably toward weak performance. This orientation prevails in spite of considerable evidence that many government organizations perform very well, and in spite of many examples of their excellent performance. This article draws on the literature and research on effective government organizations to select and develop conceptual elements of a theory to explain their effectiveness. The available research suggests that such a theory should include the following components: supportive behaviors from external stakeholders such as political authorities; agency autonomy in refining and implementing its mission; high “mission valence” (an attractive mission); a strong, mission-oriented culture; and certain leadership behaviors. The discussion further posits that these factors enhance several forms of motivation of people in the agency—task motivation, mission motivation, and public service motivation—that can be differentiated but that must be linked together in effective government agencies.",
       "doi": "https://doi.org/10.1093/oxfordjournals.jpart.a024401",
       "url": "https://openalex.org/W2065901891",
-      "citation_count": 1186,
+      "citation_count": 1187,
       "source": "openalex",
       "id": "0af2c153d597659991af8361ffa207be",
       "date_found": "2026-09-08T13:59:39.583047",
@@ -8558,6 +8558,20 @@
       "id": "87b9f63f07354b029ae67e7a5bc058b1",
       "date_found": "2026-09-08T13:59:40.447020",
       "search_query": "procurement oversight review boards delay"
+    },
+    {
+      "title": "Emerging Policy and Practice Issues (2018)",
+      "authors": "Steven L. Schooner; David Berteau",
+      "year": 2018,
+      "journal": "Scholarly Commons - George Washington University Law School (George Washington University)",
+      "abstract": "This paper/chapter, presented at the Thomson Reuters Government Contracts Year in Review Conference (covering 2018), attempts to identify the key evolving trends and issues in U.S. federal procurement for 2018 and beyond. Consistent with prior practice, this chapter offers extensive coverage of the federal procurement, grant, and defense spending trends and attempts to predict what lies ahead, particularly with regard to legislative and executive activity. This year's paper discusses, among other things, the high degree of uncertainty currently being experienced in the public procurement sphere, dramatic increases to the micro-purchase and simplified acquisition thresholds, the work of the Congressionally-mandated Section 809 and 813 Panels, the proliferation (and new guidance related to) other transactions (OT’s) and experimental authorities,the concerning state of the defense industrial base and critical under-investment in infrastructure, the Defense Acquisition University's new Adaptive Acquisition Framework and Contracting Cone, human capital and the acquisition workforce, available data for assessing the performance of the acquisition system, the leadership vacuum at the Office of Federal Procurement Policy (OFPP), the concept of \"Agile BS,\" and other potential trends.",
+      "doi": null,
+      "url": "https://openalex.org/W7213218352",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "8089fcd6e9796d2a08ffb108ac47abd5",
+      "date_found": "2026-09-15T14:32:45.144486",
+      "search_query": "LPTA lowest price technically acceptable outcomes"
     }
   ]
 }
