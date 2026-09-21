@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-20T13:48:50.487845",
+    "last_updated": "2026-09-21T16:05:23.090631",
     "total_articles": 612,
-    "last_search_date": "2026-09-20"
+    "last_search_date": "2026-09-21"
   },
   "articles": [
     {
@@ -2142,7 +2142,7 @@
       "abstract": "Research Summary: The recent surge of interest in “ecosystems” in strategy research and practice has mainly focused on what ecosystems are and how they operate. We complement this literature by considering when and why ecosystems emerge, and what makes them distinct from other governance forms. We argue that modularity enables ecosystem emergence as it allows a set of distinct yet interdependent organizations to coordinate without full hierarchical fiat. We show how ecosystems address multilateral dependences based on various types of complementarities—supermodular or unique, unidirectional or bidirectional—which determine the ecosystem's value‐add. We argue that at the core of ecosystems lie nongeneric complementarities, and the creation of sets of roles that face similar rules. We conclude with implications for mainstream strategy and suggestions for future research. Managerial Summary: We consider what makes ecosystems different from other business constellations, including markets, alliances, or hierarchically managed supply chains. Ecosystems, we posit, are interacting organizations, enabled by modularity, not hierarchically managed, bound together by the nonredeployability of their collective investment elsewhere. Ecosystems add value as they allow managers to coordinate their multilateral dependence through sets of roles that face similar rules, thus obviating the need to enter into customized contractual agreements with each partner. We explain how different types of complementarities (unique or supermodular, generic or specific, uni‐ or bi‐directional) shape ecosystems and offer a “theory of ecosystems” that can explain what they are, when they emerge, and why alignment occurs. Finally, we outline the critical factors affecting ecosystem emergence, evolution, and success—or failure.",
       "doi": "https://doi.org/10.1002/smj.2904",
       "url": "https://openalex.org/W2799670133",
-      "citation_count": 3432,
+      "citation_count": 3435,
       "search_query": "best value tradeoff public procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:34.943539"
@@ -3906,7 +3906,7 @@
       "abstract": "Many empirical questions in economics and other social sciences depend on causal effects of programs or policies. In the last two decades, much research has been done on the econometric and statistical analysis of such causal effects. This recent theoretical literature has built on, and combined features of, earlier work in both the statistics and econometrics literatures. It has by now reached a level of maturity that makes it an important tool in many areas of empirical research in economics, including labor economics, public finance, development economics, industrial organization, and other areas of empirical microeconomics. In this review, we discuss some of the recent developments. We focus primarily on practical issues for empirical researchers, as well as provide a historical overview of the area and give references to more technical research.",
       "doi": "https://doi.org/10.1257/jel.47.1.5",
       "url": "https://openalex.org/W3121385028",
-      "citation_count": 5006,
+      "citation_count": 5009,
       "search_query": "propensity score matching public administration",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:16.686645"
@@ -3962,7 +3962,7 @@
       "abstract": "Policy-makers in the EU have increasingly emphasised the role of public procurement as a policy instrument that can be used to stimulate innovation. This development reflects and responds to a growing concern among EU member states about how to maintain competitive advantage in an economic environment increasingly subject to global competition. To contribute to these emerging policies, this paper develops an innovation theory-based approach regarding public procurement of innovations, by elaborating an institutional focus. In contrast to current institutional approaches in innovation studies, the approach applied here brings in the often neglected endogenous perspective. The empirical studies cited in this paper suggest that the needs of endogenous, or informal, institutions also need to be taken into account in order to understand better the institutional set-up enabling public procurement of innovations.",
       "doi": "https://doi.org/10.3152/030234209x442025",
       "url": "https://openalex.org/W2038051007",
-      "citation_count": 135,
+      "citation_count": 136,
       "search_query": "competition public procurement innovation",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:04.513731"
@@ -4592,7 +4592,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2004.01.015",
       "url": "https://openalex.org/W2143834698",
-      "citation_count": 3915,
+      "citation_count": 3918,
       "search_query": "best value source selection government procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:24.021258"
@@ -4662,7 +4662,7 @@
       "abstract": "In recent years the issue of supply chain risk has been pushed to the fore, initially by fears related to possible disruptions from the much publicised ‘millennium bug’. Y2K passed seemingly without incident, though the widespread disruptions caused by fuel protests and then Foot and Mouth Disease in the UK, and by terrorist attacks on the USA have underlined the vulnerability of modern supply chains.&#13;\\n&#13;\\nDespite increasing awareness among practitioners, the concepts of supply chain vulnerability and its managerial counterpart supply chain risk management are still in their infancy. This paper seeks to identify an agenda for future research and to that end the authors go on to clarify the concept of supply chain risk management and to provide a working definition. The existing literature on supply chain vulnerability and risk management is reviewed and compared with findings from exploratory interviews undertaken to discover practitioners’ perceptions of supply chain risk and current supply chain risk management strategies.",
       "doi": "https://doi.org/10.1080/13675560310001627016",
       "url": "https://openalex.org/W2124098697",
-      "citation_count": 1619,
+      "citation_count": 1620,
       "search_query": "bid protest government procurement delay",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:01.817692"
@@ -6467,7 +6467,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1057/palgrave.jibs.8490432",
       "url": "https://openalex.org/W2082006326",
-      "citation_count": 2387,
+      "citation_count": 2388,
       "source": "openalex",
       "id": "4fd6239e2a50c88130df613b1b4ec8fa",
       "date_found": "2026-06-09T12:30:15.710639",
@@ -6495,7 +6495,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.jfineco.2007.02.007",
       "url": "https://openalex.org/W3125469707",
-      "citation_count": 3652,
+      "citation_count": 3653,
       "source": "openalex",
       "id": "ff79ac77339088ec0333bae1cade42a6",
       "date_found": "2026-06-09T12:30:15.710667",
@@ -6817,7 +6817,7 @@
       "abstract": "This research investigates how levels of citizen trust in government and compliance are affected by citizens' use of the Internet. Starting from the premise that information is a key determinant of public opinion and citizen behavior, this research explores the extent to which the time that citizens spend on the Internet affects their trust in government and compliance with government policies, compared with the influence of the traditional, offline, mass media modalities, such as newspapers. In addition, we also assess the impact of citizens' use of e-government on levels of trust in government and compliance. The results of the analyses suggest that the more time individuals spend on the Internet, the lower their degree of trust in government and lower level of citizen compliance. However, our results also suggest that such negative effects of the Internet can be moderated through citizens' increased use of e-government.",
       "doi": "https://doi.org/10.1093/jopart/mus037",
       "url": "https://openalex.org/W2132377592",
-      "citation_count": 244,
+      "citation_count": 245,
       "source": "openalex",
       "id": "6871fdf199fe5586db0fb10185f8171c",
       "date_found": "2026-06-09T12:30:22.437743",
@@ -7279,7 +7279,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.respol.2011.02.005",
       "url": "https://openalex.org/W2127454860",
-      "citation_count": 1136,
+      "citation_count": 1137,
       "source": "openalex",
       "id": "28453165b47ed8fee36036384fd85e66",
       "date_found": "2026-06-09T12:30:29.501980",
@@ -7545,7 +7545,7 @@
       "abstract": "ABSTRACT This article surveys research on corporate governance, with special attention to the importance of legal protection of investors and of ownership concentration in corporate governance systems around the world.",
       "doi": "https://doi.org/10.1111/j.1540-6261.1997.tb04820.x",
       "url": "https://openalex.org/W3121693921",
-      "citation_count": 16403,
+      "citation_count": 16415,
       "source": "openalex",
       "id": "6948233fd456dc76c6403c5718838d69",
       "date_found": "2026-06-24T12:13:32.715936",
@@ -7979,7 +7979,7 @@
       "abstract": "This article examines the economics of financing small business in private equity and debt markets. Firms are viewed through a financial growth cycle paradigm in which different capital structures are optimal at different points in the cycle. We show the sources of small business finance, and how capital structure varies with firm size and age. The interconnectedness of small firm finance is discussed along with the impact of the macroeconomic environment. We also analyze a number of research and policy issues, review the literature, and suggest topics for future research.",
       "doi": "https://doi.org/10.1016/s0378-4266(98)00038-7",
       "url": "https://openalex.org/W2119780569",
-      "citation_count": 3758,
+      "citation_count": 3760,
       "source": "openalex",
       "id": "85f7bfd35911fe8a25fa868bded272f9",
       "date_found": "2026-08-02T11:10:10.049388",
