@@ -1,9 +1,9 @@
-# PhD Research: From Lowest Price to Highest Public Value
+# Independent Research: From Lowest Price to Highest Public Value
 
 An Empirical Test of Best-Value Source Selection in Government RFPs
 
 **Richard Davidson**
-Indiana University, Kelley School of Business, DBA Program
+Independent Research Program
 
 ## Project Structure
 

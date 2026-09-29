@@ -132,27 +132,27 @@ End-to-end pipeline from market entry through contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Canada's Evolving Best-Value Framework vs. US LPTA
 
-Canada's procurement system is at an inflection point that directly informs the dissertation's central question about LPTA versus best-value procurement:
+Canada's procurement system is at an inflection point that directly informs the study's central question about LPTA versus best-value procurement:
 
-**The OPO's "Best Value in Procurement" report (May 2025) explicitly advocates moving beyond lowest price.** The report endorses willingness to pay a higher price for quality and long-term value, and proposes five foundational changes: establishing a Chief Procurement Officer, implementing vendor performance management, unifying procurement rules, integrating AI into procurement processes, and expanding the definition of value. This mirrors the dissertation's argument that LPTA may not maximize public value.
+**The OPO's "Best Value in Procurement" report (May 2025) explicitly advocates moving beyond lowest price.** The report endorses willingness to pay a higher price for quality and long-term value, and proposes five foundational changes: establishing a Chief Procurement Officer, implementing vendor performance management, unifying procurement rules, integrating AI into procurement processes, and expanding the definition of value. This mirrors the study's argument that LPTA may not maximize public value.
 
 **The Buy Canadian policy creates a natural experiment in non-price evaluation.** Effective December 2025, Canadian suppliers receive price preference discounts and scored points for Canadian content. This policy structurally disadvantages pure lowest-price strategies by embedding domestic economic value into the evaluation framework. It provides a real-world test case for whether adding non-price criteria changes procurement outcomes.
 
-**Canada's lower barriers to entry should expand the competitive pool.** Without DCAA accounting requirements and with free registration on CanadaBuys, the qualification cost in Canada ($13K-$270K) is a fraction of the US figure ($30K-$1.1M+). The dissertation predicts that lower barriers correlate with broader competition and better public value outcomes.
+**Canada's lower barriers to entry should expand the competitive pool.** Without DCAA accounting requirements and with free registration on CanadaBuys, the qualification cost in Canada ($13K-$270K) is a fraction of the US figure ($30K-$1.1M+). The study predicts that lower barriers correlate with broader competition and better public value outcomes.
 
 **The dual complaint mechanism provides meaningful vendor protection.** OPO handles lower-value complaints with no filing fee and a 120-day review timeline, while CITT covers trade-agreement-threshold procurements with a 90-day determination. Both are free to file -- a contrast to the legal costs typically incurred in US GAO protests.
 
-**Canada lacks a centralized past performance database.** Without an equivalent of CPARS, Canada avoids one source of incumbency advantage but also loses a tool for evaluating contractor quality. This trade-off is relevant to the dissertation's analysis of how evaluation mechanisms affect competition and outcomes.
+**Canada lacks a centralized past performance database.** Without an equivalent of CPARS, Canada avoids one source of incumbency advantage but also loses a tool for evaluating contractor quality. This trade-off is relevant to the study's analysis of how evaluation mechanisms affect competition and outcomes.
 
-### Implications for the Dissertation
+### Implications for the Study
 
-1. **Cross-national evidence** -- Canada's active policy shift from lowest price to best value provides real-time comparative data for the dissertation's empirical framework
+1. **Cross-national evidence** -- Canada's active policy shift from lowest price to best value provides real-time comparative data for the study's empirical framework
 2. **Buy Canadian as non-price evaluation** -- The price preference discount and content scoring create a measurable intervention in procurement outcomes that parallels best-value tradeoff analysis
-3. **Barrier-to-entry effects** -- Canada's lower qualification costs test whether reduced barriers correlate with broader competition, a core dissertation hypothesis
+3. **Barrier-to-entry effects** -- Canada's lower qualification costs test whether reduced barriers correlate with broader competition, a core hypothesis of the study
 4. **OPO reform proposals** -- The five foundational changes proposed by OPO parallel US reform debates and provide a policy comparison framework
 5. **Bilingual requirements as a unique barrier** -- The English/French requirement adds costs not present in the US system and may affect competition patterns, particularly for small firms
 
@@ -182,7 +182,7 @@ Canada's procurement system is at an inflection point that directly informs the 
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -350,29 +350,29 @@ End-to-end pipeline from US market entry into Canadian federal procurement throu
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The US-Canada Corridor as a Natural Experiment
 
-The US-Canada procurement relationship provides uniquely valuable evidence for the dissertation's central argument about LPTA versus best-value procurement:
+The US-Canada procurement relationship provides uniquely valuable evidence for the study's central argument about LPTA versus best-value procurement:
 
 **Canada's exit from CUSMA procurement creates a threshold-based natural experiment.** With GPA thresholds at $239,200 for goods and services, there is a clear cutoff: above this threshold, US vendors compete under international rules; below it, Canada can (and increasingly does) restrict competition to domestic firms. This threshold creates a testable discontinuity for analyzing how market access affects competition, pricing, and procurement outcomes.
 
-**The Buy Canadian policy is a real-time intervention in evaluation methodology.** The price preference discount and Canadian content scoring fundamentally alter the evaluation framework for strategic procurements. A US vendor offering the lowest price may still lose to a Canadian vendor whose higher price is offset by the preference discount. This is a concrete, measurable example of non-price factors overriding LPTA logic -- precisely the dynamic the dissertation examines.
+**The Buy Canadian policy is a real-time intervention in evaluation methodology.** The price preference discount and Canadian content scoring fundamentally alter the evaluation framework for strategic procurements. A US vendor offering the lowest price may still lose to a Canadian vendor whose higher price is offset by the preference discount. This is a concrete, measurable example of non-price factors overriding LPTA logic -- precisely the dynamic the study examines.
 
 **Canada's OPO reform proposals parallel US procurement debates.** The five foundational changes proposed by OPO -- Chief Procurement Officer, vendor performance management, unified rules, AI integration, and expanded value definition -- mirror ongoing US discussions about FAR reform, LPTA limitations, and procurement modernization. The Canadian reform trajectory provides a comparative policy lens.
 
 **The ITAR/CGP intersection reveals how export controls function as trade barriers in procurement.** US companies face a unique dual-compliance burden (US ITAR/EAR plus Canadian CGP) that adds cost and complexity beyond what any other foreign vendor faces. This barrier is invisible in standard procurement analysis but materially affects competition in defence-related procurements.
 
-**The absence of a Canadian CPARS equivalent tests the incumbency hypothesis differently.** Without a centralized past performance database, Canada's procurement system may rely more heavily on self-reported experience and less on institutionalized incumbency advantage. This provides a comparison point for the dissertation's analysis of how past performance requirements affect market entry and competition.
+**The absence of a Canadian CPARS equivalent tests the incumbency hypothesis differently.** Without a centralized past performance database, Canada's procurement system may rely more heavily on self-reported experience and less on institutionalized incumbency advantage. This provides a comparison point for the study's analysis of how past performance requirements affect market entry and competition.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Threshold discontinuity analysis** -- The GPA threshold creates a natural experiment for studying how market access rules affect competition, pricing, and outcomes above versus below the cutoff
 2. **Buy Canadian as anti-LPTA intervention** -- The price preference discount is a measurable deviation from lowest-price evaluation, providing data on whether non-price preferences change procurement outcomes
-3. **Reciprocity as a variable** -- The reciprocal procurement policy introduces political and trade-relationship variables into procurement access, expanding the dissertation's analytical framework beyond domestic policy
+3. **Reciprocity as a variable** -- The reciprocal procurement policy introduces political and trade-relationship variables into procurement access, expanding the study's analytical framework beyond domestic policy
 4. **Cross-border compliance costs** -- The additional $20K-$1.28M in entry costs for US vendors vs. Canadian domestic firms demonstrates how regulatory barriers compound beyond what is visible in procurement data alone
-5. **OPO reform trajectory** -- Canada's active policy debate about procurement value provides contemporaneous comparative evidence for the dissertation's normative claims about best-value procurement
+5. **OPO reform trajectory** -- Canada's active policy debate about procurement value provides contemporaneous comparative evidence for the study's normative claims about best-value procurement
 
 ---
 
@@ -406,4 +406,4 @@ The US-Canada procurement relationship provides uniquely valuable evidence for t
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

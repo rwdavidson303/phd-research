@@ -3,7 +3,7 @@
 ## Lessons from 12 Countries That Are Getting Government Contracting Right
 
 **Richard W. Davidson, DBA**
-Indiana University, Kelley School of Business
+Independent Research Program
 
 ---
 
@@ -657,7 +657,7 @@ The taxpayer deserves the latter.
 - Congressional Research Service. (2023). *Federal Acquisition: Overview and Selected Issues.* CRS Report R47012. Washington, DC.
 - Conti, J. P., & Dougherty, S. M. (2021). Cost overruns in federal contracts: Evidence and mechanisms. *Journal of Public Procurement*, 21(2), 134-158.
 - Christensen, D. S. (1993). The estimate at completion problem: A review of three studies. *Project Management Journal*, 24(1), 37-42.
-- Davidson, R. W. (2026). *From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs.* Doctoral dissertation, Indiana University.
+- Davidson, R. W. (2026). *From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs.* Unpublished manuscript.
 - Government Accountability Office. (2024). *High-Risk Series: Key Efforts Needed to Address Major Challenges at Federal Agencies.* GAO-24-106376.
 - Kelman, S. (2002). Remaking federal procurement. *Public Contract Law Journal*, 31(4), 581-622.
 - National Contract Management Association. (2023). *Annual Compensation Survey.* Ashburn, VA: NCMA.
@@ -780,7 +780,7 @@ The taxpayer deserves the latter.
 
 ---
 
-*Richard W. Davidson is a doctoral candidate at Indiana University, Kelley School of Business. His dissertation research examines the relationship between source selection methods and contract outcomes in US federal procurement. Contact: RWDavidson303@gmail.com*
+*Richard W. Davidson is an independent researcher. His research examines the relationship between source selection methods and contract outcomes in US federal procurement. Contact: RWDavidson303@gmail.com*
 
 ---
 

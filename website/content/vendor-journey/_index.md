@@ -487,7 +487,7 @@ description: "What it actually costs to compete for a federal contract — step 
 
 ---
 
-<!-- ===== Closing: Connection to Dissertation ===== -->
+<!-- ===== Closing: Connection to the Study ===== -->
 
 <div class="vj-closing">
 
@@ -495,7 +495,7 @@ description: "What it actually costs to compete for a federal contract — step 
 
 When the barrier to entry is this high, the competitive pool shrinks. Fewer bidders means less innovation, less price pressure, and more incumbency advantage. The vendors who can afford to play the game aren't necessarily the ones who deliver the best outcomes — they're the ones with the deepest pockets and the most patience for bureaucracy.
 
-**This is the core tension this dissertation investigates:**
+**This is the core tension this study investigates:**
 
 > When the process is this expensive and complex, does choosing the lowest-price bidder actually maximize public value? Or does it simply reward the firms most willing to absorb sunk costs — while shutting out potentially superior competitors who can't afford to play?
 

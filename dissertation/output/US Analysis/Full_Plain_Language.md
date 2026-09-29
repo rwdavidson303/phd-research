@@ -3,7 +3,7 @@
 ## What 15,000 Federal Contracts Reveal About Saving Taxpayer Money
 
 **Richard W. Davidson, DBA**
-**Indiana University, Kelley School of Business**
+**Independent Research Program**
 
 ---
 
@@ -1104,9 +1104,9 @@ All of the data used in this study is publicly available and free to access:
 
 ---
 
-*This plain-language rewrite was produced from the doctoral dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard W. Davidson, Indiana University, Kelley School of Business. The original dissertation contains additional technical detail, complete statistical output, and a comprehensive bibliography.*
+*This plain-language rewrite was produced from the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard W. Davidson. The full study contains additional technical detail, complete statistical output, and a comprehensive bibliography.*
 
-*For questions about this research, contact the author through Indiana University, Kelley School of Business.*
+*For questions about this research, contact the author at RWDavidson303@gmail.com.*
 
 ---
 

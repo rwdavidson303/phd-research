@@ -1,12 +1,12 @@
 ---
 title: "Recommended Books"
-description: "Essential reading for the dissertation"
+description: "Essential reading for the study"
 weight: 1
 ---
 
-# Recommended Books for Dissertation Research
+# Recommended Books for This Research
 
-**Dissertation Title:** *From Lowest Price to Highest Public Value: Reimagining Government Procurement and RFP Evaluation*
+**Study Title:** *From Lowest Price to Highest Public Value: Reimagining Government Procurement and RFP Evaluation*
 
 **Last Updated:** February 2026
 
@@ -16,7 +16,7 @@ weight: 1
 
 Each entry includes a full APA citation, a brief relevance description, and a priority classification:
 
-- **Foundational** -- Essential reading; directly informs the theoretical framework or core arguments of the dissertation.
+- **Foundational** -- Essential reading; directly informs the theoretical framework or core arguments of the study.
 - **Important** -- Strongly recommended; provides significant supporting theory, methodology, or empirical context.
 - **Supplementary** -- Useful for background, broader context, or specialized sub-topics.
 
@@ -28,7 +28,7 @@ Each entry includes a full APA citation, a brief relevance description, and a pr
 
 Cibinic, J., Jr., Nash, R. C., Jr., & Yukins, C. R. (2011). *Formation of government contracts* (4th ed.). Wolters Kluwer.
 
-> The definitive treatise on how the U.S. federal government forms contracts, from planning through award. Essential for understanding the legal architecture of source selection, evaluation criteria, and the competitive negotiation process that this dissertation seeks to reform. **Foundational**
+> The definitive treatise on how the U.S. federal government forms contracts, from planning through award. Essential for understanding the legal architecture of source selection, evaluation criteria, and the competitive negotiation process that this study seeks to reform. **Foundational**
 
 ---
 
@@ -40,19 +40,19 @@ Cibinic, J., Jr., Nash, R. C., Jr., & Nagle, J. F. (2006). *Administration of go
 
 Nash, R. C., Jr., & Cibinic, J., Jr. (2011). *Competitive negotiation: The source selection process* (3rd ed.). Wolters Kluwer.
 
-> Focused specifically on the source selection process in competitive negotiations under FAR Part 15. Directly relevant to the dissertation's examination of how agencies weight price versus non-price factors and the mechanics of best-value tradeoff analysis. **Foundational**
+> Focused specifically on the source selection process in competitive negotiations under FAR Part 15. Directly relevant to the study's examination of how agencies weight price versus non-price factors and the mechanics of best-value tradeoff analysis. **Foundational**
 
 ---
 
 Nash, R. C., Jr., Schooner, S. L., O'Brien-DeBakey, K. R., & Edwards, V. J. (2007). *The government contracts reference book: A comprehensive guide to the language of procurement* (3rd ed.). Wolters Kluwer.
 
-> Encyclopedic reference defining the terminology and concepts used throughout federal procurement. Invaluable for ensuring precise use of technical terms throughout the dissertation. **Supplementary**
+> Encyclopedic reference defining the terminology and concepts used throughout federal procurement. Invaluable for ensuring precise use of technical terms throughout the study. **Supplementary**
 
 ---
 
 Schooner, S. L. (2002). Desiderata: Objectives for a system of government contract law. *Public Procurement Law Review*, *11*(2), 103--118.
 
-> While a journal article rather than a book, this widely cited work articulates the fundamental objectives that any procurement system should pursue -- competition, integrity, transparency, efficiency, customer satisfaction, and best value. Provides a normative framework that aligns with the dissertation's public value approach. **Foundational**
+> While a journal article rather than a book, this widely cited work articulates the fundamental objectives that any procurement system should pursue -- competition, integrity, transparency, efficiency, customer satisfaction, and best value. Provides a normative framework that aligns with the study's public value approach. **Foundational**
 
 ---
 
@@ -114,19 +114,19 @@ Keyes, W. N. (2014). *Government contracts under the Federal Acquisition Regulat
 
 Racca, G. M., & Yukins, C. R. (Eds.). (2019). *Joint public procurement and innovation: Lessons across borders*. Bruylant.
 
-> Examines how collaborative and joint procurement strategies across borders can drive innovation. Relevant to the dissertation's exploration of how procurement design can maximize public value beyond mere cost savings. **Important**
+> Examines how collaborative and joint procurement strategies across borders can drive innovation. Relevant to the study's exploration of how procurement design can maximize public value beyond mere cost savings. **Important**
 
 ---
 
 Racca, G. M., & Yukins, C. R. (Eds.). (2014). *Integrity and efficiency in sustainable public contracts: Balancing corruption concerns in public procurement internationally*. Bruylant.
 
-> Explores the relationship between integrity, efficiency, and sustainability in public procurement across multiple jurisdictions. Directly relevant to the dissertation's argument that public value encompasses integrity and sustainability alongside cost. **Important**
+> Explores the relationship between integrity, efficiency, and sustainability in public procurement across multiple jurisdictions. Directly relevant to the study's argument that public value encompasses integrity and sustainability alongside cost. **Important**
 
 ---
 
 Arrowsmith, S., & Quinot, G. (Eds.). (2013). *Public procurement regulation in Africa*. Cambridge University Press.
 
-> Provides perspectives on procurement reform in developing contexts, where the tension between lowest price and broader value objectives is particularly acute. Useful for extending the dissertation's comparative analysis. **Supplementary**
+> Provides perspectives on procurement reform in developing contexts, where the tension between lowest price and broader value objectives is particularly acute. Useful for extending the study's comparative analysis. **Supplementary**
 
 ---
 
@@ -134,7 +134,7 @@ Arrowsmith, S., & Quinot, G. (Eds.). (2013). *Public procurement regulation in A
 
 Moore, M. H. (1995). *Creating public value: Strategic management in government*. Harvard University Press.
 
-> The foundational text of public value theory. Moore argues that public managers should focus on creating "public value" from assets entrusted to them, using the "strategic triangle" of value, legitimacy, and operational capacity. This framework is the primary theoretical lens for the dissertation's argument that procurement should optimize for public value rather than lowest price. **Foundational**
+> The foundational text of public value theory. Moore argues that public managers should focus on creating "public value" from assets entrusted to them, using the "strategic triangle" of value, legitimacy, and operational capacity. This framework is the primary theoretical lens for the study's argument that procurement should optimize for public value rather than lowest price. **Foundational**
 
 ---
 
@@ -146,13 +146,13 @@ Moore, M. H. (2013). *Recognizing public value*. Harvard University Press.
 
 Benington, J., & Moore, M. H. (Eds.). (2011). *Public value: Theory and practice*. Palgrave Macmillan.
 
-> A collection of essays that assess, critique, and extend public value theory across different contexts and countries. Includes discussion of how public value relates to public services delivery, governance, and democratic accountability. Essential for grounding the dissertation's theoretical framework in the broader public value literature. **Foundational**
+> A collection of essays that assess, critique, and extend public value theory across different contexts and countries. Includes discussion of how public value relates to public services delivery, governance, and democratic accountability. Essential for grounding the study's theoretical framework in the broader public value literature. **Foundational**
 
 ---
 
 Bozeman, B. (2007). *Public values and public interest: Counterbalancing economic individualism*. Georgetown University Press.
 
-> Bozeman's "public values" approach differs from Moore's public value framework by focusing on normative consensus about rights, benefits, and obligations. Provides an alternative theoretical lens and helps triangulate the dissertation's value framework. **Important**
+> Bozeman's "public values" approach differs from Moore's public value framework by focusing on normative consensus about rights, benefits, and obligations. Provides an alternative theoretical lens and helps triangulate the study's value framework. **Important**
 
 ---
 
@@ -178,7 +178,7 @@ Williamson, O. E. (1975). *Markets and hierarchies: Analysis and antitrust impli
 
 Williamson, O. E. (1985). *The economic institutions of capitalism: Firms, markets, relational contracting*. Free Press.
 
-> Extends the TCE framework to encompass hybrid governance structures and relational contracting. Directly relevant to the dissertation's analysis of how procurement structures (contract types, evaluation criteria, relationship mechanisms) function as governance instruments that affect public value outcomes. **Foundational**
+> Extends the TCE framework to encompass hybrid governance structures and relational contracting. Directly relevant to the study's analysis of how procurement structures (contract types, evaluation criteria, relationship mechanisms) function as governance instruments that affect public value outcomes. **Foundational**
 
 ---
 
@@ -230,7 +230,7 @@ Cramton, P., Shoham, Y., & Steinberg, R. (Eds.). (2006). *Combinatorial auctions
 
 Laffont, J.-J., & Tirole, J. (1993). *A theory of incentives in procurement and regulation*. MIT Press.
 
-> The definitive treatment of principal-agent theory applied to procurement and regulation. Develops the formal models for understanding how information asymmetry between government buyers and private sellers affects contract design and evaluation. The theoretical backbone for the dissertation's analysis of why price-only evaluation fails under asymmetric information. **Foundational**
+> The definitive treatment of principal-agent theory applied to procurement and regulation. Develops the formal models for understanding how information asymmetry between government buyers and private sellers affects contract design and evaluation. The theoretical backbone for the study's analysis of why price-only evaluation fails under asymmetric information. **Foundational**
 
 ---
 
@@ -262,25 +262,25 @@ Salanié, B. (2005). *The economics of contracts: A primer* (2nd ed.). MIT Press
 
 Creswell, J. W., & Creswell, J. D. (2022). *Research design: Qualitative, quantitative, and mixed methods approaches* (6th ed.). SAGE.
 
-> The standard reference for research design in the social sciences, including public administration. Provides the overarching methodological framework for the dissertation's multi-method approach to studying procurement outcomes. **Foundational**
+> The standard reference for research design in the social sciences, including public administration. Provides the overarching methodological framework for the study's multi-method approach to studying procurement outcomes. **Foundational**
 
 ---
 
 Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). SAGE.
 
-> The definitive guide to mixed methods research design, covering convergent, explanatory sequential, exploratory sequential, and embedded designs. Essential for structuring the dissertation's combination of quantitative procurement outcome analysis with qualitative case studies of value-based evaluation. **Foundational**
+> The definitive guide to mixed methods research design, covering convergent, explanatory sequential, exploratory sequential, and embedded designs. Essential for structuring the study's combination of quantitative procurement outcome analysis with qualitative case studies of value-based evaluation. **Foundational**
 
 ---
 
 Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.
 
-> The gold standard reference for quasi-experimental research design, covering validity threats, regression discontinuity, interrupted time series, and difference-in-differences. Essential for the dissertation's empirical strategy of measuring the causal effects of evaluation criteria changes on procurement outcomes. **Foundational**
+> The gold standard reference for quasi-experimental research design, covering validity threats, regression discontinuity, interrupted time series, and difference-in-differences. Essential for the study's empirical strategy of measuring the causal effects of evaluation criteria changes on procurement outcomes. **Foundational**
 
 ---
 
 Angrist, J. D., & Pischke, J.-S. (2009). *Mostly harmless econometrics: An empiricist's companion*. Princeton University Press.
 
-> A practical guide to applied econometrics emphasizing causal inference through instrumental variables, regression discontinuity, and difference-in-differences. Directly relevant to the dissertation's quantitative analysis of procurement data. **Important**
+> A practical guide to applied econometrics emphasizing causal inference through instrumental variables, regression discontinuity, and difference-in-differences. Directly relevant to the study's quantitative analysis of procurement data. **Important**
 
 ---
 
@@ -292,19 +292,19 @@ Angrist, J. D., & Pischke, J.-S. (2015). *Mastering 'metrics: The path from caus
 
 Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE.
 
-> The standard text on case study methodology, covering single-case and multiple-case designs, data collection, and analysis. Essential for the dissertation's case study components examining specific agencies' transitions from lowest-price to best-value procurement. **Important**
+> The standard text on case study methodology, covering single-case and multiple-case designs, data collection, and analysis. Essential for the study's case study components examining specific agencies' transitions from lowest-price to best-value procurement. **Important**
 
 ---
 
 King, G., Keohane, R. O., & Verba, S. (1994). *Designing social inquiry: Scientific inference in qualitative research*. Princeton University Press.
 
-> A landmark text on applying the logic of scientific inference to qualitative research. Relevant to ensuring the dissertation's qualitative components meet rigorous standards of causal reasoning. **Supplementary**
+> A landmark text on applying the logic of scientific inference to qualitative research. Relevant to ensuring the study's qualitative components meet rigorous standards of causal reasoning. **Supplementary**
 
 ---
 
 Patton, M. Q. (2015). *Qualitative research and evaluation methods* (4th ed.). SAGE.
 
-> Comprehensive treatment of qualitative methods including interviewing, observation, and document analysis. Useful for the dissertation's qualitative data collection from procurement professionals and stakeholders. **Important**
+> Comprehensive treatment of qualitative methods including interviewing, observation, and document analysis. Useful for the study's qualitative data collection from procurement professionals and stakeholders. **Important**
 
 ---
 
@@ -336,7 +336,7 @@ Feldman, S. W. (2016). *Government contract guidebook* (5th ed.). Thomson Reuter
 
 Manuel, K. M. (2015). *Evaluating the "past performance" of federal government contractors: Legal requirements and issues*. Congressional Research Service (CRS Report R41562).
 
-> A detailed analysis of the legal framework for evaluating past performance in federal procurement. Directly relevant to the dissertation's examination of non-price evaluation factors and their role in driving public value. **Important**
+> A detailed analysis of the legal framework for evaluating past performance in federal procurement. Directly relevant to the study's examination of non-price evaluation factors and their role in driving public value. **Important**
 
 ---
 
@@ -388,7 +388,7 @@ Schaengold, M., Guiffré, T., & Gill, R. (2019). *Government contract law: The d
 
 Kelman, S. (1990). *Procurement and public management: The fear of discretion and the quality of government performance*. AEI Press.
 
-> Kelman's groundbreaking argument that excessive rule-based procurement constrains managerial discretion and undermines performance. A direct intellectual precursor to the dissertation's argument for value-based over price-based evaluation. **Foundational**
+> Kelman's groundbreaking argument that excessive rule-based procurement constrains managerial discretion and undermines performance. A direct intellectual precursor to the study's argument for value-based over price-based evaluation. **Foundational**
 
 ---
 
@@ -406,7 +406,7 @@ Gomes, P. C. (2021). *EU public procurement and innovation: The innovation partn
 
 Edler, J., & Georghiou, L. (Eds.). (2015). *Public procurement for innovation*. Edward Elgar.
 
-> Examines public procurement as a demand-side innovation policy tool, with case studies from multiple countries. Relevant to the dissertation's argument that value-based procurement can drive innovation and broader social outcomes. **Important**
+> Examines public procurement as a demand-side innovation policy tool, with case studies from multiple countries. Relevant to the study's argument that value-based procurement can drive innovation and broader social outcomes. **Important**
 
 ---
 
@@ -430,7 +430,7 @@ Light, P. C. (2008). *A government ill executed: The decline of the federal serv
 
 Organisation for Economic Co-operation and Development. (2024). *Public procurement for public sector innovation*. OECD Publishing.
 
-> An OECD policy framework examining how public procurement can be leveraged as a strategic tool for innovation. Provides international best practices and benchmarks relevant to the dissertation's reform proposals. **Important**
+> An OECD policy framework examining how public procurement can be leveraged as a strategic tool for innovation. Provides international best practices and benchmarks relevant to the study's reform proposals. **Important**
 
 ---
 
@@ -470,7 +470,7 @@ Osborne, S. P. (Ed.). (2010). *The new public governance? Emerging perspectives 
 
 Denhardt, J. V., & Denhardt, R. B. (2015). *The new public service: Serving, not steering* (4th ed.). Routledge.
 
-> Challenges the market-oriented assumptions of NPM by emphasizing democratic values, citizenship, and the public interest. Provides normative grounding for the dissertation's argument that procurement should serve public value, not just economic efficiency. **Supplementary**
+> Challenges the market-oriented assumptions of NPM by emphasizing democratic values, citizenship, and the public interest. Provides normative grounding for the study's argument that procurement should serve public value, not just economic efficiency. **Supplementary**
 
 ---
 
@@ -498,5 +498,5 @@ Pollitt, C., & Bouckaert, G. (2017). *Public management reform: A comparative an
 
 ---
 
-*This bibliography will be updated as the dissertation research progresses. Additional journal articles, working papers, and government reports are cataloged separately.*
+*This bibliography will be updated as the research progresses. Additional journal articles, working papers, and government reports are cataloged separately.*
 

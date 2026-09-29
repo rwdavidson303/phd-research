@@ -120,7 +120,7 @@ A persistent challenge for Brazilian vendors is payment timing. While law mandat
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The Pregao Paradox: Lowest Price by Design
 
@@ -185,7 +185,7 @@ The fact that Law 14,133/2021 explicitly added quality-price combination evaluat
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -349,15 +349,15 @@ Combined effective tax burden for a profitable company: approximately 34% on pro
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### What Brazil Reveals About Market Access and Competition
 
-Brazil's procurement system presents a compelling case study for the dissertation's research questions because it combines:
+Brazil's procurement system presents a compelling case study for the study's research questions because it combines:
 
 1. **Extreme price competition** (reverse auctions) with **explicit domestic protectionism** (preference margins) -- creating a system where the lowest-price mechanism operates within a non-level playing field
 2. **Low bidding costs** that should expand competition, alongside **high establishment costs** for foreign vendors that restrict the competitive pool
-3. **A system in transition** -- moving from pure lowest-price to quality-price combination evaluation, mirroring the global debate the dissertation addresses
+3. **A system in transition** -- moving from pure lowest-price to quality-price combination evaluation, mirroring the global debate the study addresses
 
 ### The Foreign Vendor Exclusion Problem
 
@@ -372,8 +372,8 @@ The cost structure revealed in this document demonstrates how procurement system
 | Dimension | Implication |
 |-----------|-------------|
 | Domestic preference | When the government adds 10-20% to the effective evaluation of foreign bids, the "lowest price" in the auction is not the lowest available market price -- it is the lowest domestically-adjusted price; this mirrors how LPTA in the US ignores quality dimensions |
-| Entry barriers | The BRL 95K-310K+ establishment cost for foreign vendors, versus BRL 9K-95K for local vendors, demonstrates how system design shapes the competitive pool -- relevant to the dissertation's argument that high US entry barriers entrench incumbents |
-| System evolution | Brazil's introduction of "melhor combinacao" (best combination) and competitive dialogue under Law 14,133/2021 signals that pure lowest-price selection is insufficient even in a system designed around it -- supporting the dissertation's hypothesis that best-value approaches deliver superior outcomes |
+| Entry barriers | The BRL 95K-310K+ establishment cost for foreign vendors, versus BRL 9K-95K for local vendors, demonstrates how system design shapes the competitive pool -- relevant to the study's argument that high US entry barriers entrench incumbents |
+| System evolution | Brazil's introduction of "melhor combinacao" (best combination) and competitive dialogue under Law 14,133/2021 signals that pure lowest-price selection is insufficient even in a system designed around it -- supporting the study's hypothesis that best-value approaches deliver superior outcomes |
 | Transparency | Brazil's PNCP and real-time auction data provide granular price and participation data that could support empirical analysis of competition effects |
 
 ### Comparative Framework
@@ -416,4 +416,4 @@ The cost structure revealed in this document demonstrates how procurement system
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

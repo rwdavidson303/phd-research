@@ -4,8 +4,8 @@
 
 ---
 
-**Richard W. Davidson, DBA**
-Indiana University, Kelley School of Business
+**Richard W. Davidson**
+Independent Research Program
 
 ---
 
@@ -15,7 +15,7 @@ Indiana University, Kelley School of Business
 
 ## About the Author
 
-Richard W. Davidson holds a DBA from Indiana University's Kelley School of Business. His dissertation, "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs," analyzed 15,477 federal contracts to examine the relationship between evaluation method and contract performance. His research interests include public procurement reform, value-based evaluation, digital government, and comparative procurement systems. He has extensive experience in federal contracting and acquisition strategy.
+Richard W. Davidson is an independent researcher. His study, "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs," analyzed 15,477 federal contracts to examine the relationship between evaluation method and contract performance. His research interests include public procurement reform, value-based evaluation, digital government, and comparative procurement systems. He has extensive experience in federal contracting and acquisition strategy.
 
 ---
 
@@ -1181,7 +1181,7 @@ Congressional Budget Office. (2025). *The budget and economic outlook: 2025 to 2
 
 Crown Commercial Service. (2024). *Annual report and accounts 2023-24*. CCS.
 
-Davidson, R. W. (2026). *From lowest price to highest public value: An empirical test of best-value source selection in government RFPs* [Doctoral dissertation, Indiana University]. Kelley School of Business.
+Davidson, R. W. (2026). *From lowest price to highest public value: An empirical test of best-value source selection in government RFPs* [Unpublished manuscript].
 
 e-Estonia. (2024). *X-Road: The backbone of e-Estonia*. Republic of Estonia.
 
@@ -2786,7 +2786,7 @@ Congressional Budget Office. (2025). *The budget and economic outlook: 2025 to 2
 
 Centre for Strategic and International Studies. (2024). *Defense acquisition trends 2024*. CSIS.
 
-Davidson, R. W. (2026). *From lowest price to highest public value: An empirical test of best-value source selection in government RFPs* [Doctoral dissertation, Indiana University]. Kelley School of Business.
+Davidson, R. W. (2026). *From lowest price to highest public value: An empirical test of best-value source selection in government RFPs* [Unpublished manuscript].
 
 Government Accountability Office. (2024). *Bid protest annual report to Congress for fiscal year 2024*. GAO.
 
@@ -3119,6 +3119,6 @@ The seven-pillar model and fifteen recommendations are derived inductively from 
 
 *End of Document*
 
-*Richard W. Davidson, DBA*
-*Indiana University, Kelley School of Business*
+*Richard W. Davidson*
+*Independent Research Program*
 *2026*

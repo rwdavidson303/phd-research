@@ -122,7 +122,7 @@ End-to-end pipeline from market entry through contract completion, showing cumul
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Relevance to "From Lowest Price to Highest Public Value"
 
@@ -322,7 +322,7 @@ End-to-end pipeline from US headquarters decision through established Singapore 
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Relevance to "From Lowest Price to Highest Public Value"
 

@@ -129,11 +129,11 @@ End-to-end pipeline from market entry through contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The UK as a Best-Value Laboratory
 
-The United Kingdom provides perhaps the most instructive international comparator for the dissertation's central question about LPTA versus best-value procurement:
+The United Kingdom provides perhaps the most instructive international comparator for the study's central question about LPTA versus best-value procurement:
 
 1. **Social value is mandatory, not optional.** Under PPN 002 (and its predecessor PPN 06/20), central government procurements must weight social value at a minimum of 10% of total evaluation scores. This eliminates the possibility of pure LPTA procurement for central government contracts — every evaluation includes a qualitative dimension beyond price and technical compliance.
 
@@ -149,7 +149,7 @@ The UK experience challenges the assumption underlying LPTA procurement:
 
 - **If social value is weighted in every evaluation, does it improve outcomes?** The UK's mandatory 10% weighting provides a natural experiment for measuring whether qualitative evaluation criteria correlate with better contract performance.
 - **If barriers are lower, does competition increase?** The UK's simpler registration system and lower compliance costs suggest that reducing barriers can expand the vendor pool without sacrificing quality.
-- **The Procurement Act 2023 represents a deliberate policy choice** to move away from the rigid, price-sensitive EU procurement regime toward a more flexible, value-oriented approach — precisely the shift the dissertation argues should occur in US federal procurement.
+- **The Procurement Act 2023 represents a deliberate policy choice** to move away from the rigid, price-sensitive EU procurement regime toward a more flexible, value-oriented approach — precisely the shift the study argues should occur in US federal procurement.
 
 ---
 
@@ -173,7 +173,7 @@ The UK experience challenges the assumption underlying LPTA procurement:
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -356,7 +356,7 @@ The UK is the most linguistically accessible foreign procurement market for US v
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The UK as the Best-Value Benchmark
 
@@ -366,15 +366,15 @@ This creates a natural experiment:
 
 1. **Does mandatory best-value evaluation deter or attract foreign competition?** The UK's 75% SME supplier rate and openness to international vendors suggest that best-value evaluation does not suppress competition — it may broaden it by giving non-incumbent vendors a way to differentiate beyond price.
 
-2. **What happens when social value is mandatory?** The US has no equivalent to the UK's 10% social value weighting. Studying whether UK procurements with higher social value weightings correlate with different vendor pools, contract performance, or cost outcomes could directly inform the dissertation's policy recommendations.
+2. **What happens when social value is mandatory?** The US has no equivalent to the UK's 10% social value weighting. Studying whether UK procurements with higher social value weightings correlate with different vendor pools, contract performance, or cost outcomes could directly inform the study's policy recommendations.
 
-3. **The Procurement Act 2023 as a policy experiment.** The UK's deliberate move from EU-derived MEAT to "Most Advantageous Tender" — with social value, innovation, and long-term public value embedded in evaluation — represents exactly the kind of policy shift the dissertation argues for in the US context. The UK is, in effect, running the experiment the dissertation hypothesizes should produce better outcomes.
+3. **The Procurement Act 2023 as a policy experiment.** The UK's deliberate move from EU-derived MEAT to "Most Advantageous Tender" — with social value, innovation, and long-term public value embedded in evaluation — represents exactly the kind of policy shift the study argues for in the US context. The UK is, in effect, running the experiment the study hypothesizes should produce better outcomes.
 
 4. **Lower barriers amplify the evaluation method effect.** Because UK procurement barriers are roughly one-tenth of US barriers, the evaluation method's impact on competition is more visible. In the US, high barriers may mask the evaluation method's effect by filtering out potential competitors before they ever reach the bidding stage.
 
 ### Foreign Vendor Access as a Competition Indicator
 
-The relative ease of US vendor entry into the UK (compared to markets like South Korea, Japan, or Brazil) provides a useful data point: **when barriers to foreign entry are low, does competition increase?** If so, this supports the dissertation's argument that reducing procurement barriers — whether for domestic or foreign vendors — expands the competitive base and improves value-for-money outcomes.
+The relative ease of US vendor entry into the UK (compared to markets like South Korea, Japan, or Brazil) provides a useful data point: **when barriers to foreign entry are low, does competition increase?** If so, this supports the study's argument that reducing procurement barriers — whether for domestic or foreign vendors — expands the competitive base and improves value-for-money outcomes.
 
 ---
 
@@ -400,4 +400,4 @@ The relative ease of US vendor entry into the UK (compared to markets like South
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

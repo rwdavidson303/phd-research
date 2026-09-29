@@ -3,7 +3,7 @@
 ## A Plain-Language Summary of Doctoral Research on Source Selection Methods in Federal Procurement
 
 **Richard W. Davidson**
-Indiana University, Kelley School of Business
+Independent Research Program
 
 ---
 
@@ -595,6 +595,6 @@ The taxpayers who fund this system deserve nothing less.
 
 ---
 
-*This white paper is based on doctoral dissertation research conducted at Indiana University, Kelley School of Business. The full study, including detailed methodology, statistical results, and complete references, is available from the author. The views expressed are those of the author and do not represent Indiana University or any government agency.*
+*This white paper is based on independent research by the author. The full study, including detailed methodology, statistical results, and complete references, is available from the author. The views expressed are those of the author and do not represent any institution or government agency.*
 
-*Richard W. Davidson | Indiana University | Kelley School of Business*
+*Richard W. Davidson | Independent Research Program*

@@ -4,11 +4,11 @@ description: "Top 100 scholarly articles and recommended books"
 weight: 2
 ---
 
-# Top 100 Scholarly Articles for DBA Dissertation
+# Top 100 Scholarly Articles for This Research
 
-**Dissertation Title:** "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs"
+**Study Title:** "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs"
 
-**Indiana University, Kelley School of Business**
+**Independent Research Program**
 
 **Compiled:** February 2026
 
@@ -47,7 +47,7 @@ weight: 2
 ### Article 3
 **Hawkins, T. G., Landale, K., & Rendon, R. G. (2017). [Examining the effects of source selection method on procurement outcomes](https://doi.org/10.1108/jdal-05-2017-0006). *Journal of Defense Analytics and Logistics*, 1(1), 47--68.**
 
-*Relevance:* The most directly relevant empirical study to the dissertation. Uses 124 archival DoD contract records to show that the tradeoff (best-value) source selection method increases procurement lead time but produces significantly better supplier performance compared to LPTA. Approximate citations: ~45.
+*Relevance:* The most directly relevant empirical study to the study. Uses 124 archival DoD contract records to show that the tradeoff (best-value) source selection method increases procurement lead time but produces significantly better supplier performance compared to LPTA. Approximate citations: ~45.
 
 ### Article 4
 **U.S. Government Accountability Office. (2014). *Defense contracting: Factors DOD considers when choosing best value processes are consistent with guidance for selected acquisitions* (GAO-14-584). Washington, DC: GAO.**
@@ -118,7 +118,7 @@ weight: 2
 ### Article 16
 **Moore, M. H. (1995). *Creating public value: Strategic management in government*. Cambridge, MA: Harvard University Press.**
 
-*Relevance:* The foundational text for public value theory. Argues that public managers should aim to create public value through the strategic triangle of substantive value, legitimacy/support, and operational capacity. Core theoretical framework for the dissertation. Approximate citations: ~8,500.
+*Relevance:* The foundational text for public value theory. Argues that public managers should aim to create public value through the strategic triangle of substantive value, legitimacy/support, and operational capacity. Core theoretical framework for the study. Approximate citations: ~8,500.
 
 ---
 
@@ -512,23 +512,23 @@ weight: 2
 ### Article 84
 **Callaway, B., & Sant'Anna, P. H. C. (2021). [Difference-in-differences with multiple time periods](https://doi.org/10.1016/j.jeconom.2020.12.001). *Journal of Econometrics*, 225(2), 200--230.**
 
-*Relevance:* Addresses identification, estimation, and inference for treatment effects in staggered difference-in-differences designs with variation in treatment timing. Directly applicable if the dissertation exploits policy changes that restricted LPTA use at different times. Approximate citations: ~2,800.
+*Relevance:* Addresses identification, estimation, and inference for treatment effects in staggered difference-in-differences designs with variation in treatment timing. Directly applicable if the study exploits policy changes that restricted LPTA use at different times. Approximate citations: ~2,800.
 
 ### Article 85
 **Goodman-Bacon, A. (2021). [Difference-in-differences with variation in treatment timing](https://doi.org/10.1016/j.jeconom.2021.03.014). *Journal of Econometrics*, 225(2), 254--277.**
 
-*Relevance:* Demonstrates that two-way fixed effects estimators in staggered DiD designs are weighted averages of all possible 2x2 DiD estimators, some using already-treated units as controls. Essential diagnostic for the dissertation's DiD specification if treatment timing varies. Approximate citations: ~2,500.
+*Relevance:* Demonstrates that two-way fixed effects estimators in staggered DiD designs are weighted averages of all possible 2x2 DiD estimators, some using already-treated units as controls. Essential diagnostic for the study's DiD specification if treatment timing varies. Approximate citations: ~2,500.
 
 ### Article 86
 **King, G., & Nielsen, R. (2019). [Why propensity scores should not be used for matching](https://doi.org/10.1017/pan.2019.11). *Political Analysis*, 27(4), 435--454.**
 
-*Relevance:* Critiques standard propensity score matching and proposes coarsened exact matching as an alternative. Essential for methodological robustness in the dissertation's research design decisions. Approximate citations: ~1,600.
+*Relevance:* Critiques standard propensity score matching and proposes coarsened exact matching as an alternative. Essential for methodological robustness in the study's research design decisions. Approximate citations: ~1,600.
 
 
 ### Article 87
 **Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). Thousand Oaks, CA: SAGE Publications.**
 
-*Relevance:* Standard reference for mixed methods research design, covering seven designs with illustrative journal articles. Provides methodological foundation if the dissertation incorporates qualitative data alongside quantitative analysis. Approximate citations: ~28,000.
+*Relevance:* Standard reference for mixed methods research design, covering seven designs with illustrative journal articles. Provides methodological foundation if the study incorporates qualitative data alongside quantitative analysis. Approximate citations: ~28,000.
 
 ### Article 88
 **Stuart, E. A. (2010). [Matching methods for causal inference: A review and a look forward](https://doi.org/10.1214/09-sts313). *Statistical Science*, 25(1), 1--21.**
@@ -538,17 +538,17 @@ weight: 2
 ### Article 89
 **Angrist, J. D., & Pischke, J.-S. (2009). [*Mostly harmless econometrics: An empiricist's companion*](https://doi.org/10.1515/9781400829828). Princeton, NJ: Princeton University Press.**
 
-*Relevance:* Primary methodological reference for the dissertation's empirical approach. Covers difference-in-differences, instrumental variables, and regression discontinuity designs with emphasis on credible identification strategies for causal inference in social science. Approximate citations: ~14,000.
+*Relevance:* Primary methodological reference for the study's empirical approach. Covers difference-in-differences, instrumental variables, and regression discontinuity designs with emphasis on credible identification strategies for causal inference in social science. Approximate citations: ~14,000.
 
 ### Article 90
 **Imbens, G. W., & Wooldridge, J. M. (2009). [Recent developments in the econometrics of program evaluation](https://doi.org/10.1257/jel.47.1.5). *Journal of Economic Literature*, 47(1), 5--86.**
 
-*Relevance:* Comprehensive review of econometric methods for causal inference including matching, difference-in-differences, instrumental variables, and regression discontinuity. Provides the methodological roadmap for selecting and implementing the dissertation's empirical strategy. Approximate citations: ~5,500.
+*Relevance:* Comprehensive review of econometric methods for causal inference including matching, difference-in-differences, instrumental variables, and regression discontinuity. Provides the methodological roadmap for selecting and implementing the study's empirical strategy. Approximate citations: ~5,500.
 
 ### Article 91
 **Heckman, J. J., Ichimura, H., & Todd, P. (1998). [Matching as an econometric evaluation estimator](https://doi.org/10.1111/1467-937x.00044). *Review of Economic Studies*, 65(2), 261--294.**
 
-*Relevance:* Presents rigorous distribution theory for kernel-based matching estimators, establishing conditions for consistent estimation of average treatment effects. Essential for the technical implementation of PSM in the dissertation. Approximate citations: ~4,200.
+*Relevance:* Presents rigorous distribution theory for kernel-based matching estimators, establishing conditions for consistent estimation of average treatment effects. Essential for the technical implementation of PSM in the study. Approximate citations: ~4,200.
 
 ### Article 92
 **Heckman, J. J., Ichimura, H., & Todd, P. (1997). [Matching as an econometric evaluation estimator: Evidence from evaluating a job training program](https://doi.org/10.2307/2971733). *Review of Economic Studies*, 64(4), 605--654.**
@@ -558,7 +558,7 @@ weight: 2
 ### Article 93
 **Rosenbaum, P. R., & Rubin, D. B. (1983). [The central role of the propensity score in observational studies for causal effects](https://doi.org/10.1093/biomet/70.1.41). *Biometrika*, 70(1), 41--55.**
 
-*Relevance:* Foundational paper establishing that adjustment for the propensity score is sufficient to remove bias due to observed covariates in observational studies. Core methodological reference for propensity score matching in the dissertation's quasi-experimental design. Approximate citations: ~25,000.
+*Relevance:* Foundational paper establishing that adjustment for the propensity score is sufficient to remove bias due to observed covariates in observational studies. Core methodological reference for propensity score matching in the study's quasi-experimental design. Approximate citations: ~25,000.
 
 ---
 
@@ -567,7 +567,7 @@ weight: 2
 ### Article 94
 **Hudon, P.-A., & Garzouzi, R. (2021). Recent research on public procurement: Should it become a subfield of public administration? *Canadian Public Administration*, 64(2), 271--291.**
 
-*Relevance:* Reviews the state of public procurement scholarship and argues for its establishment as a distinct subfield of public administration. Maps the intellectual landscape and identifies research gaps directly relevant to the dissertation. Approximate citations: ~30.
+*Relevance:* Reviews the state of public procurement scholarship and argues for its establishment as a distinct subfield of public administration. Maps the intellectual landscape and identifies research gaps directly relevant to the study. Approximate citations: ~30.
 
 ### Article 95
 **Decarolis, F., Giuffrida, L. M., Iossa, E., Mollisi, V., & Spagnolo, G. (2018). [*Past performance and procurement outcomes*](https://doi.org/10.3386/w22814) (NBER Working Paper No. 22814). Cambridge, MA: National Bureau of Economic Research.**
@@ -607,7 +607,7 @@ weight: 2
 ### Article 101
 **Hudon, P.-A., & Garzouzi, R. (2021). Recent research on public procurement: Should it become a subfield of public administration? *Canadian Public Administration*, 64(2), 271--291.**
 
-*Relevance:* Reviews the state of public procurement scholarship and argues for its establishment as a distinct subfield of public administration. Maps the intellectual landscape and identifies research gaps directly relevant to the dissertation. Approximate citations: ~30.
+*Relevance:* Reviews the state of public procurement scholarship and argues for its establishment as a distinct subfield of public administration. Maps the intellectual landscape and identifies research gaps directly relevant to the study. Approximate citations: ~30.
 
 ### Article 102
 **Decarolis, F., Giuffrida, L. M., Iossa, E., Mollisi, V., & Spagnolo, G. (2018). [*Past performance and procurement outcomes*](https://doi.org/10.3386/w22814) (NBER Working Paper No. 22814). Cambridge, MA: National Bureau of Economic Research.**
@@ -647,12 +647,12 @@ weight: 2
 ### Article 101 (NEW)
 **Carril, R., Gonzalez-Lira, A., & Walker, M. S. (2026). [Competition under incomplete contracts and the design of procurement policies](https://ideas.repec.org/a/aea/aecrev/v116y2026i2p535-81.html). *American Economic Review*, 116(2), 535--581.**
 
-*Relevance:* This top-tier publication examines the effects of intensifying competition in U.S. Defense procurement. Key finding: while expanding the set of bidders reduces award prices, it **deteriorates post-award performance**, resulting in more cost overruns and delays. The incomplete contracts framework connects to transaction cost economics. Provides empirical evidence from a top-5 economics journal validating the dissertation's core thesis that lowest-price outcomes can produce worse contract performance. *Published February 2026.*
+*Relevance:* This top-tier publication examines the effects of intensifying competition in U.S. Defense procurement. Key finding: while expanding the set of bidders reduces award prices, it **deteriorates post-award performance**, resulting in more cost overruns and delays. The incomplete contracts framework connects to transaction cost economics. Provides empirical evidence from a top-5 economics journal validating the study's core thesis that lowest-price outcomes can produce worse contract performance. *Published February 2026.*
 
 ### Article 102 (NEW)
 **Thabit, Z., et al. (2025). Strategic public value(s) governance: A systematic literature review and framework. *Public Administration Review*.**
 
-*Relevance:* A systematic literature review examining how multi-actor collaborations generate public value(s) and developing a framework for analysis. Extends the public value theory framework (Moore, 1995) that underpins the dissertation's argument that procurement should maximize public value, not merely minimize cost.
+*Relevance:* A systematic literature review examining how multi-actor collaborations generate public value(s) and developing a framework for analysis. Extends the public value theory framework (Moore, 1995) that underpins the study's argument that procurement should maximize public value, not merely minimize cost.
 
 ### Article 103 (NEW)
 **Lagstrom, A. (2025). [Exploring sustainable public procurement through regulatory conversations](https://doi.org/10.1111/faam.12412). *Financial Accountability & Management*.**
@@ -662,12 +662,12 @@ weight: 2
 ### Article 104 (NEW)
 **Author(s), 2025. [The influence of government capacity on contract management efficiency](https://doi.org/10.1080/09540962.2025.2574499). *Public Money & Management*.**
 
-*Relevance:* Examines how contract management capacity and organizational size influence contract management efficiency, with evidence from green public procurement. Connects to the dissertation's analysis of how agency capacity affects procurement outcomes -- agencies with stronger management capability may be better positioned to implement best-value tradeoff methods effectively.
+*Relevance:* Examines how contract management capacity and organizational size influence contract management efficiency, with evidence from green public procurement. Connects to the study's analysis of how agency capacity affects procurement outcomes -- agencies with stronger management capability may be better positioned to implement best-value tradeoff methods effectively.
 
 ### Article 105 (NEW)
 **Moore, M. H. (2025). Creating public value: The core idea of strategic management in government. *Journal of Sustainable Institutional Management*, 12.**
 
-*Relevance:* The originator of public value theory continues to publish and refine the framework that undergirds the dissertation's theoretical argument. Reinforces the ongoing relevance of public value as a central concept in public management.
+*Relevance:* The originator of public value theory continues to publish and refine the framework that undergirds the study's theoretical argument. Reinforces the ongoing relevance of public value as a central concept in public management.
 
 ---
 
@@ -703,5 +703,5 @@ weight: 2
 
 ---
 
-*This list was compiled to support a DBA dissertation at Indiana University, Kelley School of Business examining whether best-value tradeoff source selection produces better public-value outcomes than lowest-price/LPTA methods in government procurement.*
+*This list was compiled to support an independent research program examining whether best-value tradeoff source selection produces better public-value outcomes than lowest-price/LPTA methods in government procurement.*
 

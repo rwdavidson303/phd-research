@@ -122,17 +122,17 @@ End-to-end pipeline from market entry through contract completion, showing cumul
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Relevance to "From Lowest Price to Highest Public Value"
 
-Estonia's procurement system provides a fascinating case study for the dissertation's examination of LPTA versus best-value source selection, particularly because it represents a digitally advanced EU member state that has both the regulatory framework for MEAT evaluation and the digital infrastructure to implement it efficiently:
+Estonia's procurement system provides a fascinating case study for the study's examination of LPTA versus best-value source selection, particularly because it represents a digitally advanced EU member state that has both the regulatory framework for MEAT evaluation and the digital infrastructure to implement it efficiently:
 
 1. **EU-mandated MEAT framework with practical lowest-price tendency.** While EU Directive 2014/24/EU and the Estonian Public Procurement Act provide for MEAT evaluation (best price-quality ratio, cost-effectiveness, and lifecycle costing), Estonian procurement in practice still uses lowest-price criteria for a substantial share of contracts, particularly below EU thresholds. This mirrors the US federal pattern where LPTA is chosen for convenience despite FAR authorization for best-value trade-offs.
 
 2. **Digital infrastructure as a cost reducer.** Estonia's X-Road platform and once-only principle demonstrate that the transaction costs of procurement -- often cited as a justification for using simple lowest-price criteria -- can be dramatically reduced through digital infrastructure. If the administrative burden of MEAT evaluation is the barrier, Estonia's digital tools suggest that barrier is surmountable.
 
-3. **Strategic procurement as policy.** Estonia's 2023 strategic procurement principles (reliability, environmental friendliness, innovation, social responsibility, security, reasonableness) explicitly move beyond price to encompass public value. This aligns with the dissertation's argument that procurement evaluation methods should capture broader value dimensions, not merely cost minimization.
+3. **Strategic procurement as policy.** Estonia's 2023 strategic procurement principles (reliability, environmental friendliness, innovation, social responsibility, security, reasonableness) explicitly move beyond price to encompass public value. This aligns with the study's argument that procurement evaluation methods should capture broader value dimensions, not merely cost minimization.
 
 4. **Dramatically lower entry barriers.** Qualification costs of EUR 1,500-11,000 (compared to USD 15,000-175,000+ in the US) mean that more firms can participate, theoretically increasing competition. Lower barriers combined with MEAT evaluation should, per procurement theory, yield better value outcomes -- a testable hypothesis.
 
@@ -319,11 +319,11 @@ End-to-end pipeline from initial market assessment through sustained participati
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Relevance to "From Lowest Price to Highest Public Value"
 
-Estonia's procurement market, viewed from the perspective of a US vendor, offers unique insights for the dissertation's examination of LPTA versus best-value source selection:
+Estonia's procurement market, viewed from the perspective of a US vendor, offers unique insights for the study's examination of LPTA versus best-value source selection:
 
 1. **Digital elimination of administrative barriers.** Estonia demonstrates that the transaction costs of procurement participation -- registration, compliance verification, bid submission -- can be reduced to near zero through digital infrastructure. This challenges the US argument that procurement complexity necessitates simpler evaluation methods (LPTA). If Estonia can run a fully electronic, MEAT-capable procurement system for EUR 6.5 billion in annual spending, the US should be able to do the same for its USD 700+ billion.
 

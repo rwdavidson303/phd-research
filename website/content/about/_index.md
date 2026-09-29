@@ -7,7 +7,7 @@ weight: 10
 ### Researcher
 
 Richard Davidson
-DBA Candidate, Kelley School of Business, Indiana University
+Independent Researcher
 
 Richard brings more than 25 years of experience in government procurement, spanning roles inside government and on the vendor side. He has led proposal strategy and managed more than twenty major technology RFP responses across federal, state, and local government markets.
 
@@ -17,7 +17,7 @@ Richard brings more than 25 years of experience in government procurement, spann
 |-------|--------|-------------|
 | V1 Pilot | 2025 | USAspending data, cross-sectional analysis, proxy treatment classification |
 | V2 Analysis | 2025-2026 | Omari et al. (2025) FPDS dataset, difference-in-differences design, 654,307 awards |
-| Dissertation | Fall 2026+ | Indiana University DBA, Kelley School of Business |
+| Ongoing | 2026+ | Independent research program |
 
 ### Publication Portfolio
 
@@ -28,10 +28,6 @@ Richard brings more than 25 years of experience in government procurement, spann
 | 3 | International Procurement Comparison | IJPA | Draft Complete |
 | 4 | Single-Bid Awards | PPMR | Draft Complete |
 | 5 | The Source Selection Evidence Gap | Journal of Public Procurement | Draft Complete |
-
-### Committee
-
-Committee will be formed upon program enrollment (Fall 2026).
 
 ### About This Site
 

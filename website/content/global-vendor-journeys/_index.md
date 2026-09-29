@@ -179,4 +179,4 @@ Several international markets are **cheaper to enter from the US** than the US d
 
 5. **The US is the outlier, not the norm.** In every dimension measured — cost, time, complexity, digital maturity — the US imposes the highest barriers of any system studied.
 
-<a href="../vendor-journey/" class="vj-cta">US Vendor Journey &rarr;</a> &nbsp; <a href="../research/" class="vj-cta">Dissertation Research &rarr;</a>
+<a href="../vendor-journey/" class="vj-cta">US Vendor Journey &rarr;</a> &nbsp; <a href="../research/" class="vj-cta">The Research &rarr;</a>

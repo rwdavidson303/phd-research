@@ -171,23 +171,23 @@ End-to-end pipeline from market entry through contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The EU MEAT Model vs. US LPTA
 
-The EU procurement framework provides the dissertation's most comprehensive international comparison for the central question about LPTA versus best-value procurement:
+The EU procurement framework provides the study's most comprehensive international comparison for the central question about LPTA versus best-value procurement:
 
 **MEAT is structurally embedded, not optional.** Under Directive 2014/24/EU, Article 67 establishes MEAT as the overarching principle. Even when contracting authorities use "lowest price" as the award criterion, this is technically a subset of MEAT. The directive explicitly encourages best price-quality ratio assessment, and several member states (France, Netherlands) have moved to restrict or discourage lowest-price-only awards. This stands in direct contrast to the US FAR, where LPTA is a fully legitimate and widely used evaluation methodology.
 
 **The scale of the natural experiment is immense.** With EUR 2 trillion in annual procurement across 27 member states, the EU provides a massive dataset for comparing outcomes under different evaluation methodologies. Member states that lean more heavily toward quality-weighted MEAT (Netherlands, Denmark, Sweden) versus those that still frequently use lowest price (some Eastern European member states for simpler procurements) create within-EU variation that parallels the LPTA vs. best-value variation in US federal procurement.
 
-**The ESPD innovation reduced barriers without reducing evaluation rigor.** By replacing upfront documentary evidence with self-declaration, the EU lowered qualification costs without compromising the depth of MEAT evaluation. This suggests that barrier reduction and best-value evaluation are not in tension -- a finding relevant to the dissertation's hypothesis that LPTA's apparent simplicity may not serve public value.
+**The ESPD innovation reduced barriers without reducing evaluation rigor.** By replacing upfront documentary evidence with self-declaration, the EU lowered qualification costs without compromising the depth of MEAT evaluation. This suggests that barrier reduction and best-value evaluation are not in tension -- a finding relevant to the study's hypothesis that LPTA's apparent simplicity may not serve public value.
 
 **Green Public Procurement expands the definition of "value."** Lithuania's trajectory from 5% to near-100% GPP adoption demonstrates that environmental criteria can be systematically integrated into procurement evaluation. This extends the "value" concept beyond the traditional price-quality tradeoff into sustainability -- a dimension the US federal system addresses primarily through executive orders and specific statutory requirements rather than through the evaluation framework itself.
 
-**Cross-border participation remains limited despite harmonization.** The fact that only ~14% of EU tenders are won by foreign suppliers, even within a single market with shared legal frameworks, underscores how deeply local knowledge, relationships, and language shape procurement outcomes. This finding parallels the dissertation's concern that LPTA, by reducing evaluation to price alone, may inadvertently disadvantage firms whose value proposition rests on quality, innovation, or long-term partnership.
+**Cross-border participation remains limited despite harmonization.** The fact that only ~14% of EU tenders are won by foreign suppliers, even within a single market with shared legal frameworks, underscores how deeply local knowledge, relationships, and language shape procurement outcomes. This finding parallels the study's concern that LPTA, by reducing evaluation to price alone, may inadvertently disadvantage firms whose value proposition rests on quality, innovation, or long-term partnership.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Structural best-value comparison** -- The EU's mandatory MEAT framework provides the clearest international contrast to US LPTA, enabling outcome comparisons across similar procurement categories
 2. **Scale and variation** -- 27 member states with varying MEAT implementation create natural experiments testable against procurement outcome data
@@ -222,7 +222,7 @@ The EU procurement framework provides the dissertation's most comprehensive inte
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -468,32 +468,32 @@ End-to-end pipeline from US market entry through EU contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### What the EU Reveals About LPTA vs. Best-Value
 
-The EU procurement framework provides the dissertation's richest international comparison, both because of its scale (EUR 2 trillion annually) and because of its structural commitment to non-price evaluation:
+The EU procurement framework provides the study's richest international comparison, both because of its scale (EUR 2 trillion annually) and because of its structural commitment to non-price evaluation:
 
 **MEAT is the architectural default, not a policy choice.** Directive 2014/24/EU makes MEAT the overarching concept under which all award decisions fall. Even lowest-price awards are technically a subset of MEAT. Several member states (France, Netherlands, Denmark) have moved to restrict lowest-price awards to simple commodity purchases. This represents a more thoroughgoing structural commitment to best-value than the US FAR, which treats LPTA as an equally legitimate evaluation method.
 
-**The 27-member-state laboratory.** The EU provides a natural experiment on an extraordinary scale. Member states that emphasize quality-weighted evaluation (Netherlands, Denmark, Sweden) can be compared against those that still frequently default to lowest price for simpler procurements. This within-EU variation directly parallels the LPTA vs. best-value variation the dissertation examines in US federal procurement.
+**The 27-member-state laboratory.** The EU provides a natural experiment on an extraordinary scale. Member states that emphasize quality-weighted evaluation (Netherlands, Denmark, Sweden) can be compared against those that still frequently default to lowest price for simpler procurements. This within-EU variation directly parallels the LPTA vs. best-value variation the study examines in US federal procurement.
 
-**Foreign vendor entry costs reveal the true cost of market complexity.** A US company investing EUR 110,000-700,000 to enter a single EU member state's procurement market faces costs 2-5x higher than entering the US domestic market as a new vendor. The fact that most of these costs are not from formal barriers but from practical complexity (language, legal fragmentation, GDPR, Posted Workers) demonstrates how non-tariff barriers shape procurement markets -- the same dynamic the dissertation examines through the lens of evaluation methodology.
+**Foreign vendor entry costs reveal the true cost of market complexity.** A US company investing EUR 110,000-700,000 to enter a single EU member state's procurement market faces costs 2-5x higher than entering the US domestic market as a new vendor. The fact that most of these costs are not from formal barriers but from practical complexity (language, legal fragmentation, GDPR, Posted Workers) demonstrates how non-tariff barriers shape procurement markets -- the same dynamic the study examines through the lens of evaluation methodology.
 
 **The ESPD reform shows barrier reduction without quality dilution.** The EU's replacement of upfront documentary evidence with self-declaration (ESPD) lowered entry costs without compromising MEAT evaluation depth. This provides evidence that simplifying vendor qualification and maintaining best-value evaluation are complementary, not competing, objectives.
 
-**Green Public Procurement redefines value.** The GPP movement -- particularly Lithuania's trajectory from 5% to near-100% environmental criteria -- demonstrates that "value" in public procurement can systematically include sustainability. This extends the dissertation's "from lowest price to highest public value" thesis into environmental dimensions that the US federal system addresses less systematically.
+**Green Public Procurement redefines value.** The GPP movement -- particularly Lithuania's trajectory from 5% to near-100% environmental criteria -- demonstrates that "value" in public procurement can systematically include sustainability. This extends the study's "from lowest price to highest public value" thesis into environmental dimensions that the US federal system addresses less systematically.
 
-**The persistence of local advantage despite harmonization.** With only ~14% of EU tenders won by foreign suppliers and GPA treaty rights in place for decades, the EU demonstrates that legal market access does not automatically translate into competitive outcomes. Language, relationships, local knowledge, and incumbency advantages shape outcomes far more than formal barriers -- a finding directly relevant to the dissertation's argument that LPTA's focus on price may miss the dimensions of value that drive actual procurement success.
+**The persistence of local advantage despite harmonization.** With only ~14% of EU tenders won by foreign suppliers and GPA treaty rights in place for decades, the EU demonstrates that legal market access does not automatically translate into competitive outcomes. Language, relationships, local knowledge, and incumbency advantages shape outcomes far more than formal barriers -- a finding directly relevant to the study's argument that LPTA's focus on price may miss the dimensions of value that drive actual procurement success.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Scale of comparison** -- EUR 2 trillion in annual procurement across 27 member states provides the largest international dataset for comparing MEAT-based outcomes against US LPTA procurements
 2. **Structural vs. policy commitment** -- The EU's architectural embedding of MEAT contrasts with the US FAR's treatment of evaluation method as a procurement-by-procurement choice, testing whether structural commitment to best-value produces different outcomes
 3. **Foreign entry as a barrier metric** -- The EUR 110K-700K US entry cost provides a quantitative measure of non-tariff barriers that can be compared against US domestic entry costs and correlated with competition levels
-4. **Language as a confounding variable** -- Unlike Australia or the UK, the EU's 24-language environment introduces a barrier variable absent in English-speaking procurement markets, allowing the dissertation to isolate language effects from regulatory effects
+4. **Language as a confounding variable** -- Unlike Australia or the UK, the EU's 24-language environment introduces a barrier variable absent in English-speaking procurement markets, allowing the study to isolate language effects from regulatory effects
 5. **ESPD as policy evidence** -- The ESPD demonstrates that barrier reduction and best-value evaluation can coexist, informing recommendations for US procurement reform
-6. **GPP and expanded value** -- Environmental criteria integration provides evidence for the dissertation's broader argument that "public value" extends beyond price and traditional quality metrics
+6. **GPP and expanded value** -- Environmental criteria integration provides evidence for the study's broader argument that "public value" extends beyond price and traditional quality metrics
 7. **Cross-border participation data** -- The ~14% foreign-supplier win rate, despite harmonized rules and treaty access, provides a baseline for measuring how effectively procurement systems translate open-market principles into actual competitive outcomes
 8. **Innovation partnerships** -- Article 31's innovation partnership procedure, with no direct US analog, represents the frontier of value-based procurement where the process itself is designed to create new solutions
 
@@ -535,4 +535,4 @@ The EU procurement framework provides the dissertation's richest international c
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

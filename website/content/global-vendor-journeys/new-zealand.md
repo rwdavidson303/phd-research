@@ -118,7 +118,7 @@ This represents roughly 10-20% of the equivalent US investment, reflecting the G
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Structural Comparison with the US
 
@@ -150,7 +150,7 @@ Key observations:
 4. **Proportionality reduces burden** -- The explicit principle that process complexity should match contract complexity prevents small procurements from carrying disproportionate overhead
 5. **Maori business participation succeeds through targets** -- The 8% progressive procurement target, backed by active support programs, has delivered measurable results ($930 million to Maori businesses in 2021/22) without the legalistic complexity of US 8(a) program administration
 
-### Implications for the Dissertation
+### Implications for the Study
 
 New Zealand's system provides evidence that:
 
@@ -180,7 +180,7 @@ The NZ model challenges the US assumption that LPTA is necessary for efficiency 
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -387,11 +387,11 @@ This represents roughly 40-60% of the equivalent investment for entering the Aus
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The Rule 8 Natural Experiment
 
-New Zealand's mandatory 10% minimum weighting for economic benefits to New Zealand (Rule 8) creates a natural experiment that directly informs the dissertation's central question:
+New Zealand's mandatory 10% minimum weighting for economic benefits to New Zealand (Rule 8) creates a natural experiment that directly informs the study's central question:
 
 **When a government explicitly weights broader outcomes in evaluation, how does this affect competition, vendor behavior, and public value?**
 
@@ -449,4 +449,4 @@ The US vendor journey into NZ procurement reveals that:
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

@@ -1,7 +1,7 @@
 # Getting Government Contracting Right: A Comprehensive Analysis of the World's Most Effective Public Procurement Systems and What They Mean for US Reform
 
 **Richard W. Davidson, DBA**
-Indiana University, Kelley School of Business
+Independent Research Program
 
 ---
 
@@ -1360,7 +1360,7 @@ The United States can do the same. The models exist. The evidence is clear. The 
 - National Contract Management Association (NCMA). (2022). *Annual Procurement Survey Results*. Ashburn, VA.
 - Standish Group. (2020). *CHAOS Report: IT Project Performance*. Boston, MA.
 - Congressional Research Service (CRS). (2024). *Federal Procurement: Overview and Issues*. Washington, DC.
-- Davidson, R.W. (2026). "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs." *Dissertation, Indiana University, Kelley School of Business*.
+- Davidson, R.W. (2026). "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs." *Unpublished manuscript*.
 
 ---
 
@@ -1442,6 +1442,6 @@ The United States can do the same. The models exist. The evidence is clear. The 
 
 ---
 
-*This report was prepared by Richard W. Davidson, DBA, Indiana University, Kelley School of Business. The analysis represents the author's independent research and does not necessarily reflect the views of Indiana University or any government agency. Data and statistics are drawn from publicly available sources cited throughout and should be verified against primary sources for policy implementation purposes.*
+*This report was prepared by Richard W. Davidson as independent research. The analysis does not necessarily reflect the views of any institution or government agency. Data and statistics are drawn from publicly available sources cited throughout and should be verified against primary sources for policy implementation purposes.*
 
 ---

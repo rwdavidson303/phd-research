@@ -116,7 +116,7 @@ The World Bank and Hanyang University studies estimate KONEPS saves KRW 8 trilli
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The Competition Implications
 
@@ -129,7 +129,7 @@ Korea's KONEPS system provides a natural experiment for understanding how procur
 
 ### The LPTA vs. Best-Value Paradox
 
-Korea's procurement system reveals an important pattern for the dissertation's central question:
+Korea's procurement system reveals an important pattern for the study's central question:
 
 **Korea defaults to lowest-price award** for most procurements — and this works reasonably well because:
 1. Barriers to entry are low, so the competitive pool is large (hundreds of bidders per tender is common)
@@ -145,7 +145,7 @@ Korea's procurement system reveals an important pattern for the dissertation's c
 
 This comparison suggests that **the optimal evaluation method depends on the competitive environment**. Korea can rely more heavily on price competition because its system generates sufficient competition. The US cannot, because its barriers suppress competition to the point where price alone is an unreliable indicator of value.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **System design drives competition**: Korea's investment in a unified digital platform directly enables broader participation, which in turn supports price-based competition
 2. **LPTA works when competition is robust**: Korea's experience suggests lowest-price procurement can be effective when barriers are low enough to attract hundreds of bidders
@@ -171,7 +171,7 @@ This comparison suggests that **the optimal evaluation method depends on the com
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 ---
 
@@ -324,11 +324,11 @@ End-to-end pipeline from market entry through contract closeout for a US company
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### The Asymmetry of Access
 
-The US vendor journey in Korea reveals a fundamental asymmetry that illuminates the dissertation's research question:
+The US vendor journey in Korea reveals a fundamental asymmetry that illuminates the study's research question:
 
 | Dimension | Korean Vendor in Korea | US Vendor in Korea | US Vendor in US |
 |-----------|----------------------|-------------------|----------------|
@@ -358,7 +358,7 @@ Korea's procurement system is instructive for the LPTA vs. best-value debate:
 - Technical weight typically 60-80%, price 20-40%
 - Similar to US best-value tradeoff in structure, but applied selectively
 
-**The lesson for the dissertation**: Korea demonstrates that the choice of evaluation method should be calibrated to the competitive environment. When barriers are low and competition is robust, price-based evaluation can work effectively. When barriers are high and competition is thin — as in the US system, or for foreign firms entering Korea — price alone is an insufficient indicator of value, and best-value methods become more important.
+**The lesson for the study**: Korea demonstrates that the choice of evaluation method should be calibrated to the competitive environment. When barriers are low and competition is robust, price-based evaluation can work effectively. When barriers are high and competition is thin — as in the US system, or for foreign firms entering Korea — price alone is an insufficient indicator of value, and best-value methods become more important.
 
 ### Implications for Cross-National Procurement Policy
 
@@ -389,4 +389,4 @@ Korea's procurement system is instructive for the LPTA vs. best-value debate:
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

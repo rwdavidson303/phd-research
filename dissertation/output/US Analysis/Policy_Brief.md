@@ -5,7 +5,7 @@
 **A Policy Brief for Lawmakers, Government Leaders, and Taxpayers**
 
 **Richard W. Davidson, DBA Candidate**
-**Indiana University -- Kelley School of Business**
+**Independent Research Program**
 
 ---
 
@@ -217,6 +217,6 @@ For too long, the debate over how to pick government contractors has been driven
 
 ---
 
-*This policy brief is based on doctoral dissertation research conducted at Indiana University, Kelley School of Business. The full study, including detailed methodology and statistical results, is available from the author. The views expressed are those of the author and do not represent Indiana University or any government agency.*
+*This policy brief is based on independent research by the author. The full study, including detailed methodology and statistical results, is available from the author. The views expressed are those of the author and do not represent any institution or government agency.*
 
-*Contact: Richard W. Davidson | Indiana University*
+*Contact: Richard W. Davidson | RWDavidson303@gmail.com*

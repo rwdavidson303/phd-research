@@ -32,7 +32,7 @@ From this dataset, we constructed a sample of **654,307** competitively awarded 
 
 ## Federal Procurement Data Hub
 
-This section tracks and analyzes federal procurement data relevant to the dissertation.
+This section tracks and analyzes federal procurement data relevant to the study.
 
 ### Data Sources
 

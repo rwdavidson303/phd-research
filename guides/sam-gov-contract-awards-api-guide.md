@@ -143,7 +143,7 @@ You will need to provide:
 
 1. **System Description and Function:**
    Write a clear business justification. For academic research, something like:
-   > "DBA dissertation research at Indiana University, Kelley School of Business. Studying the relationship between source selection methodology (LPTA vs. best-value tradeoff) and contract outcomes in federal procurement. Need to query the Contract Awards API to collect contract award records with sourceSelectionProcess data for statistical analysis. Estimated data volume: ~50,000-200,000 contract records covering FY2020-FY2025."
+   > "Independent academic research. Studying the relationship between source selection methodology (LPTA vs. best-value tradeoff) and contract outcomes in federal procurement. Need to query the Contract Awards API to collect contract award records with sourceSelectionProcess data for statistical analysis. Estimated data volume: ~50,000-200,000 contract records covering FY2020-FY2025."
 
 2. **Domains and Permissions:**
    You will see a list of SAM.gov data domains. Select **"Contract Awards"** (and any other relevant domains). Each domain has specific permissions.

@@ -161,15 +161,15 @@ End-to-end pipeline from market entry through contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Chile's Mercado Publico Model vs. US LPTA
 
-Chile's procurement system offers several critical insights for the dissertation's central question about LPTA versus best-value procurement:
+Chile's procurement system offers several critical insights for the study's central question about LPTA versus best-value procurement:
 
 **Multi-criteria evaluation is the default.** Chilean public tenders require evaluation across technical quality, economic offer, experience, team qualifications, and compliance dimensions. Price alone does not determine the winner. This structural commitment to multi-factor evaluation mirrors best-value procurement in the US but applies universally rather than as an agency choice.
 
-**Dramatically lower barriers expand competition.** A Chilean vendor can be fully qualified to bid for under $6,000 USD. A comparable US vendor faces $30,000-$1,100,000 in qualification costs. This 5-50x cost differential directly tests the dissertation hypothesis that higher barriers correlate with reduced competition and lower public value. Chile's 90% micro/small enterprise supplier base and 42% SME value share suggest lower barriers produce broader competition.
+**Dramatically lower barriers expand competition.** A Chilean vendor can be fully qualified to bid for under $6,000 USD. A comparable US vendor faces $30,000-$1,100,000 in qualification costs. This 5-50x cost differential directly tests the study’s hypothesis that higher barriers correlate with reduced competition and lower public value. Chile's 90% micro/small enterprise supplier base and 42% SME value share suggest lower barriers produce broader competition.
 
 **The single-platform model eliminates fragmentation.** All Chilean procurement flows through one portal, unlike the US where opportunities scatter across SAM.gov, agency-specific portals, and GWACs/IDIQs. This architectural simplicity reduces search costs and improves market efficiency -- factors that should theoretically improve competitive outcomes.
 
@@ -177,7 +177,7 @@ Chile's procurement system offers several critical insights for the dissertation
 
 **The 2024 transparency reforms set a new standard.** Beneficial ownership mandates, OCDS publication, and the real-time Observatory represent a transparency infrastructure that exceeds US practice. If transparency improves procurement outcomes, Chile's data should show it.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Barrier-to-entry effects** -- Chile's dramatically lower qualification costs ($950-$22,800 vs. US $30K-$1.1M) and resulting 90% micro/small supplier base provides strong evidence for the competition-barriers hypothesis
 2. **SME participation outcomes** -- Chile's 42% SME value share (vs. US ~26%) under a multi-criteria system tests whether best-value evaluation methods produce broader economic participation
@@ -211,7 +211,7 @@ Chile's procurement system offers several critical insights for the dissertation
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -418,11 +418,11 @@ End-to-end pipeline from US market entry through Chilean contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### What Chile Reveals About LPTA vs. Best-Value from a Foreign Entry Perspective
 
-Chile's procurement system offers the dissertation a uniquely compelling international comparison that illuminates the relationship between market access barriers, evaluation methods, and public value:
+Chile's procurement system offers the study a uniquely compelling international comparison that illuminates the relationship between market access barriers, evaluation methods, and public value:
 
 **The language barrier is the dominant foreign-entry cost driver.** Unlike Australia or the UK (where US vendors face zero language barriers), or South Korea (where simultaneous Korean-English submissions are sometimes accepted), Chile's all-Spanish procurement system creates a persistent per-bid cost premium of $1,000-$15,000+ for translation alone. This linguistic barrier functions as an effective non-tariff barrier even when treaty access formally guarantees national treatment.
 
@@ -434,9 +434,9 @@ Chile's procurement system offers the dissertation a uniquely compelling interna
 
 **The beneficial ownership mandate tests transparency effects on foreign participation.** Chile's requirement that all suppliers disclose ultimate beneficial owners creates an interesting dynamic for US companies: US ownership structures must be disclosed to the Chilean government, while the US itself has struggled to implement comparable beneficial ownership requirements (FinCEN BOI rule contested). This asymmetry may affect US companies' willingness to participate.
 
-**Reverse auctions create a direct LPTA comparison.** Chile uses reverse auctions for commodity purchases -- effectively a lowest-price mechanism. Comparing outcomes of reverse-auction procurements against multi-criteria tender procurements within the same platform provides a natural experiment relevant to the dissertation's LPTA-vs-best-value question, observable through Chile's OCDS-published data.
+**Reverse auctions create a direct LPTA comparison.** Chile uses reverse auctions for commodity purchases -- effectively a lowest-price mechanism. Comparing outcomes of reverse-auction procurements against multi-criteria tender procurements within the same platform provides a natural experiment relevant to the study's LPTA-vs-best-value question, observable through Chile's OCDS-published data.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Language as a non-tariff barrier** -- Chile quantifies what the language barrier costs foreign vendors per bid, enabling comparison with English-speaking markets (US, Australia, UK) where this barrier is absent
 2. **Treaty effectiveness gap** -- The US-Chile FTA provides formal access, but practical participation data (if available through OCDS) can test whether treaty rights translate to actual foreign vendor wins
@@ -477,4 +477,4 @@ Chile's procurement system offers the dissertation a uniquely compelling interna
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

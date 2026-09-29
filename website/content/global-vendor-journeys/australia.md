@@ -130,21 +130,21 @@ End-to-end pipeline from market entry through contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Australia's Value-for-Money Model vs. US LPTA
 
-Australia's CPR framework provides a natural comparison case for the dissertation's central question about LPTA versus best-value procurement:
+Australia's CPR framework provides a natural comparison case for the study's central question about LPTA versus best-value procurement:
 
 **The CPRs explicitly state that price is not the sole factor.** Officials must consider fitness for purpose, quality, supplier capability, risk, flexibility, environmental sustainability, whole-of-life costs, and ethical conduct. This is a structural commitment to best-value evaluation that the US FAR permits but does not require.
 
-**Lower barriers to entry expand the competitive pool.** Without the DCAA accounting requirement and with simpler registration processes, Australian procurement potentially attracts more competitors per opportunity. This tests the dissertation hypothesis that higher barriers correlate with reduced competition and lower public value.
+**Lower barriers to entry expand the competitive pool.** Without the DCAA accounting requirement and with simpler registration processes, Australian procurement potentially attracts more competitors per opportunity. This tests the study’s hypothesis that higher barriers correlate with reduced competition and lower public value.
 
 **The Indigenous Procurement Policy demonstrates targeted intervention.** Australia's mandatory set-aside and portfolio targets for Indigenous businesses show an alternative model for addressing market access -- one focused on specific populations rather than the broader US small business categories.
 
 **The 2025 ethical conduct requirement is a frontier expansion of non-price evaluation.** By mandating consideration of ethical conduct in all procurements regardless of value, Australia has moved beyond even the most expansive US best-value criteria.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Cross-national evidence** -- Australia's explicit rejection of price-only evaluation provides a control case for comparing procurement outcomes
 2. **Barrier-to-entry effects** -- Lower qualification costs in Australia should correlate with broader competition, testable against USAspending data
@@ -171,7 +171,7 @@ Australia's CPR framework provides a natural comparison case for the dissertatio
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -343,15 +343,15 @@ End-to-end pipeline from US market entry through Australian contract completion.
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### What Australia Reveals About LPTA vs. Best-Value
 
-Australia's procurement framework offers the dissertation a compelling international comparison:
+Australia's procurement framework offers the study a compelling international comparison:
 
 **Value for money is the default -- not the exception.** Under the CPRs, every procurement must achieve value for money through multi-criteria assessment. Price is explicitly one factor among many. This is the structural opposite of US LPTA procurement, where price is the sole differentiator among technically acceptable offers.
 
-**Foreign vendor costs test the competition hypothesis.** A US company faces $120K-$890K in entry costs before winning its first Australian contract, compared to $16K-$415K for an Australian local firm. This 3-4x cost multiplier for foreign entry demonstrates how barriers shape the competitive field -- the same dynamic the dissertation examines in the US domestic context.
+**Foreign vendor costs test the competition hypothesis.** A US company faces $120K-$890K in entry costs before winning its first Australian contract, compared to $16K-$415K for an Australian local firm. This 3-4x cost multiplier for foreign entry demonstrates how barriers shape the competitive field -- the same dynamic the study examines in the US domestic context.
 
 **Treaty access provides a natural experiment.** The AUSFTA and WTO GPA guarantee US vendors non-discriminatory access to covered procurements. Yet practical barriers -- local presence preferences, security clearance restrictions, and Australian past performance expectations -- create de facto advantages for incumbents. This parallels the US past-performance Catch-22 identified in the domestic vendor journey.
 
@@ -359,7 +359,7 @@ Australia's procurement framework offers the dissertation a compelling internati
 
 **The 2025 ethical conduct requirement expands evaluation beyond US practice.** Australia now mandates that ethical conduct be considered in value-for-money assessment for all procurements. This is a dimension of "value" that even the most expansive US best-value tradeoff procurements do not formally require, suggesting the frontier of non-price evaluation continues to expand internationally.
 
-### Implications for the Dissertation
+### Implications for the Study
 
 1. **Cross-national barrier analysis** -- Australia's lower domestic qualification costs ($16K-$415K vs. US $30K-$1.1M) may correlate with broader domestic competition
 2. **Foreign entry cost multiplier** -- The 3-4x premium for foreign vendors entering Australia provides a benchmark for measuring how market access barriers shape competition globally
@@ -395,4 +395,4 @@ Australia's procurement framework offers the dissertation a compelling internati
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

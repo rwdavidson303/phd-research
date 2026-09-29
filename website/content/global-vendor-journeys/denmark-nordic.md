@@ -180,7 +180,7 @@ This system is substantially more accessible than the US GAO/COFC protest mechan
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Denmark as a Best-Value Benchmark
 
@@ -194,7 +194,7 @@ Denmark's procurement system represents what the US system could achieve if best
 
 ### The LPTA vs. Best-Value Question in a Danish Context
 
-Denmark's experience provides empirical evidence for the dissertation's central hypothesis:
+Denmark's experience provides empirical evidence for the study's central hypothesis:
 
 > When a procurement system structurally defaults to quality-based evaluation and actively supports innovation procurement, the competitive base broadens, new entrants have genuine pathways to win, and public value outcomes improve — even at higher unit prices.
 
@@ -236,7 +236,7 @@ Key data points:
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*
 
 
 ---
@@ -435,11 +435,11 @@ Denmark serves as an optimal Nordic beachhead for US companies:
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### Denmark as a Contrasting Case
 
-Denmark provides a powerful comparative case for the dissertation's central hypothesis because it demonstrates what happens when a procurement system is structurally designed around best-value principles:
+Denmark provides a powerful comparative case for the study's central hypothesis because it demonstrates what happens when a procurement system is structurally designed around best-value principles:
 
 1. **MEAT as default vs. LPTA as common**: Denmark's legal presumption of multi-criteria evaluation eliminates the race to the bottom that LPTA creates in the US; the burden is on the authority to justify using lowest price, not the other way around
 2. **Innovation partnership has no US equivalent**: The ability to procure solutions that don't yet exist, through a structured R&D partnership with government co-funding, is fundamentally different from the US model of buying only proven, specified solutions
@@ -497,4 +497,4 @@ Key data points supporting this thesis:
 
 ---
 
-*This research document supports the dissertation "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, Indiana University, Kelley School of Business.*
+*This research document supports the study "From Lowest Price to Highest Public Value: An Empirical Test of Best-Value Source Selection in Government RFPs" by Richard Davidson, independent researcher.*

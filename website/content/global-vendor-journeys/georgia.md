@@ -148,7 +148,7 @@ End-to-end pipeline from market entry through contract completion, assuming a mi
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### LPTA vs. Best-Value: Georgia as an Evolving Case Study
 
@@ -167,12 +167,12 @@ Georgia's procurement system provides a fascinating case study of a system trans
   - **Dynamic purchasing systems** for commonly available goods
 - These changes are driven by EU-Georgia Association Agreement obligations, representing the same convergence toward best-value that EU member states have undergone
 
-**What This Reveals for the Dissertation**
+**What This Reveals for the Study**
 1. **Anti-corruption vs. value optimization trade-off**: Georgia chose lowest-price as an anti-corruption strategy. The dramatic corruption reduction (97% to 3%) validates this approach for environments with endemic corruption. But as the system matures, the limitations of price-only evaluation become apparent -- quality issues, race-to-the-bottom pricing, and inability to evaluate innovation or lifecycle costs
 2. **The transparency paradox**: Georgia's system is among the world's most transparent, yet 45% of procurement still bypasses competitive processes through exemptions and simplified procurement. Transparency in the electronic system coexists with opacity in the exempted categories
 3. **Barrier reduction as competition driver**: By making entry nearly free (GEL 50 fee, free documents, same-week registration), Georgia maximizes the bidder pool. This stands in stark contrast to the US, where high entry costs suppress competition
 4. **Small market dynamics**: Georgia's entire annual procurement volume (~GEL 2.7 billion) is smaller than many single US federal contracts. The small market size means the competitive pool is inherently limited, making the low-barrier approach even more critical
-5. **Digital-first as equalizer**: Remote participation from anywhere removes geographic barriers within Georgia (and for international bidders). This is directly relevant to the dissertation's examination of how procurement design choices affect competitive outcomes
+5. **Digital-first as equalizer**: Remote participation from anywhere removes geographic barriers within Georgia (and for international bidders). This is directly relevant to the study's examination of how procurement design choices affect competitive outcomes
 
 ### Comparison to US System
 
@@ -373,11 +373,11 @@ End-to-end pipeline from market entry through contract completion, assuming a mi
 
 ---
 
-## Connection to Dissertation Research
+## Connection to the Research
 
 ### LPTA vs. Best-Value: The Georgian Experiment
 
-Georgia's procurement evolution offers unique insights for the dissertation on several dimensions:
+Georgia's procurement evolution offers unique insights for the study on several dimensions:
 
 **1. Lowest-Price as Anti-Corruption Strategy**
 
@@ -397,7 +397,7 @@ Georgia has arguably the world's most transparent procurement system (real-time 
 
 **5. Small Market, Big Lessons**
 
-Georgia's annual procurement (~$1 billion) is approximately 0.14% of US federal procurement (~$700 billion). Yet the system has attracted more international study and awards than procurement systems of much larger economies. The lessons for the dissertation:
+Georgia's annual procurement (~$1 billion) is approximately 0.14% of US federal procurement (~$700 billion). Yet the system has attracted more international study and awards than procurement systems of much larger economies. The lessons for the study:
 - Radical simplification works: GEL 50 fee, free documents, all-electronic, same-week registration
 - Technology can replace institutional trust: the algorithm substitutes for the integrity that the old system lacked
 - Lowest-price is a phase, not an endpoint: successful anti-corruption systems eventually need to evolve toward value optimization

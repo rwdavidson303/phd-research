@@ -1,6 +1,6 @@
-# Dissertation Output Files
+# Research Output Files
 
-Richard W. Davidson, DBA — Indiana University, Kelley School of Business
+Richard W. Davidson, Independent Research Program
 
 ## Dissertation
 
