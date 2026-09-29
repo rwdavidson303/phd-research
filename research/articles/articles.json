@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-28T17:52:23.246175",
-    "total_articles": 620,
-    "last_search_date": "2026-09-28"
+    "last_updated": "2026-09-29T16:14:42.726674",
+    "total_articles": 621,
+    "last_search_date": "2026-09-29"
   },
   "articles": [
     {
@@ -1064,7 +1064,7 @@
       "abstract": "Green public procurement has gained high political priority and is argued to be an effective demand-side policy to trigger environmental innovations. However, the empirical evidence on its innovation impact is limited. We construct a novel firm-level dataset to investigate the effect of winning public procurement tenders with additional environmental award criteria on firms’ introduction of environmental innovations. Employing cross-sectional difference-in-differences methods, we find that winning public procurement awards with environmental selection criteria increases a firm's probability of introducing more environmentally friendly products on average by 20 percentage points. We show that this effect is driven by small and medium-sized firms and is not statistically significant for larger firms. Furthremore, there is no statistically significant effect on the introduction of more environmentally friendly processes.",
       "doi": "https://doi.org/10.1016/j.respol.2022.104516",
       "url": "https://openalex.org/W4220957332",
-      "citation_count": 203,
+      "citation_count": 205,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-25T17:33:39.823434"
@@ -1260,7 +1260,7 @@
       "abstract": "Abstract This study collates potential economic effects of mandated disclosure and reporting standards for corporate social responsibility (CSR) and sustainability topics. We first outline key features of CSR reporting. Next, we draw on relevant academic literatures in accounting, finance, economics, and management to discuss and evaluate the potential economic consequences of a requirement for CSR and sustainability reporting for U.S. firms, including effects in capital markets, on stakeholders other than investors, and on firm behavior. We also discuss issues related to the implementation and enforcement of CSR and sustainability reporting standards as well as two approaches to sustainability reporting that differ in their overarching goals and materiality standards. Our analysis yields a number of insights that are relevant for the current debate on mandatory CSR and sustainability reporting. It also points scholars to avenues for future research.",
       "doi": "https://doi.org/10.1007/s11142-021-09609-5",
       "url": "https://openalex.org/W3159759907",
-      "citation_count": 1885,
+      "citation_count": 1888,
       "search_query": "GAO bid protest outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:06.582576"
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 877,
+      "citation_count": 878,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -6173,7 +6173,7 @@
       "abstract": "ABSTRACT The government requires its suppliers to have certain internal information processes to reduce uncertainty about their ability to fulfill their commitments. I argue that these requirements improve suppliers' internal information, which leads to better external reporting. Using a dataset of U.S. government contracts, I find a positive relation between government contract awards and firms' external reporting quality. Consistent with procurement-related requirements driving this relation, I find that firms improve their external reporting when they begin contracting with the government, and that the magnitude of the improvement varies predictably with contract characteristics imposing greater requirements on contractors' internal information processes. Finally, I use the establishment of the Cost Accounting Standards Board in 1970 as a shock to contractors' internal information requirements, and find greater improvements in external reporting among firms subject to the CASB. Overall, these results suggest that the government as a customer contributes to shaping firms' information environments.",
       "doi": "https://doi.org/10.2308/tar-2018-0343",
       "url": "https://openalex.org/W2900863162",
-      "citation_count": 188,
+      "citation_count": 189,
       "source": "openalex",
       "id": "df4a9434e897d7ca69d815b3a19fe661",
       "date_found": "2026-06-09T12:30:10.160002",
@@ -6201,7 +6201,7 @@
       "abstract": "Both practitioners and scholars are increasingly interested in the idea of public value as a way of understanding government activity, informing policy‐making and constructing service delivery. In part this represents a response to the concerns about ‘new public management’, but it also provides an interesting way of viewing what public sector organisations and public managers actually do. The purpose of this article is to examine this emerging approach by reviewing new public management and contrasting this with a public value paradigm. This provides the basis for a conceptual discussion of differences in approach, but also for pointing to some practical implications for both public sector management and public sector managers.",
       "doi": "https://doi.org/10.1111/j.1467-8500.2007.00545.x",
       "url": "https://openalex.org/W2161122976",
-      "citation_count": 1064,
+      "citation_count": 1067,
       "source": "openalex",
       "id": "9027260807f136bfc3ba152f008ccd44",
       "date_found": "2026-06-09T12:30:10.160039",
@@ -6229,7 +6229,7 @@
       "abstract": "Public procurement is increasingly seen as an important potential instrument of innovation policy. However, policy design has been underpinned largely by anecdotal evidence and without a clear theoretical or empirical basis for understanding how supplying to the public sector actually influences a firm's innovation capabilities and performance and in what ways desirable behaviour and outcomes can be promoted. This paper seeks to address the basis of innovation procurement policy. It establishes a broad taxonomy of procurement policies and instruments that have emerged in OECD countries in response to perceived deficiencies and then compares these with the perceptions of firms using an analysis of a dedicated survey of 800 public sector suppliers in the UK. It is observed that policy measures include the creation of framework conditions, establishing organisational frameworks and developing capabilities, identifying, specifying and signalling needs, and incentivising innovative solutions. The survey findings confirm that the barriers encountered by firms correspond to the deficiencies addressed by policies but do not address them sufficiently. This arises from lack of coverage, lack of ownership by purchasers, failure to address the whole cycle of acquisition and to address risk aversion. The scope of policy measures needs to be extended in time, breadth of reach and depth.",
       "doi": "https://doi.org/10.1016/j.techfore.2013.09.018",
       "url": "https://openalex.org/W2102897933",
-      "citation_count": 358,
+      "citation_count": 359,
       "source": "openalex",
       "id": "200aa9fce0c58ff226415c53df8a7e1c",
       "date_found": "2026-06-09T12:30:10.160056",
@@ -7909,7 +7909,7 @@
       "abstract": "Abstract This study aims to develop an AI education policy for higher education by examining the perceptions and implications of text generative AI technologies. Data was collected from 457 students and 180 teachers and staff across various disciplines in Hong Kong universities, using both quantitative and qualitative research methods. Based on the findings, the study proposes an AI Ecological Education Policy Framework to address the multifaceted implications of AI integration in university teaching and learning. This framework is organized into three dimensions: Pedagogical, Governance, and Operational. The Pedagogical dimension concentrates on using AI to improve teaching and learning outcomes, while the Governance dimension tackles issues related to privacy, security, and accountability. The Operational dimension addresses matters concerning infrastructure and training. The framework fosters a nuanced understanding of the implications of AI integration in academic settings, ensuring that stakeholders are aware of their responsibilities and can take appropriate actions accordingly.",
       "doi": "https://doi.org/10.1186/s41239-023-00408-3",
       "url": "https://openalex.org/W4383312437",
-      "citation_count": 1461,
+      "citation_count": 1464,
       "source": "openalex",
       "id": "41330e8441da7470e0f42d1b26a8b5be",
       "date_found": "2026-07-29T11:53:59.270781",
@@ -8245,7 +8245,7 @@
       "abstract": "In conventional economics, value creation occurs in the private sector with the state limited to correcting for “market failures”. Public management scholars have developed the term “public value” to describe how public sector managers can engage citizens in shaping effective policy. A more ambitious concept of public value rejects the “market failure” framework and puts public value at the centre of the economy. Public value is created by public sector actors creating and co-shaping markets in line with public purpose. This direction-setting role enables different sectors to collaborate to address major societal challenges, such as climate change and inequality.",
       "doi": "https://doi.org/10.1080/17487870.2022.2053537",
       "url": "https://openalex.org/W2965409745",
-      "citation_count": 141,
+      "citation_count": 142,
       "source": "openalex",
       "id": "d5e1b83fef9e36a3ee8774109702b807",
       "date_found": "2026-08-20T10:19:37.049098",
@@ -8684,6 +8684,20 @@
       "id": "2bd3a043ef5d3a6e1f31a41b3b3144fb",
       "date_found": "2026-09-26T13:58:07.867436",
       "search_query": "competition public procurement innovation"
+    },
+    {
+      "title": "COMMUTING TIME AND HOUSEHOLD RESPONSIBILITIES: EVIDENCE USING PROPENSITY SCORE MATCHING",
+      "authors": "J. Ignacio Giménez-Nadal; José Alberto Molina",
+      "year": 2015,
+      "journal": "Journal of Regional Science",
+      "abstract": "ABSTRACT We examine the relationship between individual commuting behavior and household responsibilities, with a focus on gender differences in that relationship. Using the Dutch Time Use Survey for the years 2000 and 2005, we analyze the relationship between commuting time, home production, and childcare. To deal with reverse causality, we use Propenstity Score Matching techniques to obtain imputed data for individuals. We find that the effect of home production on commuting time for women is more than double that for men, while childcare time has an effect on women's commuting behavior only. Our results shedding light on the Household Responsibility Hypothesis.",
+      "doi": "https://doi.org/10.1111/jors.12243",
+      "url": "https://openalex.org/W2119844923",
+      "citation_count": 129,
+      "source": "openalex",
+      "id": "3be009f5f028e988f6208402d15a0018",
+      "date_found": "2026-09-29T16:14:42.226382",
+      "search_query": "propensity score matching public administration"
     }
   ]
 }
