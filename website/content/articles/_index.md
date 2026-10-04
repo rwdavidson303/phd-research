@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**712 total articles** in the database | Last updated: October 03, 2026
+**712 total articles** in the database | Last updated: October 04, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -218,7 +218,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 198 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,934 |
 | 199 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 200 | [Famotidine Use Is Associated With Improved Clinical Outcomes in Hospit...](https://doi.org/10.1053/j.gastro.2020.05.053) | Daniel E. Freedberg; Joseph Conigliaro; ... | 2020 | Gastroenterology | 261 |
-| 201 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 241 |
+| 201 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 242 |
 | 202 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
 | 203 | [Government Procurement and Changes in Firm Transparency](https://doi.org/10.2308/tar-2018-0343) | Delphine Samuels | 2020 | The Accounting Review | 189 |
 | 204 | [Effects of very early start of norepinephrine in patients with septic ...](https://doi.org/10.1186/s13054-020-2756-3) | Gustavo A. Ospina‐Tascón; Glenn Hernánde... | 2020 | Critical Care | 174 |
@@ -441,7 +441,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 421 | [Enhancing the Effectiveness of the Public Procurement System of Iraq T...](https://openalex.org/W47633110) | Ali Rahman | 2014 | bepress Legal Repository | 0 |
 | 422 | [Advancing the Charter School Movement in Illinois through Charter Scho...](https://openalex.org/W282124334) | Joseph A. Giambrone | 2014 | Digital Commons-DePaul  (DePau... | 0 |
 | 423 | [Three Essays on Contract Renegotiation](https://openalex.org/W3172841332) | Hojin Jung | 2014 | SHAREOK (University of Oklahom... | 0 |
-| 424 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 879 |
+| 424 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 880 |
 | 425 | [Policy instruments for public procurement of innovation: Choice, desig...](https://doi.org/10.1016/j.techfore.2013.09.018) | Luke Georghiou; Jakob Edler; Elvira Uyar... | 2013 | Technological Forecasting and ... | 359 |
 | 426 | [Tender evaluation and supplier selection methods in public procurement](https://doi.org/10.1016/j.pursup.2013.02.003) | Mats Bergman; Sofia Lundberg | 2013 | Journal of Purchasing and Supp... | 183 |
 | 427 | [Ecosystem-Service Tradeoffs Associated with Switching from Annual to P...](https://doi.org/10.1371/journal.pone.0080093) | Timothy D. Meehan; Claudio Gratton; Eric... | 2013 | PLoS ONE | 105 |
@@ -688,7 +688,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 668 | [The effects of credit card purchasing at installation level](https://openalex.org/W1528345226) | Henry L. Schnepf | 1994 | Defense Technical Information ... | 0 |
 | 669 | [China and the GATT Agreement on Government Procurement](https://doi.org/10.52214/cjal.v8i2.13649) | John Linarelli | 1994 | Columbia Journal of Asian Law | 0 |
 | 670 | [The journal of financial economics](https://doi.org/10.1016/0304-405x(93)90012-z) | G. William Schwert | 1993 | Journal of Financial Economics | 2,575 |
-| 671 | [The Efficiency of Incomplete Contracts: An Empirical Analysis of Air F...](https://doi.org/10.2307/2555956) | Keith J. Crocker; Kenneth J. Reynolds | 1993 | The RAND Journal of Economics | 584 |
+| 671 | [The Efficiency of Incomplete Contracts: An Empirical Analysis of Air F...](https://doi.org/10.2307/2555956) | Keith J. Crocker; Kenneth J. Reynolds | 1993 | The RAND Journal of Economics | 585 |
 | 672 | [What’s Fairness Got to Do with It? Environmental Justice and the Sitin...](https://openalex.org/W266908732) | Vicki Been | 1993 | Scholarship @ Cornell Law (Cor... | 165 |
 | 673 | [Implementing a National Technology Strategy with Self-Organizing Indus...](https://doi.org/10.2307/2534742) | Paul Michael Romer; Zvi Griliches | 1993 | Brookings Papers on Economic A... | 135 |
 | 674 | [Required Delivery Date (RDD), an alternative to Procurement Adminisist...](https://openalex.org/W1002720416) | Robert Jennings. Vickers | 1993 | Calhoun: The Naval Postgraduat... | 0 |

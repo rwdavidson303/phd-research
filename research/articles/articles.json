@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-03T14:28:01.782209",
+    "last_updated": "2026-10-04T15:02:17.215136",
     "total_articles": 712,
-    "last_search_date": "2026-10-03"
+    "last_search_date": "2026-10-04"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 879,
+      "citation_count": 880,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -5222,7 +5222,7 @@
       "abstract": "This article examines the incentives of contractual parties to design agreements that are left intentionally incomplete with regard to future duties or contingencies. More complete contracts mitigate ex post opportunism and the associated distortions in unobservable investment, but at the cost of additional resources expended in ex ante design. The optimal degree of contractual incompleteness involves a tradeoff between these opposing forces, the magnitudes of which may be predicted based on observable characteristics of the transactors and of the exchange environment. The resulting hypotheses are tested using panel data on the pricing procedures using in Air Force engine procurement contracts. We conclude that the degree of contractual completeness chosen in practice reflects a desire by the parties to minimize the economic costs associated with contractual exchange.",
       "doi": "https://doi.org/10.2307/2555956",
       "url": "https://openalex.org/W2044648126",
-      "citation_count": 584,
+      "citation_count": 585,
       "search_query": "contract incompleteness procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:56.981569"
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 241,
+      "citation_count": 242,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
