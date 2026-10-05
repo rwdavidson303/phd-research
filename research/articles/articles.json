@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-04T15:02:17.215136",
-    "total_articles": 712,
-    "last_search_date": "2026-10-04"
+    "last_updated": "2026-10-05T18:57:30.150018",
+    "total_articles": 713,
+    "last_search_date": "2026-10-05"
   },
   "articles": [
     {
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 242,
+      "citation_count": 243,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -8847,7 +8847,7 @@
       "abstract": "Abstract This article puts forward an analytical framework for understanding administrative justice. It does so by reading a leading approach, Jerry Mashaw's administrative justice models, in conjunction with the pragmatic sociology of Luc Boltanski and Laurent Thévenot, and their orders of worth framework. This provides an enhanced framework, which, while remaining consistent with Mashaw, offers additional insights and is particularly suitable for analyzing decisionmaking environments in the modern contracting state. The article illustrates the workings of the new framework by looking at a controversy under UK and EU law concerning the inclusion of labor objectives in public procurement. The discussion reveals a decisionmaking environment characterized by system dissonance. Actors must navigate different sets of tensions and tradeoffs between competing normative and ethical visions for procurement decisionmaking.",
       "doi": "https://doi.org/10.1111/rego.12444",
       "url": "https://openalex.org/W3210744323",
-      "citation_count": 6,
+      "citation_count": 7,
       "source": "openalex",
       "id": "e08682bcad2fba38d71d1999582aeb14",
       "date_found": "2026-10-03T14:27:44.952308",
@@ -9972,6 +9972,20 @@
       "id": "24daaedb05a125664440bacf5364d0a4",
       "date_found": "2026-10-03T14:28:01.282026",
       "search_query": "propensity score matching public administration"
+    },
+    {
+      "title": "Functional procurement for innovation, welfare, and the environment",
+      "authors": "Charles Edquist; Jon Mikel Zabala‐Iturriagagoitia",
+      "year": 2020,
+      "journal": "Science and Public Policy",
+      "abstract": "Abstract Public procurement accounts for a very large share of most economies worldwide. This conceptual article argues that the key to achieving more innovations when pursuing public procurement is to describe problems to be solved or functions to be fulfilled (functional procurement) instead of describing the products to be bought (product procurement). Contracting authorities need to identify the problems that policy should address. The new products (innovations) solving the problems are to be designed by the potential innovators/suppliers, not by public procurers. Hence, the societal needs and problems must be translated and transformed into functional requirements. Functional procurement is allowed in European regulations, and therefore, there are no legal obstacles to use it for innovation policy purposes. Furthermore, it leads to increased competition not only among potential suppliers of similar products, but also among different products that solve the same problem.",
+      "doi": "https://doi.org/10.1093/scipol/scaa046",
+      "url": "https://openalex.org/W3047236217",
+      "citation_count": 64,
+      "source": "openalex",
+      "id": "95699c991b8e911438a4a23645dfcd2d",
+      "date_found": "2026-10-05T18:57:27.658322",
+      "search_query": "competition public procurement innovation"
     }
   ]
 }
