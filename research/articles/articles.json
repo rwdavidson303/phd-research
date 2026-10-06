@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-05T18:57:30.150018",
-    "total_articles": 713,
-    "last_search_date": "2026-10-05"
+    "last_updated": "2026-10-06T16:24:27.787763",
+    "total_articles": 714,
+    "last_search_date": "2026-10-06"
   },
   "articles": [
     {
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 70,
+      "citation_count": 72,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -9785,7 +9785,7 @@
       "abstract": "Abstract This article presents a conceptual and integrative review of how multinational corporations articulate and operationalise the governance of artificial intelligence (AI). Drawing on three major bodies of scholarship—strategic governance, stakeholder engagement, and technology risk governance—the review synthesises existing research alongside publicly disclosed governance frameworks, policies, and oversight structures from eight global firms. The review identifies persistent tensions between innovation and risk management, fragmentation across global governance regimes, and the continuing gap between high-level responsible AI principles and their practical implementation. Using a structured comparative lens, the article synthesises shared governance patterns, sector-specific adaptations, and divergences in transparency, board oversight, lifecycle risk management, and regulatory alignment. The review highlights that while corporations increasingly articulate responsible AI commitments, governance maturity remains uneven and, in some cases, risks becoming symbolic, with substantial variation in structural integration, stakeholder engagement, and risk controls. The article concludes by outlining conceptual, organisational, and regulatory challenges that shape the future of corporate AI governance and proposes directions for research on cross-sectoral and cross-jurisdictional governance practices.",
       "doi": "https://doi.org/10.1007/s00146-026-03207-2",
       "url": "https://openalex.org/W7166819243",
-      "citation_count": 0,
+      "citation_count": 1,
       "source": "openalex",
       "id": "263752eddaccb0d83c0b29724b1f7ff0",
       "date_found": "2026-10-03T14:27:58.610254",
@@ -9986,6 +9986,20 @@
       "id": "95699c991b8e911438a4a23645dfcd2d",
       "date_found": "2026-10-05T18:57:27.658322",
       "search_query": "competition public procurement innovation"
+    },
+    {
+      "title": "ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI PEMANFAATAN TEKNOLOGI INFORMASI DAN PENGARUHNYA TERHADAP KINERJA KARYAWAN PT INALUM (PERSERO)",
+      "authors": "Joko Bramono Susilo",
+      "year": 2019,
+      "journal": "JUMANT",
+      "abstract": "Perkembangan teknologi informasi pada saat ini memberikan perubahan besar dalam kehidupan manusia, termasuk penerapannya di suatu perusahaan. Penelitian ini bertujuan untuk menguji faktor-faktor yang mempengaruhi pemanfaatan teknologi informasi di PT Indonesia Asahan Aluminium / PT Inalum) (persero) dengan menggunakan model konseptual yang diajukan oleh Thompson et al (1991) untuk menguji faktor sosial, affect, kompleksitas, kesesuaian tugas teknologi, konsekuensi jangka panjang, dan kondisi yang memfasilitasi, dan juga menggunakan konseptual Venkatesh et al., (2003) untuk menguji faktor minatpemanfaatan sistem teknologi informasi, dan juga menggunakan konseptual Lee et al., (2003) untuk menguji faktor dukungan manajemen. Kemudian menguji pengaruh pemanfaatan teknologi informasi terhadap kinerja karyawan menggunakan konsep yang dikembangkan oleh Goodhue & Thompson (1995). Pengujian ini dilakukan karena teknologi informasi telah lama diterapkan di PT Indonesia Asahan Aluminium/PT Inalum (Persero) namun belum berpengaruh signifikan terhadap kinerja karyawannya, dan adanya ketidakkonsistenan hasil penelitian sebelumnya. Data yang digunakan pada penelitian ini diperoleh dari persepsi individu pengguna teknologi informasi di PT Inalum (Persero) Kuala Tanjung Kabupaten Batu Bara. Data dikumpulkan sebanyak 190 kuesioner dari responden. Analisis data untuk menganalisa pengaruh langsung dan tidak langsung dari faktor-faktor yang mempengaruhi pemanfaatan teknologi informasi terhadap kinerja karyawan dilakukan dengan menggunakan teknik Multivariate Structural Equation Modelling (SEM) dengan software AMOS dan SPSS versi 22. Hasil penelitian ini menunjukkan bahwa faktor affect, kesesuaian tugas teknologi, konsekuensi jangka panjang, minat pemanfaatan TI, serta dukungan manajemen berpengaruh positif dan signifikan terhadap pemanfaatan teknologi informasi, sedangkan faktor kompleksitas berpengaruh negatif dan signifikan terhadap pemanfaatan teknologi informasi, faktor sosial berpengaruh positif dan tidak signifikan terhadap pemanfaatan teknologi informasi, serta kondisi yang memfasilitasi berpengaruh negatif dan tidak signifikan terhadap pemanfaatan teknologi informasi. Pemanfaatan teknologi informasi berpengaruh positif d a n signifikan terhadap kinerja karyawan.",
+      "doi": null,
+      "url": "https://openalex.org/W2984186804",
+      "citation_count": 1,
+      "source": "openalex",
+      "id": "51b5adec70870485e7917cc5763f657e",
+      "date_found": "2026-10-06T16:24:17.636609",
+      "search_query": "procurement administrative lead time PALT"
     }
   ]
 }
