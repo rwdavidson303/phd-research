@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-06T16:24:27.787763",
-    "total_articles": 714,
-    "last_search_date": "2026-10-06"
+    "last_updated": "2026-10-07T17:05:46.161819",
+    "total_articles": 719,
+    "last_search_date": "2026-10-07"
   },
   "articles": [
     {
@@ -3962,7 +3962,7 @@
       "abstract": "Policy-makers in the EU have increasingly emphasised the role of public procurement as a policy instrument that can be used to stimulate innovation. This development reflects and responds to a growing concern among EU member states about how to maintain competitive advantage in an economic environment increasingly subject to global competition. To contribute to these emerging policies, this paper develops an innovation theory-based approach regarding public procurement of innovations, by elaborating an institutional focus. In contrast to current institutional approaches in innovation studies, the approach applied here brings in the often neglected endogenous perspective. The empirical studies cited in this paper suggest that the needs of endogenous, or informal, institutions also need to be taken into account in order to understand better the institutional set-up enabling public procurement of innovations.",
       "doi": "https://doi.org/10.3152/030234209x442025",
       "url": "https://openalex.org/W2038051007",
-      "citation_count": 137,
+      "citation_count": 138,
       "search_query": "competition public procurement innovation",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:04.513731"
@@ -10000,6 +10000,76 @@
       "id": "51b5adec70870485e7917cc5763f657e",
       "date_found": "2026-10-06T16:24:17.636609",
       "search_query": "procurement administrative lead time PALT"
+    },
+    {
+      "title": "DISRUPTION IN THE BUSINESS ENVIRONMENT: IMPACT ON INTERNATIONAL CONTRACTS",
+      "authors": "Dr. A. Seetharaman; Nitin Patwa; Pranab Kumar Pani; Sanjeeb Chakraborty",
+      "year": 2018,
+      "journal": "International Journal of Engineering Researches and Management Studies",
+      "abstract": "The US Navy has switched its contract vehicle from a firm-fixed-price indefinite delivery/indefinite quantity (five year) contract cycle to a short-term (two to five days) contract. Many companies now face a weekly procurement burden regionally in Asia Pacific region. The purpose of this research is to find out the impacts due to the implementation of the multiple award contract vehicles and to find some solutions to sustain the disruption in this business environment. The data were collected from 192 respondents predominantly from supply chain background from leading marine companies like Marine Trader, Marine Service Provider, Port Authority, Supply Chain professionals. Structural equation modelling (SEM) was used to analyze data, as it is a popular statistical technique because of its ability to model selected independent variables and take into account all possible forms of measurement error to test an entire theory.",
+      "doi": null,
+      "url": "https://openalex.org/W7220555306",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "63acc140c8b25e144a8034cfef16b89a",
+      "date_found": "2026-10-07T17:05:28.492822",
+      "search_query": "LPTA lowest price technically acceptable outcomes"
+    },
+    {
+      "title": "Professional service acquisition in public sector procurement",
+      "authors": "Joseph J. Schiele; Clifford P. McCue",
+      "year": 2006,
+      "journal": "International Journal of Operations & Production Management",
+      "abstract": "Purpose The purpose of this research is to use a case‐based approach to develop an improved understanding of the conditions under which municipal purchasing departments can be meaningfully involved in acquisition processes for consulting services. Design/methodology/approach Data were collected at five Canadian municipalities and involved a detailed examination of ten cases where the supply function demonstrated meaningful involvement in the acquisition process. Findings Findings, along with organizational behavior literature on trust, were used to develop a conceptual model and tentative measurement scales that may be used to test the validity of the theory developed. Originality/value This work addresses the problem of low public sector purchasing department involvement in these important purchase decisions and some significant gaps in the public procurement literature.",
+      "doi": "https://doi.org/10.1108/01443570610646210",
+      "url": "https://openalex.org/W1592957987",
+      "citation_count": 71,
+      "source": "openalex",
+      "id": "687d2a3e1894a52b4b3109bd2af57a1b",
+      "date_found": "2026-10-07T17:05:30.355314",
+      "search_query": "public value theory procurement"
+    },
+    {
+      "title": "VALUE FOR MONEY IN PUBLIC PROCUREMENT: AN INTEGRATED DIGITAL APPROACH FOR MODERNIZING NIGERIA’S PUBLIC PROCUREMENT PROCESSES",
+      "authors": "Alolote Ibim Amadi",
+      "year": 2026,
+      "journal": "NOLEGEIN Journal of Supply Chain and Logistics Management",
+      "abstract": "Achieving value for money in Nigeria’s public procurement, requires a fundamental shift from traditional, paper-based practices toward an integrated digital framework. This paper explores the modernization of Nigeria’s public procurement through the adoption of a \"tripartite\" of state- of-the-art technologies essential for improving efficiency, transparency, and strategic value delivery: Electronic Procurement (E-procurement), Building Information Modelling (BIM), and Artificial Intelligence (AI). E-procurement offers a secure, digital environment that streamlines tendering, reduces administrative costs, and minimizes opportunities for bias or corruption. BIM has the potential to provide a collaborative, lifecycle-oriented methodology that enhances resource efficiency, coordination, and data-rich decision-making in construction project procurement. Artificial Intelligence can facilitate advanced analytics, automated contract management, and intelligent supplier sourcing, enabling procurement professionals to make data- driven decisions while optimizing operational performance. The paper submits that while these innovations present a clear pathway to achieving value for money via a more transparent and outcome-driven system, the transition is not without challenges. Successful implementation requires overcoming institutional barriers, such as cultural inertia, the need for specialized workforce training, and the establishment of a robust legal and technological infrastructure. Ultimately, the study submits that achieving value for money via digital transformation, is not merely a technical adjustment but a strategic imperative that positions public procurement as a vital tool for achieving Nigeria’s broader economic and policy objectives.",
+      "doi": null,
+      "url": "https://openalex.org/W7220549712",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "d893922f8447f6f86dba03acea0f653c",
+      "date_found": "2026-10-07T17:05:31.338700",
+      "search_query": "value for money public procurement"
+    },
+    {
+      "title": "Sustainable Public Procurement—External Forces and Accountability",
+      "authors": "Rob Vluggen; Cees Johannes Gelderman; Janjaap Semeijn; Marc van Pelt",
+      "year": 2019,
+      "journal": "Sustainability",
+      "abstract": "Public agencies feel the need to advance sustainability and use procurement as an instrument to do so. Many studies focused on internal forces, explaining the limited success of sustainable public procurement. This study focused on how external forces are able to hold municipalities accountable for sustainable procurement. Three mid-sized Dutch municipalities were investigated through an extensive document study and 34 semi-structured interviews. The results show minor legal pressure to enforce sustainable procurement. National legislation, guidelines and principles are considered non-binding, due to a lack of penalties in the case of non-compliance. Real pressure stems from lobbying by branch organizations and political pressure initiated by citizens. In contrast with the New Public Management principles, municipalities appear to place more emphasis on legal and financial accountability, in contrast to performance accountability. Accountants mainly focus on legitimacy and the finance department only monitors spending within budget. The hybrid organization of the procurement function seems to impede sustainability development. Only the larger projects are subject to sustainability requirements, set by centralized purchasing departments. Smaller projects, responsible for 2/3 of the total spend are managed by decentralized groups, remaining under the radar of sustainability policies.",
+      "doi": "https://doi.org/10.3390/su11205696",
+      "url": "https://openalex.org/W2980881677",
+      "citation_count": 55,
+      "source": "openalex",
+      "id": "4a8bfd1d3ffc8106a5d374ce54541f87",
+      "date_found": "2026-10-07T17:05:35.324964",
+      "search_query": "procurement protest accountability"
+    },
+    {
+      "title": "Evaluating treatment effectiveness in patient subgroups: a comparison of propensity score methods with an automated matching approach",
+      "authors": "Rosalba Radice; Roland R. Ramsahai; Richard Grieve; Noémi Kreif; Zia Sadique",
+      "year": 2012,
+      "journal": "The International Journal of Biostatistics",
+      "abstract": "Propensity score (Pscore) matching and inverse probability of treatment weighting (IPTW) can remove bias due to observed confounders, if the Pscore is correctly specified. Genetic Matching (GenMatch) matches on the Pscore and individual covariates using an automated search algorithm to balance covariates. This paper compares common ways of implementing Pscore matching and IPTW, with Genmatch for balancing time-constant baseline covariates}. The methods are considered when estimates of treatment effectiveness are required for patient subgroups, and the treatment allocation process differs by subgroup. We apply these methods in a prospective cohort study that estimates the effectiveness of Drotrecogin alfa activated, for subgroups of patients with severe sepsis. In a simulation study we compare the methods when the Pscore is correctly specified, and then misspecified by ignoring the subgroup-specific treatment allocation. The simulations also consider poor overlap in baseline covariates, and different sample sizes. In the case study, GenMatch reports better covariate balance than IPTW or Pscore matching. In the simulations with correctly specified Pscores, good overlap and reasonable sample sizes, all methods report minimal bias. When the Pscore is misspecified, GenMatch reports the least imbalance and bias. With small sample sizes, IPTW is the most efficient approach, but all methods report relatively high bias of treatment effects. This study shows that overall GenMatch achieves the best covariate balance for each subgroup, and is more robust to Pscore misspecification than common alternative Pscore approaches.",
+      "doi": "https://doi.org/10.1515/1557-4679.1382",
+      "url": "https://openalex.org/W2164075345",
+      "citation_count": 52,
+      "source": "openalex",
+      "id": "20c33780644a8ae2d74e591bee5698c0",
+      "date_found": "2026-10-07T17:05:45.661633",
+      "search_query": "propensity score matching public administration"
     }
   ]
 }
