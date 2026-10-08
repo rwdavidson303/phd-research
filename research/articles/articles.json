@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-07T17:05:46.161819",
+    "last_updated": "2026-10-08T17:04:52.065549",
     "total_articles": 719,
-    "last_search_date": "2026-10-07"
+    "last_search_date": "2026-10-08"
   },
   "articles": [
     {
@@ -3164,7 +3164,7 @@
       "abstract": "Procurement contracts are often renegotiated because of changes that are required after their execution. Using highway paving contracts we show that renegotiation imposes significant adaptation costs. Reduced form regressions suggest that bidders respond strategically to contractual incompleteness and that adaptation costs are an important determinant of their bids. A structural empirical model compares adaptation costs to bidder markups and shows that adaptation costs account for 7.5–14 percent of the winning bid. Markups from private information and market power, the focus of much of the auctions literature, are much smaller by comparison. Implications for government procurement are discussed. (JEL D44, D82, D86, H57, L13, L74, R42)",
       "doi": "https://doi.org/10.1257/aer.104.4.1288",
       "url": "https://openalex.org/W2054257007",
-      "citation_count": 376,
+      "citation_count": 377,
       "search_query": "contract incompleteness procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:56.981723"
@@ -6187,7 +6187,7 @@
       "abstract": "Public procurement accounts for a significant proportion of overall demand for goods and services and is increasingly seen as an attractive and feasible instrument for furthering the goals of innovation policy. However, public procurement is already expected to address a wide range of social goals. Much of the current debate about harnessing procurement to promote innovation draws upon a limited set of examples which are not representative of the bulk of public purchasing and tend to downplay diversity in procurement practices and in the types of goods and services procured. They also downplay diversity in the nature of innovations and in the range of ways that procurement can impact upon innovation. A one-size-fits-all model is unlikely to work across all procurement contexts yet all types of public procurement are likely to have impacts upon innovation by shaping the demand environment in which suppliers innovate and compete. We propose a framework and typology based on the nature of the goods and services procured in order to explore the potential impacts upon markets and innovation of each. We conclude that public purchasing should first and foremost remain concerned with proximate public policy goals and that, rather than trying to co-opt public procurement into the innovation policy toolbox, policy-makers should focus on promoting innovation-friendly practices across all types of procurement at all levels of governance. © 2010 Taylor &amp; Francis.",
       "doi": "https://doi.org/10.1080/09654310903343567",
       "url": "https://openalex.org/W2050318169",
-      "citation_count": 427,
+      "citation_count": 428,
       "source": "openalex",
       "id": "8ed4cd13630f3ace46f53fdb1cd889d9",
       "date_found": "2026-06-09T12:30:10.160023",
