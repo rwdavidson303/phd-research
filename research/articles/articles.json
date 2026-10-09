@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-08T17:04:52.065549",
-    "total_articles": 719,
-    "last_search_date": "2026-10-08"
+    "last_updated": "2026-10-09T16:42:34.770555",
+    "total_articles": 720,
+    "last_search_date": "2026-10-09"
   },
   "articles": [
     {
@@ -882,7 +882,7 @@
       "abstract": "Introduction: The normalized implementation of the centralized volume-based procurement policy for pharmaceuticals is a concerted push for supply-side structural reform of the pharmaceutical industry in China. The impact of the centralized drug procurement policy on pharmaceutical companies' transition from imitation to innovation is investigated to test whether a positive effect occurs in the innovation landscape of the pharmaceutical market. Methods: The double difference method and a series of robustness tests were used based on data from a sample of listed pharmaceutical companies in Shanghai and Shenzhen A-shares between 2015 and 2021. Results: The study found that the centralized drug procurement policy significantly contributed to the increased intensity of innovation input in the Chinese pharmaceutical industry. In terms of regional and firm nature heterogeneity, it was found that firms in the seven provinces belonging to the three economic regions had a better increase in innovation input intensity than other regions. Firms of state-owned nature had a better increase in innovation input intensity than private companies. The mechanism test found a partial mediating effect of nearly 10% for the cost of sales rate on the innovation input intensity of listed companies and a negative mediating effect on corporate operating profit. Discussion: Further research found that the effect of centralized drug procurement policy on the improvement of innovation quality of listed pharmaceutical companies was evident. The innovation development of Chinese pharmaceutical companies no longer focused on the accumulation of innovation quantity.",
       "doi": "https://doi.org/10.3389/fphar.2023.1192423",
       "url": "https://openalex.org/W4378903464",
-      "citation_count": 20,
+      "citation_count": 21,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973094"
@@ -3164,7 +3164,7 @@
       "abstract": "Procurement contracts are often renegotiated because of changes that are required after their execution. Using highway paving contracts we show that renegotiation imposes significant adaptation costs. Reduced form regressions suggest that bidders respond strategically to contractual incompleteness and that adaptation costs are an important determinant of their bids. A structural empirical model compares adaptation costs to bidder markups and shows that adaptation costs account for 7.5–14 percent of the winning bid. Markups from private information and market power, the focus of much of the auctions literature, are much smaller by comparison. Implications for government procurement are discussed. (JEL D44, D82, D86, H57, L13, L74, R42)",
       "doi": "https://doi.org/10.1257/aer.104.4.1288",
       "url": "https://openalex.org/W2054257007",
-      "citation_count": 377,
+      "citation_count": 378,
       "search_query": "contract incompleteness procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:56.981723"
@@ -9855,7 +9855,7 @@
       "abstract": "This paper explores the impact of joining centralized drug procurement of China on the profitability of medical enterprises by the difference-in-difference (DID) model. When centralized procurement cannot bring enough cost savings to enterprises, the price competition caused by centralized procurement will lead to the decline of enterprise profits. In the short term, the negative impact of China's drug centralized procurement policy on the net profit of enterprises is not obvious in the year when enterprises win the bid. After the government officially purchases from pharmaceutical enterprises, the negative impact of the drug centralized procurement policy of China on the net profit of enterprises begins to appear gradually. Therefore, the generic drug manufacturers increase R&D investment and have their own heavy products of original drugs as soon as possible to enhance their core competitiveness.",
       "doi": "https://doi.org/10.3389/fpubh.2021.809453",
       "url": "https://openalex.org/W4210713505",
-      "citation_count": 24,
+      "citation_count": 25,
       "source": "openalex",
       "id": "496aedc4010eb85660737d9f4f47aa43",
       "date_found": "2026-10-03T14:28:00.347260",
@@ -10070,6 +10070,20 @@
       "id": "20c33780644a8ae2d74e591bee5698c0",
       "date_found": "2026-10-07T17:05:45.661633",
       "search_query": "propensity score matching public administration"
+    },
+    {
+      "title": "Rules, Discretion, and Corruption in Procurement: Evidence from Italian Government Contracting",
+      "authors": "Francesco Decarolis; Raymond J. Fisman; Paolo Pinotti; Silvia Vannutelli",
+      "year": 2024,
+      "journal": "Journal of Political Economy Microeconomics",
+      "abstract": "The benefits of bureaucratic discretion depend on its use for public benefit versus private gain. Using data on Italian firms and procurement officials investigated for corruption, we show that discretionary auctions (awarded on the basis of negotiation rather than open bidding) are linked to corruption only when competition is restricted. Corrupt officials favor these negotiated auctions, though they are used less often in administrations where at least one official is under investigation. This suggests that discretion enhances efficiency but also enables theft, leading monitors to limit discretion in high-corruption settings. Overall, competition helps authorities to harness discretion’s benefits while limiting its abuse.",
+      "doi": "https://doi.org/10.1086/732654",
+      "url": "https://openalex.org/W4401504146",
+      "citation_count": 22,
+      "source": "openalex",
+      "id": "941177a4b15225f582c582a99f8d2509",
+      "date_found": "2026-10-09T16:42:29.979111",
+      "search_query": "post-award cost growth government contracts"
     }
   ]
 }
