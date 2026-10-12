@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**720 total articles** in the database | Last updated: October 11, 2026
+**720 total articles** in the database | Last updated: October 12, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -102,8 +102,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 82 | [Public procurement policies of Nigeria and Ghana: an analysis of the a...](https://doi.org/10.1108/jopp-08-2023-0060) | D. D. Kipo-Sunyehzi; Abdul-Fatawu Abubak... | 2024 | Journal of Public Procurement | 3 |
 | 83 | [Influence of Chinese National Centralized Drug Procurement policy on p...](https://doi.org/10.1080/00036846.2024.2399818) | Hang Liu; Xinglong Fang | 2024 | Applied Economics | 2 |
 | 84 | [The Impact of Information Technology Adoption on Efficiency and Transp...](https://doi.org/10.19044/esj.2024.v20n13p167) | N. Mandala; Isaac Renson Ayoyi; Samson K... | 2024 | European Scientific Journal | 2 |
-| 85 | [SUSTAINABLE SUPPLIER SELECTION IN INDIRECT PROCUREMENT: BEST PRACTICES...](https://doi.org/10.62304/ijse.v1i04.189) | Shaikh Shofiullah | 2024 | GLOBAL MAINSTREAM JOURNAL | 1 |
-| 86 | [Methodology for Assessing Procurement Systems: the Case of Public Proc...](https://doi.org/10.26668/businessreview/2023.v9i1.4200) | Paul Mathenge Nyathore; Gituro Wainaina;... | 2024 | International Journal of Profe... | 1 |
+| 85 | [Methodology for Assessing Procurement Systems: the Case of Public Proc...](https://doi.org/10.26668/businessreview/2023.v9i1.4200) | Paul Mathenge Nyathore; Gituro Wainaina;... | 2024 | International Journal of Profe... | 2 |
+| 86 | [SUSTAINABLE SUPPLIER SELECTION IN INDIRECT PROCUREMENT: BEST PRACTICES...](https://doi.org/10.62304/ijse.v1i04.189) | Shaikh Shofiullah | 2024 | GLOBAL MAINSTREAM JOURNAL | 1 |
 | 87 | [Institutional Reforms and Political Context: An Evaluation of the Indo...](https://doi.org/10.1353/asp.2024.a934568) | Michael Buehler; Adi Greif; Ronnie Nataa... | 2024 | Asia policy | 1 |
 | 88 | [Study on the Impact of Volume-Based Procurement Policy on the Producti...](https://doi.org/10.12677/mm.2024.147173) | 博彦 高 | 2024 | Modern Management | 0 |
 | 89 | [UTILIZING A STRUCTURED DECISION PROCESS FOR U.S. GOVERNMENT SOURCE   S...](https://doi.org/10.4271/2024-01-3769) | G. Hartman | 2024 | SAE technical paper series | 0 |
@@ -447,7 +447,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 427 | [Enhancing the Effectiveness of the Public Procurement System of Iraq T...](https://openalex.org/W47633110) | Ali Rahman | 2014 | bepress Legal Repository | 0 |
 | 428 | [Advancing the Charter School Movement in Illinois through Charter Scho...](https://openalex.org/W282124334) | Joseph A. Giambrone | 2014 | Digital Commons-DePaul  (DePau... | 0 |
 | 429 | [Three Essays on Contract Renegotiation](https://openalex.org/W3172841332) | Hojin Jung | 2014 | SHAREOK (University of Oklahom... | 0 |
-| 430 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 880 |
+| 430 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 910 |
 | 431 | [Policy instruments for public procurement of innovation: Choice, desig...](https://doi.org/10.1016/j.techfore.2013.09.018) | Luke Georghiou; Jakob Edler; Elvira Uyar... | 2013 | Technological Forecasting and ... | 359 |
 | 432 | [Tender evaluation and supplier selection methods in public procurement](https://doi.org/10.1016/j.pursup.2013.02.003) | Mats Bergman; Sofia Lundberg | 2013 | Journal of Purchasing and Supp... | 183 |
 | 433 | [Ecosystem-Service Tradeoffs Associated with Switching from Annual to P...](https://doi.org/10.1371/journal.pone.0080093) | Timothy D. Meehan; Claudio Gratton; Eric... | 2013 | PLoS ONE | 105 |

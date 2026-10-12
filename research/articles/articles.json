@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T16:03:32.757269",
+    "last_updated": "2026-10-12T19:30:30.017331",
     "total_articles": 720,
-    "last_search_date": "2026-10-11"
+    "last_search_date": "2026-10-12"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 880,
+      "citation_count": 910,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -9057,7 +9057,7 @@
       "abstract": "Purpose: This study sought to assess the efficacy of bid disputes management mechanism in Kenya. Theoretical Framework: Transparency in public procurement proceedings is a concern for most stakeholders. Allowing aggrieved bidders to challenge decisions of procuring entities is considered a critical development in the space of public procurement. The effectiveness and efficiency of bid disputes management mechanism should therefore be a concern for procuring entities, bidders, and development partners especially. This aspect is yet to be explored extensively in Africa. Design/Methodology/Approach: The Methodology for Assessing Procurement Systems (MAPS) as propagated by the Organisation for Economic Co-operation and Development (OECD) helps evaluate the quality of public procurement systems and subsequently strategize on necessary reforms. This study applied MAPS to assess the efficacy of the bid disputes management mechanism in Kenya. Findings: It was established that overall, the public procurement bid dispute management mechanism in Kenya was effective and efficient. However, shortcomings were noted concerning resourcing of Public Procurement Administrative Review Board (PPARB), unaffordable filing fees and accessibility of comprehensive, simple, and clear information on filing procedures. Research, Practical and Social Implications: The findings of this study offer policy recommendations that will help promote effective and efficient management of public procurement bid disputes. Originality/Value: The results of this study contribute to theory, practice and literature in the field of public procurement which is less researched in the Eastern Africa Region. The findings of the study can be replicated in countries that have based their procurement reforms on the United Nations Commission on International Trade Law (UNCITRAL) Model Law on Public Procurement. It is to be appreciated that application of MAPS indicators allows for subjective judgments by the assessor.",
       "doi": "https://doi.org/10.26668/businessreview/2023.v9i1.4200",
       "url": "https://openalex.org/W4391029292",
-      "citation_count": 1,
+      "citation_count": 2,
       "source": "openalex",
       "id": "3a0bb6a4603e43986b2e7880387f2a4a",
       "date_found": "2026-10-03T14:27:49.754358",
