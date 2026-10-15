@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14T14:46:47.713819",
-    "total_articles": 720,
-    "last_search_date": "2026-10-14"
+    "last_updated": "2026-10-15T14:32:39.623116",
+    "total_articles": 721,
+    "last_search_date": "2026-10-15"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 916,
+      "citation_count": 917,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -7797,7 +7797,7 @@
       "abstract": "Insolvency has become endemic in the Australian construction industry. The scale of the problem has reached such proportions that both the NSW Parliament and the Senate have, in recent times, commissioned inquiries into construction insolvency. This paper aims to identify the reasons as to why the construction industry is so susceptible to insolvency, evaluate the effectiveness of any existing insolvency protection measures available to construction firms, and to identify proposed future measures to address the factors causing construction insolvency. The results of a questionnaire survey designed to discover the extent of the construction insolvency problem, as well as building contractors’ views with respect to the causes and regulation of construction insolvency, in South Australia are presented. The research found that there is an appetite amongst building contractors for the introduction of further regulation to address construction insolvency. Further, although the research found underbidding to be the biggest contributory factor towards construction insolvency, it appears to be the most difficult factor to address through regulation which explains the paucity of recommendations which directly address underbidding emanating from the Senate inquiry in 2015.",
       "doi": "https://doi.org/10.5130/ajceb.v16i3.5113",
       "url": "https://openalex.org/W2519536194",
-      "citation_count": 18,
+      "citation_count": 19,
       "source": "openalex",
       "id": "baeb62e3dd68557e08a48088697bb4c6",
       "date_found": "2026-07-16T11:26:37.152206",
@@ -8035,7 +8035,7 @@
       "abstract": "Previous studies have suggested that public procurement promotes transactional and standardized interfaces between public buyers and suppliers. The use of more interactive and translational interfaces in market dialogues during the pre-tender phase of public procurement has received limited academic interest. Based on a multiple-case study, this paper aims to address this research gap by focusing on public buyer-supplier interfaces and the buyer's and the suppliers' abilities to interact during market dialogues. Thereby, we contribute to the literature on public procurement and supplier management. First, we enrich the interface framework by showing that interaction can be achieved in market dialogues and highlighting that the dialogues do not necessarily feature only one interface but may contain a configuration of interfaces varying by interface type and sequencing. Second, we elaborate on the subdimensions of the public buyer's and the suppliers' relational abilities, which influence the buyer-supplier interfaces obtained through the market dialogue. We offer implications for organizing market dialogues in public procurement.",
       "doi": "https://doi.org/10.1016/j.indmarman.2022.04.004",
       "url": "https://openalex.org/W4224433817",
-      "citation_count": 34,
+      "citation_count": 35,
       "source": "openalex",
       "id": "95a3e9e6c08153032de79084fdd76317",
       "date_found": "2026-08-03T12:49:22.208181",
@@ -9911,7 +9911,7 @@
       "abstract": "Randomized controlled trials (RCTs) have long been recognized as the gold standard for establishing causal relationships in clinical research. Despite that, various limitations of RCTs prevent its widespread implementation, ranging from the ethicality of withholding potentially-lifesaving treatment from a group to relatively poor external validity due to stringent inclusion criteria, amongst others. However, with the introduction of propensity score matching (PSM) as a retrospective statistical tool, new frontiers in establishing causation in clinical research were opened up. PSM predicts treatment effects using observational data from existing sources such as registries or electronic health records, to create a matched sample of participants who received or did not receive the intervention based on their propensity scores, which takes into account characteristics such as age, gender and comorbidities. Given its retrospective nature and its use of observational data from existing sources, PSM circumvents the aforementioned ethical issues faced by RCTs. Majority of RCTs exclude elderly, pregnant women and young children; thus, evidence of therapy efficacy is rarely proven by robust clinical research for this population. On the other hand, by matching study patient characteristics to that of the population of interest, including the elderly, pregnant women and young children, PSM allows for generalization of results to the wider population and hence greatly increases the external validity. Instead of replacing RCTs with PSM, the synergistic integration of PSM into RCTs stands to provide better research outcomes with both methods complementing each other. For example, in an RCT investigating the impact of mannitol on outcomes among participants of the Intensive Blood Pressure Reduction in Acute Cerebral Hemorrhage Trial, the baseline characteristics of comorbidities and current medications between treatment and control arms were significantly different despite the randomization protocol. Therefore, PSM was incorporated in its analysis to create samples from the treatment and control arms that were matched in terms of these baseline characteristics, thus providing a fairer comparison for the impact of mannitol. This literature review reports the applications, advantages, and considerations of using PSM with RCTs, illustrating its utility in refining randomization, improving external validity, and accounting for non-compliance to protocol. Future research should consider integrating the use of PSM in RCTs to better generalize outcomes to target populations for clinical practice and thereby benefit a wider range of patients, while maintaining the robustness of randomization offered by RCTs.",
       "doi": "https://doi.org/10.5662/wjm.v14.i1.90590",
       "url": "https://openalex.org/W4392572344",
-      "citation_count": 33,
+      "citation_count": 34,
       "source": "openalex",
       "id": "e8fb99f9d3605d4527d2054b807e163e",
       "date_found": "2026-10-03T14:28:01.281977",
@@ -10084,6 +10084,20 @@
       "id": "941177a4b15225f582c582a99f8d2509",
       "date_found": "2026-10-09T16:42:29.979111",
       "search_query": "post-award cost growth government contracts"
+    },
+    {
+      "title": "Legal Governance of Competition in Public Procurement: Economic Implications and International Comparisons",
+      "authors": "Shinde",
+      "year": 2026,
+      "journal": "Journal of Informatics Education and Research",
+      "abstract": "Public procurement is a major area of government activity, where ensuring competition is essential for efficiency, transparency, and economic performance. Legal governance provides the framework of laws and institutions that regulate procurement processes, aiming to prevent corruption, promote fairness, and encourage innovation. Competition in procurement drives better quality, lower costs, and broader market participation, while weak governance can lead to inefficiency and market distortions. This study analyzes the legal governance of competition in public procurement, explores its economic implications, and examines international experiences to identify best practices for enhancing transparency, fairness, and competitiveness.",
+      "doi": "https://doi.org/10.52783/jier.v6i1.4198",
+      "url": "https://openalex.org/W7123346744",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "0a37a7804874985747380a2534e22201",
+      "date_found": "2026-10-15T14:32:36.834868",
+      "search_query": "competition public procurement innovation"
     }
   ]
 }
