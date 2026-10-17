@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**722 total articles** in the database | Last updated: October 16, 2026
+**722 total articles** in the database | Last updated: October 17, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
