@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-19T16:41:58.163826",
-    "total_articles": 722,
-    "last_search_date": "2026-10-19"
+    "last_updated": "2026-10-20T14:33:58.696824",
+    "total_articles": 723,
+    "last_search_date": "2026-10-20"
   },
   "articles": [
     {
@@ -8791,7 +8791,7 @@
       "abstract": "Public procurement regulations aim to ensure the state minimizes contract award prices by specifying the processes to be used in issuing calls for tenders and award of contracts. Cost minimization goals may be complemented by ancillary objectives such as supporting small firms or disadvantaged groups. Recent theory suggests procurement regulations and practices constraining the ability to exercise discretion in awarding contracts may increase average procurement costs. Using detailed data on procurement awards in 33 European countries, we find that restrictions on exercise of discretion are associated with higher average contract prices, and that increases in prices are greater in countries with above average government effectiveness. We also show that realizing price-reducing benefits from exercising greater discretion, where permitted by law, reduces the probability small firms win contracts and continue to do so. Our findings point to a tradeoff between the potential to lower prices by exercising discretion and policies that aim to increase the likelihood SMEs are awarded contracts.",
       "doi": "https://doi.org/10.1016/j.ejpoleco.2024.102525",
       "url": "https://openalex.org/W4392747072",
-      "citation_count": 13,
+      "citation_count": 14,
       "source": "openalex",
       "id": "abf5e9b6d8ffe9b5e5f5a3dad99fccb4",
       "date_found": "2026-10-03T14:27:44.952261",
@@ -10112,6 +10112,20 @@
       "id": "99a2f5e9648832fa750431f655b18057",
       "date_found": "2026-10-16T14:24:04.365852",
       "search_query": "best value source selection government procurement"
+    },
+    {
+      "title": "Theory in public procurement research",
+      "authors": "Anthony Flynn; Paul K. Davis",
+      "year": 2014,
+      "journal": "Journal of Public Procurement",
+      "abstract": "This paper examines the role of theory in public procurement research. Theoretical rigour is integral to management science, yet little is known on the extent and form of theory in public procurement. With the field starting to mature, addressing this issue is timely. From conducting a systematic literature review we find that 29 percent of articles are theoretically grounded, with the incidence of theory having increased in recent years. Economic, sociological, psychological, and management theories are all in evidence, but micro-economic theories predominate. Our findings also show that survey reporting and case studies account for almost half of all studies; procurement research is focused on organizational-level aspects more than regulatory-policy issues or public buyers; and studies to date have largely emanated from the North American and European regions. The contribution of this paper lies in clarifying the theoretical underpinnings of public procurement. Out of this we highlight the need for greater theoretical rigour, point to the under-use and even absence of theories that could have high validity and utility, and suggest a narrowing of research foci.",
+      "doi": "https://doi.org/10.1108/jopp-14-02-2014-b001",
+      "url": "https://openalex.org/W11305446",
+      "citation_count": 99,
+      "source": "openalex",
+      "id": "02c82293bac6c331cef2c5f0742a137c",
+      "date_found": "2026-10-20T14:33:44.690625",
+      "search_query": "public value theory procurement"
     }
   ]
 }
