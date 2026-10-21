@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-20T14:33:58.696824",
+    "last_updated": "2026-10-21T14:45:28.707730",
     "total_articles": 723,
-    "last_search_date": "2026-10-20"
+    "last_search_date": "2026-10-21"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 917,
+      "citation_count": 918,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -8861,7 +8861,7 @@
       "abstract": "Given a number of challenges procurement in the public sector faces also in line with the current trend of globalization and innovation, organizations are trying much to improve their procurement practices through technological applications. However, still there are contradictory results on the role of technology usage on the performance of procurement. This study was aimed at investigating the public procurement performance in Tanzania by examining the roles played by technology usage and regulatory pressure. Drawing on institution theory with the support of empirical evidence from literature, a conceptual model with direct path and moderated paths was developed through which procurement regulatory pressure moderates the path from procurement technology usage to procurement performance. The study used partial least square structural equation modelling (PLS-SEM) aided by SmartPLS 3 to validate the measurement model and test the hypotheses using data from 207 key informants from procurement management units of the public procurement sector in Tanzania. The findings from this study with support from previous empirical studies indicated that too much regulatory pressure tends to weaken the application of technology in procurement. Moreover, these results have implications for methodology, practitioners, and policymakers.",
       "doi": "https://doi.org/10.4314/udslj.v17i1.3",
       "url": "https://openalex.org/W4286231821",
-      "citation_count": 7,
+      "citation_count": 8,
       "source": "openalex",
       "id": "be6387c70d74e2313b29a338c7a96a99",
       "date_found": "2026-10-03T14:27:44.952314",

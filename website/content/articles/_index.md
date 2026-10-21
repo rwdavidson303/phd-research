@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**723 total articles** in the database | Last updated: October 20, 2026
+**723 total articles** in the database | Last updated: October 21, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -173,7 +173,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 153 | [The impact of national centralized drug procurement on health expendit...](https://doi.org/10.3389/fpubh.2022.956823) | Yuanjin Zhang; Yan Ren; Q. Zheng; Jing T... | 2022 | Frontiers in Public Health | 20 |
 | 154 | [Supplier selection and contract enforcement: Evidence from performance...](https://doi.org/10.1111/jems.12492) | Leonardo M. Giuffrida; Gabriele Rovigatt... | 2022 | Journal of Economics & Managem... | 14 |
 | 155 | [Managing Stakeholder Opportunism in Public-Private Partnership (PPP) H...](https://doi.org/10.21315/jcdc2022.27.1.12) | Yakubu Nehemiah Sanda; Natalia A. Anigbo... | 2022 | Journal of Construction in Dev... | 12 |
-| 156 | [Technology Usage and Public Procurement Performance in Tanzania](https://doi.org/10.4314/udslj.v17i1.3) | Gerald Zachary Paga Tinali | 2022 | University of Dar es Salaam Li... | 7 |
+| 156 | [Technology Usage and Public Procurement Performance in Tanzania](https://doi.org/10.4314/udslj.v17i1.3) | Gerald Zachary Paga Tinali | 2022 | University of Dar es Salaam Li... | 8 |
 | 157 | [Unpacking the context of value for money assessment in global markets:...](https://doi.org/10.1108/ecam-10-2021-0963) | Jianfeng Zhao; N. Thurairajah; D. Greenw... | 2022 | Engineering Construction and A... | 4 |
 | 158 | [Public procurement during the pandemic: experience of India and China](https://doi.org/10.1108/jopp-07-2021-0046) | Y. Goyal | 2022 | Journal of Public Procurement | 4 |
 | 159 | [Modeling the Linkage between Vertical Contracts and Strategic Environm...](https://doi.org/10.3390/en15134509) | Ying Li; W. Wong; Mingying Yang; Yang-Ch... | 2022 | Energies | 3 |
@@ -450,7 +450,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 430 | [Enhancing the Effectiveness of the Public Procurement System of Iraq T...](https://openalex.org/W47633110) | Ali Rahman | 2014 | bepress Legal Repository | 0 |
 | 431 | [Advancing the Charter School Movement in Illinois through Charter Scho...](https://openalex.org/W282124334) | Joseph A. Giambrone | 2014 | Digital Commons-DePaul  (DePau... | 0 |
 | 432 | [Three Essays on Contract Renegotiation](https://openalex.org/W3172841332) | Hojin Jung | 2014 | SHAREOK (University of Oklahom... | 0 |
-| 433 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 917 |
+| 433 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 918 |
 | 434 | [Policy instruments for public procurement of innovation: Choice, desig...](https://doi.org/10.1016/j.techfore.2013.09.018) | Luke Georghiou; Jakob Edler; Elvira Uyar... | 2013 | Technological Forecasting and ... | 359 |
 | 435 | [Tender evaluation and supplier selection methods in public procurement](https://doi.org/10.1016/j.pursup.2013.02.003) | Mats Bergman; Sofia Lundberg | 2013 | Journal of Purchasing and Supp... | 183 |
 | 436 | [Ecosystem-Service Tradeoffs Associated with Switching from Annual to P...](https://doi.org/10.1371/journal.pone.0080093) | Timothy D. Meehan; Claudio Gratton; Eric... | 2013 | PLoS ONE | 105 |
