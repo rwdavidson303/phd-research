@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21T14:45:28.707730",
+    "last_updated": "2026-10-22T14:45:45.362455",
     "total_articles": 723,
-    "last_search_date": "2026-10-21"
+    "last_search_date": "2026-10-22"
   },
   "articles": [
     {
@@ -9939,7 +9939,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s00464-018-6547-8",
       "url": "https://openalex.org/W2896617025",
-      "citation_count": 29,
+      "citation_count": 31,
       "source": "openalex",
       "id": "6273bf85940cee18dacc393b8bfb3f0a",
       "date_found": "2026-10-03T14:28:01.282000",

@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**723 total articles** in the database | Last updated: October 21, 2026
+**723 total articles** in the database | Last updated: October 22, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -309,8 +309,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 289 | [Public contracting for private innovation: Government capabilities, de...](https://doi.org/10.1002/smj.2973) | Joshua R. Bruce; John M. de Figueiredo; ... | 2018 | Strategic Management Journal | 62 |
 | 290 | [Which shape fits best? Designing the organizational form of local gove...](https://doi.org/10.1016/j.pursup.2018.06.003) | Pier Paolo Patrucco; Helen Walker; David... | 2018 | Journal of Purchasing and Supp... | 58 |
 | 291 | [Design of public procurement auctions: evidence from cleaning contract...](https://doi.org/10.1111/1756-2171.12232) | Ari Hyytinen; Sofia Lundberg; Otto Toiva... | 2018 | The RAND Journal of Economics | 32 |
-| 292 | [Centralization and decentralization of public procurement](https://doi.org/10.1108/jamr-05-2018-0049) | Karem Sayed Aboelazm; Attia Afandy | 2018 | Journal of Advances in Managem... | 29 |
-| 293 | [Robotic-assisted laparoscopic surgery for complex hepatolithiasis: a p...](https://doi.org/10.1007/s00464-018-6547-8) | Jie Shu; Xiaojun Wang; Jianwei Li; Ping ... | 2018 | Surgical Endoscopy | 29 |
+| 292 | [Robotic-assisted laparoscopic surgery for complex hepatolithiasis: a p...](https://doi.org/10.1007/s00464-018-6547-8) | Jie Shu; Xiaojun Wang; Jianwei Li; Ping ... | 2018 | Surgical Endoscopy | 31 |
+| 293 | [Centralization and decentralization of public procurement](https://doi.org/10.1108/jamr-05-2018-0049) | Karem Sayed Aboelazm; Attia Afandy | 2018 | Journal of Advances in Managem... | 29 |
 | 294 | [Best-Value Procurement in Design-Bid-Build Construction Projects: Empi...](https://doi.org/10.1061/(ASCE)CO.1943-7862.0001550) | Phuong H. D. Nguyen; Brian C. Lines; Dai... | 2018 | Journal of construction engine... | 17 |
 | 295 | [Procurement of low carbon municipal solid waste infrastructure in Indi...](https://doi.org/10.1108/BEPAM-10-2017-0087) | Tharun Dolla; B. Laishram | 2018 | Built Environment Project and ... | 16 |
 | 296 | [The U.S. Federal Evaluation Market](https://doi.org/10.1002/ev.20343) | Sebastian Lemire; Leslie A. Fierro; Alan... | 2018 | New Directions for Evaluation | 14 |
