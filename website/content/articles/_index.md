@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**723 total articles** in the database | Last updated: October 22, 2026
+**723 total articles** in the database | Last updated: October 23, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -50,10 +50,10 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 30 | [Dynamic interplay for blockchain-smart contracts (SC) adoption among g...](https://doi.org/10.1108/ecam-07-2024-0893) | Mengyuan Cheng; Heap-Yih Chong; Yongshun... | 2025 | Engineering Construction and A... | 2 |
 | 31 | [Impact of epinephrine on neurological outcomes in out-of-hospital card...](https://doi.org/10.1038/s41598-024-84950-8) | Atsushi Kubo; Atsushi Hiraide; Tomohiro ... | 2025 | Scientific Reports | 2 |
 | 32 | [Best-Value Procurement in Transportation: Lessons Learned from Bid Pro...](https://doi.org/10.1061/jladah.ladr-1157) | Chaimae Nacir; Ghada M. Gad; Christofer ... | 2025 | Journal of Legal Affairs and D... | 2 |
-| 33 | [Explainable Fairness and Propensity Score Matching](https://doi.org/10.1002/asmb.70047) | Paolo Giudici; Golnoosh Babaei | 2025 | Applied Stochastic Models in B... | 2 |
-| 34 | [From Price to Value: Implementing Best Value Procurement in the Czech ...](https://doi.org/10.3390/buildings15213981) | Petr Marvan; V. Hromádka | 2025 | Buildings | 1 |
-| 35 | [Strategic Procurement Practices and Procurement Performance of City Co...](https://doi.org/10.2139/ssrn.5153116) | Hawa Hadijah Isaack | 2025 | Social Science Research Networ... | 1 |
-| 36 | [High earnings through firm influence: the role of hierarchical structu...](https://doi.org/10.1140/epjds/s13688-025-00543-z) | Niclas Frederic Sturm; Cristián Candia; ... | 2025 | EPJ Data Science | 1 |
+| 33 | [High earnings through firm influence: the role of hierarchical structu...](https://doi.org/10.1140/epjds/s13688-025-00543-z) | Niclas Frederic Sturm; Cristián Candia; ... | 2025 | EPJ Data Science | 2 |
+| 34 | [Explainable Fairness and Propensity Score Matching](https://doi.org/10.1002/asmb.70047) | Paolo Giudici; Golnoosh Babaei | 2025 | Applied Stochastic Models in B... | 2 |
+| 35 | [From Price to Value: Implementing Best Value Procurement in the Czech ...](https://doi.org/10.3390/buildings15213981) | Petr Marvan; V. Hromádka | 2025 | Buildings | 1 |
+| 36 | [Strategic Procurement Practices and Procurement Performance of City Co...](https://doi.org/10.2139/ssrn.5153116) | Hawa Hadijah Isaack | 2025 | Social Science Research Networ... | 1 |
 | 37 | [Multiple tools to enhance competition in public procurement](https://doi.org/10.1080/17441056.2025.2511424) | Elisabetta Iossa; Clara Beatrice Calini;... | 2025 | European Competition Journal | 1 |
 | 38 | [Modernization of Indonesian Naval Fleet to Realize Asta Cita](https://doi.org/10.59141/jiss.v6i11.2082) | Deni Setiawati; Asep Iwa Soemantri; Endr... | 2025 | Jurnal Indonesia Sosial Sains | 0 |
 | 39 | [Will centralized drug procurement policy improve enterprises’ total fa...](https://doi.org/10.3389/fpubh.2025.1504342) | Xin Li; Ran Tao; Wenxue Zou; Yuning Jin | 2025 | Frontiers in Public Health | 0 |
@@ -93,7 +93,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 73 | [Rules, Discretion, and Corruption in Procurement: Evidence from Italia...](https://doi.org/10.1086/732654) | Francesco Decarolis; Raymond J. Fisman; ... | 2024 | Journal of Political Economy M... | 22 |
 | 74 | [Exploring value creation from an ecosystem perspective: A critical exa...](https://doi.org/10.1080/09540962.2024.2355995) | Michael J. Roy; Anna Spiesova; Maeve Cur... | 2024 | Public Money & Management | 16 |
 | 75 | [A lifecycle analysis of complex public procurement: an agency-institut...](https://doi.org/10.1108/ijopm-07-2023-0608) | Rick Forster; Andrew Charles Lyons; Nige... | 2024 | International Journal of Opera... | 16 |
-| 76 | [Discretion and public procurement outcomes in Europe*](https://doi.org/10.1016/j.ejpoleco.2024.102525) | Bernard M. Hoekman; Bedri Kamil Onur Taş | 2024 | European Journal of Political ... | 14 |
+| 76 | [Discretion and public procurement outcomes in Europe*](https://doi.org/10.1016/j.ejpoleco.2024.102525) | Bernard M. Hoekman; Bedri Kamil Onur Taş | 2024 | European Journal of Political ... | 15 |
 | 77 | [The political economy of public procurement in Ukraine](https://doi.org/10.1332/25156918y2024d000000005) | Jennifer Brick Murtazashvili; Tymofiy My... | 2024 | Journal of Public Finance and ... | 9 |
 | 78 | [Assessing the Decision-Making Capabilities of Artificial Intelligence ...](https://doi.org/10.1177/15562646241263200) | K. Sridharan; G. Sivaramakrishnan | 2024 | Journal of Empirical Research ... | 7 |
 | 79 | [Impact of National Centralized Drug Procurement policy on chemical pha...](https://doi.org/10.3389/fpubh.2024.1402581) | Jiaming Li; Xinyue Zhang; Rui Wang; Keya... | 2024 | Frontiers in Public Health | 7 |
@@ -221,7 +221,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 201 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,934 |
 | 202 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 203 | [Famotidine Use Is Associated With Improved Clinical Outcomes in Hospit...](https://doi.org/10.1053/j.gastro.2020.05.053) | Daniel E. Freedberg; Joseph Conigliaro; ... | 2020 | Gastroenterology | 261 |
-| 204 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 246 |
+| 204 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 247 |
 | 205 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
 | 206 | [Government Procurement and Changes in Firm Transparency](https://doi.org/10.2308/tar-2018-0343) | Delphine Samuels | 2020 | The Accounting Review | 189 |
 | 207 | [Effects of very early start of norepinephrine in patients with septic ...](https://doi.org/10.1186/s13054-020-2756-3) | Gustavo A. Ospina‐Tascón; Glenn Hernánde... | 2020 | Critical Care | 174 |
@@ -450,7 +450,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 430 | [Enhancing the Effectiveness of the Public Procurement System of Iraq T...](https://openalex.org/W47633110) | Ali Rahman | 2014 | bepress Legal Repository | 0 |
 | 431 | [Advancing the Charter School Movement in Illinois through Charter Scho...](https://openalex.org/W282124334) | Joseph A. Giambrone | 2014 | Digital Commons-DePaul  (DePau... | 0 |
 | 432 | [Three Essays on Contract Renegotiation](https://openalex.org/W3172841332) | Hojin Jung | 2014 | SHAREOK (University of Oklahom... | 0 |
-| 433 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 918 |
+| 433 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 919 |
 | 434 | [Policy instruments for public procurement of innovation: Choice, desig...](https://doi.org/10.1016/j.techfore.2013.09.018) | Luke Georghiou; Jakob Edler; Elvira Uyar... | 2013 | Technological Forecasting and ... | 359 |
 | 435 | [Tender evaluation and supplier selection methods in public procurement](https://doi.org/10.1016/j.pursup.2013.02.003) | Mats Bergman; Sofia Lundberg | 2013 | Journal of Purchasing and Supp... | 183 |
 | 436 | [Ecosystem-Service Tradeoffs Associated with Switching from Annual to P...](https://doi.org/10.1371/journal.pone.0080093) | Timothy D. Meehan; Claudio Gratton; Eric... | 2013 | PLoS ONE | 105 |

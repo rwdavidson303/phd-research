@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-22T14:45:45.362455",
+    "last_updated": "2026-10-23T14:32:07.674271",
     "total_articles": 723,
-    "last_search_date": "2026-10-22"
+    "last_search_date": "2026-10-23"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 918,
+      "citation_count": 919,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 246,
+      "citation_count": 247,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -8791,7 +8791,7 @@
       "abstract": "Public procurement regulations aim to ensure the state minimizes contract award prices by specifying the processes to be used in issuing calls for tenders and award of contracts. Cost minimization goals may be complemented by ancillary objectives such as supporting small firms or disadvantaged groups. Recent theory suggests procurement regulations and practices constraining the ability to exercise discretion in awarding contracts may increase average procurement costs. Using detailed data on procurement awards in 33 European countries, we find that restrictions on exercise of discretion are associated with higher average contract prices, and that increases in prices are greater in countries with above average government effectiveness. We also show that realizing price-reducing benefits from exercising greater discretion, where permitted by law, reduces the probability small firms win contracts and continue to do so. Our findings point to a tradeoff between the potential to lower prices by exercising discretion and policies that aim to increase the likelihood SMEs are awarded contracts.",
       "doi": "https://doi.org/10.1016/j.ejpoleco.2024.102525",
       "url": "https://openalex.org/W4392747072",
-      "citation_count": 14,
+      "citation_count": 15,
       "source": "openalex",
       "id": "abf5e9b6d8ffe9b5e5f5a3dad99fccb4",
       "date_found": "2026-10-03T14:27:44.952261",
@@ -9449,7 +9449,7 @@
       "abstract": "Public procurement, a critical but often overlooked aspect of governance, plays a pivotal role in steering the acquisition of goods, services and the commissioning of public works. Our study, analyzing over one million public procurement contracts from the Portuguese public administration, applies network science to unravel the complexities of this market. We uncover a market characterized by highly modular and hierarchical networks, with notable service specialization, regional diversity, and entity diversification. Our findings reveal a clear pattern: firms occupying influential positions within the networks consistently achieve higher earnings per bid. This disparity in earnings indicates a market where competition is constrained and entry barriers for new firms are high. Similarly, markets in the Portuguese public procurement system exhibit high levels of concentration, which raises both integrity and supplier risks that should be monitored by policymakers. The empirical framework developed in this article contributes to a growing body of literature that analyzes the levels of competition in public procurement systems. The network-based method applied here facilitates the analysis of firms’ positioning within their network of competitors and helps to quantify firm capabilities in a way that moves beyond a monolithic view of firm size and market power.",
       "doi": "https://doi.org/10.1140/epjds/s13688-025-00543-z",
       "url": "https://openalex.org/W4409055258",
-      "citation_count": 1,
+      "citation_count": 2,
       "source": "openalex",
       "id": "abde6807cee87a3c7636385108dd5413",
       "date_found": "2026-10-03T14:27:55.297054",
