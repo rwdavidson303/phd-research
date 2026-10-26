@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-25T14:00:35.868879",
-    "total_articles": 723,
-    "last_search_date": "2026-10-25"
+    "last_updated": "2026-10-26T16:22:09.018810",
+    "total_articles": 724,
+    "last_search_date": "2026-10-26"
   },
   "articles": [
     {
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 247,
+      "citation_count": 248,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -8791,7 +8791,7 @@
       "abstract": "Public procurement regulations aim to ensure the state minimizes contract award prices by specifying the processes to be used in issuing calls for tenders and award of contracts. Cost minimization goals may be complemented by ancillary objectives such as supporting small firms or disadvantaged groups. Recent theory suggests procurement regulations and practices constraining the ability to exercise discretion in awarding contracts may increase average procurement costs. Using detailed data on procurement awards in 33 European countries, we find that restrictions on exercise of discretion are associated with higher average contract prices, and that increases in prices are greater in countries with above average government effectiveness. We also show that realizing price-reducing benefits from exercising greater discretion, where permitted by law, reduces the probability small firms win contracts and continue to do so. Our findings point to a tradeoff between the potential to lower prices by exercising discretion and policies that aim to increase the likelihood SMEs are awarded contracts.",
       "doi": "https://doi.org/10.1016/j.ejpoleco.2024.102525",
       "url": "https://openalex.org/W4392747072",
-      "citation_count": 15,
+      "citation_count": 16,
       "source": "openalex",
       "id": "abf5e9b6d8ffe9b5e5f5a3dad99fccb4",
       "date_found": "2026-10-03T14:27:44.952261",
@@ -9687,7 +9687,7 @@
       "abstract": "Corruption is thought to affect developed economies to a greater degree than developing countries. However, given our limited capacity to detect corruption, it may simply be harder to detect it in countries with stronger institutions. This article sets out to address this measurement challenge and to offer a tailored approach to one particular type of corruption: high-level corruption in government contracting. We describe a recently developed method to score procurement contracts for corruption risk. Then, using micro-level data from Hungary and the Czech Republic we analyze how corruption can distort public procurement markets, mapped as networks of buyers and suppliers. Proxying for corruption using a composite index of red flags derived from contract awards, we find that public sector buyers with high corruption risk have sparser network neighborhoods, meaning that they contract with fewer suppliers than expected. We interpret our results as evidence that corruption in procurement markets is fundamentally about the exclusion of non-favored firms. Political change has a significant effect on corrupt relationships: High corruption risk buyers with sparse neighborhoods rewire their contracting relationships roughly 20–40% more extensively than other buyers across years with government turnover. The article demonstrates how the political organization of corruption distorts market competition in OECD countries.",
       "doi": "https://doi.org/10.17645/pag.v8i2.2707",
       "url": "https://openalex.org/W3029877649",
-      "citation_count": 28,
+      "citation_count": 29,
       "source": "openalex",
       "id": "6296e4711b187b8b5e86d4bf786e14be",
       "date_found": "2026-10-03T14:27:57.806997",
@@ -10079,7 +10079,7 @@
       "abstract": "The benefits of bureaucratic discretion depend on its use for public benefit versus private gain. Using data on Italian firms and procurement officials investigated for corruption, we show that discretionary auctions (awarded on the basis of negotiation rather than open bidding) are linked to corruption only when competition is restricted. Corrupt officials favor these negotiated auctions, though they are used less often in administrations where at least one official is under investigation. This suggests that discretion enhances efficiency but also enables theft, leading monitors to limit discretion in high-corruption settings. Overall, competition helps authorities to harness discretion’s benefits while limiting its abuse.",
       "doi": "https://doi.org/10.1086/732654",
       "url": "https://openalex.org/W4401504146",
-      "citation_count": 22,
+      "citation_count": 24,
       "source": "openalex",
       "id": "941177a4b15225f582c582a99f8d2509",
       "date_found": "2026-10-09T16:42:29.979111",
@@ -10126,6 +10126,20 @@
       "id": "02c82293bac6c331cef2c5f0742a137c",
       "date_found": "2026-10-20T14:33:44.690625",
       "search_query": "public value theory procurement"
+    },
+    {
+      "title": "Assessment of Procurement System and Quality Service Delivery In Nasarawa State Public Sector, Nasarawa State",
+      "authors": "Ruth Owolabi Oluwatosin",
+      "year": 2026,
+      "journal": "Nigerian Journal of Sustainability Research",
+      "abstract": "This study critically examines the influence of procurement systems on quality service delivery within the public sector. Given the pivotal role procurement plays in enhancing public sector efficiency, the research specifically investigates the impact of four core components contract planning, bidding processes, contract management, and bid evaluation on the effectiveness of service delivery across selected government ministries, departments, and agencies (MDAs). Employing a correlational survey design with a cross-sectional approach, out of which 98 were sampled procurement officers and relevant personnel drawn from six public institutions within the state. The data collection instrument, a structured questionnaire, was subjected to rigorous validity and reliability testing, including pilot testing and factor analysis. The findings indicate that all four dimensions of the procurement system exert statistically significant and positive effects on quality service delivery. Contract planning was shown with to facilitate well-structured, timely, and cost-effective projects. The bidding process, although characterized by transparency and competitiveness, faced challenges such as bid disputes and confidentiality concerns. Contract management, emerged as a critical determinant, with the need for enhanced oversight mechanisms and integration of technological tools emphasized. Bid evaluation produced processes were perceived as fair and efficient, contributing to trust and improved project outcomes. The study concludes that effective procurement systems are essential for enhancing the quality of public service delivery.",
+      "doi": "https://doi.org/10.67163/njsr-69",
+      "url": "https://openalex.org/W7164344628",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "3148651defe2e710bba81b2edb3e5451",
+      "date_found": "2026-10-26T16:22:00.617017",
+      "search_query": "RFP requirements clarity solicitation quality"
     }
   ]
 }
