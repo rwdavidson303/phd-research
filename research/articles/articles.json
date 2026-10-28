@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-27T15:36:29.423843",
-    "total_articles": 724,
-    "last_search_date": "2026-10-27"
+    "last_updated": "2026-10-28T16:21:22.575374",
+    "total_articles": 725,
+    "last_search_date": "2026-10-28"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 919,
+      "citation_count": 920,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -9659,7 +9659,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.seps.2020.100899",
       "url": "https://openalex.org/W3036202022",
-      "citation_count": 19,
+      "citation_count": 20,
       "source": "openalex",
       "id": "516e6b42400151993f4936fdb1c7b441",
       "date_found": "2026-10-03T14:27:57.806978",
@@ -9687,7 +9687,7 @@
       "abstract": "Corruption is thought to affect developed economies to a greater degree than developing countries. However, given our limited capacity to detect corruption, it may simply be harder to detect it in countries with stronger institutions. This article sets out to address this measurement challenge and to offer a tailored approach to one particular type of corruption: high-level corruption in government contracting. We describe a recently developed method to score procurement contracts for corruption risk. Then, using micro-level data from Hungary and the Czech Republic we analyze how corruption can distort public procurement markets, mapped as networks of buyers and suppliers. Proxying for corruption using a composite index of red flags derived from contract awards, we find that public sector buyers with high corruption risk have sparser network neighborhoods, meaning that they contract with fewer suppliers than expected. We interpret our results as evidence that corruption in procurement markets is fundamentally about the exclusion of non-favored firms. Political change has a significant effect on corrupt relationships: High corruption risk buyers with sparse neighborhoods rewire their contracting relationships roughly 20–40% more extensively than other buyers across years with government turnover. The article demonstrates how the political organization of corruption distorts market competition in OECD countries.",
       "doi": "https://doi.org/10.17645/pag.v8i2.2707",
       "url": "https://openalex.org/W3029877649",
-      "citation_count": 29,
+      "citation_count": 31,
       "source": "openalex",
       "id": "6296e4711b187b8b5e86d4bf786e14be",
       "date_found": "2026-10-03T14:27:57.806997",
@@ -10140,6 +10140,20 @@
       "id": "3148651defe2e710bba81b2edb3e5451",
       "date_found": "2026-10-26T16:22:00.617017",
       "search_query": "RFP requirements clarity solicitation quality"
+    },
+    {
+      "title": "Incumbent responses to anticipated discontinuous regulatory change: The case of Scope 3 CO2 reporting in the European steel industry",
+      "authors": "Maximilian Hettler; Lorenz Graf‐Vlachy",
+      "year": 2024,
+      "journal": "Journal of Cleaner Production",
+      "abstract": "Regulatory change can be highly discontinuous for organizations. Yet, despite the vast discontinuous change and institutionalism literatures, our understanding of incumbent behavior in response to anticipated discontinuous regulatory change is limited. To address this issue, we conducted a qualitative analysis in the European steel industry, which is facing prospective discontinuous regulatory change on Scope 3 reporting. Our findings offer new insights into this understudied field by elaborating on incumbents' expectations for the future, their ensuing motivations, and their taken or planned actions. We find evidence for heterogenous adaptation behavior that manifests in three motivational patterns: Incentives for early movers, reasons for hesitation, and disincentives preventing implementation . These patterns are a result of incumbents’ varying expectations of future circumstances, opportunities, and risks, and they lead to different actions incumbents plan or take in response to the anticipated change. Our study contributes to the theoretical understanding of regulatory change as a distinct form of discontinuous change, sheds light on incumbent behavior at an early stage of a discontinuous change prior to its actual occurrence, and highlights that adaptation to a discontinuous regulatory change can have both positive and negative effects on incumbents. Our process model enables practitioners to make more informed decisions in the context of discontinuous regulatory change and policymakers may use our findings to improve the regulatory design process and subsequent compliance. Finally, our study opens up numerous pathways for future research. • Regulatory change can be a key discontinuity that triggers heterogeneous responses by incumbents. • Successful adaptation to a discontinuous regulatory change can have both positive and negative effects on incumbents. • Some incumbents voluntarily report Scope 3 as early movers, others remain hesitant to act or even feel disincentivized. • Increased collaboration between policymakers and industry during the regulatory design phase may improve compliance. • More effective regulatory intervention needed to drive supply chain decarbonization in line with the Paris agreement goals.",
+      "doi": "https://doi.org/10.1016/j.jclepro.2024.144109",
+      "url": "https://openalex.org/W4403905135",
+      "citation_count": 8,
+      "source": "openalex",
+      "id": "6dce3024e2a34550366e6075b7f9789a",
+      "date_found": "2026-10-28T16:21:14.466304",
+      "search_query": "incumbent advantage procurement tender steering"
     }
   ]
 }
