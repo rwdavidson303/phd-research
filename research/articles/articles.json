@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-28T16:21:22.575374",
-    "total_articles": 725,
-    "last_search_date": "2026-10-28"
+    "last_updated": "2026-10-29T16:30:21.750834",
+    "total_articles": 728,
+    "last_search_date": "2026-10-29"
   },
   "articles": [
     {
@@ -10154,6 +10154,48 @@
       "id": "6dce3024e2a34550366e6075b7f9789a",
       "date_found": "2026-10-28T16:21:14.466304",
       "search_query": "incumbent advantage procurement tender steering"
+    },
+    {
+      "title": "2011 Government Contract Law Decisions of the Federal Circuit",
+      "authors": "Joel Singer; Kyle J. Fiet; Matthew Solomson; Benjamin Glerum",
+      "year": 2012,
+      "journal": "bepress Legal Repository",
+      "abstract": "INTRODUCTIONOver the past year, the United States Court of Appeals for the Federal Circuit issued a relatively small body of new precedential opinions in the field of government contracts. Indeed, during 2011, the court issued only twenty-two precedential opinions in this area, seven of which were in the non-mainstream context of Winstar and spent nuclear fuel (SNF) litigation.1 While it is possible to draw many broad conclusions from the relatively small number of remaining decisions, there were four main developments that likely will be of interest to practitioners in the field.First, the number of bid protest decisions published by the Federal Circuit in 2011 continued to dwindle as compared to recent years. In the past year, the Federal Circuit published only two bid protest decisions, Allied Technology Group, Inc. v. United States2 and Turner Construction Co. v. United States (Turner III).3 In comparison, in 2010, the Federal Circuit published three bid protest decisions,4 and, in 2009, it published seven bid protest decisions.5 This trend is consistent with that of the Comptroller General, where the surge in the number of bid protests filed annually between 2007 and 2010 flattened in 2011.6 The reduction in bid protest decisions by the Federal Circuit may be a function of the Government's recent record of successfully defending its procurement decisions before the Court of Federal Claims (the COFC or Claims Court) and in the Federal Circuit. Indeed, of the ten bid protest decisions issued by the Federal Circuit in 2009 and 2010, the Federal Circuit's disposition favored the Government in all but one of these cases.7In keeping with this trend, both of the Federal Circuit's 2011 bid protest decisions favored the Government. Both Allied and Turner III involved proceedings that commenced at the COFC following an earlier bid protest before the Government Accountability Office (GAO).8 In Allied, the COFC agreed with the decision of the GAO, which denied the earlier bid protest, and the Federal Circuit affirmed.9 Conversely, in Turner III, both the COFC and the Federal Circuit effectively overruled the GAO's earlier decision by ruling that it was unreasonable for the Government to have followed the GAO's recommendations sustaining the original protest.10 Given the deference the COFC and Federal Circuit usually give to GAO recommendations,11 this outcome is unusual, and it seems unlikely that Turner III will usher in a new era of Federal Circuit reversals of the GAO.12Second, 2011 saw an unusually large number of cases addressing the jurisdiction of the Federal Circuit, the COFC, and the Boards of Contract Appeals (the Boards). In the majority of these cases, the Federal Circuit took a broad view of the respective jurisdictions of these tribunals over government contract disputes.13 For example, in Slattery v. United States,14 the Federal Circuit, in an en banc decision, held that the Tucker Act15 grants the COFC jurisdiction to entertain suits against a non-appropriated fund instrumentality (NAFI), the Federal Deposit Insurance Corporation (FDIC), and expressly disavowed all of the circuit's prior case law to the contrary.16 In doing so, the Federal Circuit explained that, under the Tucker Act, jurisdiction is not [based on] how the government entity is funded or its obligations met, but [on] whether the government entity was acting on behalf of the government.17 In Todd Construction, L.P. v. United States,18 the Federal Circuit took a similarly broad view of its jurisdiction; the Todd Construction court held that the COFC has the authority, pursuant to the Tucker Act and the Contract Disputes Act (CDA),19 to hear challenges to agency-issued performance evaluations that are mandated by the Federal Acquisition Regulation (FAR).20 In Holmes v. United States,21 the Federal Circuit settled a longstanding split among the decisions of the COFC as well as the other circuit courts of appeals regarding whether the COFC has jurisdiction under the Tucker Act to hear claims for an alleged breach of a Title VII22 settlement agreement. …",
+      "doi": null,
+      "url": "https://openalex.org/W2917663852",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "0001e47012c2d298985b4f754ca524a9",
+      "date_found": "2026-10-29T16:30:09.380858",
+      "search_query": "GAO bid protest outcomes"
+    },
+    {
+      "title": "Summary of GAO's Performance and Financial Information Fiscal Year 2010",
+      "authors": "United States. Government Accountability Office.",
+      "year": 2011,
+      "journal": "University of North Texas Digital Library (University of North Texas)",
+      "abstract": "Other written product issued by the Government Accountability Office with an abstract that begins \"This report presents the highlights of GAO's fiscal year 2010 Performance and Accountability Report. The Government Accountability Office, the audit, evaluation, and investigative arm of the Congress, exists to support the Congress in meeting its constitutional responsibilities and to help improve the performance and ensure the accountability of the federal government for the benefit of the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help the Congress make informed oversight, policy, and funding decisions. To fulfill its mission, GAO organizes and manages its resources to support four broad strategic goals. These include helping to address challenges to the well-being and financial security of the American people, responding to changing security threats and global interdependence, and transforming the federal government to address national challenges. Strategic goal 4 is an internal goal focused on enhancing GAO's value through improving its efficiency, effectiveness, and quality, and institutional stewardship and resource management. GAO maintains a workforce of highly trained professionals across a breadth of academic and scientific disciplines. About three-quarters of the approximately 3,200 employees are based at GAO headquarters in Washington, D.C.; the rest are deployed in 11 field offices across the country.\"",
+      "doi": null,
+      "url": "https://openalex.org/W7209248129",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "8133e4786076845b2895e99f6cabba41",
+      "date_found": "2026-10-29T16:30:09.380873",
+      "search_query": "GAO bid protest outcomes"
+    },
+    {
+      "title": "Summary of GAO's Performance and Accountability Report Fiscal Year 2012",
+      "authors": "United States. Government Accountability Office.",
+      "year": 2013,
+      "journal": "University of North Texas Digital Library (University of North Texas)",
+      "abstract": "Other written product issued by the Government Accountability Office with an abstract that begins \"This is GAO's summary of the Performance and Accountability Report for fiscal year 2012.\"",
+      "doi": null,
+      "url": "https://openalex.org/W7208865001",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "22d85753a9cf48d96fe54e7a5a9fedca",
+      "date_found": "2026-10-29T16:30:09.380878",
+      "search_query": "GAO bid protest outcomes"
     }
   ]
 }
