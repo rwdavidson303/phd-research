@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-29T16:30:21.750834",
-    "total_articles": 728,
-    "last_search_date": "2026-10-29"
+    "last_updated": "2026-10-30T16:22:31.564835",
+    "total_articles": 729,
+    "last_search_date": "2026-10-30"
   },
   "articles": [
     {
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s10610-019-09416-4",
       "url": "https://openalex.org/W2948221424",
-      "citation_count": 104,
+      "citation_count": 105,
       "search_query": "incumbent advantage procurement tender steering",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:36.500519"
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 74,
+      "citation_count": 75,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -9939,7 +9939,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s00464-018-6547-8",
       "url": "https://openalex.org/W2896617025",
-      "citation_count": 31,
+      "citation_count": 32,
       "source": "openalex",
       "id": "6273bf85940cee18dacc393b8bfb3f0a",
       "date_found": "2026-10-03T14:28:01.282000",
@@ -10196,6 +10196,20 @@
       "id": "22d85753a9cf48d96fe54e7a5a9fedca",
       "date_found": "2026-10-29T16:30:09.380878",
       "search_query": "GAO bid protest outcomes"
+    },
+    {
+      "title": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
+      "authors": "Pelle Berkhout; Anne Rainville; Matthijs Janssen; Koen Frenken",
+      "year": 2026,
+      "journal": "Research Policy",
+      "abstract": "By strategically leveraging public procurement, governments can harness market competition to drive business innovation and sustainable development. It remains unclear, however, how this premise is affected by heightened security awareness due to increasing geopolitical tensions. Focusing on European Union (EU) member states, we examine how security-oriented practices in public procurement affect tender outcomes. Using data from a recent pan-European survey of 1613 procurement projects, coupled with data from the EU's tender platform Tender Electronic Daily, we test the effect of using national security assessments (NSAs) during tender preparation on competition, innovation, sustainability, and critical technology procurement. We find that conducting such assessments has positive effects on innovation and on critical technology procurement, but only for tenders won by domestic suppliers. NSAs can thus create urgency and mobilize resources to innovate through public procurement, but possibly in a way that reinforces national rather than EU-wide technological development. We identify a tension between the need for research and coordination of NSA development at the EU level to avoid market distortions arising from uncontrolled NSA proliferation versus a heightened bureaucratic burden for suppliers. We also argue that stimulating joint cross-border innovation procurement, particularly of critical technologies, is key to fully leveraging the benefits of the EU internal market when pursuing strategic policy goals.",
+      "doi": "https://doi.org/10.1016/j.respol.2026.105657",
+      "url": "https://openalex.org/W7224333197",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "9ba09692cd27b1c866679998da9369b0",
+      "date_found": "2026-10-30T16:22:28.920499",
+      "search_query": "competition public procurement innovation"
     }
   ]
 }
