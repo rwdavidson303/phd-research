@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30T16:22:31.564835",
-    "total_articles": 729,
-    "last_search_date": "2026-10-30"
+    "last_updated": "2026-10-31T15:32:22.030345",
+    "total_articles": 730,
+    "last_search_date": "2026-10-31"
   },
   "articles": [
     {
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 75,
+      "citation_count": 76,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -10210,6 +10210,20 @@
       "id": "9ba09692cd27b1c866679998da9369b0",
       "date_found": "2026-10-30T16:22:28.920499",
       "search_query": "competition public procurement innovation"
+    },
+    {
+      "title": "The Private Rights of a Bidder in the Award of a Government Contract: A Step Beyond Scanwell",
+      "authors": "Davis; B Kenneth",
+      "year": 1973,
+      "journal": "Case Western Reserve University School of Law Scholarly Commons (Case Western Reserve University)",
+      "abstract": "Because substantially all of the procurement controversies arise in the District of Columbia, most of the case law has evolved in that circuit's court of appeals.Only one other circuit to date has explicitly followed Scanwell and held that bidders possess standing.Merriam v. Kunzig, 476 F.2d 1233 (3d Cir.1973).Two circuits have left the question open.Allen M. Campbell Co. v. Lloyd Wood Constr.Co., 446 F.2d 261 (5th Cir.1971); Hi-Ridge Lumber Co. v. United States, 443 F.2d 452 (9th Cir.1971).In a subesequent case, however, the Fifth Circuit held that a potential bidder had standing to litigate particular issues.Ray Baillie Trash Hauling, Inc. v. Kleppe, 477 F.2d 696 (5th Cir, 1973).But because this decision was premised, at least in part, on a congressional design to protect the plaintiffs' interests under the Small Business Act, it is doubtful that the Fifth Circuit's holding on the standing issue extends to all bidders.The Supreme Court has made no attempt to resolve the question.Its last decision on a bidder's standing was Lukens.Recently the Court has denied certiorari in two cases.Pace Co. v. Resor, 453 F.2d 890 (6th Cit.1971), cert.denied, 405 U.S. 974 (1972); Ballerina Pen Co. v. Kunzig, 433 F.2d 1204 (D.C.Cir.1970), cert.denied, 401 U.S. 950 (1971).In lieu of any statement from the Supreme Court, Scanwell remains the principal authority for granting the bidder standing.6 E.g., Scanwell Laboratories, Inc. v. Shaffer, 424 F.2d 859, 864 (D.C.Cit.1970).7For fiscal 1972, it is estimated that the federal government contracted-out for a total of $57.5 billion of goods and services.Department of Defense procurements alone amounted to $39.4 billion. 1 REPORT OF THE COMM'N GOVERNMENT PRO- CUREMENT 3 (1972) [hereinafter cited as PROCUREMENT REP.]. 8 Speech by Judge Harold Leventhal, Government Contracts Seminar, Charlottesville, Virginia, May 9, 1969.274 BNA FED.CONT.REP.A-i (1969).9 An example is the program developed under section 8(a) of the Small Business Act of 1953, 15 U.S.C. § 637(a) (1970), whereby the Small Business Administration makes noncompetitive subcontract awards to minority-owned businesses.10 Pierson, Standing to Seek Judicial Review of Government Contract Awards: Its Origins, Rationale and Effect on the Procurement Process, 12 B.C. IND.& COM.L. REV. 1, 41 (1970). 1 APA § 10(c)(2)(A), 5 U.S.C. § 706(2)(A) (1970).12 10 U.",
+      "doi": null,
+      "url": "https://openalex.org/W2625061946",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "0bae755b55adac92a72ade9b27e1e9b5",
+      "date_found": "2026-10-31T15:32:06.846944",
+      "search_query": "bid protest government procurement delay"
     }
   ]
 }

@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**729 total articles** in the database | Last updated: October 30, 2026
+**730 total articles** in the database | Last updated: October 31, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -127,7 +127,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 107 | [A comprehensive AI policy education framework for university teaching ...](https://doi.org/10.1186/s41239-023-00408-3) | Cecilia Ka Yuk Chan | 2023 | International Journal of Educa... | 1,478 |
 | 108 | [Assessing COVID-19 pandemic policies and behaviours and their economic...](https://doi.org/10.1016/s0140-6736(23)00461-0) | Thomas J. Bollyky; Emma Castro; Aleksand... | 2023 | The Lancet | 154 |
 | 109 | [Transformative Procurement Trends: Integrating Industry 4.0 Technologi...](https://doi.org/10.3390/logistics7030063) | Areej Althabatah; Mohammed Yaqot; Brenno... | 2023 | Logistics | 108 |
-| 110 | [Discretion and Favoritism in Public Procurement](https://doi.org/10.1093/jeea/jvad017) | Ferenc Szücs | 2023 | Journal of the European Econom... | 75 |
+| 110 | [Discretion and Favoritism in Public Procurement](https://doi.org/10.1093/jeea/jvad017) | Ferenc Szücs | 2023 | Journal of the European Econom... | 76 |
 | 111 | [The Impact of Open Data on Public Procurement](https://doi.org/10.1111/1475-679x.12479) | Raphael Duguay; Thomas Rauter; Delphine ... | 2023 | Journal of Accounting Research | 67 |
 | 112 | [Transparency and E-Government in Electronic Public Procurement as Sust...](https://doi.org/10.3390/su15054672) | Jorge Hochstetter; Felipe Vásquez; Mauri... | 2023 | Sustainability | 63 |
 | 113 | [Repurposing ketamine to treat cocaine use disorder: integration of art...](https://doi.org/10.1111/add.16168) | Zhenxiang Gao; Theresa Winhusen; Maria P... | 2023 | Addiction | 38 |
@@ -743,9 +743,10 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 723 | [An Assessment of Public Law 95-507.](https://openalex.org/W1522949462) | Charles E. White | 1980 | Defense Technical Information ... | 0 |
 | 724 | [The second image reversed: the international sources of domestic polit...](https://doi.org/10.1017/s002081830003201x) | Peter Gourevitch | 1978 | International Organization | 1,583 |
 | 725 | [Procurement Administrative Lead Time (PALT) Management and Performance...](https://doi.org/10.21236/ADA038732) | K. Newlin; E. Lovett | 1977 |  | 0 |
-| 726 | [Judicial Review for Disappointed Bidders on Federal Government Contrac...](https://doi.org/10.25172/smulr.26.2.6) | Darrel A. Rice | 1972 | Southwestern law journal | 0 |
-| 727 | [The Nature of the Firm](https://doi.org/10.1111/j.1468-0335.1937.tb00002.x) | Ronald H. Coase | 1937 | Economica | 23,943 |
-| 728 | PUBLIC PROCUREMENT AND THE RISK OF SEVERE WEATHER EVENTS | Andrea Bafundi; Riccardo Camboni; E. Gri... |  |  | 1 |
-| 729 | Nuclear Regulatory Commission Biweekly Notice; Applications and Amendm... | Chad Whiteman; Tremaine Donnell |  |  | 0 |
+| 726 | [The Private Rights of a Bidder in the Award of a Government Contract: ...](https://openalex.org/W2625061946) | Davis; B Kenneth | 1973 | Case Western Reserve Universit... | 0 |
+| 727 | [Judicial Review for Disappointed Bidders on Federal Government Contrac...](https://doi.org/10.25172/smulr.26.2.6) | Darrel A. Rice | 1972 | Southwestern law journal | 0 |
+| 728 | [The Nature of the Firm](https://doi.org/10.1111/j.1468-0335.1937.tb00002.x) | Ronald H. Coase | 1937 | Economica | 23,943 |
+| 729 | PUBLIC PROCUREMENT AND THE RISK OF SEVERE WEATHER EVENTS | Andrea Bafundi; Riccardo Camboni; E. Gri... |  |  | 1 |
+| 730 | Nuclear Regulatory Commission Biweekly Notice; Applications and Amendm... | Chad Whiteman; Tremaine Donnell |  |  | 0 |
 
 </div>
