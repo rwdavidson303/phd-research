@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T15:32:22.030345",
-    "total_articles": 730,
-    "last_search_date": "2026-10-31"
+    "last_updated": "2026-11-01T16:30:36.813846",
+    "total_articles": 731,
+    "last_search_date": "2026-11-01"
   },
   "articles": [
     {
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s10610-019-09416-4",
       "url": "https://openalex.org/W2948221424",
-      "citation_count": 105,
+      "citation_count": 106,
       "search_query": "incumbent advantage procurement tender steering",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:36.500519"
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 920,
+      "citation_count": 921,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 76,
+      "citation_count": 77,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -10224,6 +10224,20 @@
       "id": "0bae755b55adac92a72ade9b27e1e9b5",
       "date_found": "2026-10-31T15:32:06.846944",
       "search_query": "bid protest government procurement delay"
+    },
+    {
+      "title": "Highway Project Delivery Requirements",
+      "authors": "Elizabeth Machek; Carson Poe; Jeffrey R Bryan",
+      "year": 2006,
+      "journal": "ROSA P",
+      "abstract": "The work of developing and delivering a highway project is governed by a wide array of state and federal requirements. The Volpe National Transportation Systems Center (Volpe Center) worked with the Washington State Department of Transportation (WSDOT) to help make these requirements more transparent to the highway project team. The project included data gathering and documentation of WSDOT's project delivery stages, the Federal and state requirements relevant to each stage, and the roles and responsibilities of stakeholders throughout the delivery of WSDOT highway projects. The results were delivered as a series of web pages that illustrates the overall process and provides links to the Federal and state requirements in each stage.\\n",
+      "doi": null,
+      "url": "https://openalex.org/W571959584",
+      "citation_count": 1,
+      "source": "openalex",
+      "id": "00140b316df2457337f6b64eee85ec4b",
+      "date_found": "2026-11-01T16:30:28.676620",
+      "search_query": "RFP requirements clarity solicitation quality"
     }
   ]
 }
