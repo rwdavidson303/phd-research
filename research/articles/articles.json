@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-02T19:53:18.258117",
+    "last_updated": "2026-11-03T17:26:10.650451",
     "total_articles": 731,
-    "last_search_date": "2026-11-02"
+    "last_search_date": "2026-11-03"
   },
   "articles": [
     {
@@ -574,7 +574,7 @@
       "abstract": "Objective This study aimed to evaluate the impact of the National Centralized Drug Procurement (NCDP) policy on chemical pharmaceutical enterprises’ R&D investment and provide references for improving NCDP policy design and encouraging innovation in the pharmaceutical industry. Methods Using the panel data of 102 Shanghai and Shenzhen A-share listed enterprises from 2016 to 2022 under the chemical pharmaceutical classification of Shenwan in Wind database as the research sample, this study developed difference-in-differences (DID) models on bid-winning and bid-non-winning enterprises, respectively, to evaluate the impact of NCDP policy on their R&D investment. In addition, this study tested the heterogeneity of bid-winning enterprises based on the bid success rate, the decline of drug price, and enterprise size. Results The NCDP policy could encourage chemical pharmaceutical companies to increase R&D investment, but the low bid success rate and excessive drug price reduction would reduce their R&D enthusiasm, especially for small- and medium-sized enterprises. Discussion It is suggested that the NCDP policy should be further improved: first, revise the bidding rule of the NCDP policy and increase the bid success rate so that more enterprises can win bids, and second, to solve the problem of excessive drug price reduction, evaluate the rationality of bid-winning prices, and introduce a two-way selection mechanism between medical institutions and supply enterprises. Integrate pharmacoeconomic evaluation into the NCDP rules to form a benign competition among enterprises. Third, attention should be paid to supporting policies for small- and medium-sized enterprises. By increasing procurement volume, shortening payment time limits, and increasing the proportion of advance payments, enterprises’ cash flow shortages can be alleviated, thus achieving fairness and inclusiveness in the implementation of the NCDP policy.",
       "doi": "10.3389/fpubh.2024.1402581",
       "url": "https://www.semanticscholar.org/paper/cc5b446d5b626e90c264455841244fe2d02dd97c",
-      "citation_count": 7,
+      "citation_count": 8,
       "search_query": "difference-in-differences procurement policy",
       "source": "semantic_scholar",
       "date_found": "2026-02-08T13:18:14.878225"
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 921,
+      "citation_count": 923,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -6719,7 +6719,7 @@
       "abstract": "This paper explores the potential of public e-procurement technologies to reduce corruption in the public procurement process. It analyses the risk factors of corruption in the government procurement processes such as in project planning, product design and documentation, tender process, contract awards, and accounting and auditing. It assesses different cases of various developing countries and emerging economies with a specific focus on the potential of public e-procurement to transparency and accountability. The results indicate that anti-corruption capabilities of public e-procurement, particularly the automation and audit trail capabilities can potentially increase the transparency and accountability of the government procurement process.",
       "doi": null,
       "url": "https://openalex.org/W193519317",
-      "citation_count": 65,
+      "citation_count": 66,
       "source": "openalex",
       "id": "d8e321d5b09ef2f9976a4523e88a8ae1",
       "date_found": "2026-06-09T12:30:20.502046",
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 248,
+      "citation_count": 252,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -8707,7 +8707,7 @@
       "abstract": "This paper analyzes the provisions of the new Agreement on Government Procurement (GPA), drawing insights from trade theory and recent developments in the economics of information and law. A central conclusion is that in a world where imperfectly informed procurers purchase from imperfectly competitive firms on behalf of imperfectly informed tax-payers, it is not easy to devise rules which would be optimal in all situations. Nevertheless, the non-discriminatory provisions of the GPA seem to approximate closely the rules which would maximize global welfare. A significant benefit of the GPA is in helping to overcome national agency problems in procurement by creating mechanisms for reciprocal international monitoring supported by multilateral enforcement. There is, however, scope for improvement. First, the GPA does not equip bidders for government contracts to vault over trade restrictions, so the creation of genuine international competition for government procurement remains crucially dependent on the liberalization of trade. Secondly, weaknesses remain in the enforcement mechanism. These include the low level of compensation to a successful challenger, the absence of restrictions on settlements, and the lack of provision for challenge and review of bail-outs. The paper proposes certain improvements.",
       "doi": "https://doi.org/10.1111/j.1467-9701.1996.tb00707.x",
       "url": "https://openalex.org/W2050329922",
-      "citation_count": 42,
+      "citation_count": 43,
       "source": "openalex",
       "id": "8b69f6e047413e1b5d4fda05efa2f856",
       "date_found": "2026-09-30T16:09:31.141919",
@@ -8791,7 +8791,7 @@
       "abstract": "Public procurement regulations aim to ensure the state minimizes contract award prices by specifying the processes to be used in issuing calls for tenders and award of contracts. Cost minimization goals may be complemented by ancillary objectives such as supporting small firms or disadvantaged groups. Recent theory suggests procurement regulations and practices constraining the ability to exercise discretion in awarding contracts may increase average procurement costs. Using detailed data on procurement awards in 33 European countries, we find that restrictions on exercise of discretion are associated with higher average contract prices, and that increases in prices are greater in countries with above average government effectiveness. We also show that realizing price-reducing benefits from exercising greater discretion, where permitted by law, reduces the probability small firms win contracts and continue to do so. Our findings point to a tradeoff between the potential to lower prices by exercising discretion and policies that aim to increase the likelihood SMEs are awarded contracts.",
       "doi": "https://doi.org/10.1016/j.ejpoleco.2024.102525",
       "url": "https://openalex.org/W4392747072",
-      "citation_count": 16,
+      "citation_count": 17,
       "source": "openalex",
       "id": "abf5e9b6d8ffe9b5e5f5a3dad99fccb4",
       "date_found": "2026-10-03T14:27:44.952261",
@@ -8959,7 +8959,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.jebo.2012.03.002",
       "url": "https://openalex.org/W2889654768",
-      "citation_count": 90,
+      "citation_count": 92,
       "source": "openalex",
       "id": "7f0b6cd6abe17061506136fcafe7ea21",
       "date_found": "2026-10-03T14:27:47.870365",
@@ -10079,7 +10079,7 @@
       "abstract": "The benefits of bureaucratic discretion depend on its use for public benefit versus private gain. Using data on Italian firms and procurement officials investigated for corruption, we show that discretionary auctions (awarded on the basis of negotiation rather than open bidding) are linked to corruption only when competition is restricted. Corrupt officials favor these negotiated auctions, though they are used less often in administrations where at least one official is under investigation. This suggests that discretion enhances efficiency but also enables theft, leading monitors to limit discretion in high-corruption settings. Overall, competition helps authorities to harness discretion’s benefits while limiting its abuse.",
       "doi": "https://doi.org/10.1086/732654",
       "url": "https://openalex.org/W4401504146",
-      "citation_count": 24,
+      "citation_count": 25,
       "source": "openalex",
       "id": "941177a4b15225f582c582a99f8d2509",
       "date_found": "2026-10-09T16:42:29.979111",
