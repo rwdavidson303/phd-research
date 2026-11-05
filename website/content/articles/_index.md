@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**732 total articles** in the database | Last updated: November 04, 2026
+**732 total articles** in the database | Last updated: November 05, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -41,7 +41,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 21 | [Assessment of Procurement System and Quality Service Delivery In Nasar...](https://doi.org/10.67163/njsr-69) | Ruth Owolabi Oluwatosin | 2026 | Nigerian Journal of Sustainabi... | 0 |
 | 22 | [The effects of national security assessments in public procurement on ...](https://doi.org/10.1016/j.respol.2026.105657) | Pelle Berkhout; Anne Rainville; Matthijs... | 2026 | Research Policy | 0 |
 | 23 | [The role of government contracting in corporate environmental policies](https://doi.org/10.1016/j.jbankfin.2026.107821) | Wendi Huang | 2026 | Journal of Banking & Finance | 0 |
-| 24 | [Assessing the value of artificial intelligence (AI) in governmental pu...](https://doi.org/10.1108/jopp-05-2024-0057) | Per M. Andersson; Katarina Arbin; Christ... | 2025 | Journal of Public Procurement | 39 |
+| 24 | [Assessing the value of artificial intelligence (AI) in governmental pu...](https://doi.org/10.1108/jopp-05-2024-0057) | Per M. Andersson; Katarina Arbin; Christ... | 2025 | Journal of Public Procurement | 40 |
 | 25 | [How government procurement shapes corporate climate disclosures, commi...](https://doi.org/10.1007/s11142-024-09866-0) | Omri Even-Tov; Guoman She; Lynn Linghuan... | 2025 | Review of Accounting Studies | 26 |
 | 26 | [The impact of the centralized volume-based procurement policy on Chine...](https://doi.org/10.1371/journal.pone.0315811) | Fangjun Qiu; Shouming Chen; Yujia Li; Xi... | 2025 | PLoS ONE | 7 |
 | 27 | [impact of electronic procurement (E-procurement) on public sector acco...](https://doi.org/10.35912/jgas.v5i1.1253) | A. Musah; Adu Peprah James; Matilda Asie... | 2025 | Journal of Governance and Acco... | 5 |
@@ -93,7 +93,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 73 | [Biomaterials technology and policies in the building sector: a review](https://doi.org/10.1007/s10311-023-01689-w) | Lin Chen; Yubing Zhang; Zhonghao Chen; Y... | 2024 | Environmental Chemistry Letter... | 182 |
 | 74 | [Can propensity score matching replace randomized controlled trials?](https://doi.org/10.5662/wjm.v14.i1.90590) | Matthias Yi Quan Liau; En Qi Toh; Shamir... | 2024 | World Journal of Methodology | 34 |
 | 75 | [The roles and dynamics of transition intermediaries in enabling sustai...](https://doi.org/10.1007/s10460-024-10562-7) | Daniel Gaitán‐Cremaschi; Diego Valbuena;... | 2024 | Agriculture and Human Values | 28 |
-| 76 | [Rules, Discretion, and Corruption in Procurement: Evidence from Italia...](https://doi.org/10.1086/732654) | Francesco Decarolis; Raymond J. Fisman; ... | 2024 | Journal of Political Economy M... | 26 |
+| 76 | [Rules, Discretion, and Corruption in Procurement: Evidence from Italia...](https://doi.org/10.1086/732654) | Francesco Decarolis; Raymond J. Fisman; ... | 2024 | Journal of Political Economy M... | 27 |
 | 77 | [Discretion and public procurement outcomes in Europe*](https://doi.org/10.1016/j.ejpoleco.2024.102525) | Bernard M. Hoekman; Bedri Kamil Onur Taş | 2024 | European Journal of Political ... | 24 |
 | 78 | [A lifecycle analysis of complex public procurement: an agency-institut...](https://doi.org/10.1108/ijopm-07-2023-0608) | Rick Forster; Andrew Charles Lyons; Nige... | 2024 | International Journal of Opera... | 19 |
 | 79 | [Exploring value creation from an ecosystem perspective: A critical exa...](https://doi.org/10.1080/09540962.2024.2355995) | Michael J. Roy; Anna Spiesova; Maeve Cur... | 2024 | Public Money & Management | 16 |
@@ -108,9 +108,9 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 88 | [Influence of Chinese National Centralized Drug Procurement policy on p...](https://doi.org/10.1080/00036846.2024.2399818) | Hang Liu; Xinglong Fang | 2024 | Applied Economics | 2 |
 | 89 | [The Impact of Information Technology Adoption on Efficiency and Transp...](https://doi.org/10.19044/esj.2024.v20n13p167) | N. Mandala; Isaac Renson Ayoyi; Samson K... | 2024 | European Scientific Journal | 2 |
 | 90 | [Methodology for Assessing Procurement Systems: the Case of Public Proc...](https://doi.org/10.26668/businessreview/2023.v9i1.4200) | Paul Mathenge Nyathore; Gituro Wainaina;... | 2024 | International Journal of Profe... | 2 |
-| 91 | [Institutional Reforms and Political Context: An Evaluation of the Indo...](https://doi.org/10.1353/asp.2024.a934568) | Michael Buehler; Adi Greif; Ronnie Nataa... | 2024 | Asia policy | 2 |
-| 92 | [SUSTAINABLE SUPPLIER SELECTION IN INDIRECT PROCUREMENT: BEST PRACTICES...](https://doi.org/10.62304/ijse.v1i04.189) | Shaikh Shofiullah | 2024 | GLOBAL MAINSTREAM JOURNAL | 1 |
-| 93 | [FRAUD IN PUBLIC PROCUREMENT: THE DIMENSIONS IN NIGERIA’S REFORMED FEDE...](https://doi.org/10.17323/1999-5431-2024-0-6-83-109) | Solomon I. Ifejika | 2024 | Public Administration Issues | 1 |
+| 91 | [FRAUD IN PUBLIC PROCUREMENT: THE DIMENSIONS IN NIGERIA’S REFORMED FEDE...](https://doi.org/10.17323/1999-5431-2024-0-6-83-109) | Solomon I. Ifejika | 2024 | Public Administration Issues | 2 |
+| 92 | [Institutional Reforms and Political Context: An Evaluation of the Indo...](https://doi.org/10.1353/asp.2024.a934568) | Michael Buehler; Adi Greif; Ronnie Nataa... | 2024 | Asia policy | 2 |
+| 93 | [SUSTAINABLE SUPPLIER SELECTION IN INDIRECT PROCUREMENT: BEST PRACTICES...](https://doi.org/10.62304/ijse.v1i04.189) | Shaikh Shofiullah | 2024 | GLOBAL MAINSTREAM JOURNAL | 1 |
 | 94 | [Study on the Impact of Volume-Based Procurement Policy on the Producti...](https://doi.org/10.12677/mm.2024.147173) | 博彦 高 | 2024 | Modern Management | 0 |
 | 95 | [UTILIZING A STRUCTURED DECISION PROCESS FOR U.S. GOVERNMENT SOURCE   S...](https://doi.org/10.4271/2024-01-3769) | G. Hartman | 2024 | SAE technical paper series | 0 |
 | 96 | [Exploring the moderation role of tenderpreneurship on procurement plan...](https://doi.org/10.5937/jpmnt12-53583) | Y. Rutaba | 2024 | Journal of Process Management ... | 0 |
@@ -128,8 +128,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 108 | [A comprehensive AI policy education framework for university teaching ...](https://doi.org/10.1186/s41239-023-00408-3) | Cecilia Ka Yuk Chan | 2023 | International Journal of Educa... | 1,478 |
 | 109 | [Assessing COVID-19 pandemic policies and behaviours and their economic...](https://doi.org/10.1016/s0140-6736(23)00461-0) | Thomas J. Bollyky; Emma Castro; Aleksand... | 2023 | The Lancet | 154 |
 | 110 | [Transformative Procurement Trends: Integrating Industry 4.0 Technologi...](https://doi.org/10.3390/logistics7030063) | Areej Althabatah; Mohammed Yaqot; Brenno... | 2023 | Logistics | 108 |
-| 111 | [Discretion and Favoritism in Public Procurement](https://doi.org/10.1093/jeea/jvad017) | Ferenc Szücs | 2023 | Journal of the European Econom... | 78 |
-| 112 | [The Impact of Open Data on Public Procurement](https://doi.org/10.1111/1475-679x.12479) | Raphael Duguay; Thomas Rauter; Delphine ... | 2023 | Journal of Accounting Research | 76 |
+| 111 | [Discretion and Favoritism in Public Procurement](https://doi.org/10.1093/jeea/jvad017) | Ferenc Szücs | 2023 | Journal of the European Econom... | 79 |
+| 112 | [The Impact of Open Data on Public Procurement](https://doi.org/10.1111/1475-679x.12479) | Raphael Duguay; Thomas Rauter; Delphine ... | 2023 | Journal of Accounting Research | 77 |
 | 113 | [Transparency and E-Government in Electronic Public Procurement as Sust...](https://doi.org/10.3390/su15054672) | Jorge Hochstetter; Felipe Vásquez; Mauri... | 2023 | Sustainability | 63 |
 | 114 | [Repurposing ketamine to treat cocaine use disorder: integration of art...](https://doi.org/10.1111/add.16168) | Zhenxiang Gao; Theresa Winhusen; Maria P... | 2023 | Addiction | 38 |
 | 115 | [The role of political connection to moderate board size, woman on boar...](https://doi.org/10.1080/23311975.2022.2156704) | Dian Anita Nuswantara; Fachruzzaman; Ris... | 2023 | Cogent Business & Management | 33 |
@@ -223,7 +223,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 203 | [Iraq ∙ Conflicts, Protests and Bad Management: Is There a Way Out for ...](https://doi.org/10.21552/epppl/2021/3/14) | M. Al Jabori | 2021 | European Procurement & Public ... | 0 |
 | 204 | [A SARS-CoV-2 protein interaction map reveals targets for drug repurpos...](https://doi.org/10.1038/s41586-020-2286-9) | David E. Gordon; Gwendolyn Μ. Jang; Mehd... | 2020 | Nature | 4,856 |
 | 205 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,934 |
-| 206 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 273 |
+| 206 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 275 |
 | 207 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 208 | [Famotidine Use Is Associated With Improved Clinical Outcomes in Hospit...](https://doi.org/10.1053/j.gastro.2020.05.053) | Daniel E. Freedberg; Joseph Conigliaro; ... | 2020 | Gastroenterology | 261 |
 | 209 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
@@ -312,8 +312,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 292 | [Defense Cooperation Agreements and the Emergence of a Global Security ...](https://doi.org/10.1017/s0020818318000218) | Brandon J Kinne | 2018 | International Organization | 72 |
 | 293 | [Which shape fits best? Designing the organizational form of local gove...](https://doi.org/10.1016/j.pursup.2018.06.003) | Pier Paolo Patrucco; Helen Walker; David... | 2018 | Journal of Purchasing and Supp... | 63 |
 | 294 | [Public contracting for private innovation: Government capabilities, de...](https://doi.org/10.1002/smj.2973) | Joshua R. Bruce; John M. de Figueiredo; ... | 2018 | Strategic Management Journal | 62 |
-| 295 | [Robotic-assisted laparoscopic surgery for complex hepatolithiasis: a p...](https://doi.org/10.1007/s00464-018-6547-8) | Jie Shu; Xiaojun Wang; Jianwei Li; Ping ... | 2018 | Surgical Endoscopy | 34 |
-| 296 | [Centralization and decentralization of public procurement](https://doi.org/10.1108/jamr-05-2018-0049) | Karem Sayed Aboelazm; Attia Afandy | 2018 | Journal of Advances in Managem... | 33 |
+| 295 | [Centralization and decentralization of public procurement](https://doi.org/10.1108/jamr-05-2018-0049) | Karem Sayed Aboelazm; Attia Afandy | 2018 | Journal of Advances in Managem... | 34 |
+| 296 | [Robotic-assisted laparoscopic surgery for complex hepatolithiasis: a p...](https://doi.org/10.1007/s00464-018-6547-8) | Jie Shu; Xiaojun Wang; Jianwei Li; Ping ... | 2018 | Surgical Endoscopy | 34 |
 | 297 | [Design of public procurement auctions: evidence from cleaning contract...](https://doi.org/10.1111/1756-2171.12232) | Ari Hyytinen; Sofia Lundberg; Otto Toiva... | 2018 | The RAND Journal of Economics | 32 |
 | 298 | [Best-Value Procurement in Design-Bid-Build Construction Projects: Empi...](https://doi.org/10.1061/(ASCE)CO.1943-7862.0001550) | Phuong H. D. Nguyen; Brian C. Lines; Dai... | 2018 | Journal of construction engine... | 17 |
 | 299 | [Procurement of low carbon municipal solid waste infrastructure in Indi...](https://doi.org/10.1108/BEPAM-10-2017-0087) | Tharun Dolla; B. Laishram | 2018 | Built Environment Project and ... | 16 |
