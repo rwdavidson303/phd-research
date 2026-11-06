@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**732 total articles** in the database | Last updated: November 05, 2026
+**732 total articles** in the database | Last updated: November 06, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -223,7 +223,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 203 | [Iraq ∙ Conflicts, Protests and Bad Management: Is There a Way Out for ...](https://doi.org/10.21552/epppl/2021/3/14) | M. Al Jabori | 2021 | European Procurement & Public ... | 0 |
 | 204 | [A SARS-CoV-2 protein interaction map reveals targets for drug repurpos...](https://doi.org/10.1038/s41586-020-2286-9) | David E. Gordon; Gwendolyn Μ. Jang; Mehd... | 2020 | Nature | 4,856 |
 | 205 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,934 |
-| 206 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 275 |
+| 206 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 276 |
 | 207 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 208 | [Famotidine Use Is Associated With Improved Clinical Outcomes in Hospit...](https://doi.org/10.1053/j.gastro.2020.05.053) | Daniel E. Freedberg; Joseph Conigliaro; ... | 2020 | Gastroenterology | 261 |
 | 209 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
@@ -236,8 +236,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 216 | [Designing and implementing procurement requirements for carbon reducti...](https://doi.org/10.1080/09640568.2020.1778453) | Anna Kadefors; Sofia Lingegård; Stefan U... | 2020 | Journal of Environmental Plann... | 70 |
 | 217 | [Dynamic capabilities for SME participation in public procurement](https://doi.org/10.1108/bpmj-10-2019-0447) | Temidayo O. Akenroye; JD Owens; Jamal El... | 2020 | Business Process Management Jo... | 68 |
 | 218 | [Functional procurement for innovation, welfare, and the environment](https://doi.org/10.1093/scipol/scaa046) | Charles Edquist; Jon Mikel Zabala‐Iturri... | 2020 | Science and Public Policy | 64 |
-| 219 | [Supporting robust, rigorous, and reliable reviewing as the cornerstone...](https://doi.org/10.1017/iop.2019.121) | Tine Köhler; M. Gloria González‐Morales;... | 2020 | Industrial and Organizational ... | 58 |
-| 220 | [Public procurement as a vehicle of innovation – What does the inverted...](https://doi.org/10.1016/j.techfore.2020.119922) | Timo Tammi; Jani Saastamoinen; Helen Rei... | 2020 | Technological Forecasting and ... | 58 |
+| 219 | [Public procurement as a vehicle of innovation – What does the inverted...](https://doi.org/10.1016/j.techfore.2020.119922) | Timo Tammi; Jani Saastamoinen; Helen Rei... | 2020 | Technological Forecasting and ... | 62 |
+| 220 | [Supporting robust, rigorous, and reliable reviewing as the cornerstone...](https://doi.org/10.1017/iop.2019.121) | Tine Köhler; M. Gloria González‐Morales;... | 2020 | Industrial and Organizational ... | 58 |
 | 221 | [The Urgent Need for Transparent and Accountable Procurement of Medicin...](https://doi.org/10.1186/s40545-020-00256-w) | Jillian Clare Köhler; Tom Wright | 2020 | Journal of Pharmaceutical Poli... | 58 |
 | 222 | [The impact of social capital on economic attitudes and outcomes](https://doi.org/10.1016/j.jimonfin.2020.102162) | Iftekhar Hasan; Qing He; Haitian Lu | 2020 | Journal of International Money... | 51 |
 | 223 | [Risk Allocation in Unsolicited and Solicited Road Public-Private Partn...](https://doi.org/10.3390/su12114478) | Gabriel Castelblanco; José Guevara; Harr... | 2020 | Sustainability | 43 |

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-05T17:45:28.972085",
+    "last_updated": "2026-11-06T17:01:22.539632",
     "total_articles": 732,
-    "last_search_date": "2026-11-05"
+    "last_search_date": "2026-11-06"
   },
   "articles": [
     {
@@ -1694,7 +1694,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.techfore.2020.119922",
       "url": "https://openalex.org/W3002121763",
-      "citation_count": 58,
+      "citation_count": 62,
       "search_query": "competition public procurement innovation",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:04.513456"
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 275,
+      "citation_count": 276,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
