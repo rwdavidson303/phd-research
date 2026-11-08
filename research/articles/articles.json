@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-07T15:58:28.475228",
-    "total_articles": 733,
-    "last_search_date": "2026-11-07"
+    "last_updated": "2026-11-08T16:27:24.945635",
+    "total_articles": 734,
+    "last_search_date": "2026-11-08"
   },
   "articles": [
     {
@@ -3262,7 +3262,7 @@
       "abstract": "In this article, we employ transaction cost economics and the contingency stream of organization theory to answer two related questions. First, when contracting for complex services, do governments design contracts for flexibility? Second, is the contingency perspective relevant to understanding contract design? Examining 130 professional service contracts awarded by state government agencies in the USA , we find that task complexity and task unpredictability, two dimensions of task uncertainty, increase the probability of flexible governance. This research highlights for managers the important fact that the potential for opportunism and task complexity are different sources of uncertainty that pose different challenges and call for different governance solutions. The study enriches our understanding of transaction costs by probing the conditions under which task uncertainty matters most (and least), and further shows the utility of integrating transaction cost economics with contingency theory to better understand contract governance.",
       "doi": "https://doi.org/10.1111/padm.12004",
       "url": "https://openalex.org/W3121470484",
-      "citation_count": 32,
+      "citation_count": 37,
       "search_query": "transaction cost economics government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:51.496841"
@@ -3626,7 +3626,7 @@
       "abstract": "Creating organizational designs that maximize performance is a key goal for many executives. We sought to uncover ways that a giant organization – the United States Department of Defense (DoD) – could improve its performance via organazational design changes. Based on input from 80 executives who collectively represent over 60 defense contractors, we found that the DoD could become more efficient and effective by (1) relying on relational contracting within its supply chains, (2) designing better reward systems, (3) focusing on results rather than processes when managing its suppliers, (4) moving its supply chains toward a best value approach, and (5) investing strategically in its workforce. In drawing implications from our findings for organizations in general, we highlight companies that have reaped rewards from making these five moves in the past.",
       "doi": "https://doi.org/10.7146/jod.6430",
       "url": "https://openalex.org/W3122602496",
-      "citation_count": 1,
+      "citation_count": 2,
       "search_query": "LPTA lowest price technically acceptable outcomes",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:30.128772"
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 300,
+      "citation_count": 302,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -9687,7 +9687,7 @@
       "abstract": "Corruption is thought to affect developed economies to a greater degree than developing countries. However, given our limited capacity to detect corruption, it may simply be harder to detect it in countries with stronger institutions. This article sets out to address this measurement challenge and to offer a tailored approach to one particular type of corruption: high-level corruption in government contracting. We describe a recently developed method to score procurement contracts for corruption risk. Then, using micro-level data from Hungary and the Czech Republic we analyze how corruption can distort public procurement markets, mapped as networks of buyers and suppliers. Proxying for corruption using a composite index of red flags derived from contract awards, we find that public sector buyers with high corruption risk have sparser network neighborhoods, meaning that they contract with fewer suppliers than expected. We interpret our results as evidence that corruption in procurement markets is fundamentally about the exclusion of non-favored firms. Political change has a significant effect on corrupt relationships: High corruption risk buyers with sparse neighborhoods rewire their contracting relationships roughly 20–40% more extensively than other buyers across years with government turnover. The article demonstrates how the political organization of corruption distorts market competition in OECD countries.",
       "doi": "https://doi.org/10.17645/pag.v8i2.2707",
       "url": "https://openalex.org/W3029877649",
-      "citation_count": 46,
+      "citation_count": 47,
       "source": "openalex",
       "id": "6296e4711b187b8b5e86d4bf786e14be",
       "date_found": "2026-10-03T14:27:57.806997",
@@ -10266,6 +10266,20 @@
       "id": "8a984f6f1a805ad1c14b8528de05c361",
       "date_found": "2026-11-07T15:58:16.789818",
       "search_query": "government procurement modernization"
+    },
+    {
+      "title": "Public Procurement Laws Under Supply Chain in Kenya",
+      "authors": "Solomon Kyalo Mutangili",
+      "year": 2025,
+      "journal": "Journal of Procurement & Supply Chain",
+      "abstract": "This paper examined Kenya’s public procurement laws under the supply chain, focusing on their design, implementation, and effectiveness in promoting transparency, competitiveness, and sustainability. Anchored in the Public Procurement and Asset Disposal Act (PPADA) 2015 and supported by complementary statutes such as the Public Finance Management Act 2012, the Public-Private Partnerships Act 2013, and the Access to Government Procurement Opportunities (AGPO) framework, the legal regime aims to align procurement processes with constitutional requirements and national development priorities. Using a positivist research philosophy and cross-sectional survey design, data was collected from 667 top management personnel across 52 commercial state corporations. Findings indicate high awareness of procurement laws and significant adoption of affirmative action measures, yet enforcement effectiveness remains moderate. The study also identified challenges, including weak enforcement, bureaucratic delays, political interference, and limited integration of sustainability performance metrics. While the framework has standardized procurement processes and improved SME participation, gaps in monitoring and operationalization of sustainability objectives persist. The study concludes that strengthening oversight, simplifying procedures, and institutionalizing sustainability assessment tools are essential to fully realize the transformative potential of procurement laws in driving sustainable economic, social, and environmental outcomes in Kenya’s public supply chain system. Keywords: Public Procurement, Supply Chain Management, Public Procurement and Asset Disposal Act (PPADA) 2015, Access to Government Procurement Opportunities (AGPO).",
+      "doi": "https://doi.org/10.53819/81018102t2506",
+      "url": "https://openalex.org/W7128213488",
+      "citation_count": 2,
+      "source": "openalex",
+      "id": "621e83d15ab4de176284e9086baa2e3f",
+      "date_found": "2026-11-08T16:27:21.273698",
+      "search_query": "procurement oversight review boards delay"
     }
   ]
 }
