@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-10T17:22:43.681446",
-    "total_articles": 734,
-    "last_search_date": "2026-11-10"
+    "last_updated": "2026-11-11T17:33:21.544432",
+    "total_articles": 737,
+    "last_search_date": "2026-11-11"
   },
   "articles": [
     {
@@ -1904,7 +1904,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s10610-019-09416-4",
       "url": "https://openalex.org/W2948221424",
-      "citation_count": 130,
+      "citation_count": 131,
       "search_query": "incumbent advantage procurement tender steering",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:36.500519"
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 923,
+      "citation_count": 924,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 85,
+      "citation_count": 86,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -8231,7 +8231,7 @@
       "abstract": "ABSTRACT We examine how open procurement data affect the competitiveness of award procedures and the execution of government contracts. The European Union recently made its historical procurement notices available for bulk download in a cohesive and user‐friendly database. Comparing government contracts above and below EU procurement size thresholds, we find that, after the open data initiative, procurement officials are more likely to award treated contracts through open bidding. In cross‐sectional analyses, we document variation in the open bidding effect consistent with two underlying mechanisms: (1) increased scrutiny by NGOs and investigative journalists and (2) learning by national procurement regulators. However, treated contracts are also more likely to experience costly modifications because the shift to open bidding introduces rigidity that limits officials’ discretion in selecting suppliers based on private information. Overall, our evidence indicates that open procurement data promote competitive bidding but lead to contracts with weaker execution performance. These inferences also hold in an alternative open data setting.",
       "doi": "https://doi.org/10.1111/1475-679x.12479",
       "url": "https://openalex.org/W4362555485",
-      "citation_count": 85,
+      "citation_count": 86,
       "source": "openalex",
       "id": "a41c3f18db831da4264f37109db12d5b",
       "date_found": "2026-08-19T10:18:25.362152",
@@ -10205,7 +10205,7 @@
       "abstract": "By strategically leveraging public procurement, governments can harness market competition to drive business innovation and sustainable development. It remains unclear, however, how this premise is affected by heightened security awareness due to increasing geopolitical tensions. Focusing on European Union (EU) member states, we examine how security-oriented practices in public procurement affect tender outcomes. Using data from a recent pan-European survey of 1613 procurement projects, coupled with data from the EU's tender platform Tender Electronic Daily, we test the effect of using national security assessments (NSAs) during tender preparation on competition, innovation, sustainability, and critical technology procurement. We find that conducting such assessments has positive effects on innovation and on critical technology procurement, but only for tenders won by domestic suppliers. NSAs can thus create urgency and mobilize resources to innovate through public procurement, but possibly in a way that reinforces national rather than EU-wide technological development. We identify a tension between the need for research and coordination of NSA development at the EU level to avoid market distortions arising from uncontrolled NSA proliferation versus a heightened bureaucratic burden for suppliers. We also argue that stimulating joint cross-border innovation procurement, particularly of critical technologies, is key to fully leveraging the benefits of the EU internal market when pursuing strategic policy goals.",
       "doi": "https://doi.org/10.1016/j.respol.2026.105657",
       "url": "https://openalex.org/W7224333197",
-      "citation_count": 0,
+      "citation_count": 1,
       "source": "openalex",
       "id": "9ba09692cd27b1c866679998da9369b0",
       "date_found": "2026-10-30T16:22:28.920499",
@@ -10280,6 +10280,48 @@
       "id": "621e83d15ab4de176284e9086baa2e3f",
       "date_found": "2026-11-08T16:27:21.273698",
       "search_query": "procurement oversight review boards delay"
+    },
+    {
+      "title": "Preventing rather than punishing: An early warning model of malfeasance in public procurement",
+      "authors": "Jorge Gallego; Gonzalo Rivero; Juan Diego Sánchez Martínez",
+      "year": 2020,
+      "journal": "International Journal of Forecasting",
+      "abstract": "",
+      "doi": "https://doi.org/10.1016/j.ijforecast.2020.06.006",
+      "url": "https://openalex.org/W2901687301",
+      "citation_count": 123,
+      "source": "openalex",
+      "id": "2e0ddd12edcc0a374cb57ef30aed0cf5",
+      "date_found": "2026-11-11T17:33:00.104739",
+      "search_query": "best value tradeoff public procurement"
+    },
+    {
+      "title": "Reengineering the RFP Process Through Knowledge-Based Systems",
+      "authors": "Mark E. Nissen",
+      "year": 1997,
+      "journal": "",
+      "abstract": "Acquisition plays a vital role in national defense of the United States. But, defense acquisition can be quite difficult, and few would argue that current acquisition processes perform in an optimal manner. The magnitude of change mandated by FASA and DAWIA, along with changes mandated from within DoD, is such that “business as usual ” no longer represents a viable alternative for acquisition management. The military procurement process in general requires reengineering, and the research described in this paper focuses upon the Request for Proposal (RFP) subprocess in particular. The use and utility of a knowledge-based system to support process redesign are demonstrated, and insight is provided into the potential of AI-based technologies to dramatically improve military procurement. The results provide the basis for a number of conclusions that are important for the acquisition professional, and establish an agenda for future research. Acquisition plays a vital role in national defense of the United States. The armed forces depend on the acquisition of high-quality and reliable weapon systems, equipment, support, and services for their defense missions, in peacetime as well as during periods of international tension and conflict. But getting what is needed can be quite difficult. Because many of these systems are exceedingly sophisticated, complex, and expensive, their procurement is complicated and involved. Further, those whose job it is to acquire systems and services work in an environment of arcane laws, regulations, policies, and procedures, for which a considerable investment in education 87 and training is required. And, this legal and regulatory environment is constantly changing, which requires vigilant attention and incessant retraining of acquisition professionals so that their knowledge remains current. Moreover, few would argue that current acquisition processes perform in an optimal manner. Rather, the costs required to staff and manage defense procurement consume a substantial portion of acquisition funding, and procurement administrative lead time (PALT) represents a major factor in weapon system planning and logistics. Indeed, legislation such as the",
+      "doi": null,
+      "url": "https://openalex.org/W330052539",
+      "citation_count": 9,
+      "source": "openalex",
+      "id": "139a53be432aff45a181bb2ee709b8d0",
+      "date_found": "2026-11-11T17:33:10.056483",
+      "search_query": "procurement administrative lead time PALT"
+    },
+    {
+      "title": "HLA-matching with PTCy: a reanalysis of a CIBMTR dataset with propensity score matching and donor age",
+      "authors": "Alexander Joseph Ambinder; Tania Jain; Hua‐Ling Tsai; Mary M. Horowitz; Richard John Jones",
+      "year": 2022,
+      "journal": "Blood Advances",
+      "abstract": "Blood or marrow transplantation (BMT) outcomes using haploidentical donors (Haplo) and posttransplant cyclophosphamide (PTCy)-based graft-versus-host disease (GVHD) prophylaxis compare favorably to HLA-matched donors using calcineurin inhibitor-based prophylaxis. A recent Center for International Blood and Marrow Transplant Research analysis of patients receiving homogenous PTCy-based prophylaxis found that, with reduced intensity conditioning, Haplo BMTs had worse outcomes than matched unrelated donor (MUD) BMTs. Due to significant differences between groups, we reanalyzed the dataset using propensity score matching and, additionally, added a donor age variable. After matching MUD BMTs to Haplo BMTs in a 1:5 ratio, no significant differences were found between groups across all measured baseline characteristics. Outcomes analyses demonstrated no significant differences in overall survival (hazard ratio [HR] of mortality with MUD vs Haplo [95% confidence interval], 0.95 [0.65-1.16], P = .75), disease-free survival (HR of relapse or death, 0.98 [0.73-1.18], P = .89), relapse rate (HR, 1.06 [0.77-1.38], P = .69), or nonrelapse mortality (NRM) (HR, 0.85 [0.42-1.13], P = .49) between groups. After stratification by conditioning intensity, MUD BMTs in the reduced-intensity cohort had lower risk of NRM (HR, 0.56 [0.14-0.99], P = .05), with no significant difference in other clinical outcomes. These results suggest the effect of HLA matching on BMT outcomes with PTCy is less meaningful than previously reported. Timely identification of a young, at least half-matched (related or unrelated) donor may be more important than finding a fully matched donor if the latter leads to a delay in BMT or use of an older donor.",
+      "doi": "https://doi.org/10.1182/bloodadvances.2022007741",
+      "url": "https://openalex.org/W4281556011",
+      "citation_count": 37,
+      "source": "openalex",
+      "id": "d271e82294f0e2548d35a23af7017fb6",
+      "date_found": "2026-11-11T17:33:21.044241",
+      "search_query": "propensity score matching public administration"
     }
   ]
 }
