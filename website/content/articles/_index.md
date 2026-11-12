@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**737 total articles** in the database | Last updated: November 11, 2026
+**737 total articles** in the database | Last updated: November 12, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -171,7 +171,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 151 | [Mainstreaming sustainable innovation: unlocking the potential of natur...](https://doi.org/10.1016/j.envsci.2022.02.017) | Linjun Xie; Harriet Bulkeley; Laura Toze... | 2022 | Environmental Science & Policy | 67 |
 | 152 | [Public food procurement from family farming: A food system and social ...](https://doi.org/10.1016/j.foodpol.2022.102325) | Daniel Gaitán‐Cremaschi; Laurens Klerkx;... | 2022 | Food Policy | 50 |
 | 153 | [Market dialogue in public procurement: Buyer-supplier interfaces and r...](https://doi.org/10.1016/j.indmarman.2022.04.004) | Anne-Maria Holma; Maren Wiktorin Østense... | 2022 | Industrial Marketing Managemen... | 44 |
-| 154 | [HLA-matching with PTCy: a reanalysis of a CIBMTR dataset with propensi...](https://doi.org/10.1182/bloodadvances.2022007741) | Alexander Joseph Ambinder; Tania Jain; H... | 2022 | Blood Advances | 37 |
+| 154 | [HLA-matching with PTCy: a reanalysis of a CIBMTR dataset with propensi...](https://doi.org/10.1182/bloodadvances.2022007741) | Alexander Joseph Ambinder; Tania Jain; H... | 2022 | Blood Advances | 38 |
 | 155 | [Academic research on renewable electricity auctions: Taking stock and ...](https://doi.org/10.1016/j.enpol.2022.113305) | Pablo del Rı́o; Christoph P. Kiefer | 2022 | Energy Policy | 36 |
 | 156 | [Can the Profitability of Medical Enterprises Be Improved After Joining...](https://doi.org/10.3389/fpubh.2021.809453) | Yu-Fei Hua; Jin Lu; Bing Bai; Zhao Han-q... | 2022 | Frontiers in Public Health | 26 |
 | 157 | [The Effect of E-Procurement Policy on Corruption in Government Procure...](https://doi.org/10.1080/01900692.2022.2093900) | Anastasia Citra Puspita; Yohanna M. L. G... | 2022 | International Journal of Publi... | 24 |
@@ -226,7 +226,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 206 | [Iraq ∙ Conflicts, Protests and Bad Management: Is There a Way Out for ...](https://doi.org/10.21552/epppl/2021/3/14) | M. Al Jabori | 2021 | European Procurement & Public ... | 0 |
 | 207 | [A SARS-CoV-2 protein interaction map reveals targets for drug repurpos...](https://doi.org/10.1038/s41586-020-2286-9) | David E. Gordon; Gwendolyn Μ. Jang; Mehd... | 2020 | Nature | 4,856 |
 | 208 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,934 |
-| 209 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 305 |
+| 209 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 306 |
 | 210 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 211 | [Famotidine Use Is Associated With Improved Clinical Outcomes in Hospit...](https://doi.org/10.1053/j.gastro.2020.05.053) | Daniel E. Freedberg; Joseph Conigliaro; ... | 2020 | Gastroenterology | 261 |
 | 212 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
@@ -389,9 +389,9 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 369 | [Modes of governance for municipal energy efficiency services – The cas...](https://doi.org/10.1016/j.jclepro.2016.07.100) | Friedemann Polzin; Paschen von Flotow; C... | 2016 | Journal of Cleaner Production | 63 |
 | 370 | [Beyond "Two Cultures": Guidance for Establishing Effective Researcher/...](https://doi.org/10.15171/ijhpm.2016.71) | Sarah Bowen; Ingrid Botting; Ian D. Grah... | 2016 | International Journal of Healt... | 56 |
 | 371 | [Proceedings of the 3rd Biennial Conference of the Society for Implemen...](https://doi.org/10.1186/s13012-016-0428-0) | Cara C. Lewis; Doyanne Darnell; Suzanne ... | 2016 | Implementation Science | 41 |
-| 372 | [Dynamic Procurement under Uncertainty: Optimal Design and Implications...](https://doi.org/10.1257/aer.20150275) | Malin Arve; David Martimort | 2016 | American Economic Review | 36 |
-| 373 | [Mitigating Mistrust? Participation and Expertise in Hydraulic Fracturi...](https://doi.org/10.1111/ropr.12201) | Kate J. Neville; Erika Weinthal | 2016 | Review of Policy Research | 33 |
-| 374 | [Procurement contract management in the local government authorities (L...](https://doi.org/10.1108/IJPSM-10-2015-0173) | Geraldine Arbogast Rasheli | 2016 |  | 28 |
+| 372 | [Procurement contract management in the local government authorities (L...](https://doi.org/10.1108/IJPSM-10-2015-0173) | Geraldine Arbogast Rasheli | 2016 |  | 38 |
+| 373 | [Dynamic Procurement under Uncertainty: Optimal Design and Implications...](https://doi.org/10.1257/aer.20150275) | Malin Arve; David Martimort | 2016 | American Economic Review | 36 |
+| 374 | [Mitigating Mistrust? Participation and Expertise in Hydraulic Fracturi...](https://doi.org/10.1111/ropr.12201) | Kate J. Neville; Erika Weinthal | 2016 | Review of Policy Research | 33 |
 | 375 | [Firms Political Connections and Winning Government Contracts](https://doi.org/10.5539/ijef.v8n2p19) | Saidatou Dicko | 2016 | International Journal of Econo... | 23 |
 | 376 | [Construction insolvency in Australia: reining in the beast](https://doi.org/10.5130/ajceb.v16i3.5113) | Jeremy Coggins; Bianca Teng; Raufdeen Ra... | 2016 | Construction Economics and Bui... | 21 |
 | 377 | [Nigeria’s Public Procurement Law- Puissant Issues and Projected Amendm...](https://openalex.org/W2462959145) | Samuel Olusola Olatunji; Timothy O. Olaw... | 2016 | Research Output (Edinburgh Nap... | 20 |

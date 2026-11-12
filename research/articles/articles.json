@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11T17:33:21.544432",
+    "last_updated": "2026-11-12T17:47:44.029106",
     "total_articles": 737,
-    "last_search_date": "2026-11-11"
+    "last_search_date": "2026-11-12"
   },
   "articles": [
     {
@@ -2772,7 +2772,7 @@
       "abstract": null,
       "doi": "10.1108/IJPSM-10-2015-0173",
       "url": "https://www.semanticscholar.org/paper/d1913d60fd15326feda06b0cd903e0236731e51a",
-      "citation_count": 28,
+      "citation_count": 38,
       "search_query": "transaction cost economics government contracts",
       "source": "semantic_scholar",
       "date_found": "2026-02-09T07:00:39.380911"
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 305,
+      "citation_count": 306,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -10317,7 +10317,7 @@
       "abstract": "Blood or marrow transplantation (BMT) outcomes using haploidentical donors (Haplo) and posttransplant cyclophosphamide (PTCy)-based graft-versus-host disease (GVHD) prophylaxis compare favorably to HLA-matched donors using calcineurin inhibitor-based prophylaxis. A recent Center for International Blood and Marrow Transplant Research analysis of patients receiving homogenous PTCy-based prophylaxis found that, with reduced intensity conditioning, Haplo BMTs had worse outcomes than matched unrelated donor (MUD) BMTs. Due to significant differences between groups, we reanalyzed the dataset using propensity score matching and, additionally, added a donor age variable. After matching MUD BMTs to Haplo BMTs in a 1:5 ratio, no significant differences were found between groups across all measured baseline characteristics. Outcomes analyses demonstrated no significant differences in overall survival (hazard ratio [HR] of mortality with MUD vs Haplo [95% confidence interval], 0.95 [0.65-1.16], P = .75), disease-free survival (HR of relapse or death, 0.98 [0.73-1.18], P = .89), relapse rate (HR, 1.06 [0.77-1.38], P = .69), or nonrelapse mortality (NRM) (HR, 0.85 [0.42-1.13], P = .49) between groups. After stratification by conditioning intensity, MUD BMTs in the reduced-intensity cohort had lower risk of NRM (HR, 0.56 [0.14-0.99], P = .05), with no significant difference in other clinical outcomes. These results suggest the effect of HLA matching on BMT outcomes with PTCy is less meaningful than previously reported. Timely identification of a young, at least half-matched (related or unrelated) donor may be more important than finding a fully matched donor if the latter leads to a delay in BMT or use of an older donor.",
       "doi": "https://doi.org/10.1182/bloodadvances.2022007741",
       "url": "https://openalex.org/W4281556011",
-      "citation_count": 37,
+      "citation_count": 38,
       "source": "openalex",
       "id": "d271e82294f0e2548d35a23af7017fb6",
       "date_found": "2026-11-11T17:33:21.044241",
