@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**737 total articles** in the database | Last updated: November 12, 2026
+**737 total articles** in the database | Last updated: November 13, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -129,8 +129,8 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 109 | [A comprehensive AI policy education framework for university teaching ...](https://doi.org/10.1186/s41239-023-00408-3) | Cecilia Ka Yuk Chan | 2023 | International Journal of Educa... | 1,478 |
 | 110 | [Assessing COVID-19 pandemic policies and behaviours and their economic...](https://doi.org/10.1016/s0140-6736(23)00461-0) | Thomas J. Bollyky; Emma Castro; Aleksand... | 2023 | The Lancet | 154 |
 | 111 | [Transformative Procurement Trends: Integrating Industry 4.0 Technologi...](https://doi.org/10.3390/logistics7030063) | Areej Althabatah; Mohammed Yaqot; Brenno... | 2023 | Logistics | 108 |
-| 112 | [Discretion and Favoritism in Public Procurement](https://doi.org/10.1093/jeea/jvad017) | Ferenc Szücs | 2023 | Journal of the European Econom... | 86 |
-| 113 | [The Impact of Open Data on Public Procurement](https://doi.org/10.1111/1475-679x.12479) | Raphael Duguay; Thomas Rauter; Delphine ... | 2023 | Journal of Accounting Research | 86 |
+| 112 | [Discretion and Favoritism in Public Procurement](https://doi.org/10.1093/jeea/jvad017) | Ferenc Szücs | 2023 | Journal of the European Econom... | 87 |
+| 113 | [The Impact of Open Data on Public Procurement](https://doi.org/10.1111/1475-679x.12479) | Raphael Duguay; Thomas Rauter; Delphine ... | 2023 | Journal of Accounting Research | 87 |
 | 114 | [Transparency and E-Government in Electronic Public Procurement as Sust...](https://doi.org/10.3390/su15054672) | Jorge Hochstetter; Felipe Vásquez; Mauri... | 2023 | Sustainability | 63 |
 | 115 | [Repurposing ketamine to treat cocaine use disorder: integration of art...](https://doi.org/10.1111/add.16168) | Zhenxiang Gao; Theresa Winhusen; Maria P... | 2023 | Addiction | 38 |
 | 116 | [The role of political connection to moderate board size, woman on boar...](https://doi.org/10.1080/23311975.2022.2156704) | Dian Anita Nuswantara; Fachruzzaman; Ris... | 2023 | Cogent Business & Management | 33 |
@@ -226,7 +226,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 206 | [Iraq ∙ Conflicts, Protests and Bad Management: Is There a Way Out for ...](https://doi.org/10.21552/epppl/2021/3/14) | M. Al Jabori | 2021 | European Procurement & Public ... | 0 |
 | 207 | [A SARS-CoV-2 protein interaction map reveals targets for drug repurpos...](https://doi.org/10.1038/s41586-020-2286-9) | David E. Gordon; Gwendolyn Μ. Jang; Mehd... | 2020 | Nature | 4,856 |
 | 208 | [A strategic framework for artificial intelligence in marketing](https://doi.org/10.1007/s11747-020-00749-9) | Ming‐Hui Huang; Roland T. Rust | 2020 | Journal of the Academy of Mark... | 1,934 |
-| 209 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 306 |
+| 209 | [Public Procurement in Law and Practice](https://doi.org/10.1257/aer.20200738) | Erica Bosio; Simeon Djankov; Edward L. G... | 2020 | American Economic Review | 307 |
 | 210 | [Impacts of a national lockdown on smallholder farmers’ income and food...](https://doi.org/10.1016/j.worlddev.2020.105069) | Francisco Ceballos; Samyuktha Kannan; Be... | 2020 | World Development | 265 |
 | 211 | [Famotidine Use Is Associated With Improved Clinical Outcomes in Hospit...](https://doi.org/10.1053/j.gastro.2020.05.053) | Daniel E. Freedberg; Joseph Conigliaro; ... | 2020 | Gastroenterology | 261 |
 | 212 | [Oxygenated versus standard cold perfusion preservation in kidney trans...](https://doi.org/10.1016/s0140-6736(20)32411-9) | Ina Jochmans; Aukje Brat; Lucy Davies; H... | 2020 | The Lancet | 189 |
@@ -392,7 +392,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 372 | [Procurement contract management in the local government authorities (L...](https://doi.org/10.1108/IJPSM-10-2015-0173) | Geraldine Arbogast Rasheli | 2016 |  | 38 |
 | 373 | [Dynamic Procurement under Uncertainty: Optimal Design and Implications...](https://doi.org/10.1257/aer.20150275) | Malin Arve; David Martimort | 2016 | American Economic Review | 36 |
 | 374 | [Mitigating Mistrust? Participation and Expertise in Hydraulic Fracturi...](https://doi.org/10.1111/ropr.12201) | Kate J. Neville; Erika Weinthal | 2016 | Review of Policy Research | 33 |
-| 375 | [Firms Political Connections and Winning Government Contracts](https://doi.org/10.5539/ijef.v8n2p19) | Saidatou Dicko | 2016 | International Journal of Econo... | 23 |
+| 375 | [Firms Political Connections and Winning Government Contracts](https://doi.org/10.5539/ijef.v8n2p19) | Saidatou Dicko | 2016 | International Journal of Econo... | 24 |
 | 376 | [Construction insolvency in Australia: reining in the beast](https://doi.org/10.5130/ajceb.v16i3.5113) | Jeremy Coggins; Bianca Teng; Raufdeen Ra... | 2016 | Construction Economics and Bui... | 21 |
 | 377 | [Nigeria’s Public Procurement Law- Puissant Issues and Projected Amendm...](https://openalex.org/W2462959145) | Samuel Olusola Olatunji; Timothy O. Olaw... | 2016 | Research Output (Edinburgh Nap... | 20 |
 | 378 | [Measures of Ensuring Value for Money in Public Procurement: A Case of ...](https://openalex.org/W2296882793) | Evelyn Nsiah Asare; Kwadwo Boateng Premp... | 2016 |  | 16 |
@@ -458,7 +458,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 438 | [Enhancing the Effectiveness of the Public Procurement System of Iraq T...](https://openalex.org/W47633110) | Ali Rahman | 2014 | bepress Legal Repository | 0 |
 | 439 | [Advancing the Charter School Movement in Illinois through Charter Scho...](https://openalex.org/W282124334) | Joseph A. Giambrone | 2014 | Digital Commons-DePaul  (DePau... | 0 |
 | 440 | [Three Essays on Contract Renegotiation](https://openalex.org/W3172841332) | Hojin Jung | 2014 | SHAREOK (University of Oklahom... | 0 |
-| 441 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 924 |
+| 441 | [Politically Connected Boards of Directors and The Allocation of Procur...](https://doi.org/10.1093/rof/rfs039) | Eitan Goldman; Jörg Rocholl; Jongil So | 2013 | European Finance Review | 925 |
 | 442 | [Policy instruments for public procurement of innovation: Choice, desig...](https://doi.org/10.1016/j.techfore.2013.09.018) | Luke Georghiou; Jakob Edler; Elvira Uyar... | 2013 | Technological Forecasting and ... | 359 |
 | 443 | [Tender evaluation and supplier selection methods in public procurement](https://doi.org/10.1016/j.pursup.2013.02.003) | Mats Bergman; Sofia Lundberg | 2013 | Journal of Purchasing and Supp... | 205 |
 | 444 | [Ecosystem-Service Tradeoffs Associated with Switching from Annual to P...](https://doi.org/10.1371/journal.pone.0080093) | Timothy D. Meehan; Claudio Gratton; Eric... | 2013 | PLoS ONE | 105 |

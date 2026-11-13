@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-12T17:47:44.029106",
+    "last_updated": "2026-11-13T17:25:59.986935",
     "total_articles": 737,
-    "last_search_date": "2026-11-12"
+    "last_search_date": "2026-11-13"
   },
   "articles": [
     {
@@ -3346,7 +3346,7 @@
       "abstract": "Abstract This article analyzes whether political connections of the board of directors of publicly traded companies in the USA affect the allocation of government procurement contracts. It focuses on the change in control of both House and Senate following the 1994 election and finds that companies with boards connected to the winning (losing) party experience a significant and large increase (decrease) in procurement contracts after the election. The results remain significant after controlling for industry classifications as well as for several other company characteristics. The findings highlight one of the main avenues through which corporate political connections add value to US companies.",
       "doi": "https://doi.org/10.1093/rof/rfs039",
       "url": "https://openalex.org/W3122199437",
-      "citation_count": 924,
+      "citation_count": 925,
       "search_query": "post-award cost growth government contracts",
       "source": "openalex",
       "date_found": "2026-02-08T13:17:53.850514"
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 86,
+      "citation_count": 87,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -8231,7 +8231,7 @@
       "abstract": "ABSTRACT We examine how open procurement data affect the competitiveness of award procedures and the execution of government contracts. The European Union recently made its historical procurement notices available for bulk download in a cohesive and user‐friendly database. Comparing government contracts above and below EU procurement size thresholds, we find that, after the open data initiative, procurement officials are more likely to award treated contracts through open bidding. In cross‐sectional analyses, we document variation in the open bidding effect consistent with two underlying mechanisms: (1) increased scrutiny by NGOs and investigative journalists and (2) learning by national procurement regulators. However, treated contracts are also more likely to experience costly modifications because the shift to open bidding introduces rigidity that limits officials’ discretion in selecting suppliers based on private information. Overall, our evidence indicates that open procurement data promote competitive bidding but lead to contracts with weaker execution performance. These inferences also hold in an alternative open data setting.",
       "doi": "https://doi.org/10.1111/1475-679x.12479",
       "url": "https://openalex.org/W4362555485",
-      "citation_count": 86,
+      "citation_count": 87,
       "source": "openalex",
       "id": "a41c3f18db831da4264f37109db12d5b",
       "date_found": "2026-08-19T10:18:25.362152",
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 306,
+      "citation_count": 307,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -9645,7 +9645,7 @@
       "abstract": "This study investigates the impact of political connections on the awarding of government contracts to Canadian companies. Two-stage least squares (2SLS) analyses were performed on a sample of S&P/TSX companies from 2010 to 2014 inclusively. The results show that political connections are positively and significantly associated with the winning of government contracts. Politically connected firms obtain more government contracts and higher contract values than non-connected firms. Political connections thus appear to be directly associated with securing government contracts in the Canadian context. Firms can view political connections as a non-market, long-term strategy to help them gain competitive advantages and improve their performance. Accordingly, they tend to appoint directors and managers taking these connections and the advantages that can be gained into account. However, they must seriously consider the cost-benefit ratio of this strategy. For example, the costs incurred could be ethical in nature and firms could find themselves in a position of conflict of interest that could lead to extensive negative media exposure. These results alert regulatory and governmental organizations to the need for them to remain vigilant and to strengthen corporate governance regulations to prevent the excesses and abuses that could arise from firms’ political actions. Our study is the first to demonstrate a direct relationship between corporate political connections and government contracts in the Canadian context. The results confirm the growing interdependence between politics and business, particularly the increase in the number of corporate actions intended to influence government decisions.",
       "doi": "https://doi.org/10.5539/ijef.v8n2p19",
       "url": "https://openalex.org/W2261590623",
-      "citation_count": 23,
+      "citation_count": 24,
       "source": "openalex",
       "id": "50a4865966413d2b4b5aa11000eff1b5",
       "date_found": "2026-10-03T14:27:57.806969",
