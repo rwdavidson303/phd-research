@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-13T17:25:59.986935",
-    "total_articles": 737,
-    "last_search_date": "2026-11-13"
+    "last_updated": "2026-11-14T16:15:01.581906",
+    "total_articles": 742,
+    "last_search_date": "2026-11-14"
   },
   "articles": [
     {
@@ -1946,7 +1946,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1007/s10961-019-09716-1",
       "url": "https://openalex.org/W2918014923",
-      "citation_count": 41,
+      "citation_count": 55,
       "search_query": "competition public procurement innovation",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:04.513760"
@@ -5655,7 +5655,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.enpol.2020.111768",
       "url": "https://openalex.org/W3053287863",
-      "citation_count": 34,
+      "citation_count": 35,
       "source": "openalex",
       "id": "480a57a9a980020cc48c2a310133edbd",
       "date_found": "2026-03-11T10:30:00.942433",
@@ -8231,7 +8231,7 @@
       "abstract": "ABSTRACT We examine how open procurement data affect the competitiveness of award procedures and the execution of government contracts. The European Union recently made its historical procurement notices available for bulk download in a cohesive and user‐friendly database. Comparing government contracts above and below EU procurement size thresholds, we find that, after the open data initiative, procurement officials are more likely to award treated contracts through open bidding. In cross‐sectional analyses, we document variation in the open bidding effect consistent with two underlying mechanisms: (1) increased scrutiny by NGOs and investigative journalists and (2) learning by national procurement regulators. However, treated contracts are also more likely to experience costly modifications because the shift to open bidding introduces rigidity that limits officials’ discretion in selecting suppliers based on private information. Overall, our evidence indicates that open procurement data promote competitive bidding but lead to contracts with weaker execution performance. These inferences also hold in an alternative open data setting.",
       "doi": "https://doi.org/10.1111/1475-679x.12479",
       "url": "https://openalex.org/W4362555485",
-      "citation_count": 87,
+      "citation_count": 88,
       "source": "openalex",
       "id": "a41c3f18db831da4264f37109db12d5b",
       "date_found": "2026-08-19T10:18:25.362152",
@@ -9967,7 +9967,7 @@
       "abstract": "Reducing poverty and improving household food security remains an important policy objective for rural development in the semi-arid areas of many countries in Africa. Many development programs have been introduced in efforts to bring the cycle of poverty and food insecurity to an end. This paper investigates the impact of a food security package (FSP) program in improving rural household’s food consumption in Tigray region, Northern Ethiopia. An empirical analysis based on a propensity score matching (PSM) method, which is a popular approach to estimate causal treatment effects, is employed. Using kernel-matching estimation technique, program beneficiaries were matched with non-beneficiaries. The results show that the program has had a significant effect on improving household food calorie intake. The findings indicated that the program raised the food calorie intake of beneficiary households by 41.8% above that of individuals not involved in the program. Sensitivity analysis also indicated that the observed estimate of impact is not vulnerable to hidden bias or selection on unobservables. Key words: Propensity score, matching, selectivity bias, average treatment effect, impact, evaluation.",
       "doi": "https://doi.org/10.5897/jdae2014.0585",
       "url": "https://openalex.org/W2971398576",
-      "citation_count": 26,
+      "citation_count": 27,
       "source": "openalex",
       "id": "24daaedb05a125664440bacf5364d0a4",
       "date_found": "2026-10-03T14:28:01.282026",
@@ -10322,6 +10322,76 @@
       "id": "d271e82294f0e2548d35a23af7017fb6",
       "date_found": "2026-11-11T17:33:21.044241",
       "search_query": "propensity score matching public administration"
+    },
+    {
+      "title": "An ADPE protest primer : lessons learned from GSBCA protest decisions.",
+      "authors": "Dennis R. Grimes",
+      "year": 1991,
+      "journal": "Defense Technical Information Center (DTIC)",
+      "abstract": "The General Services Administration's Board of Contract Appeals (GSBCA) is a significant venue for Federal Automated Data Processing Equipment (ADPE) protests. Since the GSBCA was granted jurisdiction over Brooks Act ADPE procurements in 1985, over 1,200 decisions have been rendered. Developing lessons learned from these protest decisions will benefit Federal ADPE managers by increasing awareness of the protest process. The highly complex Federal ADPE acquisition process is governed by numerous statutes and regulations. This study also discusses the pertinent statutory background of the protest process, as well as the protest process itself General lessons learned are presented in areas such as acquisition phases most likely to sustain protests and the amount of processing time expected for protest actions. Specific lessons learned pertaining to GSBCA jurisdiction, timeliness of protests, and evaluation/ selection of offers are also presented. The study is intended to serve as a sound overview of the protest process, its mechanics, and lessons learned form over 200 significant GSBCA decisions. The primer is intended to serve as an introductory document for the new Federal ADPE manager. ADPE Protests, Protests, GSBCA, Information systems, ADPE Procurement",
+      "doi": null,
+      "url": "https://openalex.org/W1927121547",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "fdd3aa02fe33e999f4b04d3d6c1a7826",
+      "date_found": "2026-11-14T16:14:48.746508",
+      "search_query": "GAO bid protest outcomes"
+    },
+    {
+      "title": "Achieving Quality in Procurement through Automation",
+      "authors": "Walter W. Jacunski",
+      "year": 1990,
+      "journal": "Defense Technical Information Center (DTIC)",
+      "abstract": "Department of Defense has mandated that TQM be implemented in procurement. This research looks at achieving quality in procurement through the use of information systems. In doing so, it defines what quality in procurement means. The armed services; three automated systems: APADE, BCAS, and SAACONS are analyzed to see what tools they provide users to aid them in achieving procurement quality. It gives suggestions on how information systems could better be used to attain procurement quality.",
+      "doi": null,
+      "url": "https://openalex.org/W1582917599",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "5613ca796b3e6eda06e12baed0e9eeaf",
+      "date_found": "2026-11-14T16:14:51.326441",
+      "search_query": "procurement administrative lead time PALT"
+    },
+    {
+      "title": "Improving software quality and management through use of service level agreements",
+      "authors": "Leonard T. Gaines",
+      "year": 2005,
+      "journal": "",
+      "abstract": "In this dissertation we explore the use of service level agreements (SLAs) to improve the quality and management of software intensive systems. SLAs are typically used in outsourcing contracts for post-production support. We propose that SLAs be used in software acquisition to support quality and process control throughout the lifecycle (requirements engineering through post-production support) of a software-intensive system. The hypothesis was tested using two methodologies. The first method explained how SLAs could be used throughout a system's lifecycle to improve software quality. This concept was validated by a survey of IT professionals. The results of the survey indicated that practitioners in the IT field felt that SLAs could be used to improve overall quality in the development effort and in the end product. The second approach was to develop actual SLAs for a specific lifecycle phase (post-production) to illustrate the concepts of SLAs and to demonstrate their value as a quality control and management tool.",
+      "doi": null,
+      "url": "https://openalex.org/W1576235829",
+      "citation_count": 1,
+      "source": "openalex",
+      "id": "276f25731d1fac3ad1356c44aaa23b44",
+      "date_found": "2026-11-14T16:14:53.334182",
+      "search_query": "RFP requirements clarity solicitation quality"
+    },
+    {
+      "title": "A Study as to the Feasibility of the Department of Defense Mandating its Supplier Base Adopt Total Quality Management",
+      "authors": "Donald J. Reiter",
+      "year": 1989,
+      "journal": "Defense Technical Information Center (DTIC)",
+      "abstract": "The purpose of this thesis is to study the issues surrounding whether DoD can successfully mandate its supplier base adopt Total Quality Management (TQM), or an equivalent quality-oriented management philosophy. Hewlett-Packard and Motorola, Inc., two firms currently requiring their suppliers adopt a quality-focused management philosophy, were studied. The researcher determined that DoD could successfully mandate its supplier base adopt TQM provided the following infrastructure was in place and well established prior to the mandate; adequate in-house experience and expertise; comprehensive supplier training program; supplier performance tracking capability; comprehensive supplier quality audit procedure; formal joint DoD-industry TQM council; and congressional support. Keywords: Department of Defense, Theses, Personnel management.",
+      "doi": null,
+      "url": "https://openalex.org/W1537165093",
+      "citation_count": 1,
+      "source": "openalex",
+      "id": "5e4f7900cd0938887cec706f70cee5f9",
+      "date_found": "2026-11-14T16:14:53.334207",
+      "search_query": "RFP requirements clarity solicitation quality"
+    },
+    {
+      "title": "Construction contract claims and methods of avoiding contract litigation through dispute resolution alternatives.",
+      "authors": "Joseph C. Lavigne",
+      "year": 1993,
+      "journal": "",
+      "abstract": "In recent years, construction contract claims have grown at an alarming rate. It has become increasingly more difficult for contracting parties to achieve bilateral agreements in an equitable, effective and timely manner (6). Litigating disputes is being abused as a cure-all means within the construction industry, generating a disproportionate growth in court cases. Relaying on the legal system to judge and resolve a contractual problem is counterproductive to getting the job done. It is also an extremely time consuming and expensive undertaking for all parties. Therefore, it behooves every contracting party to strive for timely completion of the work. Resolving differences `%in-house\" when possible and avoiding litigation at all cost is a worthwhile endeavor. This can be accomplished through cooperation, meaningful, open-minded negotiations and a team approach to managing the contract execution. The purpose of this research paper is to investigate the reasons behind the increasing trend toward adversarial contract relationships and claims. It also looks at possible disputes resolution techniques that can be used to short circuit the costly and exhaustive path to litigation.",
+      "doi": null,
+      "url": "https://openalex.org/W1508856140",
+      "citation_count": 3,
+      "source": "openalex",
+      "id": "15eae3d3fcee8c664bd5bd11ad8ae9b3",
+      "date_found": "2026-11-14T16:14:55.171563",
+      "search_query": "strategic underbidding government contracts"
     }
   ]
 }
