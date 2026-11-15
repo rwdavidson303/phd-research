@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**742 total articles** in the database | Last updated: November 14, 2026
+**742 total articles** in the database | Last updated: November 15, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -93,12 +93,12 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 73 | [Global burden and strength of evidence for 88 risk factors in 204 coun...](https://doi.org/10.1016/s0140-6736(24)00933-4) | Michael Bräuer; Gregory A. Roth; Aleksan... | 2024 | The Lancet | 2,158 |
 | 74 | [Biomaterials technology and policies in the building sector: a review](https://doi.org/10.1007/s10311-023-01689-w) | Lin Chen; Yubing Zhang; Zhonghao Chen; Y... | 2024 | Environmental Chemistry Letter... | 182 |
 | 75 | [Can propensity score matching replace randomized controlled trials?](https://doi.org/10.5662/wjm.v14.i1.90590) | Matthias Yi Quan Liau; En Qi Toh; Shamir... | 2024 | World Journal of Methodology | 34 |
-| 76 | [Rules, Discretion, and Corruption in Procurement: Evidence from Italia...](https://doi.org/10.1086/732654) | Francesco Decarolis; Raymond J. Fisman; ... | 2024 | Journal of Political Economy M... | 33 |
+| 76 | [Rules, Discretion, and Corruption in Procurement: Evidence from Italia...](https://doi.org/10.1086/732654) | Francesco Decarolis; Raymond J. Fisman; ... | 2024 | Journal of Political Economy M... | 34 |
 | 77 | [The roles and dynamics of transition intermediaries in enabling sustai...](https://doi.org/10.1007/s10460-024-10562-7) | Daniel Gaitán‐Cremaschi; Diego Valbuena;... | 2024 | Agriculture and Human Values | 28 |
 | 78 | [Discretion and public procurement outcomes in Europe*](https://doi.org/10.1016/j.ejpoleco.2024.102525) | Bernard M. Hoekman; Bedri Kamil Onur Taş | 2024 | European Journal of Political ... | 27 |
 | 79 | [A lifecycle analysis of complex public procurement: an agency-institut...](https://doi.org/10.1108/ijopm-07-2023-0608) | Rick Forster; Andrew Charles Lyons; Nige... | 2024 | International Journal of Opera... | 21 |
 | 80 | [Exploring value creation from an ecosystem perspective: A critical exa...](https://doi.org/10.1080/09540962.2024.2355995) | Michael J. Roy; Anna Spiesova; Maeve Cur... | 2024 | Public Money & Management | 16 |
-| 81 | [The political economy of public procurement in Ukraine](https://doi.org/10.1332/25156918y2024d000000005) | Jennifer Brick Murtazashvili; Tymofiy My... | 2024 | Journal of Public Finance and ... | 15 |
+| 81 | [The political economy of public procurement in Ukraine](https://doi.org/10.1332/25156918y2024d000000005) | Jennifer Brick Murtazashvili; Tymofiy My... | 2024 | Journal of Public Finance and ... | 16 |
 | 82 | [Impact of National Centralized Drug Procurement policy on chemical pha...](https://doi.org/10.3389/fpubh.2024.1402581) | Jiaming Li; Xinyue Zhang; Rui Wang; Keya... | 2024 | Frontiers in Public Health | 10 |
 | 83 | [Incumbent responses to anticipated discontinuous regulatory change: Th...](https://doi.org/10.1016/j.jclepro.2024.144109) | Maximilian Hettler; Lorenz Graf‐Vlachy | 2024 | Journal of Cleaner Production | 8 |
 | 84 | [Assessing the Decision-Making Capabilities of Artificial Intelligence ...](https://doi.org/10.1177/15562646241263200) | K. Sridharan; G. Sivaramakrishnan | 2024 | Journal of Empirical Research ... | 7 |
@@ -135,7 +135,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 115 | [Repurposing ketamine to treat cocaine use disorder: integration of art...](https://doi.org/10.1111/add.16168) | Zhenxiang Gao; Theresa Winhusen; Maria P... | 2023 | Addiction | 38 |
 | 116 | [The role of political connection to moderate board size, woman on boar...](https://doi.org/10.1080/23311975.2022.2156704) | Dian Anita Nuswantara; Fachruzzaman; Ris... | 2023 | Cogent Business & Management | 33 |
 | 117 | [Medication Nonadherence and Risk of Violence to Others Among Patients ...](https://doi.org/10.1001/jamanetworkopen.2023.5891) | Yang Li; Wen Hong; Chaoxinyu Xiong; Chun... | 2023 | JAMA Network Open | 26 |
-| 118 | [Does China’s centralized volume-based drug procurement policy facilita...](https://doi.org/10.3389/fphar.2023.1192423) | Yang Gu; Qian Zhuang | 2023 | Frontiers in Pharmacology | 23 |
+| 118 | [Does China’s centralized volume-based drug procurement policy facilita...](https://doi.org/10.3389/fphar.2023.1192423) | Yang Gu; Qian Zhuang | 2023 | Frontiers in Pharmacology | 24 |
 | 119 | [Multi-criteria decision making in evaluation of open government data i...](https://doi.org/10.3934/math.2023936) | Gülay Demir; Muhammad Riaz; Yahya Almalk... | 2023 | AIMS Mathematics | 20 |
 | 120 | [Value for money in public procurement: Experience from Zimbabwe’s rura...](https://doi.org/10.1080/23311886.2023.2244746) | David Chikwere; Lovemore Chikazhe; Maria... | 2023 | Cogent Social Sciences | 20 |
 | 121 | [From the editor – Governments as buyers: the international business im...](https://doi.org/10.1057/s42214-023-00174-z) | Ari Van Assche; Ali Arsalan Pasha; Lucia... | 2023 | Journal of International Busin... | 18 |
@@ -173,7 +173,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 153 | [Market dialogue in public procurement: Buyer-supplier interfaces and r...](https://doi.org/10.1016/j.indmarman.2022.04.004) | Anne-Maria Holma; Maren Wiktorin Østense... | 2022 | Industrial Marketing Managemen... | 44 |
 | 154 | [HLA-matching with PTCy: a reanalysis of a CIBMTR dataset with propensi...](https://doi.org/10.1182/bloodadvances.2022007741) | Alexander Joseph Ambinder; Tania Jain; H... | 2022 | Blood Advances | 38 |
 | 155 | [Academic research on renewable electricity auctions: Taking stock and ...](https://doi.org/10.1016/j.enpol.2022.113305) | Pablo del Rı́o; Christoph P. Kiefer | 2022 | Energy Policy | 36 |
-| 156 | [Can the Profitability of Medical Enterprises Be Improved After Joining...](https://doi.org/10.3389/fpubh.2021.809453) | Yu-Fei Hua; Jin Lu; Bing Bai; Zhao Han-q... | 2022 | Frontiers in Public Health | 26 |
+| 156 | [Can the Profitability of Medical Enterprises Be Improved After Joining...](https://doi.org/10.3389/fpubh.2021.809453) | Yu-Fei Hua; Jin Lu; Bing Bai; Zhao Han-q... | 2022 | Frontiers in Public Health | 27 |
 | 157 | [The Effect of E-Procurement Policy on Corruption in Government Procure...](https://doi.org/10.1080/01900692.2022.2093900) | Anastasia Citra Puspita; Yohanna M. L. G... | 2022 | International Journal of Publi... | 24 |
 | 158 | [Blurred Lines: Exploring the Impact of Change Complexity on Role Clari...](https://doi.org/10.1177/0734371X221093573) | Stéphanie Verlinden; J. Wynen; Bjorn Kle... | 2022 | Review of Public Personnel Adm... | 24 |
 | 159 | [The impact of national centralized drug procurement on health expendit...](https://doi.org/10.3389/fpubh.2022.956823) | Yuanjin Zhang; Yan Ren; Q. Zheng; Jing T... | 2022 | Frontiers in Public Health | 20 |
@@ -241,7 +241,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 221 | [Functional procurement for innovation, welfare, and the environment](https://doi.org/10.1093/scipol/scaa046) | Charles Edquist; Jon Mikel Zabala‐Iturri... | 2020 | Science and Public Policy | 70 |
 | 222 | [Dynamic capabilities for SME participation in public procurement](https://doi.org/10.1108/bpmj-10-2019-0447) | Temidayo O. Akenroye; JD Owens; Jamal El... | 2020 | Business Process Management Jo... | 68 |
 | 223 | [Public procurement as a vehicle of innovation – What does the inverted...](https://doi.org/10.1016/j.techfore.2020.119922) | Timo Tammi; Jani Saastamoinen; Helen Rei... | 2020 | Technological Forecasting and ... | 66 |
-| 224 | [The Urgent Need for Transparent and Accountable Procurement of Medicin...](https://doi.org/10.1186/s40545-020-00256-w) | Jillian Clare Köhler; Tom Wright | 2020 | Journal of Pharmaceutical Poli... | 64 |
+| 224 | [The Urgent Need for Transparent and Accountable Procurement of Medicin...](https://doi.org/10.1186/s40545-020-00256-w) | Jillian Clare Köhler; Tom Wright | 2020 | Journal of Pharmaceutical Poli... | 65 |
 | 225 | [Supporting robust, rigorous, and reliable reviewing as the cornerstone...](https://doi.org/10.1017/iop.2019.121) | Tine Köhler; M. Gloria González‐Morales;... | 2020 | Industrial and Organizational ... | 58 |
 | 226 | [The impact of social capital on economic attitudes and outcomes](https://doi.org/10.1016/j.jimonfin.2020.102162) | Iftekhar Hasan; Qing He; Haitian Lu | 2020 | Journal of International Money... | 51 |
 | 227 | [Corruption and the Network Structure of Public Contracting Markets acr...](https://doi.org/10.17645/pag.v8i2.2707) | Mihály Fazekas; Johannes Wachs | 2020 | Politics and Governance | 47 |
@@ -410,7 +410,7 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 390 | [Connecting demand and supply: The role of intermediation in public pro...](https://doi.org/10.1016/j.respol.2015.10.010) | Jakob Edler; Jillian Yeow | 2015 | Research Policy | 266 |
 | 391 | [Local Governments Supporting Local Energy Initiatives: Lessons from th...](https://doi.org/10.3390/su7021900) | Thomas Hoppe; Antonia Graf; Beau Warbroe... | 2015 | Sustainability | 218 |
 | 392 | [Infrastructure Public–Private Partnerships in the Developing World: Le...](https://doi.org/10.1080/00220388.2014.959935) | Michael J. Trebilcock; Michael Rosenstoc... | 2015 | The Journal of Development Stu... | 153 |
-| 393 | [COMMUTING TIME AND HOUSEHOLD RESPONSIBILITIES: EVIDENCE USING PROPENSI...](https://doi.org/10.1111/jors.12243) | J. Ignacio Giménez-Nadal; José Alberto M... | 2015 | Journal of Regional Science | 146 |
+| 393 | [COMMUTING TIME AND HOUSEHOLD RESPONSIBILITIES: EVIDENCE USING PROPENSI...](https://doi.org/10.1111/jors.12243) | J. Ignacio Giménez-Nadal; José Alberto M... | 2015 | Journal of Regional Science | 147 |
 | 394 | [Food Sovereignty and F ome Z ero: Connecting Public Food Procurement P...](https://doi.org/10.1111/joac.12131) | Hannah Wittman; Jennifer Blesh | 2015 | Journal of Agrarian Change | 137 |
 | 395 | [The supply-side of corruption and limits to preventing corruption with...](https://doi.org/10.1016/j.cpa.2015.01.008) | Prem Sikka; Glen Lehman | 2015 | Critical Perspectives on Accou... | 108 |
 | 396 | [DETERMINANTS OF TRANSACTION COSTS IN CONSTRUCTION PROJECTS](https://doi.org/10.3846/13923730.2014.897973) | Huimin Li; David Arditi; Zhuofu Wang | 2015 | Journal of Civil Engineering a... | 55 |

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14T16:15:01.581906",
+    "last_updated": "2026-11-15T16:42:07.597367",
     "total_articles": 742,
-    "last_search_date": "2026-11-14"
+    "last_search_date": "2026-11-15"
   },
   "articles": [
     {
@@ -882,7 +882,7 @@
       "abstract": "Introduction: The normalized implementation of the centralized volume-based procurement policy for pharmaceuticals is a concerted push for supply-side structural reform of the pharmaceutical industry in China. The impact of the centralized drug procurement policy on pharmaceutical companies' transition from imitation to innovation is investigated to test whether a positive effect occurs in the innovation landscape of the pharmaceutical market. Methods: The double difference method and a series of robustness tests were used based on data from a sample of listed pharmaceutical companies in Shanghai and Shenzhen A-shares between 2015 and 2021. Results: The study found that the centralized drug procurement policy significantly contributed to the increased intensity of innovation input in the Chinese pharmaceutical industry. In terms of regional and firm nature heterogeneity, it was found that firms in the seven provinces belonging to the three economic regions had a better increase in innovation input intensity than other regions. Firms of state-owned nature had a better increase in innovation input intensity than private companies. The mechanism test found a partial mediating effect of nearly 10% for the cost of sales rate on the innovation input intensity of listed companies and a negative mediating effect on corporate operating profit. Discussion: Further research found that the effect of centralized drug procurement policy on the improvement of innovation quality of listed pharmaceutical companies was evident. The innovation development of Chinese pharmaceutical companies no longer focused on the accumulation of innovation quantity.",
       "doi": "https://doi.org/10.3389/fphar.2023.1192423",
       "url": "https://openalex.org/W4378903464",
-      "citation_count": 23,
+      "citation_count": 24,
       "search_query": "difference-in-differences procurement policy",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:09.973094"
@@ -6663,7 +6663,7 @@
       "abstract": "The COVID-19 pandemic has unleashed unprecedented and complex public policy issues. One that has emerged as a challenge for many countries globally is how to ensure the efficient and effective procurement of quality medical supplies. Existing corruption pressures on procurement-everything from undue influence to the outright bribery of public officials-has been amplified by the pandemic, and thus demands commensurate policy responses. We argue that transparency and accountability in procurement are essential to preventing the corruption risks that threaten the health and well-being of populations.",
       "doi": "https://doi.org/10.1186/s40545-020-00256-w",
       "url": "https://openalex.org/W3085108930",
-      "citation_count": 64,
+      "citation_count": 65,
       "source": "openalex",
       "id": "28663666190ea6241565d8474a9e7909",
       "date_found": "2026-06-09T12:30:19.597674",
@@ -8693,7 +8693,7 @@
       "abstract": "ABSTRACT We examine the relationship between individual commuting behavior and household responsibilities, with a focus on gender differences in that relationship. Using the Dutch Time Use Survey for the years 2000 and 2005, we analyze the relationship between commuting time, home production, and childcare. To deal with reverse causality, we use Propenstity Score Matching techniques to obtain imputed data for individuals. We find that the effect of home production on commuting time for women is more than double that for men, while childcare time has an effect on women's commuting behavior only. Our results shedding light on the Household Responsibility Hypothesis.",
       "doi": "https://doi.org/10.1111/jors.12243",
       "url": "https://openalex.org/W2119844923",
-      "citation_count": 146,
+      "citation_count": 147,
       "source": "openalex",
       "id": "3be009f5f028e988f6208402d15a0018",
       "date_found": "2026-09-29T16:14:42.226382",
@@ -8833,7 +8833,7 @@
       "abstract": "This article links Ukraine’s response to Russia’s unprovoked invasion in February 2022 to institutional reforms in the decade before the current war. After the Revolution of Dignity in 2014, Ukrainian civil society, business, and government jointly established an institutional framework to monitor public procurement. The problem of devising institutions to monitor behavior on an ongoing basis is not generally solved through constitutional reforms and revolutions. Public procurement reforms contributed to a culture of coproduction of monitoring that has persisted even when pressure was exerted on open government after Russia’s full-scale invasion. The reforms implemented after the Revolution of Dignity created a robust institutional framework to scale up institutions to monitor public procurement during Ukraine’s ongoing reconstruction effort.",
       "doi": "https://doi.org/10.1332/25156918y2024d000000005",
       "url": "https://openalex.org/W4391617940",
-      "citation_count": 15,
+      "citation_count": 16,
       "source": "openalex",
       "id": "204a1e25e39f5ec1cf9ba9da5f3d4a6d",
       "date_found": "2026-10-03T14:27:44.952301",
@@ -9855,7 +9855,7 @@
       "abstract": "This paper explores the impact of joining centralized drug procurement of China on the profitability of medical enterprises by the difference-in-difference (DID) model. When centralized procurement cannot bring enough cost savings to enterprises, the price competition caused by centralized procurement will lead to the decline of enterprise profits. In the short term, the negative impact of China's drug centralized procurement policy on the net profit of enterprises is not obvious in the year when enterprises win the bid. After the government officially purchases from pharmaceutical enterprises, the negative impact of the drug centralized procurement policy of China on the net profit of enterprises begins to appear gradually. Therefore, the generic drug manufacturers increase R&D investment and have their own heavy products of original drugs as soon as possible to enhance their core competitiveness.",
       "doi": "https://doi.org/10.3389/fpubh.2021.809453",
       "url": "https://openalex.org/W4210713505",
-      "citation_count": 26,
+      "citation_count": 27,
       "source": "openalex",
       "id": "496aedc4010eb85660737d9f4f47aa43",
       "date_found": "2026-10-03T14:28:00.347260",
@@ -10079,7 +10079,7 @@
       "abstract": "The benefits of bureaucratic discretion depend on its use for public benefit versus private gain. Using data on Italian firms and procurement officials investigated for corruption, we show that discretionary auctions (awarded on the basis of negotiation rather than open bidding) are linked to corruption only when competition is restricted. Corrupt officials favor these negotiated auctions, though they are used less often in administrations where at least one official is under investigation. This suggests that discretion enhances efficiency but also enables theft, leading monitors to limit discretion in high-corruption settings. Overall, competition helps authorities to harness discretion’s benefits while limiting its abuse.",
       "doi": "https://doi.org/10.1086/732654",
       "url": "https://openalex.org/W4401504146",
-      "citation_count": 33,
+      "citation_count": 34,
       "source": "openalex",
       "id": "941177a4b15225f582c582a99f8d2509",
       "date_found": "2026-10-09T16:42:29.979111",
