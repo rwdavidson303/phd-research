@@ -6,7 +6,7 @@ weight: 6
 
 ## Article Database
 
-**742 total articles** in the database | Last updated: November 15, 2026
+**742 total articles** in the database | Last updated: November 16, 2026
 
 Articles are discovered automatically each day through searches of OpenAlex. Click any title to read the original article.
 
@@ -60,33 +60,33 @@ Articles are discovered automatically each day through searches of OpenAlex. Cli
 | 40 | [Public Procurement Laws Under Supply Chain in Kenya](https://doi.org/10.53819/81018102t2506) | Solomon Kyalo Mutangili | 2025 | Journal of Procurement & Suppl... | 2 |
 | 41 | [From Price to Value: Implementing Best Value Procurement in the Czech ...](https://doi.org/10.3390/buildings15213981) | Petr Marvan; V. Hromádka | 2025 | Buildings | 1 |
 | 42 | [Strategic Procurement Practices and Procurement Performance of City Co...](https://doi.org/10.2139/ssrn.5153116) | Hawa Hadijah Isaack | 2025 | Social Science Research Networ... | 1 |
-| 43 | [Modernization of Indonesian Naval Fleet to Realize Asta Cita](https://doi.org/10.59141/jiss.v6i11.2082) | Deni Setiawati; Asep Iwa Soemantri; Endr... | 2025 | Jurnal Indonesia Sosial Sains | 0 |
-| 44 | [Will centralized drug procurement policy improve enterprises’ total fa...](https://doi.org/10.3389/fpubh.2025.1504342) | Xin Li; Ran Tao; Wenxue Zou; Yuning Jin | 2025 | Frontiers in Public Health | 0 |
-| 45 | [From Price to Performance: Implementing the Best Value Approach in Cze...](https://doi.org/10.3390/admsci16010005) | Jitka Matějková | 2025 | Administrative Sciences | 0 |
-| 46 | [Sustainable procurement strategies: Global case studies in trends and ...](https://doi.org/10.69554/puof2020) | Darin Matthews | 2025 | Journal of supply chain manage... | 0 |
-| 47 | [Public Procurement Principles and Value for Money in Works](https://doi.org/10.62154/ajmbr.2025.020.01035) | Emmanuel Agyekum; M. William; Kenneth As... | 2025 | African Journal of Management ... | 0 |
-| 48 | [Enhancing Efficiency, Transparency, Fairness, Competition and Obtainin...](https://doi.org/10.70670/sra.v3i1.320) | Abbas Ali; Arif Hussain; Tahir Ali; Muha... | 2025 | Social Science Review Archives | 0 |
-| 49 | [From Delay to Delivery: Tackling Time and Cost Risks in Hydropower Pro...](https://doi.org/10.22214/ijraset.2025.76218) | Dr. Sibatosh Debnath | 2025 | International Journal for Rese... | 0 |
-| 50 | [Investigating TANROADS’ Performance in Tendering and Supervision of Ro...](https://doi.org/10.62277/mjrd2025v6i30013) | Alfei Damasi; Yazid Mwishwa; D. Chengula | 2025 | Mbeya University of Science an... | 0 |
-| 51 | [Building Without Battles: Policy-backed Strategies for Preventing and ...](https://doi.org/10.36948/ijfmr.2025.v07i05.54822) | Ramesh Singh; Prof. Dr. Sunil Thakur | 2025 | International Journal For Mult... | 0 |
-| 52 | [Strengthening the Government Procurement System through Blockchain-Bas...](https://doi.org/10.52783/jisem.v10i51s.10424) | D. Aditya; Ashari; Kadek Cahya; Susila W... | 2025 | Journal of Information Systems... | 0 |
-| 53 | [Risk Sharing in Government Contracting: Strategic Alliances as Safegua...](https://doi.org/10.1177/01492063251392213) | Mirzokhidjon Abdurakhmonov; Shavin Malho... | 2025 | Journal of Management | 0 |
-| 54 | [The application of the principle of competition in public procurement](https://doi.org/10.52388/2345-1971.2024.1.04) | Oxana Postolachi; Teodor Carnat | 2025 | Supremacy of Law | 0 |
-| 55 | [Does Public Procurement Promote Markets for New Technologies? Implicat...](https://doi.org/10.1002/jsc.70017) | U. Acikalin; Mucahid Kutlu; R. Palalić; ... | 2025 | Strategic Change | 0 |
-| 56 | [Tender Awarding Practices and Procurement Performance: A Case of Homa-...](https://doi.org/10.61108/ijsshr.v3i1.178) | Winnie Akoth; W. Muturi | 2025 | International journal of socia... | 0 |
-| 57 | [Leveraging social capital for value creation in public procurement: th...](https://doi.org/10.1108/ijopm-06-2024-0524) | Iryna Malacina; Jad EL Bizri; F. G. Vos;... | 2025 | International Journal of Opera... | 0 |
-| 58 | [An exploration of social procurement intrapreneurship in the Australia...](https://doi.org/10.1108/jopp-03-2025-0013) | M. Loosemore; S. Alkilani | 2025 | Journal of Public Procurement | 0 |
-| 59 | [Procurement Ethics and Integrity Adherence: An Antidote for Procuremen...](https://doi.org/10.61586/hhhtj) | Issah Ofori; Simon Annan; Rosemary Makaf... | 2025 | Mitteilungen Klosterneuburg : ... | 0 |
-| 60 | [AI AND TRANSPARENCY IN PUBLIC PROCUREMENT: EVIDENCE FROM ALBANIA AND G...](https://doi.org/10.52320/svv.v1ix.390) | Mikel Qafa | 2025 | Studijos - verslas - visuomenė... | 0 |
-| 61 | [Role of Forensic Accounting in Enhancing the Accuracy of Procurement R...](https://doi.org/10.26710/jafee.v11i3.3443) | Onesmo Guti; Ophias Kurauone | 2025 | Journal of Accounting and Fina... | 0 |
-| 62 | [Cangrelor in Patients with Percutaneous Coronary Intervention (PCI) Af...](https://doi.org/10.54103/2282-0930/29293) | S. Bendotti; R. Primi; Luca Raone; M. Fe... | 2025 | Epidemiology Biostatistics and... | 0 |
-| 63 | [The impact of ondansetron on clinical outcomes in cranial surgery pati...](https://doi.org/10.3389/fnagi.2025.1627353) | Debo Yun; Yongzhen Luo; Rui Li; Wenyong ... | 2025 | Frontiers in Aging Neuroscienc... | 0 |
-| 64 | [The delivery modes and morbidity/mortality in very preterm infants wit...](https://doi.org/10.3389/fpubh.2025.1671581) | Haoran Wang; Xiaoming Xu; Meng Zhang; Ya... | 2025 | Frontiers in Public Health | 0 |
-| 65 | [THE ROLE OF PUBLIC PROCUREMENT MARKETING THROUGH THE PRISM OF FORMING ...](https://doi.org/10.32782/2520-2200/2025-1-22) | Hanna Telnova | 2025 | PROBLEMS OF SYSTEMIC APPROACH ... | 0 |
-| 66 | [Institute of Public Procurement in Russia in the 19th - Early 20th Cen...](https://doi.org/10.24147/1990-5173.2025.22(1).27-34) | Alexandra Plotnikova | 2025 | Herald of Omsk University Seri... | 0 |
-| 67 | [Social Aspects in National Public Procurement](https://doi.org/10.18778/2391-6478.3.47.02) | Anna Szymańska; Jarosław Szymański | 2025 | Journal of Finance and Financi... | 0 |
-| 68 | [The Protean Procurement Act](https://doi.org/10.5195/lawreview.2025.1087) | Justin Van Orsdol | 2025 | University of Pittsburgh Law R... | 0 |
-| 69 | [Fiqh Muamalah Analysis of the Government Digital Procurement System](https://doi.org/10.62265/jidef.v1i01.214) | Choirul Amirudin | 2025 | Journal of Islamic Digital Eco... | 0 |
+| 43 | [Fiqh Muamalah Analysis of the Government Digital Procurement System](https://doi.org/10.62265/jidef.v1i01.214) | Choirul Amirudin | 2025 | Journal of Islamic Digital Eco... | 1 |
+| 44 | [Modernization of Indonesian Naval Fleet to Realize Asta Cita](https://doi.org/10.59141/jiss.v6i11.2082) | Deni Setiawati; Asep Iwa Soemantri; Endr... | 2025 | Jurnal Indonesia Sosial Sains | 0 |
+| 45 | [Will centralized drug procurement policy improve enterprises’ total fa...](https://doi.org/10.3389/fpubh.2025.1504342) | Xin Li; Ran Tao; Wenxue Zou; Yuning Jin | 2025 | Frontiers in Public Health | 0 |
+| 46 | [From Price to Performance: Implementing the Best Value Approach in Cze...](https://doi.org/10.3390/admsci16010005) | Jitka Matějková | 2025 | Administrative Sciences | 0 |
+| 47 | [Sustainable procurement strategies: Global case studies in trends and ...](https://doi.org/10.69554/puof2020) | Darin Matthews | 2025 | Journal of supply chain manage... | 0 |
+| 48 | [Public Procurement Principles and Value for Money in Works](https://doi.org/10.62154/ajmbr.2025.020.01035) | Emmanuel Agyekum; M. William; Kenneth As... | 2025 | African Journal of Management ... | 0 |
+| 49 | [Enhancing Efficiency, Transparency, Fairness, Competition and Obtainin...](https://doi.org/10.70670/sra.v3i1.320) | Abbas Ali; Arif Hussain; Tahir Ali; Muha... | 2025 | Social Science Review Archives | 0 |
+| 50 | [From Delay to Delivery: Tackling Time and Cost Risks in Hydropower Pro...](https://doi.org/10.22214/ijraset.2025.76218) | Dr. Sibatosh Debnath | 2025 | International Journal for Rese... | 0 |
+| 51 | [Investigating TANROADS’ Performance in Tendering and Supervision of Ro...](https://doi.org/10.62277/mjrd2025v6i30013) | Alfei Damasi; Yazid Mwishwa; D. Chengula | 2025 | Mbeya University of Science an... | 0 |
+| 52 | [Building Without Battles: Policy-backed Strategies for Preventing and ...](https://doi.org/10.36948/ijfmr.2025.v07i05.54822) | Ramesh Singh; Prof. Dr. Sunil Thakur | 2025 | International Journal For Mult... | 0 |
+| 53 | [Strengthening the Government Procurement System through Blockchain-Bas...](https://doi.org/10.52783/jisem.v10i51s.10424) | D. Aditya; Ashari; Kadek Cahya; Susila W... | 2025 | Journal of Information Systems... | 0 |
+| 54 | [Risk Sharing in Government Contracting: Strategic Alliances as Safegua...](https://doi.org/10.1177/01492063251392213) | Mirzokhidjon Abdurakhmonov; Shavin Malho... | 2025 | Journal of Management | 0 |
+| 55 | [The application of the principle of competition in public procurement](https://doi.org/10.52388/2345-1971.2024.1.04) | Oxana Postolachi; Teodor Carnat | 2025 | Supremacy of Law | 0 |
+| 56 | [Does Public Procurement Promote Markets for New Technologies? Implicat...](https://doi.org/10.1002/jsc.70017) | U. Acikalin; Mucahid Kutlu; R. Palalić; ... | 2025 | Strategic Change | 0 |
+| 57 | [Tender Awarding Practices and Procurement Performance: A Case of Homa-...](https://doi.org/10.61108/ijsshr.v3i1.178) | Winnie Akoth; W. Muturi | 2025 | International journal of socia... | 0 |
+| 58 | [Leveraging social capital for value creation in public procurement: th...](https://doi.org/10.1108/ijopm-06-2024-0524) | Iryna Malacina; Jad EL Bizri; F. G. Vos;... | 2025 | International Journal of Opera... | 0 |
+| 59 | [An exploration of social procurement intrapreneurship in the Australia...](https://doi.org/10.1108/jopp-03-2025-0013) | M. Loosemore; S. Alkilani | 2025 | Journal of Public Procurement | 0 |
+| 60 | [Procurement Ethics and Integrity Adherence: An Antidote for Procuremen...](https://doi.org/10.61586/hhhtj) | Issah Ofori; Simon Annan; Rosemary Makaf... | 2025 | Mitteilungen Klosterneuburg : ... | 0 |
+| 61 | [AI AND TRANSPARENCY IN PUBLIC PROCUREMENT: EVIDENCE FROM ALBANIA AND G...](https://doi.org/10.52320/svv.v1ix.390) | Mikel Qafa | 2025 | Studijos - verslas - visuomenė... | 0 |
+| 62 | [Role of Forensic Accounting in Enhancing the Accuracy of Procurement R...](https://doi.org/10.26710/jafee.v11i3.3443) | Onesmo Guti; Ophias Kurauone | 2025 | Journal of Accounting and Fina... | 0 |
+| 63 | [Cangrelor in Patients with Percutaneous Coronary Intervention (PCI) Af...](https://doi.org/10.54103/2282-0930/29293) | S. Bendotti; R. Primi; Luca Raone; M. Fe... | 2025 | Epidemiology Biostatistics and... | 0 |
+| 64 | [The impact of ondansetron on clinical outcomes in cranial surgery pati...](https://doi.org/10.3389/fnagi.2025.1627353) | Debo Yun; Yongzhen Luo; Rui Li; Wenyong ... | 2025 | Frontiers in Aging Neuroscienc... | 0 |
+| 65 | [The delivery modes and morbidity/mortality in very preterm infants wit...](https://doi.org/10.3389/fpubh.2025.1671581) | Haoran Wang; Xiaoming Xu; Meng Zhang; Ya... | 2025 | Frontiers in Public Health | 0 |
+| 66 | [THE ROLE OF PUBLIC PROCUREMENT MARKETING THROUGH THE PRISM OF FORMING ...](https://doi.org/10.32782/2520-2200/2025-1-22) | Hanna Telnova | 2025 | PROBLEMS OF SYSTEMIC APPROACH ... | 0 |
+| 67 | [Institute of Public Procurement in Russia in the 19th - Early 20th Cen...](https://doi.org/10.24147/1990-5173.2025.22(1).27-34) | Alexandra Plotnikova | 2025 | Herald of Omsk University Seri... | 0 |
+| 68 | [Social Aspects in National Public Procurement](https://doi.org/10.18778/2391-6478.3.47.02) | Anna Szymańska; Jarosław Szymański | 2025 | Journal of Finance and Financi... | 0 |
+| 69 | [The Protean Procurement Act](https://doi.org/10.5195/lawreview.2025.1087) | Justin Van Orsdol | 2025 | University of Pittsburgh Law R... | 0 |
 | 70 | [Supplier perspectives of social value integration in UK public procure...](https://doi.org/10.17638/03194844) | Westcott, Clare | 2025 | University of Liverpool | 0 |
 | 71 | [Infrastructure and PPP contracts: anti-corruption design to curb oppor...](https://doi.org/10.34117/bjdv11n9-061) | Daniela Cristina Abreu Jové de Araújo | 2025 | Brazilian Journal of Developme... | 0 |
 | 72 | [Global incidence, prevalence, years lived with disability (YLDs), disa...](https://doi.org/10.1016/s0140-6736(24)00757-8) | Alize J Ferrari; Damian Santomauro; Amir... | 2024 | The Lancet | 4,123 |
