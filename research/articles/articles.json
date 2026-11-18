@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-17T18:52:23.855449",
-    "total_articles": 744,
-    "last_search_date": "2026-11-17"
+    "last_updated": "2026-11-18T18:30:12.303251",
+    "total_articles": 745,
+    "last_search_date": "2026-11-18"
   },
   "articles": [
     {
@@ -3164,7 +3164,7 @@
       "abstract": "Procurement contracts are often renegotiated because of changes that are required after their execution. Using highway paving contracts we show that renegotiation imposes significant adaptation costs. Reduced form regressions suggest that bidders respond strategically to contractual incompleteness and that adaptation costs are an important determinant of their bids. A structural empirical model compares adaptation costs to bidder markups and shows that adaptation costs account for 7.5–14 percent of the winning bid. Markups from private information and market power, the focus of much of the auctions literature, are much smaller by comparison. Implications for government procurement are discussed. (JEL D44, D82, D86, H57, L13, L74, R42)",
       "doi": "https://doi.org/10.1257/aer.104.4.1288",
       "url": "https://openalex.org/W2054257007",
-      "citation_count": 441,
+      "citation_count": 443,
       "search_query": "contract incompleteness procurement",
       "source": "openalex",
       "date_found": "2026-02-08T13:16:56.981723"
@@ -6285,7 +6285,7 @@
       "abstract": "Abstract This paper investigates the consequences of bureaucratic discretion in public procurement. I exploit a Hungarian policy reform, which allows a “high-discretion” procedure below a certain contract value. At the threshold, I document large discontinuities both in procurement outcomes and in the density of contract values, which indicates that buyers manipulate contract values to avoid auctions. I combine the reform and a structural model to find that discretion increases prices and results in the selection of less productive contractors. I also show that high discretion benefits firms with connections to the party of the central government. I use the structural model to document that public buyers are willing to sacrifice more contract value to increase their discretion if more connected firms are operating in the market. I also use the model to simulate the effects of counterfactual procurement thresholds on different procurement outcomes.",
       "doi": "https://doi.org/10.1093/jeea/jvad017",
       "url": "https://openalex.org/W4323349433",
-      "citation_count": 101,
+      "citation_count": 102,
       "source": "openalex",
       "id": "8f8f28c462f436e1061cadfd105f4022",
       "date_found": "2026-06-09T12:30:12.293528",
@@ -8595,7 +8595,7 @@
       "abstract": "We examine a new dataset of public procurement laws, practice, and outcomes in 187 countries. We measure regulation as restrictions on the discretion of the procuring entities. We find that laws and practice are highly correlated with each other across countries, and better practice is correlated with better outcomes, but laws themselves are not correlated with outcomes. A closer look shows that stricter laws correlate with improved outcomes, but only in countries with low public sector capacity. We present a model of procurement in which both regulatory rules and public sector capacity determine procurement outcomes. In the model, regulation is effective in countries with low public sector capacity, but not in countries with high capacity because it inhibits the socially optimal exercise of discretion to exclude low quality bidders. (JEL D73, H11, H57, K12, K42, O17)",
       "doi": "https://doi.org/10.1257/aer.20200738",
       "url": "https://openalex.org/W3147101487",
-      "citation_count": 351,
+      "citation_count": 354,
       "source": "openalex",
       "id": "e7576091666160054c23715d8d4fa74b",
       "date_found": "2026-09-25T14:51:15.670303",
@@ -9505,7 +9505,7 @@
       "abstract": "Article disponible en ligne à l'adresse https://shs.cairn.info/journal-notes",
       "doi": "https://doi.org/10.3917/ncae.022.0001",
       "url": "https://openalex.org/W2096432852",
-      "citation_count": 4,
+      "citation_count": 118,
       "source": "openalex",
       "id": "37dbac4d99809e29fa30c7d5563952e7",
       "date_found": "2026-10-03T14:27:56.956308",
@@ -9981,7 +9981,7 @@
       "abstract": "Abstract Public procurement accounts for a very large share of most economies worldwide. This conceptual article argues that the key to achieving more innovations when pursuing public procurement is to describe problems to be solved or functions to be fulfilled (functional procurement) instead of describing the products to be bought (product procurement). Contracting authorities need to identify the problems that policy should address. The new products (innovations) solving the problems are to be designed by the potential innovators/suppliers, not by public procurers. Hence, the societal needs and problems must be translated and transformed into functional requirements. Functional procurement is allowed in European regulations, and therefore, there are no legal obstacles to use it for innovation policy purposes. Furthermore, it leads to increased competition not only among potential suppliers of similar products, but also among different products that solve the same problem.",
       "doi": "https://doi.org/10.1093/scipol/scaa046",
       "url": "https://openalex.org/W3047236217",
-      "citation_count": 83,
+      "citation_count": 84,
       "source": "openalex",
       "id": "95699c991b8e911438a4a23645dfcd2d",
       "date_found": "2026-10-05T18:57:27.658322",
@@ -10051,7 +10051,7 @@
       "abstract": "Public agencies feel the need to advance sustainability and use procurement as an instrument to do so. Many studies focused on internal forces, explaining the limited success of sustainable public procurement. This study focused on how external forces are able to hold municipalities accountable for sustainable procurement. Three mid-sized Dutch municipalities were investigated through an extensive document study and 34 semi-structured interviews. The results show minor legal pressure to enforce sustainable procurement. National legislation, guidelines and principles are considered non-binding, due to a lack of penalties in the case of non-compliance. Real pressure stems from lobbying by branch organizations and political pressure initiated by citizens. In contrast with the New Public Management principles, municipalities appear to place more emphasis on legal and financial accountability, in contrast to performance accountability. Accountants mainly focus on legitimacy and the finance department only monitors spending within budget. The hybrid organization of the procurement function seems to impede sustainability development. Only the larger projects are subject to sustainability requirements, set by centralized purchasing departments. Smaller projects, responsible for 2/3 of the total spend are managed by decentralized groups, remaining under the radar of sustainability policies.",
       "doi": "https://doi.org/10.3390/su11205696",
       "url": "https://openalex.org/W2980881677",
-      "citation_count": 83,
+      "citation_count": 84,
       "source": "openalex",
       "id": "4a8bfd1d3ffc8106a5d374ce54541f87",
       "date_found": "2026-10-07T17:05:35.324964",
@@ -10121,7 +10121,7 @@
       "abstract": "This paper examines the role of theory in public procurement research. Theoretical rigour is integral to management science, yet little is known on the extent and form of theory in public procurement. With the field starting to mature, addressing this issue is timely. From conducting a systematic literature review we find that 29 percent of articles are theoretically grounded, with the incidence of theory having increased in recent years. Economic, sociological, psychological, and management theories are all in evidence, but micro-economic theories predominate. Our findings also show that survey reporting and case studies account for almost half of all studies; procurement research is focused on organizational-level aspects more than regulatory-policy issues or public buyers; and studies to date have largely emanated from the North American and European regions. The contribution of this paper lies in clarifying the theoretical underpinnings of public procurement. Out of this we highlight the need for greater theoretical rigour, point to the under-use and even absence of theories that could have high validity and utility, and suggest a narrowing of research foci.",
       "doi": "https://doi.org/10.1108/jopp-14-02-2014-b001",
       "url": "https://openalex.org/W11305446",
-      "citation_count": 162,
+      "citation_count": 163,
       "source": "openalex",
       "id": "02c82293bac6c331cef2c5f0742a137c",
       "date_found": "2026-10-20T14:33:44.690625",
@@ -10420,6 +10420,20 @@
       "id": "88ebf5f00680fa775c4b9f311f14343d",
       "date_found": "2026-11-17T18:52:18.084579",
       "search_query": "post-award cost growth government contracts"
+    },
+    {
+      "title": "Federal Aviation Administration Acquisition Management System (Rev.)",
+      "authors": "",
+      "year": 1997,
+      "journal": "ROSA P",
+      "abstract": "The Department of Transportation and Related Agencies Appropriations Act of 1996, Public Law 104-50 (the \"1996 DOT Appropriations Act\"), was enacted November 15, 1995. Section 348 of this Act directed the Administrator to develop and implement a new acquisition management system that addresses the unique needs of the agency and, at a minimum, provides for more timely and cost-effective acquisitions. The Federal Aviation Administration Acquisition Management System took effect on April 1, 1996, pursuant to this direction. The Air Traffic Management System Performance Improvement Act of 1996, being title II of the Federal Aviation Reauthorization Act of 1996, Public Law 104-264 expressly grants the Administrator autonomy in carrying out the functions of the agency. Expanding the procurement reforms previously authorized by the 1996 DOT Appropriations Act, title II provides the Administrator with broad authority to enter into contracts, leases, cooperative agreements, and other transactions with public and private entities, on such terms and conditions as the Administrator considers appropriate. This document implements title II and makes other necessary changes to, and clarifications of, the Federal Aviation Administration Acquisition Management System.",
+      "doi": null,
+      "url": "https://openalex.org/W7233685501",
+      "citation_count": 0,
+      "source": "openalex",
+      "id": "914b1480c659851e0095711befc5eef2",
+      "date_found": "2026-11-18T18:29:58.882884",
+      "search_query": "procurement reform federal acquisition"
     }
   ]
 }
