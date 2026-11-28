@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T19:15:46.504453",
-    "total_articles": 757,
-    "last_search_date": "2026-11-27"
+    "last_updated": "2026-11-28T17:52:12.558870",
+    "total_articles": 758,
+    "last_search_date": "2026-11-28"
   },
   "articles": [
     {
@@ -2772,7 +2772,7 @@
       "abstract": null,
       "doi": "10.1108/IJPSM-10-2015-0173",
       "url": "https://www.semanticscholar.org/paper/d1913d60fd15326feda06b0cd903e0236731e51a",
-      "citation_count": 51,
+      "citation_count": 52,
       "search_query": "transaction cost economics government contracts",
       "source": "semantic_scholar",
       "date_found": "2026-02-09T07:00:39.380911"
@@ -3962,7 +3962,7 @@
       "abstract": "Policy-makers in the EU have increasingly emphasised the role of public procurement as a policy instrument that can be used to stimulate innovation. This development reflects and responds to a growing concern among EU member states about how to maintain competitive advantage in an economic environment increasingly subject to global competition. To contribute to these emerging policies, this paper develops an innovation theory-based approach regarding public procurement of innovations, by elaborating an institutional focus. In contrast to current institutional approaches in innovation studies, the approach applied here brings in the often neglected endogenous perspective. The empirical studies cited in this paper suggest that the needs of endogenous, or informal, institutions also need to be taken into account in order to understand better the institutional set-up enabling public procurement of innovations.",
       "doi": "https://doi.org/10.3152/030234209x442025",
       "url": "https://openalex.org/W2038051007",
-      "citation_count": 208,
+      "citation_count": 209,
       "search_query": "competition public procurement innovation",
       "source": "openalex",
       "date_found": "2026-02-08T13:18:04.513731"
@@ -6187,7 +6187,7 @@
       "abstract": "Public procurement accounts for a significant proportion of overall demand for goods and services and is increasingly seen as an attractive and feasible instrument for furthering the goals of innovation policy. However, public procurement is already expected to address a wide range of social goals. Much of the current debate about harnessing procurement to promote innovation draws upon a limited set of examples which are not representative of the bulk of public purchasing and tend to downplay diversity in procurement practices and in the types of goods and services procured. They also downplay diversity in the nature of innovations and in the range of ways that procurement can impact upon innovation. A one-size-fits-all model is unlikely to work across all procurement contexts yet all types of public procurement are likely to have impacts upon innovation by shaping the demand environment in which suppliers innovate and compete. We propose a framework and typology based on the nature of the goods and services procured in order to explore the potential impacts upon markets and innovation of each. We conclude that public purchasing should first and foremost remain concerned with proximate public policy goals and that, rather than trying to co-opt public procurement into the innovation policy toolbox, policy-makers should focus on promoting innovation-friendly practices across all types of procurement at all levels of governance. © 2010 Taylor &amp; Francis.",
       "doi": "https://doi.org/10.1080/09654310903343567",
       "url": "https://openalex.org/W2050318169",
-      "citation_count": 620,
+      "citation_count": 623,
       "source": "openalex",
       "id": "8ed4cd13630f3ace46f53fdb1cd889d9",
       "date_found": "2026-06-09T12:30:10.160023",
@@ -9505,7 +9505,7 @@
       "abstract": "Article disponible en ligne à l'adresse https://shs.cairn.info/journal-notes",
       "doi": "https://doi.org/10.3917/ncae.022.0001",
       "url": "https://openalex.org/W2096432852",
-      "citation_count": 129,
+      "citation_count": 131,
       "source": "openalex",
       "id": "37dbac4d99809e29fa30c7d5563952e7",
       "date_found": "2026-10-03T14:27:56.956308",
@@ -10289,7 +10289,7 @@
       "abstract": "",
       "doi": "https://doi.org/10.1016/j.ijforecast.2020.06.006",
       "url": "https://openalex.org/W2901687301",
-      "citation_count": 143,
+      "citation_count": 144,
       "source": "openalex",
       "id": "2e0ddd12edcc0a374cb57ef30aed0cf5",
       "date_found": "2026-11-11T17:33:00.104739",
@@ -10602,6 +10602,20 @@
       "id": "12f5bcf0348f0924a0f95c5f2e89f759",
       "date_found": "2026-11-27T19:15:38.637380",
       "search_query": "incumbent advantage procurement tender steering"
+    },
+    {
+      "title": "The Economics of Public Procurement",
+      "authors": "Francesco Decarolis; Stjepan Srhoj",
+      "year": 2026,
+      "journal": "Journal of Economic Surveys",
+      "abstract": "Public procurement accounts for 12.7% of GDP across OECD countries, making its design central to the efficiency and impact of public spending. This paper surveys the economics of public procurement across five stages: demand planning, tender preparation, bidding and contract allocation, contract execution, and economic consequences. It introduces the concept of a procurement wedge, defined as the gap between outcomes achievable under an efficient process and those realised in practice. The literature shows that procurement design shapes competition, prices, cost overruns, delays, quality, and firm performance, with effects varying across market and institutional settings. Competition can lower prices, but restrictive tender design limits participation, while renegotiation and cost overruns can erode savings during execution. Procurement also involves trade‐offs between cost efficiency and broader objectives, including industrial development, innovation, and environmental sustainability. The paper concludes by proposing a What Works for Public Procurement platform to build cumulative evidence on effective institutional designs and their wider economic and social benefits.",
+      "doi": "https://doi.org/10.1111/joes.70194",
+      "url": "https://openalex.org/W7117379519",
+      "citation_count": 4,
+      "source": "openalex",
+      "id": "c1ab4c467c17911f5ee856540443aac5",
+      "date_found": "2026-11-28T17:51:57.565723",
+      "search_query": "best value tradeoff public procurement"
     }
   ]
 }
